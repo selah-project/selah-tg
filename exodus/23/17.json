@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Се маротиба дар сол ҳамаи наринойни ту пеши рӯйи хоҷа Яҳве зоҳир шаванд.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Се"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "маротиба"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "дар сол"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "зоҳир шаванд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "наринойни ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "хоҷа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:41.246923717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ⟨את⟩ ҳаарвадӣ ва ⟨את⟩ ҳатсемарӣ ва ⟨את⟩ ҳаҳаматӣ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳаарвадӣ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ҳаарвадӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳатсемарӣ"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ҳатсемарӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳаҳаматӣ"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ҳаҳаматӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:33.582595787Z",
+  "model": "glm-5.3"
+}

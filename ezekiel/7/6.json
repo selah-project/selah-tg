@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Охир омад, омад охир; бар ту бедор шуд — ҳано, омадааст.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "охир"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "охир"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "бедор шуд"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳано"
+    },
+    {
+      "surface": "באה",
+      "gloss": "омадааст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:51.957467750Z",
+  "model": "glm-5.3"
+}

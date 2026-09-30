@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Фиребанда аст ⟨את⟩ дил аз ҳама чиз, ва бешифо ⟨аст⟩ он — кӣ онро медонад?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "фиребанда"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳама чиз"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "ва бешифо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨аст⟩ он"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "онро медонад"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:08.082273470Z",
+  "model": "glm-5.3"
+}

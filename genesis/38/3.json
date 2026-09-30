@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва ҳомила шуд ва писаре зоид, ва ӯ номи ⟨את⟩-и ӯро Эр гузошт.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомила шуд"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:52.800561228Z",
+  "model": "glm-5.3"
+}

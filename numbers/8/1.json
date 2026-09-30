@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Яҳве ба Моше сухан ронду гӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:20.574029839Z",
+  "model": "glm-5.3"
+}

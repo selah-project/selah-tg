@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Чаро ин нарӣ — нархи дар дасти ғафлаткор барои харидани ҳикмат, ҳол он ки қалб нест?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "нарх"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "дар даст"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ғафлаткор"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "барои харидан"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ва қалб"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:51.417444655Z",
+  "model": "glm-5.3"
+}

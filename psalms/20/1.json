@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ба саровари мусиқӣ. Мазмур барои Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба саровари мусиқӣ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "барои Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:32.040039754Z",
+  "model": "glm-5.3"
+}

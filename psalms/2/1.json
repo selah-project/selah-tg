@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Чаро халқҳо ошӯб карданд ва миллатҳо бехуда механишанд?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "ошӯб карданд"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ва миллатҳо"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "мечаканд"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "бехуда"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:35.145050335Z",
+  "model": "glm-5.3"
+}

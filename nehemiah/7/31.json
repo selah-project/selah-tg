@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони Михмас — саду бисту ду нафар.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Михмас"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ву бист"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ву ду"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:39.368761114Z",
+  "model": "glm-5.3"
+}

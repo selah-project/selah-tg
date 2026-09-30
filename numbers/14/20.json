@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Яҳве гуфт: «Гузоштам, мувофиқи сухани Ту».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "Гузоштам"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "мувофиқи сухани Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:19.604141509Z",
+  "model": "glm-5.3"
+}

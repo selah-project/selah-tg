@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва Яъқоб аз Беэр-Шева баромад ва ба сӯи Ҳорон равона шуд.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "аз Беэр-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ва равона шуд"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ба сӯи Ҳорон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:22.253028401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше ба онҳо гуфт: «Оё шумо ҳамаи занонро зинда нигоҳ доштед?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "зинда нигох доштед"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "занон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:02.525246777Z",
+  "model": "glm-5.3"
+}

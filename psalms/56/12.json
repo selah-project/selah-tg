@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 56,
+  "translation": "Ба Элоҳим такя кардам, наметарсам — одам ба ман чӣ кор кунад?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ба Элоҳим"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "такя кардам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "метарсам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кор кунад"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    }
+  ],
+  "timestamp": "2026-09-30T20:10:38.431866783Z",
+  "model": "glm-5.3"
+}

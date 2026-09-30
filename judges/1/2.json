@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Яҳве гуфт: Йеҳуда барояд; ҳо, ман ⟨את⟩ заминро ба дасти ӯ додам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "барояд"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳо"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "додам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заминро"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ба дасти ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:31:49.436955670Z",
+  "model": "glm-5.3"
+}

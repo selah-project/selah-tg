@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Таҳат писараш, Уриэл писараш, Уззия писараш ва Шаул писараш.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Таҳат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Уриэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "Уззия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ва Шаул"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:49.188551128Z",
+  "model": "glm-5.3"
+}

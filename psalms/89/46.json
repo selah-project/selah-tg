@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "Рӯзҳои ҷавонии ӯро кӯтоҳ кардӣ, ӯро бо шарм пӯшонидӣ. Селҳо.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "кӯтоҳ кардӣ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "ҷавонии ӯ"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "пӯшонидӣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "бо шарм"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:48.039263263Z",
+  "model": "glm-5.3"
+}

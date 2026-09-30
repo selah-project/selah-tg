@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Ман аз каломаи Ту шод монам, чун ёфтаи ғанимати бузург.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "шод монам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "каломаи Ту"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "чун ёфта"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ғанимат"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бузург"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:15.208928115Z",
+  "model": "glm-5.3"
+}

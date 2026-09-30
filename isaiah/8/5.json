@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Яҳве боз ба ман сухан рониданро идома дод, баён карда:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ва идома дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан ронидан"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "баён карда"
+    }
+  ],
+  "timestamp": "2026-09-30T17:24:21.515428686Z",
+  "model": "glm-5.3"
+}

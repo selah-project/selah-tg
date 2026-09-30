@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Бо онҳо ва бо элоҳҳояшон аҳд набанд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תכрת",
+      "gloss": "набанд"
+    },
+    {
+      "surface": "להם",
+      "gloss": "бо онҳо"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "ва бо элоҳҳояшон"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "аҳд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:12.656457221Z",
+  "model": "glm-5.3"
+}

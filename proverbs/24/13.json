@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Бизо, асалро бихӯр, зеро ки некӯ аст, ва шираи асал ширин бар оғзи ту.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "бихӯр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бизо"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "асал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ аст"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ва шираи асал"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "ширин"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "оғзи ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:35.281873895Z",
+  "model": "glm-5.3"
+}

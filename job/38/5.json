@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Кӣ ченакҳои онро гузошт — магар ту медонӣ? Ё кӣ хати ченакро бар он кашид?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кӣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "ченакҳои онро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "магар"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ту медонӣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "Ё"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "кашид"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "קו",
+      "gloss": "хати ченакро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:05.943153592Z",
+  "model": "glm-5.3"
+}

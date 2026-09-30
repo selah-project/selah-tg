@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Орзуи таомҳои болаззати ӯ макун, зеро он нони дурӯғ аст.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "орзу … кун"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "таомҳои болаззати ӯ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "зеро он"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "дурӯғ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:00.324252567Z",
+  "model": "glm-5.3"
+}

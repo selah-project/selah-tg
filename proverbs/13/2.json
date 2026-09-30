@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Аз меҳваи даҳони одам некиро мехӯрад, вале нафаси хоиён — зӯрӣ.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "аз меҳва"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "вале нафас"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хоиён"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зӯрӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:39.714440846Z",
+  "model": "glm-5.3"
+}

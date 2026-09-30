@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Зеро рӯз наздик аст, ва рӯзи Яҳве наздик аст — рӯзи абр; вақти миллатҳо хоҳад буд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "наздик аст"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ва наздик аст"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "абр"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "миллатҳо"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:09:52.481977339Z",
+  "model": "glm-5.3"
+}

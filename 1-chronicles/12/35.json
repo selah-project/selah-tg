@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва аз Нафталӣ — ҳазор сарвар, ва бо онҳо бо сипар ва найза сӣ ҳафт ҳазор.",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "Ва аз Нафталӣ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ва бо онҳо"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "бо сипар"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ва найза"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:17.027055724Z",
+  "model": "glm-5.3"
+}

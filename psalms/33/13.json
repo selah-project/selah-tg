@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Аз осмонҳо Яҳве нигарист, дид ⟨את⟩ ҳамаи писарони одамро.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "аз осмонҳо"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "нигарист"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи писарони одам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:41.254193606Z",
+  "model": "glm-5.3"
+}

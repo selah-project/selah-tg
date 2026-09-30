@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва онҳо ба ман халқ мешаванд, ва ман ба онҳо Элоҳим мешавам.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ва ... мешаванд"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "мешавам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:46.678896537Z",
+  "model": "glm-5.3"
+}

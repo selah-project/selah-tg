@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ба тора ва ба шаҳодат! Агар мувофиқи ин калима нагӯянд — барои он субҳе нест.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "ба тора"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "ва ба шаҳодат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "гӯянд"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "мувофиқи калима"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои он"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "субҳе"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:52.734639688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Нигаҳбондори фармон хабари бадро намедонад, ва замону довариро дили ҳаким медонад.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "нигаҳбондор"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "фармон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хабар"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва замон"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ва доварӣ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:16.639692133Z",
+  "model": "glm-5.3"
+}

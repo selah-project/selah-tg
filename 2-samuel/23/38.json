@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ираи ятерӣ, Гарови ятерӣ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ятерӣ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гаров"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ятерӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:14.627570907Z",
+  "model": "glm-5.3"
+}

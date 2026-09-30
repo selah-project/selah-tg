@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Бас кунед аз инсоне, ки нафас дар бинии ӯст, зеро ӯро ба чанд аҳамият медонанд?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "бас кунед"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "инсон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "дар бинии ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ба чанд"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "аҳамият медонанд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:20:53.084341912Z",
+  "model": "glm-5.3"
+}

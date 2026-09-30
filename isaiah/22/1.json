@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Бори водии хизоён: чӣ шуд бо ту акнун, ки ту ҳамаат ба бомҳо баромадаӣ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бори"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "водии"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "хизоён"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бо ту"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "акнун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "баромадаӣ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ҳамаат"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ба бомҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:27:50.366299323Z",
+  "model": "glm-5.3"
+}

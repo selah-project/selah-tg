@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Довуд дар истеҳком иқомат кард; аз ин рӯ онро шаҳри Довуд номиданд.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "иқомат кард"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "дар истеҳком"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин рӯ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "номиданд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "онро"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:03.428406082Z",
+  "model": "glm-5.3"
+}

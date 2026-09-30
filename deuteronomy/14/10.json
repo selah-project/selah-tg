@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ҳар он чи ки пар ва пулакча надорад, нахӯред; он нопис аст барои шумо.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "надорад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "пар"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ва пулакча"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "нахӯред"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопис"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:53.728917222Z",
+  "model": "glm-5.3"
+}

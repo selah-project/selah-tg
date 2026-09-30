@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Лод ва Уно, дараи дегдӯзон.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ва Уно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "дараи"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "дегдӯзон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:02.391828037Z",
+  "model": "glm-5.3"
+}

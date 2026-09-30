@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 20:35",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва ⟨את⟩ шуморо ба биёбони халқҳо меорам ва он ҷо рӯ ба рӯ бо шумо доварӣ мекунам.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "ва меорам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ шуморо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "биёбон"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "ва доварӣ мекунам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:07:39.026185103Z",
+  "model": "glm-5.3"
+}

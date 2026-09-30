@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва бутҳо тамоман нобуд хоҳанд шуд.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ва бутҳо"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "тамоман"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "нобуд хоҳанд шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T20:04:38.474275925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Эй замин, хуни маро напӯшон, ва бар фарёди ман ҷое набошад.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "эй замин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תכסי",
+      "gloss": "пӯшон"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "хуни маро"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷое"
+    },
+    {
+      "surface": "לזעקתי",
+      "gloss": "бар фарёди ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:51.787837091Z",
+  "model": "glm-5.3"
+}

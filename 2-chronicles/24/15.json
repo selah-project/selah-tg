@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва Йеҳоядо пир шуд ва аз рӯзҳо сер шуд ва мурд — фарзанди сад ва си сола дар марги худ.",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "пир шуд"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йеҳоядо"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "сер шуд"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "аз рӯзҳо"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "бен",
+      "gloss": "фарзанди"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ва си"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сола"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "дар марги худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:50:40.711003316Z",
+  "model": "glm-5.3"
+}

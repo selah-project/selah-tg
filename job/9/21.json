@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Беайб манам, ҷонамро намедонам, ҳаёти худро сар мезанам.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "אני",
+      "gloss": "манам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "медонам"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷонамро"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "сар мезанам"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ҳаёти худро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:05:15.571447891Z",
+  "model": "glm-5.3"
+}

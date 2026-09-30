@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Дар он ё ки каломи подшоҳ ҳокимият аст, ва кӣ ба ӯ гӯяд: «Чӣ мекунӣ?»",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "дар он ё ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "каломи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ҳокимият"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ва кӣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:06.263849882Z",
+  "model": "glm-5.3"
+}

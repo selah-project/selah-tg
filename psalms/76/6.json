@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 76,
+  "translation": "Dooron şudand olīqalbon; şux ʙixoʙidand onho va hama mardoni şūrat dasthoi xudro najoftand.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "dooron şudand"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "olī"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "şux ʙixoʙidand"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "xoʙi onho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va na"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "joftand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hama"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mardoni"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "şūrat"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "dasthoi xud"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:36.912735986Z",
+  "model": "glm-5.3"
+}

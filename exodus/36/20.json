@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва ӯ ⟨את⟩ дешҳои Мишканро сохт — аз чӯби шиттА, истода.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дешҳои Мишкан"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "дешҳо"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "барои Мишкан"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттА"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "истода"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:11.326671858Z",
+  "model": "glm-5.3"
+}

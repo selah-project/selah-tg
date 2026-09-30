@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Авшалом гурехт ва ба Гешур рафт, ва се сол он ҷо буд.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Ва Авшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "гурехт"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ба Гешур"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "буд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-30T16:54:37.624321145Z",
+  "model": "glm-5.3"
+}

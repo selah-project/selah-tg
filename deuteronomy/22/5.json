@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Асбоби мард бар зан набошад, ва мард либоси зан напӯшад, зеро тӯъба аст пеши Яҳве Элоҳими ту ҳар кунандаи инҳо.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоб"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "напӯшад"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "либоси"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "тӯъба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кунандаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:18:50.618737104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве ба Моше сухан ронд, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:44.517579503Z",
+  "model": "glm-5.3"
+}

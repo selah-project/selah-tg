@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 137,
+  "translation": "Бар бедиҳо дар миёни он ⟨את⟩ киннорҳоямон овехтем.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "бедиҳо"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "дар миёни он"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "овехтем"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "киннорҳоямон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:35.110344130Z",
+  "model": "glm-5.3"
+}

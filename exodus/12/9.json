@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "На хӯред аз он нопухта ва дар об пухта, магар дар оташ бироҳтад — сари он бар пойҳои он ва бар қарби он.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "хӯред"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "נא",
+      "gloss": "нопухта"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "ва пухта"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "пухта"
+    },
+    {
+      "surface": "במים",
+      "gloss": "дар об"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "магар"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "бироҳтад"
+    },
+    {
+      "surface": "אש",
+      "gloss": "дар оташ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "сари он"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "пойҳои он"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "қарби он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:33:30.165497107Z",
+  "model": "glm-5.3"
+}

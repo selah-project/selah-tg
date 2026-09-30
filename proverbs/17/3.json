@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Гӯзаҳ бар нуқра ва танӯр бар тилло, вале Яҳве дилҳоро месанҷад.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "гӯзаҳ"
+    },
+    {
+      "surface": "лכסф",
+      "gloss": " бар нуқра"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "ва танӯр"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": " бар тилло"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "вале месанҷад"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "дилҳоро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:57.027662143Z",
+  "model": "glm-5.3"
+}

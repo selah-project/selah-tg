@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ҳашинҳоро аз нуқра дур кун, ва барои сузонанда зарфе берун меояд.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "дур кун"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ҳашинҳоро"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "аз нуқра"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "берун меояд"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "барои сузонанда"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "зарфе"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:08.601083270Z",
+  "model": "glm-5.3"
+}

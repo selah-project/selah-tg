@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва гуфт: Бандаи Авраҳам манам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Банда"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "манам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:45.887463147Z",
+  "model": "glm-5.3"
+}

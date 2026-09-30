@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва мегузорӣ ⟨את⟩ онҳоро — ду саф, шаш дар саф, бар сини покиза, пеши Яҳве.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "мегузорӣ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "онҳоро (ду саф нон)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "саф"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "дар саф"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "синӣ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "покиза"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:59.388658238Z",
+  "model": "glm-5.3"
+}

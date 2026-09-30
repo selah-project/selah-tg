@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Дили шавҳараш ба вай бовар дорад ва ӯ аз ғанимат кам намеёбад.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "бовар дорад"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ба вай"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дили"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "шавҳараш"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ва ғанимат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "наме"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ёбад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:53.426315671Z",
+  "model": "glm-5.3"
+}

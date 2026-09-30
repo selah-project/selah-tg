@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "писари Элқона, писари Йероҳам, писари Элиэл, писари Тоах;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқона"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероҳам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "Тоах"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:06.325996882Z",
+  "model": "glm-5.3"
+}

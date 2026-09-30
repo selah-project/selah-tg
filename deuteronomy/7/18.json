@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Аз онҳо натарс; ёд кун ва ба ёд овар, ⟨את⟩ ки Яҳве, Элоҳими ту, бо Паръо ва бо тамоми Мисраим кард,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "натарс"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "аз онҳо"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ёд кун"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ба ёд овар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он чи Яҳве кард"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "бо Паръо"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ва бо тамоми"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:19.088720355Z",
+  "model": "glm-5.3"
+}

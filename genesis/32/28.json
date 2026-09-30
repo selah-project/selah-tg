@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва ⟨ӯ⟩ ба ⟨Яъқов⟩ гуфт: «Номи ту чист?» Ва ⟨ӯ⟩ гуфт: «Яъқов».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ⟨Яъқов⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чист"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "номи ту"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:47.380318433Z",
+  "model": "glm-5.3"
+}

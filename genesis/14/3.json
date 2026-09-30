@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ҳамаи инҳо ба водии Ҳа-Сиддим ҷамъ омаданд — он баҳри намак аст.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ҷамъ омаданд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "водии"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Ҳа-Сиддим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ים",
+      "gloss": "баҳри"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "намак"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:33.824194446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба Эли осмонҳо сипос гузоред, зеро ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "сипос гузоред"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ба Эл"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:02.582600704Z",
+  "model": "glm-5.3"
+}

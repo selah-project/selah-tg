@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 98,
+  "translation": "Баҳр ғур-ғур кунад ва ҳар он чи онро пур мекунад, tebel ва ҳамаи сокинонаш.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ғур-ғур кунад"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ва пурмайи он"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ва сокинони"
+    },
+    {
+      "surface": "בה",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:36.651010024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "Баромада о, Довари замин! Ба магрурон муқобили ҷазо баргардон!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Баромада о"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Довари"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "השב",
+      "gloss": "баргардон"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ҷазо"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба муқобили"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "магрурон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:59.063328640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Шаммоти Ҳарорӣ, Ҳелетси Пелонӣ.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Шаммоти"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "Ҳарорӣ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Ҳелетси"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "Пелонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:16.316814643Z",
+  "model": "glm-5.3"
+}

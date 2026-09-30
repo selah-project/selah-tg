@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва писарони Улло: Орох, ва Ҳонниэл ва Ритсё.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "Улло"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Орох"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ва Ҳонниэл"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ва Ритсё"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:27.674491904Z",
+  "model": "glm-5.3"
+}

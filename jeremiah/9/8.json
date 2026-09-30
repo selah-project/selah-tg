@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Оё барои инҳо бозобат накунам онҳоро, мегӯяд Яҳве, ё дар миллате ки чунин аст, нақам гириҷад ҷони Ман?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "оё барои"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "бозобат накунам"
+    },
+    {
+      "surface": "בם",
+      "gloss": "онҳоро"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "дар миллате"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "қам гириҷад"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони Ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:44:01.100536574Z",
+  "model": "glm-5.3"
+}

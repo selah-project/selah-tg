@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва гуфтам: Эҳ, Адонай Яҳве! Онҳо ба ман мегӯянд: оё ӯ масалгӯ нест?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ва гуфтам"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Эҳ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "המה",
+      "gloss": "Онҳо"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "мегӯянд"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "оё"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "масал гӯянда"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "масалҳо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:05:35.533051938Z",
+  "model": "glm-5.3"
+}

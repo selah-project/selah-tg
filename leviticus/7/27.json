@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳар нафасе, ки ҳеҷ гуна хун мехӯрад — ҳамон нафас аз қавми худ канда мешавад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ гуна"
+    },
+    {
+      "surface": "דם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "канда мешавад"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ҳамон нафас"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ҳамон"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "аз қавми худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:32.274714038Z",
+  "model": "glm-5.3"
+}

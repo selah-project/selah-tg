@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ӯ бори дигар ҳафт рӯзи дигар интизор кашид ва боз ⟨את⟩ катӯкро аз киштӣ фиристод.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ва интизор кашид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "бори дигар"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ва боз"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "катӯк"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "катӯк"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "киштӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:35.790322268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Яҳве ба Моше ва ба Аҳарон дар замини Мисраим гуфт, гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:33:35.276603973Z",
+  "model": "glm-5.3"
+}

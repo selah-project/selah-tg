@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 71,
+  "translation": "Пур шавад даҳони ман аз таърифи ту, тамоми рӯз аз шукуҳи ту.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "пур шавад"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони ман"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "таърифи ту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "шукуҳи ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:03.227498298Z",
+  "model": "glm-5.3"
+}

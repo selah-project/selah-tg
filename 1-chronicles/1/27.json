@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Авраҳам — ⟨ҳамон⟩ Авраҳом аст.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳамон"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:07.924627492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Билъом субҳ dam bara хест ва харчаи модинаашро бароҳонд ва бо сардорон Моав рафт.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "субҳdam"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "бароҳонд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "харчаи модинааш"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "харчаи модинааш"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "сардорон"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:30.219228927Z",
+  "model": "glm-5.3"
+}

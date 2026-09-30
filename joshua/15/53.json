@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва Яним, ва Байт-Таппуах ва Афекаҳ,",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "ва Яним"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ва Байт"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Таппуах"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "ва Афекаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:46.441575589Z",
+  "model": "glm-5.3"
+}

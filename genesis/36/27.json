@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Инҳо фарзандони Эцер: Билҳон ва Заавон ва Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцер"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билҳон"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ва Заавон"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ва Акан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:54.515862181Z",
+  "model": "glm-5.3"
+}

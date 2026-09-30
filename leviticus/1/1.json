@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Яҳве ба Моше нодаъ кард ва аз хаймаи воқеъ бо ӯ ҳарф зад, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "нодаъ кард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ҳарф зад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "аз хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "воқеъ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:02.379528223Z",
+  "model": "glm-5.3"
+}

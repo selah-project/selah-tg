@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Пеш аз рӯйи Яҳве мечавам, дар заминҳои зиндагон.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "мечавам"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз рӯйи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "дар заминҳои"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "зиндагон"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:45.755459461Z",
+  "model": "glm-5.3"
+}

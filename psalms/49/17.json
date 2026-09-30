@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Натарс, ки агар мард сарватманд шавад, ки шуҳрати хонааш зиёд шавад:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "накун\/на"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "натарс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "сарватманд мешавад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "зиёд шавад"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "шуҳрат"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонааш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:12.466814361Z",
+  "model": "glm-5.3"
+}

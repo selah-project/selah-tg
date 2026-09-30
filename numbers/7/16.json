@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як такаи бузҳо барои қурбонии гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "така"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузҳо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои қурбонии гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:11.237948453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ⟨את⟩ маро ба даромадгоҳи ҳавлӣ овард, ва ман дидам ва ин ки як сӯрох дар девор аст.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "овард"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ маро",
+      "marks": "маро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "даромадгоҳи"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ҳавлӣ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ин ки"
+    },
+    {
+      "surface": "חר",
+      "gloss": "сӯрох"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "дар девор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:12.181544147Z",
+  "model": "glm-5.3"
+}

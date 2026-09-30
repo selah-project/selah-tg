@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Вале агар як рӯз ё ду рӯз зинад монад, ҷазо дода намешавад, зеро ки ӯ пулаш аст.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "вале"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "як рӯз"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ду рӯз"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "зинад монад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "намешавад"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ҷазо дода"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "пулаш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:16.182031629Z",
+  "model": "glm-5.3"
+}

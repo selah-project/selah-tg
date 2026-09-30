@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "ва Моше ба қабилаи Гад — ба банӣ-Гад, аз рӯи оилаҳояшон дод.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ба қабилаи"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба банӣ-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "аз рӯи оилаҳояшон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:35.557532787Z",
+  "model": "glm-5.3"
+}

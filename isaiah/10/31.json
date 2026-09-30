@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Мадмена гурехт; сокинони Ҳагебим паноҳ ҷустанд.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "гурехт"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Мадмена"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "Ҳагебим"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "паноҳ ҷустанд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:15.336692293Z",
+  "model": "glm-5.3"
+}

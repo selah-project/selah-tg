@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 90,
+  "translation": "Дӯоҳои Моше, одами Элоҳим. Адонай, паноҳгоҳи мо Ту ҳастӣ аз насл ба насл.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "дӯо"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ҳои Моше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одами"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "паноҳгоҳи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ҳастӣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "мо"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "аз насл"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ба насл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:46.931435799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва макони зисти онҳо аз Меша буд, дар омадан ба Сафара, кӯҳи шарқӣ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "буд"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "макони зисти онҳо"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "аз Меша"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "дар омадан ба"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Сафара"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "шарқӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:44.022770576Z",
+  "model": "glm-5.3"
+}

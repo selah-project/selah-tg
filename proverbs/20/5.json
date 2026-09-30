@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Оби амиқ — машварат дар дили мард, ва марди дониш онро мебарорад.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "амиқ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "машварат"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "дар дил"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ва марди"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "онро мебарорад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:11.907850669Z",
+  "model": "glm-5.3"
+}

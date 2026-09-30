@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ин аст сухане ки Яҳве аз он замон ба Моав гуфт.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "аз он замон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:26:15.068082943Z",
+  "model": "glm-5.3"
+}

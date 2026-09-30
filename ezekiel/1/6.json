@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва чор рӯй ба як ⟨одам⟩, ва чор бол ба якӣ барои онҳост.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ба якӣ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ба якӣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "барои онҳост"
+    }
+  ],
+  "timestamp": "2026-09-30T17:58:54.196552608Z",
+  "model": "glm-5.3"
+}

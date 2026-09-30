@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ӯ маро бо талхӣ сер кард, маро бо афсантин сероб сохт.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "сер кард"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "бо талхӣ"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "сероб сохт"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "бо афсантин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:59.764234881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва дид соҳиби аслаҳҳои ӯ, ки мурд Шаул, ва афтид ҳам ӯ бар шамшер ва мурд.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ва дид"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "соҳиби аслаҳҳои"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "аслаҳҳои ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ва афтид"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "шамшер"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:50.610684499Z",
+  "model": "glm-5.3"
+}

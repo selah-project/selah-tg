@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳар он чи болшинок ва пуллоча дар об надорад — шикат (макруҳ) аст барои шумо.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "אין",
+      "gloss": "надорад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "болшинок"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ва пуллоча"
+    },
+    {
+      "surface": "במים",
+      "gloss": "дар об"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "шикат (макруҳ)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:48:22.854283533Z",
+  "model": "glm-5.3"
+}

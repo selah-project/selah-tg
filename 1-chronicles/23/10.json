@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва писарони Шимъӣ: Яҳат, Зино, Йеуш ва Берия — инҳо писарони Шимъӣ ⟨буданд⟩, чор тан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яҳат"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Зино"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ва Йеуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ва Берия"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор тан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:34.330222284Z",
+  "model": "glm-5.3"
+}

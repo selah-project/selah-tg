@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва дар ин чиз шумо ба Яҳве, Элоҳими худ, имон наовардед.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "ва дар ин чиз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "шумо не"
+    },
+    {
+      "surface": "מאמינים",
+      "gloss": "имон наовардед"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳими шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:55.370044279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 10:43",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Йеҳошуа ва ҳамai Йисроэл бо ӯ ба лагер, ба Гилгал баргашт.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "баргашт"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагер"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ба Гилгал"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:27.583504413Z",
+  "model": "glm-5.3"
+}

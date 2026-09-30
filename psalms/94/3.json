@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "То кай, бадкорон, эй Яҳве? То кай бадкорон шодӣ хоҳанд кард?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "То"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "эй Яҳве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "То"
+    },
+    {
+      "surface": "мати",
+      "gloss": "кай"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "шодӣ хоҳанд кард"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:59.063621509Z",
+  "model": "glm-5.3"
+}

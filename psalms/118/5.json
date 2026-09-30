@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Аз тангӣ Яҳ-ро нидо кардам; Яҳ маро дар васеъӣ ҷавоб дод.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "тангӣ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "нйдо кардам"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ҷавоб дод маро"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "дар васеъӣ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:33.821495840Z",
+  "model": "glm-5.3"
+}

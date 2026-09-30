@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "ва Байт-Леваот ва Шарӯҳен — шаҳрҳои сиву се ва деҳаҳои онҳо.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "Леваот"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "Шарӯҳен"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаҳрҳо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "сиву"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ва деҳаҳои онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:26.255617564Z",
+  "model": "glm-5.3"
+}

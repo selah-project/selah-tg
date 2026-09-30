@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Бар ғубор ҳукмронии ӯст; ӯ бе тарс офарида шудааст.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "нет"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ғубор"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ҳукмронии ӯ"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "офарида шудааст"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "бе"
+    },
+    {
+      "surface": "חת",
+      "gloss": "тарс"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:48.962838920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Шаш чиз аст, ки Яҳве нафрат медорад, ва ҳафт чиз, ки нафасаш мекарахсад",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Шаш"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "чиз аст"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "нафрат медорад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва ҳафт"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "чизи мукрата"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "нафасаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:15.102108965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Яҳве ба Моше сухан ронда, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:10.132539200Z",
+  "model": "glm-5.3"
+}

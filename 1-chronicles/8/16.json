@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Михоэл, ва Йишпа ва Йоҳа — писарони Бериъа.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "ва Михоэл"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ва Йишпа"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ва Йоҳа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бериъа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:38.198168242Z",
+  "model": "glm-5.3"
+}

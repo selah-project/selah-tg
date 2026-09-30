@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Худро бо абр пӯшонди, то ки намоз гузаронда нашавад.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "пӯшонди"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "бо абр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Худро"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "то ки ... гузаронда нашавад"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "намоз"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:52.627358490Z",
+  "model": "glm-5.3"
+}

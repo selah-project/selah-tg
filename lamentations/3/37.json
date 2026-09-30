@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Кист, ки гуфт ва ⟨воқеъ шуд⟩, агар Адонай онро фармуда набошад?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кист"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ва ⟨воқеъ шуд⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуда"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:45.733730218Z",
+  "model": "glm-5.3"
+}

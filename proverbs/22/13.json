@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Гуфт танбал: «Шер берун аст, дар миёни майдонҳо кушта мешавам».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "танбал"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "шер"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "берун"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "майдонҳо"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "кушта мешавам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:59.424553076Z",
+  "model": "glm-5.3"
+}

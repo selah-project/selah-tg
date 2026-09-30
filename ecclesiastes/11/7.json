@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва нур ширин аст ва барои чашмҳо хуб аст дидани ⟨את⟩ хуршедро.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ва ширин"
+    },
+    {
+      "surface": "האור",
+      "gloss": "нур"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ва хуб"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "барои чашмҳо"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "дидани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хуршедро"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "хуршед"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:43.862972869Z",
+  "model": "glm-5.3"
+}

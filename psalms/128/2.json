@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 128,
+  "translation": "Меҳнати дастанатро мехӯрӣ — оҳ, бахти туро, ва барои ту некӯ аст.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "меҳнати"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "дастанатро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "мехӯрӣ"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "оҳ, бахти туро"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ва некӯ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:23.896761465Z",
+  "model": "glm-5.3"
+}

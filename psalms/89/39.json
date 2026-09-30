@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "Вале Ту рабудӣ ва рад кардӣ, бо машеахи Худ хашмгин шудӣ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Вале Ту"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "рабудӣ"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "ва рад кардӣ"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "хашмгин шудӣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "машеахи Худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:34.830148350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Йифтоҳ боз афзуд ва паёмбарон назди подшоҳи банӣ Аммон фиристод.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "афзуд"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифтоҳ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ва фиристод"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "паёмбарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Назди"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:36:54.677416278Z",
+  "model": "glm-5.3"
+}

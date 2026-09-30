@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Ва ҳадди равған: як бат равған — маъшири як бат аз кор; даҳ бат ⟨ҳомил⟩ ҳомер, зеро даҳ бат ҳомер аст.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "ва ҳадди"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "як бат"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "маъшир"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "як бат"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "бат"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ҳомер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "бат"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ҳомер"
+    }
+  ],
+  "timestamp": "2026-09-30T18:15:49.486059832Z",
+  "model": "glm-5.3"
+}

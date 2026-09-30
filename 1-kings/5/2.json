@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва нони Шеломоҳ барои як рӯз сӣ кор орди нофин ва шаст кор орди оддӣ буд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва буд"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нони"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоҳ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "барои як рӯз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "орди нофин"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ва шаст"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "орди оддӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:04:09.768151990Z",
+  "model": "glm-5.3"
+}

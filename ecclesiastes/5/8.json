@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва фоидаи замин барои ҳама аст — подшоҳ ба саҳрои коркарда хизмат карда мешавад.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Ва фоидаи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "барои ҳама"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨аст⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ба саҳро"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "хизмат карда мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:19.139410966Z",
+  "model": "glm-5.3"
+}

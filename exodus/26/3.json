@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Панҷ парда ҳамҷоя мешаванд, якӣ ба хоҳари худ, ва панҷ парда ҳамҷоя, якӣ ба хоҳари худ.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "парда"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "мешаванд"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ҳамҷоя"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "якӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "хоҳари худ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "парда"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ҳамҷоя"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "якӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "хоҳари худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:39:29.292513651Z",
+  "model": "glm-5.3"
+}

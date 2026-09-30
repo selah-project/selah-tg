@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Гӯед садиқро, ки хуб аст, зеро меваи амалҳояшонро мехӯранд.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "гӯед"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "садиқро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб аст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "меваи"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "амалҳояшон"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "мехӯранд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:21:32.027553428Z",
+  "model": "glm-5.3"
+}

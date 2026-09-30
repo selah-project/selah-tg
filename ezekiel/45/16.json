@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Тамоми халқи замин ба ин тарҷума барои насӣ дар Йисроэл хоҳанд буд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "хоҳанд буд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "тарҷума"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "барои насӣ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "дар Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:15:49.486452232Z",
+  "model": "glm-5.3"
+}

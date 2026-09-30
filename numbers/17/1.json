@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва сухан ронд Яҳве ба Моше, гӯён:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T16:04:13.421971715Z",
+  "model": "glm-5.3"
+}

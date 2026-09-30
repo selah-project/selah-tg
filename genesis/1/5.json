@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Элоҳим нурро рӯз номид, ва торикиро шаб номид; ва шабистон шуд, ва саҳар шуд — рӯзи якум.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "нурро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ва торикиро"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "шуд"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "шабистон"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "саҳар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "якум"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:38.890113618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "ва Адама, ва ҳа-Рома, ва Ҳатсор.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "ва Адама"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ва ҳа-Рома"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ва Ҳатсор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:58.027682444Z",
+  "model": "glm-5.3"
+}

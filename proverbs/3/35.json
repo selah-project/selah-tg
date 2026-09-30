@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Донишмандон шуҳратро мерос мебаранд, вале нодирон rugby政协 rugby rugby rugby rugby rugby rugby rugby rugby rugby.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "шуҳрат"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "донишмандон"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "мерос мебаранд"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "вале нодирон"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "баланд мекунанд"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "шарм"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:14.639419330Z",
+  "model": "glm-5.3"
+}

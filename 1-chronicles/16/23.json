@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Бигунҷед ба Яҳве, эй тамоми замин; аз рӯз то рӯз хабари наҷоти Ӯро эълон кунед.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "бигунҷед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "эълон кунед"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "аз рӯз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "то"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "наҷоти Ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:15.095087574Z",
+  "model": "glm-5.3"
+}

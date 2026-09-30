@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 96,
+  "translation": "Шукуҳ ва ороиш пеш аз Ӯст, қувват ва зебоӣ дар қадрас ӯст.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "шукуҳ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ва ороиш"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пеш аз ӯ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ва зебоӣ"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "дар қадрас ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:50.873702217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Моше ⟨את⟩ аробаҳо ва ⟨את⟩ говҳоро гирифт ва ⟨את⟩ онҳоро ба Левиён дод.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ва гирифт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аробаҳо"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "аробаҳо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "говҳо"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говҳо"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ онҳоро",
+      "marks": "онҳоро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левиён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:25.067410618Z",
+  "model": "glm-5.3"
+}

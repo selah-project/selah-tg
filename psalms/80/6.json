@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 80,
+  "translation": "Онҳоро ба нони ашк хӯрондӣ ва бо ашкҳои ⟨сеяк⟩ мехӯшонидӣ.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "хӯрондӣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нони"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ашк"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ва мехӯшонидӣ"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "бо ашкҳои"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "сеяк"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:53.805928090Z",
+  "model": "glm-5.3"
+}

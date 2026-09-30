@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "«Бахши ман Яҳве аст», — мегӯяд нафси ман; бар ҳамин ба Ӯ умедвор мешавам.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "бахши ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нафси ман"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "умедвор мешавам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:12.246518305Z",
+  "model": "glm-5.3"
+}

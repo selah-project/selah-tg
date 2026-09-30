@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Одами беқадр, марди зишткордор — ҳамон ки бо каҷии даҳон мегардад",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "одами"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "беқадр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "און",
+      "gloss": "зишткордор"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "мегардад"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "бо каҷии"
+    },
+    {
+      "surface": "פה",
+      "gloss": "даҳон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:03.966969105Z",
+  "model": "glm-5.3"
+}

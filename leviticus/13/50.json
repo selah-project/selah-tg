@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва коҳен ⟨את⟩ зарарро бинад ва ⟨את⟩ зарарро ҳафт рӯз маҳкам нигоҳ дорад.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ва бинад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зарар"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ва маҳкам нигоҳ дорад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зарар"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:33.124002001Z",
+  "model": "glm-5.3"
+}

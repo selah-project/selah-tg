@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Аз фарзандони Банӣ: Маъадай, Амрам ва Уэл.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Банӣ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маъадай"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "ва Уэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:29:49.536762183Z",
+  "model": "glm-5.3"
+}

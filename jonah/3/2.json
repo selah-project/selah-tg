@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "«Хез, рав ба Нинава, он шаҳри бузург, ва ба он ⟨את⟩ эълоне, ки Ман ба ту мегӯям, нидо кун».",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "хез"
+    },
+    {
+      "surface": "לך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Нинава"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "он шаҳр"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ва нидо кун"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эълон"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "эълон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "мегӯям"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:48.850773680Z",
+  "model": "glm-5.3"
+}

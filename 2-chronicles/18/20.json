@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва руах баромад ва пеши Яҳве истод ва гуфт: Ман ӯро фиреб медиҳам. Ва Яҳве ба ӯ гуфт: Бо чӣ?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "истод"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "фиреб медиҳам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "бо чӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:37.281333851Z",
+  "model": "glm-5.3"
+}

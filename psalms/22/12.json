@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Дур аз ман машав, зеро мусибат наздик аст, зеро ёваре нест.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "дур машав"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "мусибат"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "наздик аст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ёваре"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:36.992468910Z",
+  "model": "glm-5.3"
+}

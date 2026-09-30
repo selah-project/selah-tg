@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва бар сангароҳо ⟨את⟩ ҳамаи суханҳои ин тораро ба таври равшан бинавис.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ва бинавис"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "сангароҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи суханҳои ин тора"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "суханҳои"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ин тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ба таври равшан"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "хубу равшан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:52.584542848Z",
+  "model": "glm-5.3"
+}

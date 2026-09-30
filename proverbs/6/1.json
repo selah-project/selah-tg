@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Писарам, агар барои дӯсти худ зомин шудаӣ, агар ба хориҷа кафатро задаӣ —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "писарам"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "зомин шудаӣ"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "барои дӯсти худ"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "задаӣ"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "ба хориҷа"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "кафатро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:50.783603846Z",
+  "model": "glm-5.3"
+}

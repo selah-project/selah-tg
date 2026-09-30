@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Эштон ⟨את⟩ Бейт-Рафо ва ⟨את⟩ Пасеахро ва ⟨את⟩ Техиннаро зод — падари Ир-Наҳаш. Инҳо мардони Рекаанд.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "ва Эштон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Рафо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Рафо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Пасеахро"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеахро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Техиннаро"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Техиннаро"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Наҳаш"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Река"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:42.099872724Z",
+  "model": "glm-5.3"
+}

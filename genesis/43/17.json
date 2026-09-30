@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 43,
+  "translation": "Ва мард он чиро ки Йосеф гуфт, кард; ва мард ⟨את⟩ мардонро ба хонаи Йосеф овард.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва кард"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "он чиро ки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ва овард"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мардонро"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мардон"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ба хона"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-30T15:26:55.361294185Z",
+  "model": "glm-5.3"
+}

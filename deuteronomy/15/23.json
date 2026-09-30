@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Танҳо хуни онро нахӯр; ба замин онро ҳамчун об березон.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хуни он"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "хуни он"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "хӯр"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "онро березон"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ҳамчун об"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:45.968898354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ҳам тамоми рӯзҳои худро дар торикӣ мехӯрад, ва ғаму асабиятии бисёр ва бемориаш ва ғазаб.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ҳам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "рӯзҳои худ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "дар торикӣ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ва асабият"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ва бемориаш"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ва ғазаб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:39.973943348Z",
+  "model": "glm-5.3"
+}

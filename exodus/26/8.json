@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Дарозии як парда сӣ газ бошад, ва паҳнии як парда чор газ; андозаи як барои ёздаҳ парда.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "дарозии"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парда"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "газ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ва паҳнии"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "газ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парда"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "андозаи"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "барои ёздаҳ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(даҳ)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "парда"
+    }
+  ],
+  "timestamp": "2026-09-30T15:39:17.849565584Z",
+  "model": "glm-5.3"
+}

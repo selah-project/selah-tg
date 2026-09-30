@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва бар сарбози қабилаи фарзандони Менашше Гамлиэл писари Пдаҳтсур буд.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "сарбози"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "қабилаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Пдаҳ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "тсур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:53.829210641Z",
+  "model": "glm-5.3"
+}

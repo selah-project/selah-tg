@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "ва Эсов дар кӯҳи Сеир сукунат гирифт; Эсов — ҳамин аст Аддом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ва сукунат гирифт"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳамин аст"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Аддом"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:20.754677067Z",
+  "model": "glm-5.3"
+}

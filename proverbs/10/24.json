@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Тарси золим — ⟨он⟩ ба ӯ меояд, ва орзуи одилон ба онҳо дода мешавад.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "Тарси"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "золим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "ба ӯ меояд"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "ва орзуи"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "одилон"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дода мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:44.669020929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Зеро охират ҳаст, ва умеди туро канда нашавад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אם",
+      "gloss": "қисми таъкиди כי אם"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "охират"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ва умеди туро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "канда нашавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:57.421856437Z",
+  "model": "glm-5.3"
+}

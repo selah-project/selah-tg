@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Зеро ҳар марде, ки дар ӯ нуқсон бошад, набояд наздик шавад: марди кӯр ё шалоҳ, ё бинии фарофта (харум), ё бадшакл (шоруа).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар ӯ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "нуқсон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "наздик шавад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кӯр"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "шалоҳ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "бинии фарофта (харум)"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "бадшакл (шоруа)"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:02.624871345Z",
+  "model": "glm-5.3"
+}

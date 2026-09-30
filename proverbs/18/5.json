@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Бардоштани рӯйи бадкор нек нест — росткорро дар доварӣ аз роҳ гардонидан.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "бардоштани"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "аз роҳ гардонидан"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "росткор"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "дар доварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:07.585203701Z",
+  "model": "glm-5.3"
+}

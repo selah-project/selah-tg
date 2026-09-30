@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ӯ ба ман гуфт: «Ту кистӣ?» Ва ман ба ӯ гуфтам: «Ман омори амалétikîam».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "омори амалетик"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:51:40.467031071Z",
+  "model": "glm-5.3"
+}

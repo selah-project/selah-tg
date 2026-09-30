@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Элоҳимро лаънат накун ва сардори қавматро наъл nakun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "лаънат накун"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ва сардор"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "қавмат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "naʿl nakun"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:25.083848136Z",
+  "model": "glm-5.3"
+}

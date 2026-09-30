@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ҳамаи шумораи сарварони авлодҳо аз паҳлавонони ҷангӣ — ҳазору шашсад нафар буд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "шумораи"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "сарварони"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "авлодҳо"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "аз паҳлавонони"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ҷангӣ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:51:12.222055256Z",
+  "model": "glm-5.3"
+}

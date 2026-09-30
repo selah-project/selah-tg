@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Шломоҳ ба Ҳамат-Тсова рафт ва онро мустаҳкам кард.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ва рафт"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоҳ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Ҳамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Тсова"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ва мустаҳкам кард"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "онро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:37.897754051Z",
+  "model": "glm-5.3"
+}

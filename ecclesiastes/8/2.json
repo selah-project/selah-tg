@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ман ⟨ме⟩гӯям: даҳони шоҳро нигоҳ дор ва ба сабаби қасами Элоҳим.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "нигоҳ дор"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва ба сабаби"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨қасами⟩"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "қасами"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:25.970849470Z",
+  "model": "glm-5.3"
+}

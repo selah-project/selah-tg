@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Намиранд, зеро зинда мемонам ва корҳои Яҳро нақл мекунам.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "намиранд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "зинда мемонам"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ва нақл мекунам"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "корҳои"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:40.114080875Z",
+  "model": "glm-5.3"
+}

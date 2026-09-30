@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ёд мекунам, ёд меоварам, ва ҷони маро дар дохили ман фурӯ мебарад.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ёд мекунам"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ёд меоварам"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "фурӯ мебарад"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "дар дохили ман"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони маро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:08.412108677Z",
+  "model": "glm-5.3"
+}

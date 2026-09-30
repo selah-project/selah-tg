@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як такаи бузҳо барои гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "така"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузҳо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:14.534189618Z",
+  "model": "glm-5.3"
+}

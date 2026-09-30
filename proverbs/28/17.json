@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Одами бетавонгарофи хуни нафас то чоҳ метавад; касе ӯро дастгирӣ накунад.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "одами"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "бетавонгарофи"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "дар хуни"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чоҳ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "метавад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "накунад"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "дастгирӣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:29.459932114Z",
+  "model": "glm-5.3"
+}

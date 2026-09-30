@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Бинед, ман имрӯз пешопеши шумо баракат ва лаънатро мегузорам.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "мегузорам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пешопеши шумо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "баракат"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ва лаънат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:37.397095012Z",
+  "model": "glm-5.3"
+}

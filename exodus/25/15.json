@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Дар ҳалқаҳои сандуқ топҳо бошианд; онҳо аз он ҷудо нашаванд.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "дар ҳалқаҳои"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандуқ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "бошианд"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "топҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ҷудо шаванд"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:46.934784892Z",
+  "model": "glm-5.3"
+}

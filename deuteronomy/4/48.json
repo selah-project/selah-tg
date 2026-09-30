@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Аз Ароэр, ки дар соҳили наҳри Арнон аст, то кӯҳи Сийон — он Ҳармон аст.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "аз Ароэр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "соҳили"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "наҳри"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Сийон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Ҳармон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:41.610237136Z",
+  "model": "glm-5.3"
+}

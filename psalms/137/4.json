@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 137,
+  "translation": "Чӣ тавр сурудем ⟨את⟩ суруди Яҳве дар хоки бегонаро?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "чӣ тавр"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "сурудем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "суруди Яҳве"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "хоки"
+    },
+    {
+      "surface": "нכר",
+      "gloss": "бегонаро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:35.110691410Z",
+  "model": "glm-5.3"
+}

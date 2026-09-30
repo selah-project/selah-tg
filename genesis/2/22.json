@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Яҳве Элоҳим ⟨את⟩ қабӯларо, ки аз одам гирифта буд, ба зан бино кард ва ӯро назди одам овард.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ва бино кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қабӯла"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "қабӯла"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "гирифта буд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба зан"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "ва овард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:20.443103070Z",
+  "model": "glm-5.3"
+}

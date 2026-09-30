@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва подшоҳе нав бар Мисраим бархост, ки Йӯсефро намешинохт ⟨את⟩ Йӯсеф.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ва бархост"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳе"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нав"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мешинохт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йӯсеф"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йӯсеф"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:05.553513460Z",
+  "model": "glm-5.3"
+}

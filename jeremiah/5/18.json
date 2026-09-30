@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ҳатто дар он рӯзҳо, мегӯяд Яҳве, ман бо шумо ⟨את⟩ нобудкунанда нахоҳам кард.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва ҳатто"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "дар он рӯзҳо"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "он"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "нахоҳам кард"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "бо шумо"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "нобудкунанда"
+    }
+  ],
+  "timestamp": "2026-09-30T17:42:35.458080375Z",
+  "model": "glm-5.3"
+}

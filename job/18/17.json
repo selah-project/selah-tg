@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ёди ӯ аз замин нобод мешавад ва номе бар рӯйи берун барои ӯ нест.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ёди ӯ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "нобод мешавад"
+    },
+    {
+      "surface": "מני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва нест"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "берун"
+    }
+  ],
+  "timestamp": "2026-09-30T19:07:07.832123772Z",
+  "model": "glm-5.3"
+}

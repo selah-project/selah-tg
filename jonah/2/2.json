@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Йона ба Яҳве, Элоҳими худ, аз шиками он моҳӣ дуо кард.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "дуо кард"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "аз шиками"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "он моҳӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:38.399507835Z",
+  "model": "glm-5.3"
+}

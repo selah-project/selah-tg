@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Зеро Яҳве ⟨את⟩ Яъқовро харид ва ӯро аз дасти қавитар аз худ халос кард.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "харид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яъқовро"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ва халос кард"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "аз дасти"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "қавитар"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз худ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:55.203952175Z",
+  "model": "glm-5.3"
+}

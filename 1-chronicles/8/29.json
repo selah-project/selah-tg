@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва дар Гивъон зиндагӣ карданд падари Гивъон, ва номи зани ӯ Маака бӯд.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "ва дар Гивъон"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "зиндагӣ карданд"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивъон"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ва номи"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "зани ӯ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Маака"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:41.074830300Z",
+  "model": "glm-5.3"
+}

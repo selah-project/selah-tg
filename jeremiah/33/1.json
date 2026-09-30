@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва сузи Яҳве ба Ярмияҳу дуюм бор расид, ва ӯ ҳанӯз дар ҳавлии маҳбас маҳкам буд, бигӯяд:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва буд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "суз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияҳу"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "дуюм бор"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ҳанӯз"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "маҳкамбуд"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "дар ҳавлии"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "маҳбас"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "бигӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:52:19.776074096Z",
+  "model": "glm-5.3"
+}

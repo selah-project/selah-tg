@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Барои Ҳорим сеюм, барои Сеорим чорум.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "барои Ҳорим"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "сеюм"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "барои Сеорим"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "чорум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:48.092783648Z",
+  "model": "glm-5.3"
+}

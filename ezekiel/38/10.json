@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 38:10",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ин гӯяд Адонай Яҳве: Ва рӯзи он суханон бар дилат мебароянд ва ту бадӣ меандешӣ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "Ва хоҳад шуд"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "мебароянд"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "суханон"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "дилат"
+    },
+    {
+      "surface": "וחשבת",
+      "gloss": "ва меандешӣ"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "андеша"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:17.506820321Z",
+  "model": "glm-5.3"
+}

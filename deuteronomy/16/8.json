@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Шаш рӯз мацот мехӯрӣ, ва дар рӯзи ҳафтум маҷмаъ барои Яҳве Элоҳими ту — ҳеҷ кор накунӣ.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "мехӯрӣ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "маҷмаъ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накунӣ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ҳеҷ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "кор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:41.716323427Z",
+  "model": "glm-5.3"
+}

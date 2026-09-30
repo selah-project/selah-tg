@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва ба писаронаш сухан ронда гуфт: ба ман ⟨את⟩ харро besteад, ва besteаданд.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "besteад"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "харро"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "харро"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ва besteаданд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:06:38.789866054Z",
+  "model": "glm-5.3"
+}

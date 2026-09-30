@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Орзуи одамӣ — ҳеседи ӯст; ва камбғал аз марди дурӯғ беҳтар аст.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Орзуи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамӣ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи ӯ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ва беҳтар"
+    },
+    {
+      "surface": "רש",
+      "gloss": "камбғал"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "аз марди"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "дурӯғ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:21.335588922Z",
+  "model": "glm-5.3"
+}

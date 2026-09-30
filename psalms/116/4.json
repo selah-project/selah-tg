@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Ва ба Номи Яҳве муроҷиат кардам: эй Яҳве, ҷонамро раҳо кун!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Ва ба Номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "муроҷиат кардам"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "эй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "раҳо кун"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷонамро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:46.921078309Z",
+  "model": "glm-5.3"
+}

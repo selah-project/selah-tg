@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Бандачаи муре маҳбуби ман барои ман; байни синаҳоям шаб мегузаронад.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "бандачаи"
+    },
+    {
+      "surface": "המר",
+      "gloss": "муре"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "маҳбуби ман"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "синаҳоям"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "шаб мегузаронад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.125438608Z",
+  "model": "glm-5.3"
+}

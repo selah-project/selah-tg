@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Писарони Шем: Эйлом ва Ашшур ва Арфақшад ва Луд ва Арам, ва Утс ва Ҳул ва Гетер ва Мешек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлом"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ва Ашшур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ва Арфақшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ва Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ва Арам"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "ва Утс"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ва Ҳул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ва Гетер"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ва Мешек"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:40.675821998Z",
+  "model": "glm-5.3"
+}

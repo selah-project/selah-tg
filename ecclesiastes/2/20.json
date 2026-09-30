@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ман диламро бар ҳамаи меҳнате, ки зери офтоб мекунам, ба нодиҳӣ додам.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ва ман рӯй гардондам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ба нодиҳӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дили ман"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дили ман"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "меҳнате"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "ки ман мекунам"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:16.767620073Z",
+  "model": "glm-5.3"
+}

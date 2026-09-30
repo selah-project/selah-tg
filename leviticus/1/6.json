@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ⟨את⟩ оларо пӯст канад ва ⟨את⟩ онро ба пораҳои он тақсим кунад.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "пӯст канад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ола"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ола"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "тақсим кунад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ онро",
+      "marks": "пораҳои он"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ба пораҳои он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:57.871000813Z",
+  "model": "glm-5.3"
+}

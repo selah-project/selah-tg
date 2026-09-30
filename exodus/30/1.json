@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва сохтӣ қурбонгоҳе барои дуд кардани бӯи хуш — аз чӯби shitим сохтӣ онро ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ва сохтӣ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "қурбонгоҳ"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "барои дуд кардан"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "бӯи хуш"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitим"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "сохтӣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "онро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:56.179251080Z",
+  "model": "glm-5.3"
+}

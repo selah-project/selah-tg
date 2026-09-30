@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Подшоҳӣ кард Элоҳим бар халқҳо, Элоҳим нишаст бар тахти муқаддаси ⟨Худ⟩.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Подшоҳӣ кард"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "нишаст"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тахт"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "муқаддаси Худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:45.120691167Z",
+  "model": "glm-5.3"
+}

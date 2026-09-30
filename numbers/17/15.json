@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Аҳарон ба назди Моше, ба дари Хаймаи Вақт баргашт, ва ҷангӣ боз истода шуд.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "баргашт"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба назди"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "дари"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Вақт"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "ва ҷангӣ"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "боз истода шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:00.797196255Z",
+  "model": "glm-5.3"
+}

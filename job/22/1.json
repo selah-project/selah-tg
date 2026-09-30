@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва ҷавоб дод Элифаз Темонӣ ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ва ҷавоб дод"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "Темонӣ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:17.394296645Z",
+  "model": "glm-5.3"
+}

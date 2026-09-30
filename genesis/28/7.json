@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "ва ки Яъқоб ба падару модари худ гӯш кард ва ба Падан-Арам рафт.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "гӯш кард"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падараш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ba"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "modarash"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:26.964554607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 76,
+  "translation": "Аз осмон ту довариро шунавонидӣ — замин тарсид ва ором шуд.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "аз осмон"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "шунавонидӣ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "тарсид"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ва ором шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:23.543401151Z",
+  "model": "glm-5.3"
+}

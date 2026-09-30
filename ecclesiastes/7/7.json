@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Зеро ки зулм доноро девона мекунад ва туҳфа ⟨את⟩ дилро нобуд мекунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "зулм"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "девона мекунад"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "доноро"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ва нобуд мекунад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дилро"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "туҳфа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:35.695657638Z",
+  "model": "glm-5.3"
+}

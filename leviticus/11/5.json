@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва ⟨את⟩ шоқам — зеро ки ӯ гера мебарорад, аммо сум номебарад, — ӯ барои шумо нопок аст.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шоқам"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "шоқам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гера"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "аммо сум"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "номебарад"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:48:46.421712720Z",
+  "model": "glm-5.3"
+}

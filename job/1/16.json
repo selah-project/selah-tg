@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 1:16",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "«ва аҳли Шеба ҳамла карданд ва онҳоро гирифтанд ва ⟨את⟩ ҷавонмардонро бо теги шамшер заданд; ва ман раҳоӣ ёфтам — танҳо ман, ба хабар додан ба ту».",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "מדבר",
+      "gloss": ""
+    },
+    {
+      "surface": "וזה",
+      "gloss": ""
+    },
+    {
+      "surface": "בא",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "אש",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהים",
+      "gloss": ""
+    },
+    {
+      "surface": "נפלה",
+      "gloss": ""
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": ""
+    },
+    {
+      "surface": "ותבער",
+      "gloss": ""
+    },
+    {
+      "surface": "בצאן",
+      "gloss": ""
+    },
+    {
+      "surface": "ובנערים",
+      "gloss": ""
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": ""
+    },
+    {
+      "surface": "רק",
+      "gloss": ""
+    },
+    {
+      "surface": "אני",
+      "gloss": ""
+    },
+    {
+      "surface": "לבדי",
+      "gloss": ""
+    },
+    {
+      "surface": "להגיד",
+      "gloss": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:03:37.049242113Z",
+  "model": "glm-5.3"
+}

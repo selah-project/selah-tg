@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Сухане ки Яҳве ба бобулиён ва ба замини касдиён гуфт — ба дасти Йирмийаҳу, набӣ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сухане"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "бобулиён"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "касдиён"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмийаҳу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:58:15.340209974Z",
+  "model": "glm-5.3"
+}

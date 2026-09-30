@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Дар рӯзи фардо худро фахр накун, зеро намедонӣ, ки рӯз чӣ меоварад.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "худро фахр"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "фардо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "медонӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "меоварад"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:16.202345125Z",
+  "model": "glm-5.3"
+}

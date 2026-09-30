@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Яҳве подшоҳӣ мекунад то абад ва то боз абад.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "подшоҳӣ мекунад"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва то боз абад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:48.419083355Z",
+  "model": "glm-5.3"
+}

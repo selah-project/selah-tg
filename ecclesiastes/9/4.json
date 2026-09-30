@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Зеро ҳар кӣ ба ҳамаи зиндагон пайваст аст, боварӣ ҳаст; зеро барои саги зинда беҳтар аст аз шери мурда.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ҳар кӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "пайваст аст"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "зиндагон"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "боварӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "барои саги"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зинда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "шер"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мурда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:41.294573350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва барои гӯсола минҳае аз орд — се иссарон — омехта бо равған, ним ҳинро пешкаш кунад.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "пешкаш кунад"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "בן",
+      "gloss": "гӯсола"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "гӯсола"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минҳае"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "орд"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "иссарон"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "омехта"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "бо равған"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ним"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:21.936747843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Роҳи пои худро ҳамвор соз, ва ҳамаи роҳҳои ту устувор шаванд.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ҳамвор соз"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "пои"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "роҳҳои"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "устувор шаванд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:05.731195387Z",
+  "model": "glm-5.3"
+}

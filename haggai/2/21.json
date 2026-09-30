@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Бигӯ ба Зарубавел, ҳокими Яҳудо: Ман ⟨את⟩ осмонҳо ва ⟨את⟩ заминро меларзонам.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Бигӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зарубавел"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ҳокими"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яҳудо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "меларзонам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осмонҳоро"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "заминро"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:28.350172669Z",
+  "model": "glm-5.3"
+}

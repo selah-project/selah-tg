@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва гуфт: Музди худро бар ман муайян кун, ва ман медиҳам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "муайян кун"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "музди худро"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар ман"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ва ман медиҳам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:23.707628314Z",
+  "model": "glm-5.3"
+}

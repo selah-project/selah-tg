@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 148,
+  "translation": "Кӯҳҳо ва ҳама теппаҳо, дарахтони мева ва ҳама арзҳо,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "кӯҳҳо"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "теппаҳо"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарахтони"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "мева"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "арзҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:13.167092186Z",
+  "model": "glm-5.3"
+}

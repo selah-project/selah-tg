@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Йораҳ, саду дувоздаҳ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "Йораҳ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ва дуво"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:27.346559584Z",
+  "model": "glm-5.3"
+}

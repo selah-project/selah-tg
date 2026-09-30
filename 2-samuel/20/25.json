@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "ва Шева котиб буд, ва Тсодок ва Эвётар коҳинон буданд,",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "котиб"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ва Тсодок"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ва Эвётар"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "коҳинон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:57:55.126747844Z",
+  "model": "glm-5.3"
+}

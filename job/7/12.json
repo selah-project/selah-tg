@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Оё ман баҳр ҳастам ё танин, ки бар ман нигоҳбон мегузорӣ?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ё"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "танин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "мегузорӣ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар ман"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "нигоҳбон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:07.878285666Z",
+  "model": "glm-5.3"
+}

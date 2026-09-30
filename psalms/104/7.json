@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 104,
+  "translation": "Аз маломатат мегурезанд, аз овози тундатонат шитоб мекунанд.",
+  "tokens": [
+    {
+      "surface": "мгурезанд",
+      "gloss": ""
+    },
+    {
+      "surface": "гурез",
+      "gloss": ""
+    },
+    {
+      "surface": "мгурезанд",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:49.871904849Z",
+  "model": "glm-5.3"
+}

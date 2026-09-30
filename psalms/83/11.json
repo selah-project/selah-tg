@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 83,
+  "translation": "Онҳо дар Эн-Дор нобуд шуданд, чун кӯд барои замин шуданд.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "нобуд шуданд"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "дар"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Эн-Дор"
+    },
+    {
+      "surface": "היו",
+      "gloss": "шуданд"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "чун кӯд"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "барои замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:39.596913084Z",
+  "model": "glm-5.3"
+}

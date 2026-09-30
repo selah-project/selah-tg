@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Беэра писараш, ки Тилгат-Пилнесер, подшоҳи Ашур, ӯро ба асорӣ бурд; ӯ сардори рубениён буд.",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "Беэра"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ба асорӣ бурд"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Тилгат"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Пилнесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "рубениён"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:14.544003594Z",
+  "model": "glm-5.3"
+}

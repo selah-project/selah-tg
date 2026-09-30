@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва оташ аз пеши Яҳве баромад ва ⟨את⟩ онҳоро фурӯ бурд, ва онҳо пеши Яҳве мурданд.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "аз пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "фурӯ бурд"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "онҳоро"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "мурданд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:54.407811646Z",
+  "model": "glm-5.3"
+}

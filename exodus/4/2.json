@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яҳве ба ӯ гуфт: «Ин чист дар дасти ту?» Ва ӯ гуфт: «Асo».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ин чист"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "дар дасти ту"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "асо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:31:02.935657879Z",
+  "model": "glm-5.3"
+}

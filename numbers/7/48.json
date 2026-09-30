@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 7:48",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Дар рӯзи ҳафтум Элишама, писари Аммиҳуд, сардори бани Афройим;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "бани"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Афройим"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиҳуд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:57.443696532Z",
+  "model": "glm-5.3"
+}

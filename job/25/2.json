@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 25:2",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ҳокимият ва ҳарф ⟨ба⟩ ӯст; subjected — саломро дар баландиҳои Худ месозад.",
+  "tokens": [
+    {
+      "surface": "המשל",
+      "gloss": "ҳокимият"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "вуҷҳ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "салом"
+    },
+    {
+      "surface": "במרומיו",
+      "gloss": "дар баландиҳои Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:48.303916537Z",
+  "model": "glm-5.3"
+}

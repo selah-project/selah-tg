@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Бо руахи шарқӣ киштиҳои Таршишро мешиканӣ.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "бо руахи"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "мешиканӣ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "киштиҳои"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:13.931318663Z",
+  "model": "glm-5.3"
+}

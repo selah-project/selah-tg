@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Рӯзи дувоздаҳум — сардори бани Нафтали, Аҳира, писари Эйнан.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "…ум"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "бани"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Аҳира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Эйнан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:31.320443743Z",
+  "model": "glm-5.3"
+}

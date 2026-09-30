@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Инҳо фарзандони Эсов — ва инҳо алӯфони онҳо; ҳамин аст Эдом.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "алӯфони онҳо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳамин аст"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:28.604134304Z",
+  "model": "glm-5.3"
+}

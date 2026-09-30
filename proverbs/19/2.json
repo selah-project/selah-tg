@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ҳамчунин нафасе ки бидонӣ надорад, нек нест, ва шитобкунанда бо пойҳо хато мекунад.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ҳамчунин"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "донӣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ва шитобкунанда"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "бо пойҳо"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "хато мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:56.895654017Z",
+  "model": "glm-5.3"
+}

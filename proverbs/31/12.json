@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ӯ тамоми рӯзҳои ҳаёташ ба ӯ некӣ мекунад ва бадӣ не.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "ӯ ба ӯ некӣ мекунад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва не"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "ҳаёташ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:53.426449358Z",
+  "model": "glm-5.3"
+}

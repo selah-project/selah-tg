@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Ядo, бародари Шаммай: Йетер ва Йонотон; ва Йетер бе фарзандон мурд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Ядo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бародари"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ва Йонотон"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "фарзандон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:46.715860131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 120,
+  "translation": "Тирҳои тезони паҳлавон, ҳамроҳ бо ангишти ретам!",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "тирҳои"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "паҳлавон"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "тезон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ҳамроҳ бо"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ангишти"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ретам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:58.112504794Z",
+  "model": "glm-5.3"
+}

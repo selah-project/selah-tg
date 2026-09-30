@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Кист, ки Элеро шакл диҳад ва бутро резад, то ки баҳр надиҳад?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кист"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "шакл диҳад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элеро"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ва бутро"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "резад"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "то ки на"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "баҳр диҳад"
+    }
+  ],
+  "timestamp": "2026-09-30T17:34:57.750830767Z",
+  "model": "glm-5.3"
+}

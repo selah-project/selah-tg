@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ба поёни се рӯз сардорон дар миёнаи маҳкама гузаштанд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ⟨буд⟩"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ба поёни"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "гузаштанд"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "сардорон"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "дар миёнаи"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "маҳкама"
+    }
+  ],
+  "timestamp": "2026-09-30T16:24:17.953086277Z",
+  "model": "glm-5.3"
+}

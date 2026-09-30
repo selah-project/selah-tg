@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вақти ҷустуҷӯ кардан ва вақти гум кардан; вақти нигоҳ доштан ва вақти партофтан.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ҷустуҷӯ кардан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "гум кардан"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "нигоҳ доштан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "партофтан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:35.698208966Z",
+  "model": "glm-5.3"
+}

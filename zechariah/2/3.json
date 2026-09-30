@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Яҳве ба ман чор усторо нишон дод.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ва ба ман нишон дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "усто"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:04.004120185Z",
+  "model": "glm-5.3"
+}

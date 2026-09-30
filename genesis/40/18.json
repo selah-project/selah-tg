@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "ва Юсуф ҷавоб дод ва гуфт: Ин тавзеҳи он аст: се сабад — се рӯзанд.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Юсуф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "тавзеҳи он"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "сабадҳо"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ҳастанд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:21.478941309Z",
+  "model": "glm-5.3"
+}

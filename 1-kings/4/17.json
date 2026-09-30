@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Йеҳошафат писари Поруах дар ‹ҳудуди› Йиссоқар;",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеҳошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "Поруах"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "дар Йиссоқар"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:56.240839532Z",
+  "model": "glm-5.3"
+}

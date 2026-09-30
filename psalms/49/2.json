@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Бишнавед инро, ҳамаи халқҳо; гӯш фаро доред, ҳамаи сокинони ҷаҳон.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "инро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "האзינו",
+      "gloss": "гӯш фаро доред"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ҷаҳон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:33.096591108Z",
+  "model": "glm-5.3"
+}

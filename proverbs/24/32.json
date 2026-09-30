@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ман низ дидаам ва ба дил гирифтаам; дидам ва панд қабул кардам.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "ва дидаам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "гузоштаам"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ба дили худ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "қабул кардам"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "панд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:57.929417628Z",
+  "model": "glm-5.3"
+}

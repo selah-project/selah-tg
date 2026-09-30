@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва аз кабилаи фарзандони Эфраим — сарвар Кемуэл, писари Шифтан.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ва аз кабилаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шифтан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:10.935500755Z",
+  "model": "glm-5.3"
+}

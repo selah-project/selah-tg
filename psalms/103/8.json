@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 103,
+  "translation": "Раҳмнок ва меҳрубон аст Яҳве, дар ғазаб суст ва дар ҳесед бузург.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "раҳмнок"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ва меҳрубон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дароз"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ғазаб"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ва бузург"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ҳесед"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:42.173802011Z",
+  "model": "glm-5.3"
+}

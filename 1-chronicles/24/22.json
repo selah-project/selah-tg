@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Аз Йитсҳари: Шеломот; аз фарзандони Шеломот — Яҳат.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "Аз Йитсҳари"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломот"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломот"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яҳат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:26.755604050Z",
+  "model": "glm-5.3"
+}

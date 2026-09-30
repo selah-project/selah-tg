@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Беҳтар як каф бо оромӣ, аз ду каф пур бо заҳмат ва ранаи руах.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Беҳтар"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур"
+    },
+    {
+      "surface": "כף",
+      "gloss": "каф"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "оромӣ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "аз пур"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ду каф"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "заҳмат"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ва рана"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:58.487377539Z",
+  "model": "glm-5.3"
+}

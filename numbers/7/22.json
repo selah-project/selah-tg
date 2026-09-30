@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як бузи така барои хатот — қурбонии гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "бузи така"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "буз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои хатот"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:31.597244728Z",
+  "model": "glm-5.3"
+}

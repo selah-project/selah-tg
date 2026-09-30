@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Тсаттуъу, нӯҳ саду чилу панҷ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Тсаттуъу"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "нӯҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "саду"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "чилу"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:37.289920119Z",
+  "model": "glm-5.3"
+}

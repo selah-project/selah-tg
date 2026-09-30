@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва низ дасти Яҳве бар онҳо буд, барои нобуд кардани онҳо аз миёни лагер, то тамом шудани онҳо.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "בם",
+      "gloss": "бар онҳо"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "барои нобуд кардани"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "аз миёни"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагер"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "тамом шудани онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:16.268821029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Амалҳоятро ба Яҳве васпур, ва тадборҳоят устувор хоҳанд шуд.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "васпур"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "амалҳоятро"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "ва устувор хоҳанд шуд"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "тадборҳоят"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:52.474468835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "ва чил асоси онҳо аз нуқра: ду асос зери як кашӣ ва ду асос зери як кашӣ дигар.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ва чил"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "асоси онҳо"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "асос"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "як кашӣ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ва ду"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "асос"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "як кашӣ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "дигар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:25.672496333Z",
+  "model": "glm-5.3"
+}

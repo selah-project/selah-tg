@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дар он рӯз, мегӯяд Яҳве Тсевоот, ҳар яке наздикашро ба зери току ба зери анҷир меҳонед.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "мехонед"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар яке"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "наздикашро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ток"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "анҷир"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:13.629005324Z",
+  "model": "glm-5.3"
+}

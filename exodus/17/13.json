@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Йеҳошуа Амалек ва мардуми ӯро бо даҳони шамшер заиф кард.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "заиф кард"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалек"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "мардуми ӯ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "мардуми ӯ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "шамшер"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:26.353318808Z",
+  "model": "glm-5.3"
+}

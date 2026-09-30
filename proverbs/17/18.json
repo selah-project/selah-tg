@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Одами камақл ба каф мезанад, зомин мешавад пеши дӯсти худ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "камақл"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ақл"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "мезанад"
+    },
+    {
+      "surface": "кф",
+      "gloss": "ба каф"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "зомин мешавад"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "зоминӣ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дӯсти худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:36.098941487Z",
+  "model": "glm-5.3"
+}

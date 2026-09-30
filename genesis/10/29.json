@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва ⟨את⟩ Офир ва ⟨את⟩ Ҳавила ва ⟨את⟩ Йовав; ҳамаи инҳо писарони Йақтан буданд.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Офир"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Офир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳавила"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Ҳавила"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Йовав"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йақтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:44.022523806Z",
+  "model": "glm-5.3"
+}

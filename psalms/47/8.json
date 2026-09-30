@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Зеро подшоҳи тамоми замин Элоҳим аст; соз навозед бо ақлу дониш.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "соз навозед"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "бо ақлу дониш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:16.757628165Z",
+  "model": "glm-5.3"
+}

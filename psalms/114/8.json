@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 114,
+  "translation": "Вкеи сангро ба ҳавзи об табдил дод, санги сахтро ба чашмаи об.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "табдил дед"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "санг"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ба ҳавзи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "санги сахт"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ба чашмаи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:59.209554968Z",
+  "model": "glm-5.3"
+}

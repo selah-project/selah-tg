@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Наметавонӣ ⟨את⟩ Песахро забҳ накунӣ дар яке аз дарвоҳаҳонат, ки Яҳве Элоҳими ту ба ту медиҳад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "накунӣ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "наметавонӣ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "забҳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Песахро"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахро"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "дар яке"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "аз дарвоҳаҳонат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:41.715658973Z",
+  "model": "glm-5.3"
+}

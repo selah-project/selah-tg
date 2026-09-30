@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ин гуна мегӯяд Адонай Яҳве Тсевоот: «Рав, назди ин сарпараст — назди Шевна, ки бар хона аст — ва бигӯ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ин гуна"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "בא",
+      "gloss": "даромадан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "сарпараст"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "על",
+      "gloss": "ки бар"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шевна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    }
+  ],
+  "timestamp": "2026-09-30T17:27:48.722742225Z",
+  "model": "glm-5.3"
+}

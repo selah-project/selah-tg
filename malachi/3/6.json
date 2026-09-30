@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зеро ки Ман Яҳве ҳастам, тағйир намеёбам, ва шумо, писарони Яъқоб, нест нашудаед.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "тағйир намеёбам"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ва шумо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "нест нашудаед"
+    }
+  ],
+  "timestamp": "2026-09-30T18:32:05.234515075Z",
+  "model": "glm-5.3"
+}

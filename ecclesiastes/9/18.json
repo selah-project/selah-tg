@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Беҳтар аст ҳикмат аз аслиҳаи ҷанг, ва як гунаҳкор хубии бисёрро нобуд мекунад.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "аз аслиҳаи"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ва гунаҳкор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "нобуд мекунад"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "хубиро"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:16.417428687Z",
+  "model": "glm-5.3"
+}

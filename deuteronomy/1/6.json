@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Яҳве, Элоҳими мо, дар Хорев бо мо сухан ронда, гуфтан: «Бас шуд барои шумо дар ин кӯҳ нишастан:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳими мо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан ронда"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "бо мо"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "дар Хорев"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бас шуд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "нишастан"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:41.179813628Z",
+  "model": "glm-5.3"
+}

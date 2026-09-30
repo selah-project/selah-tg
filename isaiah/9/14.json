@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Пир ва бошуҳрат — ⟨он⟩ сар аст, ва набии омӯзандаи дурӯғ — ⟨он⟩ дум аст.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "пир"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ва бошуҳрат"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "руяш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ва набӣ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "омӯзанда"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "дурӯғ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "дум"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:25.739989335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ⟨את⟩ яке аз туртутакҳо ё аз бачагони кабӯтарро, он чи дасти ӯ ба дастрасӣ аст, қурбонӣ кунад.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ва қурбонӣ кунад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "яке"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "яке"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "туртутакҳо"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бачагони"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "кабӯтар"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ба дастрасӣ аст"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "дасти ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:18.626469284Z",
+  "model": "glm-5.3"
+}

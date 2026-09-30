@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва писарони Шомер: Аҳӣ ва Роҳа, ва Йеҳубба ва Арам.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шомер"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Аҳӣ"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "ва Роҳа"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "Йеҳубба"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ва Арам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:16.052489142Z",
+  "model": "glm-5.3"
+}

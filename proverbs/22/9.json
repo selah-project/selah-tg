@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Чашми нек — ӯ муборак мешавад, зеро аз нони худ ба камбизоат медиҳад.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "муборак мешавад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "аз нони худ"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ба камбизоат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:27.719162694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Аммонӣ ва Моовӣ ба маҷлиси Яҳве наояд; ҳатто насли даҳуми онҳо ба маҷлиси Яҳве то абад наояд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "Аммонӣ"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "ва Моовӣ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ба маҷлиси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насли"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "даҳумин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "להם",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ба маҷлиси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:28.517669574Z",
+  "model": "glm-5.3"
+}

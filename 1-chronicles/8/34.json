@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва писари Йеҳонатон Мерив-Баъл, ва Мерив-Баъл фотирд ⟨את⟩ Мико.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ва писари"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеҳонатон"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баъл"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "ва Мерив"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баъл"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "фотирд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мико"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мико"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:01.497102661Z",
+  "model": "glm-5.3"
+}

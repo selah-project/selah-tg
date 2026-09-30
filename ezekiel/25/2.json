@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "«Эй писари одам, рӯҳои худро ба сӯйи банӣ Аммон гардон ва ба онҳо набӣ бигӯ:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "שים",
+      "gloss": "гардон"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯҳои ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯйи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ва набӣ бигӯ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:07:20.394034198Z",
+  "model": "glm-5.3"
+}

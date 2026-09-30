@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Дили маро ба сӯи шаҳодатҳоят майл деҳ ва на ба сӯи бозорӣ.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "майл деҳ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дили маро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "шаҳодатҳоят"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва на ба сӯи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ба сӯи⟩"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "бозорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:05.367984969Z",
+  "model": "glm-5.3"
+}

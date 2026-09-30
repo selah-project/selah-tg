@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Инҳо авлодҳои Шимъонианд — бисту ду ҳазору дусад ⟨нафар⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "авлодҳои"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Шимъонианд"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "бисту"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ду сад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:00.191633609Z",
+  "model": "glm-5.3"
+}

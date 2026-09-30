@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "ва падар ва модари ӯ ӯро мегиранд ва ӯро назди пирони шаҳри худ ва ба дарвозаи ҷои худ мебароранд.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ва мегиранд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падараш"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ва модараш"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ва мебароранд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "пирон"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "шаҳраш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дарвоза"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ҷои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:18:22.521754629Z",
+  "model": "glm-5.3"
+}

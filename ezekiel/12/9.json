@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Эй писари одам, оё хонаи Йисроэл, хонаи саркашӣ, ба ту нагуфтааст: «Ту чӣ кор мекунӣ?»",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "оё... на"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "нагуфтааст"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "саркашӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кор мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:02:00.982778210Z",
+  "model": "glm-5.3"
+}

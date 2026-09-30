@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ҳафт говҳои хуб — ҳафт сол аст; ва ҳафт хӯшаҳои хуб — ҳафт сол аст; хоби як аст.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "говҳо"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "аст"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва ҳафт"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "хӯшаҳо"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "аст"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:11.157819360Z",
+  "model": "glm-5.3"
+}

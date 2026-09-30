@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ӯ барои ман хирси камарғошта аст, шер дар ҷойҳои пинҳонӣ.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "хирс"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "камарғошта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "шер"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "дар ҷойҳои пинҳонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.192205641Z",
+  "model": "glm-5.3"
+}

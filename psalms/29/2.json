@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Диҳед ба Яҳве ҷалоли номи Ӯ; сажда кунед ба Яҳве дар ҳусни қадаш.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Диҳед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи Ӯ"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "сажда кунед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "дар ҳусн"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қадаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:46.241680892Z",
+  "model": "glm-5.3"
+}

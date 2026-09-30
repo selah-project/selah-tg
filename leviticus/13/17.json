@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва коҳин ӯро мебинад, ва ин ки бинад, Negot ба сафед табдил ёфтааст, ва коҳин ⟨את⟩ negotiation-ро пок мешуморад — пок аст.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ва ӯро мебинад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ин ки"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "табдил ёфтааст"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "негӯҳ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ба сафед"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ва пок мешуморад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "негӯҳ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "негӯҳ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:37.300097024Z",
+  "model": "glm-5.3"
+}

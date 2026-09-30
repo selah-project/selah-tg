@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва обҳо то ин рӯз шифо ёфтанд, мувофиқи сухани Элишоъ, ки ӯ гуфт.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ва шифо ёфтанд"
+    },
+    {
+      "surface": "המים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "мувофиқи сухани"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элишоъ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T17:11:55.734405505Z",
+  "model": "glm-5.3"
+}

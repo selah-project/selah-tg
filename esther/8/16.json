@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Барои яҳудиён рӯшноӣ ва шодӣ, ва хурсандӣ ва иқром буд.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "барои яҳудиён"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "рӯшноӣ"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ва шодӣ"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "ва хурсандӣ"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ва иқром"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:25.056944348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Дар он шаб Элоҳим ба Шлимоҳо зоҳир шуд ва ба ӯ гуфт: «Дархост кун — чӣ ба ту диҳам?»",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Дар он шаб"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "зоҳир шуд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ба Шлимоҳо"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "дархост кун"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "диҳам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:43:26.341132906Z",
+  "model": "glm-5.3"
+}

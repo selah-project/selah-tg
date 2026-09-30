@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Малъун бод он рӯзе ки ман дар он зода шудам, рӯзе ки модарам маро зод, муборак набод!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "малъун бод"
+    },
+    {
+      "surface": "היום",
+      "gloss": "он рӯз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "зода шудам"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "маро зод"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "модарам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "набоад"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "муборак"
+    }
+  ],
+  "timestamp": "2026-09-30T20:06:18.042635396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 10:14",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва чаҳор рӯй ба ⟨the⟩ як: рӯйи якум рӯйи керуб, рӯйи дуюм рӯйи одам, сеюм рӯйи шер ва чорум рӯйи уқоб.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "ва чаҳор"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ба як"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "якум"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ва рӯйи"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "והשלישי",
+      "gloss": "ва сеюм"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "шер"
+    },
+    {
+      "surface": "והרביעי",
+      "gloss": "ва чорум"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "уқоб"
+    }
+  ],
+  "timestamp": "2026-09-30T18:02:37.504208114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ҳам ба ман хашм гирифт Яҳве ба сабаби шумо, гуфтан: «Ҳам ту ба он ҷо нахоҳӣ омад».",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "хашм гирифт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "ба сабаби шумо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "нахоҳӣ омад"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ба он ҷо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:23.821984159Z",
+  "model": "glm-5.3"
+}

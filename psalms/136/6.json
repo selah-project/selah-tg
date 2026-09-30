@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба паҳнкунандаи замин баробар обҳо, ки ҳесед-и Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Ба паҳнкунандаи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "על",
+      "gloss": "баробар"
+    },
+    {
+      "surface": "המים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳесед-и Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:03.993074672Z",
+  "model": "glm-5.3"
+}

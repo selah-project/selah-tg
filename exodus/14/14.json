@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Яҳве барои шумо меҷангад, ва шумо хомӯш хоҳед буд.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "меҷангад"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ва шумо"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "хомӯш хоҳед буд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:35.761699239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Шуппим ва Ҳуппим — фарзандони Ир; Ҳушим — фарзандони Аҳер.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Ва Шуппим"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ва Ҳуппим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Ҳушим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Аҳер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:22.711579279Z",
+  "model": "glm-5.3"
+}

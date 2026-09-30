@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 15:6",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ё барои қӯчқор минҳа тайёр кун: орд — ду ашарон — омехта бо равған, сеяки ҳин.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "барои қӯчқор"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "тайёр кун"
+    },
+    {
+      "surface": "мнха-placeholder",
+      "gloss": "минҳа"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "орд"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ашарон"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "омехта"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "бо равған"
+    },
+    {
+      "surface": "שלשית",
+      "gloss": "сеяки"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:31.116662571Z",
+  "model": "glm-5.3"
+}

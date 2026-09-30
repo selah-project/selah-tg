@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Дар вақте ки Нотон набӣ назди ӯ омад, баъд аз он ки ӯ назди Бат-Шева омад.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Дар вақте ки … омад"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "назди ӯ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нотон"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "баъд аз он ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:36.701777665Z",
+  "model": "glm-5.3"
+}

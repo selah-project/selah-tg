@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Шаст маликаҳо ҳастанд ва ҳаштод тоқумаҳо, ва духтарони ҷавон беҳисоб.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "Шаст"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "маликаҳо"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ва ҳаштод"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "тоқумаҳо"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "ва духтарони ҷавон"
+    },
+    {
+      "surface": "אין",
+      "gloss": "бе"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ҳисоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:38.134116216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Яҳве ба Моше дар кӯҳи Синой сухан ронда, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва сухан ронда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳи"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синой"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:56.074778234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Аз танбалӣ меафтад болопӯши хона, ва аз сустии дастҳо чаку мезанад хона.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "аз танбалӣ"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "меафтад"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "болопӯши хона"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ва аз сустӣ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "дастҳо"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "чаку мезанад"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:57.787899988Z",
+  "model": "glm-5.3"
+}

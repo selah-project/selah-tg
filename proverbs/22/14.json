@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 22:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Чоҳи амиқ даҳони занони бегона аст; аз нафрати Яҳве ба он меафтад.",
+  "tokens": [
+    {
+      "surface": "שוחה",
+      "gloss": "чоҳи"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "амиқ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "занони бегона"
+    },
+    {
+      "surface": "זעום",
+      "gloss": "нафрати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "меафтад"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ба он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:59.424828554Z",
+  "model": "glm-5.3"
+}

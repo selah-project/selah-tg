@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Орзуи тсидиқон танҳо некӣ аст, умеди бадкорон эҳдош аст.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "орзу"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "тсидиқон"
+    },
+    {
+      "surface": "אך",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "умеди"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "эҳдош аст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:05.746659021Z",
+  "model": "glm-5.3"
+}

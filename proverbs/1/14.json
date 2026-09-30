@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Қуръаи худро ба миёни мо парто; як кисса ба ҳамаи мо хоҳад буд.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "қуръаи худро"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "парто"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ба миёни мо"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "кисса"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "ба ҳамаи мо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:44.927578685Z",
+  "model": "glm-5.3"
+}

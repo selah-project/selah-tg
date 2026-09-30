@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ту, эй писарам, бишнав ва доной бош, ва дили худро дар роҳ рост кун.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "эй писарам"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ва доной бош"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ва рост кун"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дили худро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:57.421976086Z",
+  "model": "glm-5.3"
+}

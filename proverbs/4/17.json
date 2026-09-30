@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Зеро онҳо нони бадкориро мехӯранд ва шароби зӯрониҷӯиро менӯшанд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "мехӯранд"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нони"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкорӣ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ва шароби"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "зӯрониҷӯӣ"
+    },
+    {
+      "surface": "יישתו",
+      "gloss": "менӯшанд"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:05.069639691Z",
+  "model": "glm-5.3"
+}

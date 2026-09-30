@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва барои шаэт, ва барои сафҳат, ва барои баҳарет,",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "ва барои шаэт"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "ва барои сафҳат"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "ва барои баҳарет"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:27.841394916Z",
+  "model": "glm-5.3"
+}

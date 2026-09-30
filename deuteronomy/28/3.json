@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Муборакӣ ту дар шаҳр, ва муборакӣ ту дар саҳро.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "муборакӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "дар шаҳр"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ва муборакӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "дар саҳро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:02.177239050Z",
+  "model": "glm-5.3"
+}

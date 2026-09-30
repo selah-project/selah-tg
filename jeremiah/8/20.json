@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Гузашт ҷамъоварии ғалла, тамом шуд тобистон — ва мо наҷот наёфтем.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "гузашт"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ҷамъоварии ғалла"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "тамом шуд"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "тобистон"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ва мо"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "наҷот наёфтем"
+    }
+  ],
+  "timestamp": "2026-09-30T17:44:13.660432300Z",
+  "model": "glm-5.3"
+}

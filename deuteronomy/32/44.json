@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Моше омад ва ⟨את⟩ тамоми каломҳои ин сурудро ба гӯшҳои мардум гуфт — ӯ ва Ҳӯшаъ писари Нун.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ва омад"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тамоми каломҳои ин сурӯд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "каломҳои"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ин сурӯдро"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ба гӯшҳои"
+    },
+    {
+      "surface": "העם",
+      "gloss": "мардум"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "ва Ҳӯшаъ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:33.323108895Z",
+  "model": "glm-5.3"
+}

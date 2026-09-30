@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Бар Левӣ Ҳашавя писари Кемуэл; бар Аҳарон Тсадок.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "бар Левӣ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Ҳашавя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэл"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "бар Аҳарон"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Тсадок"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:42.027254791Z",
+  "model": "glm-5.3"
+}

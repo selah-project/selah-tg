@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Яҳве ба шумо то ин рӯз дил барои донистан, ва чашмҳо барои дидан, ва гӯшҳо барои шунидан надод.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва надод"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "надод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "барои донистан"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ва чашмҳо"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "барои дидан"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ва гӯшҳо"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "барои шунидан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ин рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:19.563791568Z",
+  "model": "glm-5.3"
+}

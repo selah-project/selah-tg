@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Сихон баромад, ки бо мо бигзароҷад — ӯ ва тамоми қавми ӯ — барои ҷанг, ба Яҳтса.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ва баромад"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "бо мо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва тамоми"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "қавми ӯ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "барои ҷанг"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ба Яҳтса"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:44.508066958Z",
+  "model": "glm-5.3"
+}

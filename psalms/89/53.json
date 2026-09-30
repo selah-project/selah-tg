@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "Муборак аст Яҳве то абад. Омин ва омин.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Муборак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Омин"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ва омин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:19.960239857Z",
+  "model": "glm-5.3"
+}

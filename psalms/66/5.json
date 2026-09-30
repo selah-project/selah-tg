@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 66,
+  "translation": "Биёед ва бинед корҳои Элоҳим — нӯҳоваро корҳояш бар фарзандони одам.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Биёед"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ва бинед"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "корҳои"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "нӯҳоваро"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "корҳояш"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:41.281980359Z",
+  "model": "glm-5.3"
+}

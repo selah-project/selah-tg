@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Он гоҳ ду зан фоҳиша назди подшоҳ омаданд ва пеши ӯ истоданд.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "зан"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "фоҳиша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "истоданд"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пеши ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:01:50.349905454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва Довуд хест ва ӯ бо шашсад мардоне ки бо ӯ буданд, ба сӯйи Ахиш писари Маох, подшоҳи Гат, гузашт.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ва гузашт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯйи"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Маох"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:50:42.538669374Z",
+  "model": "glm-5.3"
+}

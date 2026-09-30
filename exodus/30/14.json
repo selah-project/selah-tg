@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ҳар кӣ аз шуморидагон гузарад, аз бистсола ва боло, тӯҳфаи Яҳверо диҳад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар кӣ"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "гузарад"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "шуморидагон"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "аз ... сола"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сола"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ва боло"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "диҳад"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "тӯҳфаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:41:07.690471068Z",
+  "model": "glm-5.3"
+}

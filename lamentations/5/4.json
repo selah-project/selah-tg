@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Оби худро ба пул омехтем, чӯби мо ба нарх меояд.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Оби худро"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ба пул"
+    },
+    {
+      "surface": "שתинו",
+      "gloss": "омехтем"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "чӯби мо"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ба нарх"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "меояд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:27.505458546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва ин суханоне ки ман имрӯз ба ту амр мекунам, бар дили ту бошанд",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ва бошанд"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ин суханон"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "амр мекунам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "дили ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:38.794172154Z",
+  "model": "glm-5.3"
+}

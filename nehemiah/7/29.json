@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони Кирьят-Яърим, Кефира ва Беэрот — ҳафтсаду чилу се нафар.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьят-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Яърим"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефира"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ва Беэрот"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ву се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:39.368348674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве ба Моше сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:16.325727058Z",
+  "model": "glm-5.3"
+}

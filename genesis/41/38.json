@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 41:38",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва Паръо ба хизматгоронаш гуфт: «Оё метавонем марде чунин ёбем, ки руахи Элоҳим дар ӯ бошад?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "хизматгоронаш"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ёбем"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:26:09.656961628Z",
+  "model": "glm-5.3"
+}

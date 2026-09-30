@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 4:39",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ту имрӯз донӣ ва ба дил баргардонӣ, ки Яҳве — Ӯст Элоҳим дар осмонҳо аз боло ва бар замин аз поён; дигаре нест.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Ва ту донӣ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "ва баргардонӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "дили худ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯст"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осмонҳо"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "аз боло"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "аз поён"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигаре"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:36.479216522Z",
+  "model": "glm-5.3"
+}

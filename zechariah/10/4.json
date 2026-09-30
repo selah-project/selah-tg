@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Аз ӯ гӯшаи бино, аз ӯ мех, аз ӯ камони ҷанг; аз ӯ ҳар зӯмрон якҷоя баромад.",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "аз ӯ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "гӯшаи бино"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз ӯ"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "мех"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз ӯ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "камони"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз ӯ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "зӯмрон"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "якҷоя"
+    }
+  ],
+  "timestamp": "2026-09-30T18:30:48.786648990Z",
+  "model": "glm-5.3"
+}

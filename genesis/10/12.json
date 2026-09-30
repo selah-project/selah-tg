@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва ⟨את⟩ Ресенро, ки байни Нинве ва Калҳа аст — ҳамин аст шаҳри бузург.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ресен"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресен"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Нинве"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ва байни"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Калҳа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳамин аст"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "бузург"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:52.133626895Z",
+  "model": "glm-5.3"
+}

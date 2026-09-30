@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ба охири чил рӯз Нӯҳ ⟨את⟩ тирезаи киштиро, ки сохта буд, кушод.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ба охир"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "охири"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "кушод"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тирезаи кишти"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "тирезаи"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "киштиро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохта буд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:02.002998461Z",
+  "model": "glm-5.3"
+}

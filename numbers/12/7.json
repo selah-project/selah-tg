@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "На ҳамин тавр аст бандаам Моше; дар тамоми хонаам ӯ беайб вақф аст.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "бандаам"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар тамоми"
+    },
+    {
+      "surface": "бיתי",
+      "gloss": "хонаам"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "беайб вақф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:30.313190822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва фарзандони Неъарйа: Элйоэнай ва Ҳизқийа ва Азриқом — се.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Неъарйа"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Элйоэнай"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "ва Ҳизқийа"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "ва Азриқом"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:11.274158938Z",
+  "model": "glm-5.3"
+}

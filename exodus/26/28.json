@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва тири мобайнӣ дар миёни керашҳо аз як нӯг то як нӯг мегузарад.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "ва тири"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "мобайнӣ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "керашҳо"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "мегузарад"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "як нӯг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "то"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "як нӯг"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:48.004602978Z",
+  "model": "glm-5.3"
+}

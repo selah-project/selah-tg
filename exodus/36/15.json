@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Дарозии як парда сӣ ғаз, ва паҳнии як парда чор ғаз буд — ченаки якхела барои ёздаҳ парда.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "дарозӣ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парда"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ғаз"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ғаз"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "паҳнӣ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парда"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ченак"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "якхела"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "барои ёздаҳ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "парда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:42.495225537Z",
+  "model": "glm-5.3"
+}

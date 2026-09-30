@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 60,
+  "translation": "Бархез, равшан шав, зеро нури ту омад ва ҳашиами Яҳве бар ту тулӯъ кард.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Бархез"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "равшан шав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "нури ту"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ва ҳашиами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "тулӯъ кард"
+    }
+  ],
+  "timestamp": "2026-09-30T17:38:58.919960210Z",
+  "model": "glm-5.3"
+}

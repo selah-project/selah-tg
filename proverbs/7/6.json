@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "зеро аз тирезаи хонаам, дар паҳлӯи тори тирезаам, менгаҳ кардам",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "аз тирезаи"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "хонаам"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "дар паҳлӯи"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "тори тирезаам"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "менгаҳ кардам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:30.525575287Z",
+  "model": "glm-5.3"
+}

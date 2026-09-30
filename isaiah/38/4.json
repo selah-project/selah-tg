@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва калами Яҳве ба Йешаъяҳу омад, ба гуфтан.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешаъяҳу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:32:18.353994098Z",
+  "model": "glm-5.3"
+}

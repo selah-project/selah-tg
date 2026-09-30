@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Аттай ⟨את⟩ Нотонро таваллуд кард, ва Нотон ⟨את⟩ Забадро таваллуд кард.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Ва Аттай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нотонро"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нотон"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ва Нотон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Забадро"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Забад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:41.901508188Z",
+  "model": "glm-5.3"
+}

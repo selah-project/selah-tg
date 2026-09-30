@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 114,
+  "translation": "Аз рӯи Адон мепечӣ, эй замин, аз рӯи Элоҳаи Яъқов!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адон"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "мепечӣ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "эй замин"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоҳа"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:59.209342074Z",
+  "model": "glm-5.3"
+}

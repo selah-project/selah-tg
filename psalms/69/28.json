@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 69,
+  "translation": "Гуноҳро бар гуноҳи онҳо бигзор, ва ба тсидқати Ту наоянд.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "бигзор"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гуноҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "гуноҳи онҳо"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва магар"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "наоянд"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ба тсидқати Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:53.866682648Z",
+  "model": "glm-5.3"
+}

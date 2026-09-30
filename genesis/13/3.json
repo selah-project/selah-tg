@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва ӯ бо манзилҳояш аз ҷануб раҳипо шуд — то Бет-Эл, то он ҷое ки чодираш дар аввал дар он ҷо буд — миёни Бет-Эл ва Ҳай.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "раҳипо шуд"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "бо манзилҳояш"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "аз ҷануб"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "дар он ҷо"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "чодираш"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "дар аввал"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ва миёни"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ҳай"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:33.365578401Z",
+  "model": "glm-5.3"
+}

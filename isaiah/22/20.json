@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 22:20",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва дар он рӯз бандам Элёқим, писари Хилқиёҳӯро мехонам.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ва… мешавад"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯз"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "мехонам"
+    },
+    {
+      "surface": "לעבדי",
+      "gloss": "бандам"
+    },
+    {
+      "surface": "לאליקים",
+      "gloss": "Элёқим"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Хилқиёҳӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:28:47.193328664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва сухани Яҳве ба ман расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:29.013495539Z",
+  "model": "glm-5.3"
+}

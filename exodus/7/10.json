@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-09-30T15:30:40.111971861Z",
+  "model": "glm-5.3"
+}

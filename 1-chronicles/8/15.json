@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Зевадйа, ва Арад ва Эдер.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ва Зевадйа"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "ва Арад"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ва Эдер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:38.198007875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва ҷамъияти омехтаи бисёр низ ⟨את⟩ бо онҳо баромад, ва гӯсфандон ва говҳо — чорвои бисёр бисёр.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "омехта"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "baromad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ бо онҳо"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ва гӯсфандон"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ва говҳо"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "чорво"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T15:33:45.534495310Z",
+  "model": "glm-5.3"
+}

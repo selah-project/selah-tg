@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва хусни Моше ба ӯ гуфт: ин коре ки ту мекунӣ, некӯ нест.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "хусн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:25.815593903Z",
+  "model": "glm-5.3"
+}

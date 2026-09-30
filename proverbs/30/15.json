@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ба золук ду духтар: «Бидеҳ, бидеҳ!» Се чиз ҳаст, ки сер намешаванд, чор мегӯянд: «Бас нест».",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "ба золук"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтар"
+    },
+    {
+      "surface": "הב",
+      "gloss": "бидеҳ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "бидеҳ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "се"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "сер намешаванд"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "мегӯянд"
+    },
+    {
+      "surface": "הון",
+      "gloss": "«Бас»"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:04.407289779Z",
+  "model": "glm-5.3"
+}

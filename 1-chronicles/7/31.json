@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва фарзандони Бериа: Хебер ва Малкиэл; ӯ падари Бирзот буд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бериа"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хебер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "ва Малкиэл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бирзот"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:43.902062990Z",
+  "model": "glm-5.3"
+}

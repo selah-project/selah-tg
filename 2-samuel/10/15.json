@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Арам дид, ки пеши Йисроэл шикаст хӯрд, ва якҷоя ҷамъ шуданд.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "шикаст хӯрд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ва ҷамъ шуданд"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "якҷоя"
+    }
+  ],
+  "timestamp": "2026-09-30T16:55:23.539447501Z",
+  "model": "glm-5.3"
+}

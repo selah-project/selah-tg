@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Яҳве, Элоҳими руахҳои ҳама тан, як мард бар пои маҷлис таъин кунад",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "таъин кунад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "руахҳои"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "як мард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар пои"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "маҷлис"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:16.419198082Z",
+  "model": "glm-5.3"
+}

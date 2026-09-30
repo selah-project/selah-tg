@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва ба Лаван дар рӯзи саввум хабар дода шуд, ки Яъқоб ғурехтааст.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "хабар дода шуд"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ба Лаван"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "саввум"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ғурехтааст"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:30.203830179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Мизмор, суруди тақдискунии хона, ба Довуд.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруди"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "тақдискунии"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ба Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:18.358247971Z",
+  "model": "glm-5.3"
+}

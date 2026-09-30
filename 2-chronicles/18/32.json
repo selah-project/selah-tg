@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 18:32",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва чун сардорони аробаҳо диданд, ки ӯ подшоҳи Йисроэл набуд, аз пайи ӯ баргаштанд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва чун"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "диданд"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "сардорони"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "аробаҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "היה",
+      "gloss": "аст"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "баргаштанд"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "аз пайи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:16:32.348171790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Мардони Байт-Эл ва Ай — ду сад ва бисту се тан.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мардони"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ва Ай"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ду сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "у се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:50.518892026Z",
+  "model": "glm-5.3"
+}

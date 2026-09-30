@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аттай шашум, Элиел ҳафтум.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Аттай"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиел"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ҳафтум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:12.220095372Z",
+  "model": "glm-5.3"
+}

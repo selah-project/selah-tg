@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Агар либоси ҳамсояатро гарав гирӣ, то ғуруби офтоб ба ӯ бигардон.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "гарав"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "гирӣ"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "либос"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ҳамсояат"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ғуруби"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "бигардон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:25.083226567Z",
+  "model": "glm-5.3"
+}

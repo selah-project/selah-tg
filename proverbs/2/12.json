@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "то туро аз роҳи бад ва аз марди гарчи пурчаплус нҷот диҳад,",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "то туро нҷот диҳад"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "аз роҳ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "аз мард"
+    },
+    {
+      "surface": "мדבר",
+      "gloss": "гарчи"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "пурчаплус"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:56.876319138Z",
+  "model": "glm-5.3"
+}

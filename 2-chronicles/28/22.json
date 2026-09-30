@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва дар вақти тангии ў, ӯ боз бештар ба Яҳве хиёнат кард — ҳамон подшоҳ Аҳаз.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "ва дар вақти"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "тангӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ў"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "боз бештар"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "хиёнат кард"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳамон"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аҳаз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:51:06.537189556Z",
+  "model": "glm-5.3"
+}

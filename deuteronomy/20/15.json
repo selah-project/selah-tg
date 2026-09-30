@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ҳамин тавр бо ҳамаи шаҳрҳое ки аз ту бисёр дуранд ва аз шаҳрҳои ин халқҳо нестанд, амал хоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "амал хоҳӣ кард"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бо ҳамаи"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "шаҳрҳое ки"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "дур"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "аз ту"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "аз шаҳрҳои"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ин халқҳо"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:08.490887645Z",
+  "model": "glm-5.3"
+}

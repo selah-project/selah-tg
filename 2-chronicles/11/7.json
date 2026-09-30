@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва ⟨את⟩ Байт-Тсур ва ⟨את⟩ Сохо ва ⟨את⟩ Адулломро.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Байт-Тсур"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Тсур"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Сохо"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Сохо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Адуллом"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адуллом"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:53.324870830Z",
+  "model": "glm-5.3"
+}

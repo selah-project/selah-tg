@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Эй хонаи Яъқоб, биёед, ва дар нӯри Яҳве роҳ равем!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "биёед"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ва роҳ равем"
+    },
+    {
+      "surface": "באור",
+      "gloss": "дар нӯри"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:21:22.475443357Z",
+  "model": "glm-5.3"
+}

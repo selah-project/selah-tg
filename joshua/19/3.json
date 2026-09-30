@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "ва Хатсар-Шуал, ва Бала ва Атсем",
+  "tokens": [
+    {
+      "surface": "וַחֲצַ֥ר שׁוּעָ֛ל",
+      "gloss": "ва Хатсар-Шуал"
+    },
+    {
+      "surface": "וּבָלָ֖ה",
+      "gloss": "ва Бала"
+    },
+    {
+      "surface": "וָעָֽצֶם",
+      "gloss": "ва Атсем"
+    }
+  ],
+  "timestamp": "2026-09-30T20:01:13.517046719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳамаи дастрӯ мешаванд, ва ҳамаи зонуҳо ба об ⟨мегарданд⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "дастрӯ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "мешаванд"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "зонуҳо"
+    },
+    {
+      "surface": "תלкנה",
+      "gloss": "мегарданд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ба об"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:02.783124896Z",
+  "model": "glm-5.3"
+}

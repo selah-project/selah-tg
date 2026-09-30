@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва ҳавлро чен кард: дарозӣ сад аmma ва барӣ сад аmma, чоркунҷа; ва қурбонгоҳ пеши хона буд.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "чен кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳавл"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ҳавл"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозӣ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ва барӣ"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "чоркунҷа"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "ва қурбонгоҳ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:50.729424519Z",
+  "model": "glm-5.3"
+}

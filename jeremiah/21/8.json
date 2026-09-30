@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ба ин халқ мегӯӣ: Ин гӯяд Яҳве: Инак, Ман ⟨את⟩ роҳи ҳаёт ва ⟨את⟩ роҳи маргро пеши шумо мегузорам.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "мегӯӣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "инак"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "мегузорам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пеши шумо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "роҳи ҳаёт"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "роҳи марг"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "המות",
+      "gloss": "марг"
+    }
+  ],
+  "timestamp": "2026-09-30T17:47:57.715938883Z",
+  "model": "glm-5.3"
+}

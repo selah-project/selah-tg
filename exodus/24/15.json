@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва Моше ба кӯҳ баромад, ва абр ⟨את⟩ кӯҳро пӯшонид.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ва баромад"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ва пӯшонид"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "абр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кӯҳро"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:03.369327705Z",
+  "model": "glm-5.3"
+}

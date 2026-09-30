@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Не куштанӣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "қатл мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:31.513575734Z",
+  "model": "glm-5.3"
+}

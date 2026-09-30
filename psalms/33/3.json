@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Барои ӯ таронаи нав сароед, нек навозед бо фарёди баланд.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "сароед"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "тарона"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нав"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "нек [навозед]"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "навозед"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "бо фарёди баланд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:47.783912237Z",
+  "model": "glm-5.3"
+}

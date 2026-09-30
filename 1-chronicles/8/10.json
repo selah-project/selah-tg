@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва ⟨את⟩ Йеутс ва ⟨את⟩ Шакъя ва ⟨את⟩ Мирмаро; инҳо писарони ӯ, сарварони айлҳо буданд.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Йеутс"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Йеутс"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Шакъя"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Шакъя"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Мирма"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Мирма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писарони ӯ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "сарварони"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "айлҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:28.296779263Z",
+  "model": "glm-5.3"
+}

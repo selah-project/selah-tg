@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва аз рӯйи дарвозаи даромадгоҳ то рӯйи айвони дарвозаи дохилӣ панҷоҳ зироъ буд.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарвозаи"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "даромадгоҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "то"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "айвони"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарвозаи"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "дохилӣ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "зироъ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:31.846612463Z",
+  "model": "glm-5.3"
+}

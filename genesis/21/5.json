@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Авраҳам садсола буд, вақте ки ба ӯ ⟨את⟩ Йитсҳоқ, писараш, зоида шуд.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ва Авраҳам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сола"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "зоида шуданаш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йитсҳоқ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йитсҳоқ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:00.241662227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва Яҳве ба Моше сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфт:"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:42.102328554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 130,
+  "translation": "Зеро ки бо Туст бахшиш, то ки аз Ту битарсӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо Туст"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "бахшиш"
+    },
+    {
+      "surface": "למען",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "аз Ту битарсӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:26.703359750Z",
+  "model": "glm-5.3"
+}

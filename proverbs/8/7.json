@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Зеро даҳони ман ҳақиқат месозад ва бадӣ барои лабҳоям айб аст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ҳақиқат"
+    },
+    {
+      "surface": "יהгה",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "даҳони ман"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "айб"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "лабҳоям"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:21.370964138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва агар либосҳояшро нашӯяд ва баданашро об накунад — гунаҳи худро бардорад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "шӯяд"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "баданашро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "об накунад"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "бардорад"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "гунаҳи худро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:20.805907391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 6:22",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Гидъон дид, ки ин фариштаи Яҳве буд, ва Гидъон гуфт: Эҳ, Адонай Яҳве! Зеро ки ман фариштаи Яҳвро рӯ ба рӯ дидам.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ва дид"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидъон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фаришта"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидъон"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "эҳ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фаришта"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:33:32.757167979Z",
+  "model": "glm-5.3"
+}

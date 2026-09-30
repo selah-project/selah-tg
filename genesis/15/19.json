@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "⟨את⟩ кайниён ва ⟨את⟩ кеназийён ва ⟨את⟩ кадмонийёнро:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кайниён"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "кайниён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "кеназийён"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "кеназийён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "кадмонийён"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "кадмонийён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:09.045837485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Пирон аз дароваза Шаббат карданд — {орам шуданд}, ҷавонон аз таронаи худ.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "пирон"
+    },
+    {
+      "surface": "משער",
+      "gloss": "аз дароваза"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "Шаббат карданд"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ҷавонон"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "аз таронаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:22.428466876Z",
+  "model": "glm-5.3"
+}

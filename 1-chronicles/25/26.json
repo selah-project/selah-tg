@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Нуздадуналӯм ба Маллотӣ, фарзандонаш ва бародаронаш — дӯздаҳ нафар.",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "нӯҳ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "ба Маллотӣ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "фарзандонаш"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва бародаронаш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дӯ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:33.074400037Z",
+  "model": "glm-5.3"
+}

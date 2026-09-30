@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Калимае ки Ишаъяҳу, писари Омоц, дид — дар бораи Йеҳуда ва Ерушалайим.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "калима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишаъяҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Омоц"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ва Ерушалайим"
+    }
+  ],
+  "timestamp": "2026-09-30T17:22:33.337412594Z",
+  "model": "glm-5.3"
+}

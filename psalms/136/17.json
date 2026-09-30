@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба Ҷоне ки подшоҳони бузургро зад, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ба Ҷоне ки зад"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "подшоҳон"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:12.081822350Z",
+  "model": "glm-5.3"
+}

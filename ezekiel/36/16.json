@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва сухани Яҳве ба ман расид, чиунин гӯяд:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чиунин гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:27.856331346Z",
+  "model": "glm-5.3"
+}

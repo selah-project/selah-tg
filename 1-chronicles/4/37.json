@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва Зиза, писари Шифъӣ, писари Аллон, писари Йедая, писари Шимрӣ, писари Шемаъя.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "ва Зиза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "Шифъӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Аллон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "Йедая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимрӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаъя"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:21.784383061Z",
+  "model": "glm-5.3"
+}

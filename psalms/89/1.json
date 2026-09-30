@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "Машқили Эйтон Эзроҳӣ.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "машқил"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Эйтон"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Эзроҳӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:39.603334458Z",
+  "model": "glm-5.3"
+}

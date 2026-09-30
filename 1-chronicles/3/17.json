@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва писарони Йехонйаҳи асир: Шеалтиэл, писараш.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехонйаҳ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "асир"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:16.905438311Z",
+  "model": "glm-5.3"
+}

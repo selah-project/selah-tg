@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Макруҳтарин назди Яҳве каҷдилон, вале хушнудии Ӯ ростони роҳ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Макруҳтарин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "каҷдилон"
+    },
+    {
+      "surface": "לב",
+      "gloss": ""
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "вале хушнудии Ӯ"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ростони"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:19.476897257Z",
+  "model": "glm-5.3"
+}

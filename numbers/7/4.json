@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Яҳве ба Моше сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "сухан ронда гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:08.573446322Z",
+  "model": "glm-5.3"
+}

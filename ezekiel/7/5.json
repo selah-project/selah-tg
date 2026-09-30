@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳамин мегӯяд Адонай Яҳве: бадӣ, бадии ягона — ҳано, омадааст.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ягона"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳано"
+    },
+    {
+      "surface": "באה",
+      "gloss": "омадааст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:51.957238931Z",
+  "model": "glm-5.3"
+}

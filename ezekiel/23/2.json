@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "«Эй писари одам, ду зан буданд — духтарони як модар.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "зан"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтарон"
+    },
+    {
+      "surface": "אם",
+      "gloss": "модар"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "היו",
+      "gloss": "буданд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:07:58.911130636Z",
+  "model": "glm-5.3"
+}

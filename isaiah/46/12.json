@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ба Ман гӯш кунед, эй сахтдилон, ки аз тседек дур ҳастед!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "гӯш кунед"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба Ман"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "эҳ, сахтдилон"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "дур ҳастед"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "аз тседек"
+    }
+  ],
+  "timestamp": "2026-09-30T17:34:56.294648Z",
+  "model": "glm-5.3"
+}

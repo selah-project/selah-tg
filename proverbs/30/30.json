@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Шер — қавитарини ⟨⟨the⟩⟩ ҳайвонот, ва аз рӯйи ҳеҷ кас бознамегардад;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "шер"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "қавӣ"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "дар байни ҳайвонот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "бозмегардад"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯйи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар кас"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:17.842871072Z",
+  "model": "glm-5.3"
+}

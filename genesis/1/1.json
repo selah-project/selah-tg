@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Дар ибтидо Элоҳим ⟨את⟩ осмонҳо ва ⟨את⟩ заминро офарид.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Дар ибтидо"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "офарид"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "осмонҳо"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "замин"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "заминро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:34.555737423Z",
+  "model": "glm-5.3"
+}

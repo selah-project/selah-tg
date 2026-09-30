@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Дар соли ҳаштдаҳуми подшоҳии Яровъом Абия бар Йеҳуда подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "дар соли"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ҳашт"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "подшоҳии"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровъом"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абия"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:12.989438900Z",
+  "model": "glm-5.3"
+}

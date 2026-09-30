@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ботил мегӯяд ҳар як бо ⟨את⟩ ёри худ; лаби ҳамвор, бо дилу дил мегӯянд.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ботил"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар як"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ёри худ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ёри худ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "лаби"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ҳамвор"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "бо дил"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ва дил"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "мегӯянд"
+    }
+  ],
+  "timestamp": "2026-09-30T20:10:22.383004739Z",
+  "model": "glm-5.3"
+}

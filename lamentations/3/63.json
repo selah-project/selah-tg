@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Нишасту хестани онҳоро бингар; ман суруди масхаразами онҳоам.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "нишастанашон"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "ва хестани онҳоро"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "бингар"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "суруди масхаразами онҳоам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:50.299339672Z",
+  "model": "glm-5.3"
+}

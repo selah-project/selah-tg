@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "таҳфуҳот дар дили ӯст, бадӣ меандешад дар ҳар вақт, ихтилофот мефиристад",
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "таҳфуҳот"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "дар дили ӯ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "меандешад"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳар"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақт"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "ихтилофот"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "мефиристад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:15.101754770Z",
+  "model": "glm-5.3"
+}

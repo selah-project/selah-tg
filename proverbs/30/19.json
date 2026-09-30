@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "роҳи уқоб дар осмон, роҳи мор бар санг, роҳи киштӣ дар дилфи баҳр ва роҳи мард бо духтари ҷавон.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "уқоб"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осмон"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "мор"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "צור",
+      "gloss": "санг"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "киштӣ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "дар дилфи"
+    },
+    {
+      "surface": "ים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ва роҳи"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "бо духтари ҷавон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:17.447012080Z",
+  "model": "glm-5.3"
+}

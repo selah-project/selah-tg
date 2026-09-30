@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ба Яҳве бо киннор, бо невили даҳтор созед, барои ӯ навозед.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ситоиш кунед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "бо киннор"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "бо невил"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "даҳтор"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "навозед"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:47.783747119Z",
+  "model": "glm-5.3"
+}

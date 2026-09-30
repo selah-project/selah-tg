@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 150,
+  "translation": "Ҳар он чи нафас дорад, Яҳро ҳамд гӯяд. Ҳамд гӯед Яҳ!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ҳар он чи"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "нафас дорад"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ҳамд гӯяд"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ҳамд гӯед"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:03.899753953Z",
+  "model": "glm-5.3"
+}

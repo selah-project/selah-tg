@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ба мардони бадӣ ҳасад макун ва хоста макун бо ⟨את⟩ онҳо будан.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "макун"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ҳасад"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ба мардон"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "хоста макун"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "будан"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "онҳо (бо онҳо будан)"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:40.416588520Z",
+  "model": "glm-5.3"
+}

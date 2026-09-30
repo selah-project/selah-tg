@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Ҷони майда шуда аз ҳавас ба ҳукмҳои туро дар ҳар вақт.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "шикаста"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони ман"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "аз ҳавас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ҳукмҳои туро"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳар"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақт"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:49.460578327Z",
+  "model": "glm-5.3"
+}

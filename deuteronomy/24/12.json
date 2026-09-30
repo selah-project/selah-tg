@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва агар ӯ марди қашшоқ бошад, бо гарави ӯ хоб накун.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "עני",
+      "gloss": "қашшоқ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "хоб накун"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "бо гарави ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:07.920266704Z",
+  "model": "glm-5.3"
+}

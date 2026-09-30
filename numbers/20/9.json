@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Моше асоро аз назди Яҳве гирифт, чунон ки ба ӯ фармуда буд.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "асоро"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "асо"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "аз назди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ба ӯ фармуда буд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:22.824823474Z",
+  "model": "glm-5.3"
+}

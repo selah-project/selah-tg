@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Зебулун — Элиав, писари Ҳелон.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "барои Зебулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Ҳелон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:42.198029704Z",
+  "model": "glm-5.3"
+}

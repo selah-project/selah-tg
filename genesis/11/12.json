@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Арпақшад сӣ панҷ сол зист ва ⟨את⟩ Шелаҳро таваллуд кард.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ва Арпақшад"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зист"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ва сӣ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ва таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелаҳ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:54.965555058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва гӯшти писаронатонро хӯред, ва гӯши духтаронатонро хӯред.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ва хӯред"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "писаронатон"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ва гӯшт"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "духтаронатон"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "хӯред"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:57.290113409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "ва Ремет, ва Эйн-Ганим, ва Эйн-Ҳадда ва Байт-Патсес.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "ва Ремет"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ва Эйн"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ганим"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ва Эйн"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Ҳадда"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ва Байт"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Патсес"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:39.529035330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Риштаҳои думча барои худ созӣ, бар чор кунҷи рӯпӯши худ, ки бо он худро мепӯшонӣ.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "риштаҳои думча"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "созӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "кунҷ"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "рӯпӯши ту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "мепӯшонӣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "бо он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:34.767380322Z",
+  "model": "glm-5.3"
+}

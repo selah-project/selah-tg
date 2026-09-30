@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Малъун бошад ҳар кӣ ки бо ҳар ҳайвон мехобад, ва тамоми халқ мегӯяд: Омин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Малъун бошад"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "мехобад"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ҳайвон"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва мегӯяд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Омин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:28.626430150Z",
+  "model": "glm-5.3"
+}

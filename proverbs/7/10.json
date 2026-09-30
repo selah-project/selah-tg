@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "ва бинед — зан ба пешвози ӯ ⟨омад⟩, бо пӯшиши зани бофа ва нигоҳбондаи қалб",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ва бинед"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ба пешвози ӯ"
+    },
+    {
+      "surface": "שית",
+      "gloss": "пӯшиш"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зани бофа"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "ва нигоҳбонда"
+    },
+    {
+      "surface": "לב",
+      "gloss": "қалб"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:11.293404756Z",
+  "model": "glm-5.3"
+}

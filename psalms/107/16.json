@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 107,
+  "translation": "Зеро дарвозаҳои мисинро шикаст, ва милҳои оҳанинро бурид.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикаст"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "дарвозаҳои"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мисин"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ва милҳои"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "оҳанин"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "бурид"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:16.781997863Z",
+  "model": "glm-5.3"
+}

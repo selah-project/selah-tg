@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "«Зинда ман — мегӯяд Адонай Яҳве — дигар ин масалро дар Йисроэл насароед.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Зинда"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "шавад"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "шуморо"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "משל",
+      "gloss": "насароед"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ин масалро"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "дар Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:04:58.847467172Z",
+  "model": "glm-5.3"
+}

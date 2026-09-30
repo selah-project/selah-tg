@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Дар гуноҳи лабҳо доми бадӣ, ва ростодил аз тангӣ бармеояд.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Дар гуноҳи"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "лабҳо"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "дом"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "бarmeояд"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "аз тангӣ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ростодил"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:21.784208204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Ман дар шитоби худ гуфтам: ҳар одам дурӯғгӯ ⟨аст⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "дар шитоби худ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "дурӯғгӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:57.517963252Z",
+  "model": "glm-5.3"
+}

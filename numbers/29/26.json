@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "ва дар рӯзи панҷум нуҳ гов, ду қӯчқор ва чордаҳ гӯсфанди яксолаи беайб.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "панҷум"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "гов"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "нуҳ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "-сола"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "як сол"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чордаҳ — чор"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "беайб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:46.436768551Z",
+  "model": "glm-5.3"
+}

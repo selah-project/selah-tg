@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Ийим сафар кашиданд ва дар Дивон-и Гад лагер заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "сафар кашиданд"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "аз Ийим"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер заданд"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "дар Дивон"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:04.606773160Z",
+  "model": "glm-5.3"
+}

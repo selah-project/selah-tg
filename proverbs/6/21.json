@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Онҳоро доимо ба дили худ бибанд, ва онҳоро ба гулӯи худ бибанд.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "онҳоро бибанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дили худ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "доимо"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "онҳоро бибанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "гулӯи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:11.658540384Z",
+  "model": "glm-5.3"
+}

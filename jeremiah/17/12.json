@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Тахти ҷалол, баланд аз аввал — макони муқаддаси мо.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "тахт"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "баланд"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "аз аввал"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "макони"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "муқаддаси мо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:08.082987028Z",
+  "model": "glm-5.3"
+}

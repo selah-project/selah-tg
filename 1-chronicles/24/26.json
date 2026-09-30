@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Фарзандони Мрари: Махлӣ ва Мӯшӣ; фарзандони Яазйаҳу — писари ӯ Бено.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мрари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлӣ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ва Мӯшӣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "Яазйаҳу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:28.093008927Z",
+  "model": "glm-5.3"
+}

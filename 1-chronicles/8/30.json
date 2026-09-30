@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва писари бекори ӯ Абдон, ва Тсур, ва Киш, ва Баал, ва Надов.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ва писари"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "бекори"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Абдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ва Тсур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ва Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ва Баал"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ва Надов"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:41.075283184Z",
+  "model": "glm-5.3"
+}

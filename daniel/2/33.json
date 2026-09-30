@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "соиҳои он аз оҳан, пойҳои он — баъзеашон аз оҳан ва баъзеашон аз гил.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "соиҳои он"
+    },
+    {
+      "surface": "די",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "пойҳои он"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "баъзеашон"
+    },
+    {
+      "surface": "די",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ва баъзеашон"
+    },
+    {
+      "surface": "די",
+      "gloss": "аз"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "гил"
+    }
+  ],
+  "timestamp": "2026-09-30T19:23:18.070412675Z",
+  "model": "glm-5.3"
+}

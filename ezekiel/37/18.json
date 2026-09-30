@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "ва чун фарзандони халқи ту ба ту гӯянд, ки: «Оё ба мо нахоҳӣ гуфт, ки инҳо барои ту чистанд?»",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "ва чун"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "гӯянд"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "халқи ту"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "оё на"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "нахоҳӣ гуфт"
+    },
+    {
+      "surface": "лנу",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:13:07.328753135Z",
+  "model": "glm-5.3"
+}

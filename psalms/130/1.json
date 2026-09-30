@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 130,
+  "translation": "Суруди мақомот. Аз умқҳо Туро ном бурдам, э Яҳве.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "суруди"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "мақомот"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "аз умқҳо"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Туро ном бурдам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:26.702387059Z",
+  "model": "glm-5.3"
+}

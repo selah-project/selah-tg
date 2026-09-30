@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва бо ⟨את⟩ ӯ бозгашт, ва дар хонаи ӯ нон хӯрд ва об нӯшид.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ва бозгашт"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "бо ⟨את⟩ ӯ",
+      "marks": "бо ӯ"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ва хӯрд"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "дар хонаи ӯ"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ва нӯшид"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T17:07:18.569102757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Элоҳим ракиаро Шамайим номид; ва шабистон шуд, ва саҳар шуд — рӯзи дуюм.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ракиаро"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Шамайим"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "шуд"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "шабистон"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "саҳар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "שני",
+      "gloss": "дуюм"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:38.890826896Z",
+  "model": "glm-5.3"
+}

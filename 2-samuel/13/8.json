@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Тамар рафт ба хонаи Амнон, бародараш, вай хобида буд. Ва ⟨את⟩ хамирро гирифт ва jovond ва ба назди чашмони ӯ kadubho созид ва ⟨את⟩ kadubhoro пухт.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ва рафт"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ба хона"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "бародараш"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "вай"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "хобида буд"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ва гирифт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хамир"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "хамир"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "ва jovond"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "kadubho созид"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ба назди чашмони ӯ"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "ва пухт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadubho"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "kadubho"
+    }
+  ],
+  "timestamp": "2026-09-30T16:55:21.207357165Z",
+  "model": "glm-5.3"
+}

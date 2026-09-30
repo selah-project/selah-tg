@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Хори баромада ба дасти маст — чунин аст масал дар даҳони аҳмақон.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "хор"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "баромада"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "маст"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ва масал"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "дар даҳони"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "аҳмақон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:07.463787422Z",
+  "model": "glm-5.3"
+}

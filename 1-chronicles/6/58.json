@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва ⟨את⟩ Раамот ва ⟨את⟩ мераҳои он, ва ⟨את⟩ Анем ва ⟨את⟩ мераҳои он.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Раамот"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Раамот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "мераҳои он"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "мераҳои он"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Анем"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Анем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "мераҳои он"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "мераҳои он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:18.068105821Z",
+  "model": "glm-5.3"
+}

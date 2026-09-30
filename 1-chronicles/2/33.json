@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Йонотон: Пелет ва Заза. Инҳо писарони Йераҳмеэл буданд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонотон"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "ва Заза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Инҳо"
+    },
+    {
+      "surface": "היו",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йераҳмеэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:41.900393163Z",
+  "model": "glm-5.3"
+}

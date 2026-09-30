@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Яҳве Тсевоот бо мост, сангистии мо Элоҳии Яъқуб аст. Селаҳ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бо мост"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "сангистӣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "мо"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳии"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқуб"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:22.591890585Z",
+  "model": "glm-5.3"
+}

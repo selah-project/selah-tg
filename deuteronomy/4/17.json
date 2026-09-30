@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "шакли ҳар ҳайвоне ки дар замин аст, шакли ҳар парандае ки дар осмон мепарад,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "шакли"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ҳайвоне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "шакли"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "парандае"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "болдор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "мепарад"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осмон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:32.430331116Z",
+  "model": "glm-5.3"
+}

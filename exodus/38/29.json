@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 38:29",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва миси тануфа ҳафтод сикор ва ду ҳазору чор сад шекел буд.",
+  "tokens": [
+    {
+      "surface": "ונחשת",
+      "gloss": "ва миси"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "тануфа"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ҳафтод"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "сикор"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ва ду ҳазор"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:18.238906675Z",
+  "model": "glm-5.3"
+}

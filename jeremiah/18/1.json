@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Сухане ки ба Йирмияҳу аз ⟨את⟩ Яҳве расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмияҳу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:47:32.331166370Z",
+  "model": "glm-5.3"
+}

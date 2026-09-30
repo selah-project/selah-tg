@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як бӯқаи бузҳо барои гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "бӯқа"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузҳо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:33.536862651Z",
+  "model": "glm-5.3"
+}

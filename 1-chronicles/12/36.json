@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва аз Донӣ — тартибдиҳандагони ҷанг бисту ҳашт ҳазор ва шашсад.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ва аз"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Донӣ"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "тартибдиҳандагони"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бисту"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ҳашт"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:17.027416690Z",
+  "model": "glm-5.3"
+}

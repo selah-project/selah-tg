@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва ман ба хонаи косагар фуроҳамам, ва ваҷҳаш — кор мекард дар ⟨the⟩ чархҳо.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "ва ман фуроҳамам"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "косагар"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ва ваҷҳаш"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кор мекард"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "чархҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:47:32.331604031Z",
+  "model": "glm-5.3"
+}

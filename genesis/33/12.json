@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва ӯ гуфт: Биравем ва сафар кунем, ва ман пеш аз ту равам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "сафар кунем"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ва биравем"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ва ман равам"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "пеш аз ту"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:01.271137553Z",
+  "model": "glm-5.3"
+}

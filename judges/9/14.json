@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва ҳамаи дарахтон ба хори ғӯза гуфтанд: Биё, ту подшоҳӣ кун бар мо.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "гуфтанд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дарахтон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "хори ғӯза"
+    },
+    {
+      "surface": "לך",
+      "gloss": "биё"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳӣ кун"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бар мо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:35:12.699782280Z",
+  "model": "glm-5.3"
+}

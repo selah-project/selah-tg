@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва Овайд ⟨את⟩ Йишайро зоид, ва Йишай ⟨את⟩ Довудро зоид.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ва Овайд"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йишайро"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ва Йишай"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Довудро"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:13.983353576Z",
+  "model": "glm-5.3"
+}

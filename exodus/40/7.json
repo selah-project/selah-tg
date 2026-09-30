@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва гузорӣ ⟨את⟩ ҳавзро байни Хаймаи Вохӯрӣ ва байни мизбаҳ, ва он ҷо об мегузорӣ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ва гузорӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳавзро"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ҳавз"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Вохӯрӣ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ва байни"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мизбаҳ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ва мегузорӣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:07.948975771Z",
+  "model": "glm-5.3"
+}

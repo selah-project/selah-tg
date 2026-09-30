@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Аматсйаҳу писари ӯ, Азарйаҳ писари ӯ, Йотам писари ӯ.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Аматсйаҳу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарйаҳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Йотам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:05.417084919Z",
+  "model": "glm-5.3"
+}

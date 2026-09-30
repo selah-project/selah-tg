@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва гоэл ба Боъз гуфт: «Барои худ бигир». Ва ӯ кафши худро кашид.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "ба Боъз"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "бигир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "ва кашид"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "кафшаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:10.218045264Z",
+  "model": "glm-5.3"
+}

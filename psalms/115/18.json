@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 115,
+  "translation": "Вале мо Яҳро баракат медиҳем, аз ин ҳолат то абад. Ҳалелу Яҳ!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "вале мо"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "баракат медиҳем"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "аз ин ҳолат"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ситоиш кунед"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:47.263505510Z",
+  "model": "glm-5.3"
+}

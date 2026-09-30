@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ҷамъ шавед, ҳа, ҷамъ шавед, эй халқи беорзу!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Ҷамъ шавед"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ҳа, ҷамъ шавед"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "эй халқи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נכсף",
+      "gloss": "беорзу"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:37.444111053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Шимшон ба Азза рафт ва он ҷо зани фоҳишаро дид ва назди ӯ даромад.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "ба Азза"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "фоҳиша"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "даромад"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "назди ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:39:12.661786514Z",
+  "model": "glm-5.3"
+}

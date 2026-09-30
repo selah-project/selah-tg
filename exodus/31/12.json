@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Яҳве ба Моше гуфт, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:20.951239906Z",
+  "model": "glm-5.3"
+}

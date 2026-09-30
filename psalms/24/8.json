@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Кист ин подшоҳи ҷалол? Яҳве — пурзӯр ва қаҳрамон, Яҳве — қаҳрамони ҷанг.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кист"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "пурзӯр"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ва қаҳрамон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "қаҳрамони"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:48.134258560Z",
+  "model": "glm-5.3"
+}

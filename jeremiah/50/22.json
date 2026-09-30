@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Овози ҷанг дар ⟨►⟩ замин ва шикасти бузург.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "овози"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ва шикасти"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    }
+  ],
+  "timestamp": "2026-09-30T17:57:49.125553572Z",
+  "model": "glm-5.3"
+}

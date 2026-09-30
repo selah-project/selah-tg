@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Агар ба дӯсти худ қарзи ҳар чизе диҳӣ, ба хонаи ӯ нарав, то гарави ӯро гирӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "қарз диҳӣ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ба дӯсти худ"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "қарз"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ҳар чизе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "равӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи ӯ"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "то гирӣ гаравро"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "гарави ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:07.919919006Z",
+  "model": "glm-5.3"
+}

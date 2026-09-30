@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳурай аз водиҳои Гааш, Авиэл Арбатӣ.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Ҳурай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "аз водиҳои"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааш"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиэл"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Арбатӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:25.750950426Z",
+  "model": "glm-5.3"
+}

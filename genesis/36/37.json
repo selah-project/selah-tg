@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва Самлаҳ мурд, ва ба ҷои ӯ Шаул аз Реҳовотҳои ⟨⟩ наҳр подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самлаҳ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "Реҳовотҳо"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "наҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:13.730373121Z",
+  "model": "glm-5.3"
+}

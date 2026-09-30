@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Нӯҳ писари шашсад сола буд, ва тӯфони обҳо рӯй замин ⟨буд⟩.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Ва Нӯҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сола"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ва тӯфони"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "על",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:56.118509891Z",
+  "model": "glm-5.3"
+}

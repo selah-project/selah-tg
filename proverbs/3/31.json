@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ба одами зӯровар ҳасад ма бар, ва ҳеҷ яке аз роҳҳои ӯро интихоб макун.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ҳасад ма бар"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ба одами"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зӯровар"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ма"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "интихоб макун"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "аз ҳама"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "роҳҳояш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:33.769040612Z",
+  "model": "glm-5.3"
+}

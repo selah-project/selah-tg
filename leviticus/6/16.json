@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва ҳар минҳаи коҳен пурра дуд карда мешавад — хӯрда намешавад.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ва ҳар"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минҳаи"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "пурра"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "дуд карда мешавад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "хӯрда мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:57.885143262Z",
+  "model": "glm-5.3"
+}

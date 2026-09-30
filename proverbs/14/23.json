@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Дар ҳар меҳнатът фоида ҳаст, вале сухани лабҳо — танҳо ба камбудӣ меорад.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳар"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "меҳнатът"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "фоида"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "вале сухани"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "лабҳо"
+    },
+    {
+      "surface": "אך",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ба камбудӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:11.326981904Z",
+  "model": "glm-5.3"
+}

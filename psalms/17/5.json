@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Устувор дор қадамҳоямро дар мағолҳои Ту, то ки поҳоям налағҷанд.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "устувор дор"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "қадамҳоямро"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "дар мағолҳои Ту"
+    },
+    {
+      "surface": "בל",
+      "gloss": "то ки ... на"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "налағҷанд"
+    },
+    {
+      "surface": "фdepends",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:20.608124020Z",
+  "model": "glm-5.3"
+}

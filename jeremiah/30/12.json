@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Зеро чунин мегӯяд Яҳве: беҳучра шикастаи ту, вазнин зарбати ту.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "כה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "беҳучра"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "шикастаи ту"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "вазнин"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "зарбати ту"
+    }
+  ],
+  "timestamp": "2026-09-30T17:50:32.210158989Z",
+  "model": "glm-5.3"
+}

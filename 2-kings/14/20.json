@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ӯро ⟨את⟩ бар аспон bardoshtand, ва ӯ дар Ерушалайим бо падаронаш дар шаҳри Довуд дафн карда шуд.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bardoshtand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "аспон"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "дафн карда шуд"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "дар Ерушалайим"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "падаронаш"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "дар шаҳри"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:16:49.842307996Z",
+  "model": "glm-5.3"
+}

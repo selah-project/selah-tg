@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва об аз мехлабҷа тамом шуд, ва ӯ ⟨את⟩ кӯдакро зери яке аз буттаҳо партофт.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "тамом шуд"
+    },
+    {
+      "surface": "המים",
+      "gloss": "об"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "мехлабҷа"
+    },
+    {
+      "surface": "וותשלך",
+      "gloss": "ва партофт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кӯдакро"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "кӯдак"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "буттаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:12.406606890Z",
+  "model": "glm-5.3"
+}

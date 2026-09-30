@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Аз ҳамаи исёнҳоям маро раҳоӣ кун; маро манқарати нодон макун.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "исёнҳоям"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "маро раҳоӣ кун"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "манқарати"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма-"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "кун"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:53.638902933Z",
+  "model": "glm-5.3"
+}

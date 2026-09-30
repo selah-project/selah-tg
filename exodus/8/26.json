@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Моше аз назди Паръо берун омад ва ба Яҳве илтиҷо кард.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ва берун омад"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз назди"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ва илтиҷо кард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:32:36.744642920Z",
+  "model": "glm-5.3"
+}

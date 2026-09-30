@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "⟨את⟩ як баҳр ва ⟨את⟩ дувоздаҳ говро зери он.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "як баҳр"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "вאת",
+      "gloss": "⟨את⟩",
+      "marks": "дувоздаҳ гов"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "зери он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:29.410168889Z",
+  "model": "glm-5.3"
+}

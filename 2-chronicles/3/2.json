@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ӯ рӯзи дуюми моҳи дуюм, дар соли чоруми подшоҳии худ, ба сохтан оғоз кард.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "оғоз кард"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ба сохтан"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "моҳи"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "рӯзи дуюм"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "дар соли"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "подшоҳии ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:53.119523485Z",
+  "model": "glm-5.3"
+}

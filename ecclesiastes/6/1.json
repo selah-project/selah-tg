@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ҳаст баде, ки ман онро зери ⟨the⟩ офтобин дидам, ва он бар одамон вазнин аст.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "баде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтобин"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ва вазнин"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одамон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:41.369249226Z",
+  "model": "glm-5.3"
+}

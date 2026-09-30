@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ҳар нар аз коҳенон онро мехӯрад; ⟨את⟩ он қудсӣ аз қудсиён аст.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "нар"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "аз коҳенон"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "он (минҳаи қасидан)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қудсӣ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "аз қудсиён"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:11.356955284Z",
+  "model": "glm-5.3"
+}

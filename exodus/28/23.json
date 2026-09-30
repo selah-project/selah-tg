@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва бар Хошен ду ҳалқаи тиллоӣ бисоз, ва ду ҳалқаро ⟨את⟩ бар ду канораи Хошен гузор.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ва бисоз"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Хошен"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ҳалқаи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ва гузор"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ду ҳалқа"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "ҳалқаро"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "канораи"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Хошен"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:01.800835701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 122,
+  "translation": "Барои бародарон ва наздиконам, эй ту, саломиро дар ту бигӯям.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "барои"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бародарон"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ва наздиконам"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "бигӯям"
+    },
+    {
+      "surface": "נא",
+      "gloss": "эй"
+    },
+    {
+      "surface": "шалом",
+      "gloss": "саломӣ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:13.967164527Z",
+  "model": "glm-5.3"
+}

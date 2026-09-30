@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Отер, Хизқия, Оззур,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "Отер"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизқия"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "Оззур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:30.480631233Z",
+  "model": "glm-5.3"
+}

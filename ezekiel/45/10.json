@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Тарозуҳои тседек ва эфаи тседек ва бати тседек бошад барои шумо.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "тарозуҳои"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ва эфаи"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "ва бати"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:15:37.656839582Z",
+  "model": "glm-5.3"
+}

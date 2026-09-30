@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Яҳве танҳо ӯро ҳидоят мекард; ва ҳеҷ Эли бегона бо ӯ набуд.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ӯро ҳидоят мекард"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва ҳеҷ… набуд"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бегона"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:32.248503337Z",
+  "model": "glm-5.3"
+}

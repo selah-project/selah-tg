@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "писари Эйтон, писари Зиммо, писари Шимъӣ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зиммо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:18.070122563Z",
+  "model": "glm-5.3"
+}

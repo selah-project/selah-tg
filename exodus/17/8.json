@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Амалек омад ва бо Йисроэл дар Рефидим ҷангид.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ва ҷангид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "дар Рефидим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:19.523295537Z",
+  "model": "glm-5.3"
+}

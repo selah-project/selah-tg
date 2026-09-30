@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше рафт ва ин суханҳоро ба ҳамаги Йисроэл гуфт.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ва рафт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин суханҳоро"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханҳо"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаги"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:26.566113558Z",
+  "model": "glm-5.3"
+}

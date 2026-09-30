@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ба ёри худ нагӯ: «Рав, бозгард, фардо медиҳам», ҳол он ки ⟨את⟩ он бо ту ҳаст.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "нагӯ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "нагӯ"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ба ёри худ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "бозгард"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "фардо"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "медиҳам"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ҳол он ки ҳаст"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ бо ту",
+      "marks": "бо ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:29.662158799Z",
+  "model": "glm-5.3"
+}

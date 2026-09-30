@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Тирдонаш мисли қабри кушода аст; ҳамаашон ҷанговарон.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "тирдонаш"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "мисли қабри"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "кушода"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ҳамаашон"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ҷанговарон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:42:07.024270297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Оҳ, бахтиёри он марде ки дар машварати.bad не — correct:",
+  "tokens": [],
+  "timestamp": "2026-09-30T18:31:41.381518184Z",
+  "model": "glm-5.3"
+}

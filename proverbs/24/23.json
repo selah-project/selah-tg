@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Инҳо низ аз ҳакимонанд: дар доварӣ рӯйшинохтан некуст.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "низ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "аз ҳакимонанд"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "шинохтан"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "дар доварӣ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некуст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:36.183603293Z",
+  "model": "glm-5.3"
+}

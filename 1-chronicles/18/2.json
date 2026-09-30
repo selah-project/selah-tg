@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва ⟨את⟩ Моовро зад; ва Моов хизматгорони Довуд шуданд, минҳаоварон.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "зад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моов"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "шуданд"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "хизматгорон"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "оварон"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минҳа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:35.959674757Z",
+  "model": "glm-5.3"
+}

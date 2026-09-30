@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва зани Шимшон ба дӯсти ӯ дода шуд, ки рафиқи ӯ буд.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "барои дӯсти ӯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "рафиқ буд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:37:19.756564034Z",
+  "model": "glm-5.3"
+}

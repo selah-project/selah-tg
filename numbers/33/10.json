@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Элим равона шуданд ва назди Баҳри Суф табор заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "равона шуданд"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "аз Элим"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ва табор заданд"
+    },
+    {
+      "surface": "על",
+      "gloss": "назди"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Баҳри"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:05.960099298Z",
+  "model": "glm-5.3"
+}

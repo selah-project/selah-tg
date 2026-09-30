@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва Нога, ва Нефег ва Йофияъ,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ва Нога"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ва Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ва Йофияъ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:32.926636658Z",
+  "model": "glm-5.3"
+}

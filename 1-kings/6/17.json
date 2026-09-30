@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва чил ама буд хона — он ҳайкал аст, дар пеши он.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Ва чил"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ҳайкал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "дар пеши он"
+    }
+  ],
+  "timestamp": "2026-09-30T17:03:22.552261054Z",
+  "model": "glm-5.3"
+}

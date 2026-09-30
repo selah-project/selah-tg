@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Барои сароянда, ба суруды «Аҳватари саҳар» — мизмори Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "барои сароянда"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба суруды"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "аҳватар"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "саҳар"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:29.984899914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ғайр аз nonҳо, nonи туршро бо қорбони худ барои забҳи тодаи шаломимаш меорад.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ғайр аз"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "non"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nonи"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "турш"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "меорад"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "қорбони худ"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "забҳи"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "тодаи"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "шаломимаш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:15.876553676Z",
+  "model": "glm-5.3"
+}

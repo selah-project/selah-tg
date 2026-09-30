@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ин чиз дар назди Элоҳим бад буд, ва ӯ Йисроэлро зад.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ва бад буд"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ин кор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ва зад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисроэл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:41.058327237Z",
+  "model": "glm-5.3"
+}

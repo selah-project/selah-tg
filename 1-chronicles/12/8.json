@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "ва Йӯъэло ва Забадиё, писарони Йероҳам, аз Гедор",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "ва Йӯъэло"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ва Забадиё"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероҳам"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "Гедор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:44.601534978Z",
+  "model": "glm-5.3"
+}

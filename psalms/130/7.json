@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 130,
+  "translation": "Эй Йисроэл, умедвор бош ба Яҳве, зеро назди Яҳве ҳесед аст ва бисёр назди Ӯ фидо.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "умедвор бош"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עם",
+      "gloss": "назди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "ҳесед"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ва бисёр"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "назди Ӯ"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "фидо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:41.364394506Z",
+  "model": "glm-5.3"
+}

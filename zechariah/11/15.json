@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Яҳве ба ман гуфт: Боз барои худ асбоби чӯпони нодон гиред.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "קח",
+      "gloss": "гир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоби"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "чӯпонӣ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "нодон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:30:12.815919779Z",
+  "model": "glm-5.3"
+}

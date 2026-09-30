@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Зеро ки охират бар бад нест, чароғи золимон хомӯш мешавад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "мебошад"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "охират"
+    },
+    {
+      "surface": "лрע",
+      "gloss": "бар бад"
+    },
+    {
+      "surface": "נר",
+      "gloss": "чароғ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "золимон"
+    },
+    {
+      "surface": "ивעך",
+      "gloss": "хомӯш мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:40.009910601Z",
+  "model": "glm-5.3"
+}

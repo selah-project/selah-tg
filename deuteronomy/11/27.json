@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "⟨את⟩ баракат — агар ба фармонҳои Яҳве Элоҳими худ гӯш ниҳед, ки ман имрӯз ба ⟨את⟩ шумо амр мекунам.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баракат"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "баракат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "агар"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "гӯш ниҳед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "фармонҳои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "амр мекунам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ шумо",
+      "marks": "шумо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:37.397273471Z",
+  "model": "glm-5.3"
+}

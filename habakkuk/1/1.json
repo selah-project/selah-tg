@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Боре ки Хабақуқ набӣ дид.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "Бор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хабақуқ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:25:20.151426324Z",
+  "model": "glm-5.3"
+}

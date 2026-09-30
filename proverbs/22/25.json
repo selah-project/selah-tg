@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "то ки роҳҳояшро наомӯзӣ ва дом барои ҷонат нагирӣ.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "наомӯзӣ"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "роҳҳояшро"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ва нагирӣ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "барои ҷонат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:11.373946841Z",
+  "model": "glm-5.3"
+}

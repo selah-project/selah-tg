@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "«Эй писари одам, рӯй худро ба кӯҳҳои Йисроэл равона кун ва ба онҳо набигарӣ кун.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "שים",
+      "gloss": "равона кун"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "кӯҳҳои"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ва набигарӣ кун"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:51.545751141Z",
+  "model": "glm-5.3"
+}

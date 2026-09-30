@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва сухани Яҳве ба Йирмеяҳу расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ... расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмеяҳу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:40.941603340Z",
+  "model": "glm-5.3"
+}

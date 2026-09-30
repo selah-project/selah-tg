@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Обҳо аз болои сари ман рехтанд; гуфтам: «Буридам».",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "рехтанд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз болои"
+    },
+    {
+      "surface": "рאשי",
+      "gloss": "сари ман"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "буридам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.824465428Z",
+  "model": "glm-5.3"
+}

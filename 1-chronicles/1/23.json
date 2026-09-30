@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ⟨את⟩ Офир ва ⟨את⟩ Ҳавило ва ⟨את⟩ Йовов; ҳамаи инҳо писарони Йоктан буданд",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Офир"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳавило"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Ҳавило"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Йовов"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:01.814835907Z",
+  "model": "glm-5.3"
+}

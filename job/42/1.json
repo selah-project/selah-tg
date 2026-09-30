@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ва Ийов ба ⟨את⟩ Яҳве ҷавоб дод ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ва ҷавоб дод"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:05.397164173Z",
+  "model": "glm-5.3"
+}

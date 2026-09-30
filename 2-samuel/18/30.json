@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва подшоҳ ба ӯ гуфт: «Гард, ин ҷо истода мон». Ва ӯ гардид ва истод.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "гард"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "истода мон"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ин ҷо"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "гардид"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "истод"
+    }
+  ],
+  "timestamp": "2026-09-30T16:58:08.284797477Z",
+  "model": "glm-5.3"
+}

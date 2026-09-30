@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Барои Яҳве Элоҳими худ гов ё гӯсфандеро ки дар он айб ё ҳар чизи бад бошад, қурбон накун, зеро он мукриҳи Яҳве Элоҳими туст.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "қурбон"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "гов"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ё гӯсфанд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "מום",
+      "gloss": "айб"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "чизи"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мукриҳи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T16:18:35.495665350Z",
+  "model": "glm-5.3"
+}

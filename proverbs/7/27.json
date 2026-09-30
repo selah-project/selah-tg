@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Хонаи ӯ роҳҳои Шеол аст, фурудоянда ба ҳуҷраҳои марг.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "роҳҳои"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "хонаи ӯ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "фурудоянда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ҳуҷраҳои"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:24.734675852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Пешки Яҳве Элоҳими худ онро мехӯрӣ — сол аз сол — дар ҷое ки Яҳве ихтиёр кунад; ту ва хонаат.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "пешки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "онро мехӯрӣ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "вשנה",
+      "gloss": "аз сол"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "дар ҷое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ихтиёр кунад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ва хонаат"
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:02.876655901Z",
+  "model": "glm-5.3"
+}

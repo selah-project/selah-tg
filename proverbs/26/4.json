@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ба нодир мувофиқи нодирӣ ҷавоб нагӯй, ва макун мисли ӯ худ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תען",
+      "gloss": "ҷавоб гӯй"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ба нодир"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "мувофиқи нодирии ӯ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ва makun мисли ӯ худ",
+      "gloss2": ""
+    },
+    {
+      "surface": "תשוה",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:38.802607490Z",
+  "model": "glm-5.3"
+}

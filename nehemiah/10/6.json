@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ҳорим, Меремонт, Овадйаҳ.",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "Ҳорим"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Меремонт"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадйаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:39.424316627Z",
+  "model": "glm-5.3"
+}

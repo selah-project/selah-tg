@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва Паръо ба Йўсуф гуфт: «Дар хоби ман маногу ман дар соҳили дарё истодаам».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йўсуф"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "дар хоби ман"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "маногу"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "истодаам"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "соҳили"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "дарё"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:36.710397198Z",
+  "model": "glm-5.3"
+}

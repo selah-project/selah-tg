@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ҳеҷ чизи мукриҳ нахӯрӣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "нахӯрӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ чизи"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "мукриҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:49.232415090Z",
+  "model": "glm-5.3"
+}

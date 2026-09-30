@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Яъқоб дилі Ловони арамиро бедониш медӯздид, чунке ба ӯ хабар надод, ки ⟨ҳӯ⟩ гурехтааст.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "медӯздид"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дил"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ловон"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "арамӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "чунке"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "бедониш"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "хабар надод"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "гурехтааст"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ҳӯ⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:12.064400936Z",
+  "model": "glm-5.3"
+}

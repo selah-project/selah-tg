@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва бар лашкари қабилаи писарони Шимъун Шелумиел писари Тсуришаддай буд.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ва бар"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "лашкари"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "қабилаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимъун"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Тсури"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "шаддай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:16.919929018Z",
+  "model": "glm-5.3"
+}

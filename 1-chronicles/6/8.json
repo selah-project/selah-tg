@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Элкана писари ӯ, ва Эвьософ писари ӯ, ва Асир писари ӯ.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "ва Эвьософ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ва Асир"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:44.365777352Z",
+  "model": "glm-5.3"
+}

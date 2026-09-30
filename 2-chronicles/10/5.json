@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва ба онҳо гуфт: «Ҳанӯз се рӯз, ба назди ман баргардед». Ва халқ рафт.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ҳанӯз"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "баргардед"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба назди ман"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ва рафт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:47:09.993804853Z",
+  "model": "glm-5.3"
+}

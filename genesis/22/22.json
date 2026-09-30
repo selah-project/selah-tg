@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "ва ⟨את⟩ Кешед ва ⟨את⟩ Ҳазо ва ⟨את⟩ Пилдош ва ⟨את⟩ Йидлоф ва ⟨את⟩ Бетуэлро.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Кешед"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Кешед"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳазо"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Ҳазо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Пилдош"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Пилдош"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Йидлоф"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Йидлоф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Бетуэл"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:57.371856938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва ⟨את⟩ равғани қурбонии гуноҳ дар қурбонгоҳ дуд кунад.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "равған"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "равған"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "қурбонии гуноҳ"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "дуд кунад"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "дар қурбонгоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:41.662819603Z",
+  "model": "glm-5.3"
+}

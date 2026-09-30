@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва баъди ӯ Габбай, Саллай — нуҳ сад бисту ҳашт нафар.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ва баъди ӯ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Габбай"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Саллай"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "нуҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бисту"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ҳашт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:53.974349275Z",
+  "model": "glm-5.3"
+}

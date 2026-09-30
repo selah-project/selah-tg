@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Билдади Шӯҳӣ ҷавоб дод ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "Шӯҳӣ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:48.303465883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 127,
+  "translation": "Инак, фарзандон мероси Яҳве ҳастанд, музд — меваи шикам.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Инак"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мероси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "фарзандон"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "музд"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "меваи"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "шикам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:51.534103359Z",
+  "model": "glm-5.3"
+}

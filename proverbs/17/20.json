@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Кажқалб некӣ нахоҳад ёфт, ва гардида дар забонаш ба бадӣ меафтад.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "каж"
+    },
+    {
+      "surface": "לב",
+      "gloss": "қалб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ёхоҳад ёфт"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ва гардида"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "дар забонаш"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "меафтад"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ба бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:36.099256637Z",
+  "model": "glm-5.3"
+}

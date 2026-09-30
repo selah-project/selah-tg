@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Чӣ фоида барои одам аз ҳамаи меҳнати ӯ, ки онро зери офтоб меҳнат мекунад?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Чӣ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "фоида"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "барои одам"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "меҳнати ӯ"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "меҳнат мекунад"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:42.790300151Z",
+  "model": "glm-5.3"
+}

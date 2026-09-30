@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 60,
+  "translation": "Ба мо кумак аз тангӣ бидеҳ, зеро ботил аст наҷоти одам.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "бидеҳ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "кумак"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "аз тангӣ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "зеро ботил"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "наҷоти"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:45.657612285Z",
+  "model": "glm-5.3"
+}

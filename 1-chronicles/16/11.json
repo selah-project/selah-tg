@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ҷӯед Яҳве ва қувваи Ӯро, ҷӯед рӯи Ӯро ҳамеша.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Ҷӯед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ва қувваи Ӯро"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ҷӯед"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯи Ӯро"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ҳамеша"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:44.847336522Z",
+  "model": "glm-5.3"
+}

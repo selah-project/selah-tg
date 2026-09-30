@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва монӣ мисли тухми коҳнӣ буд; ва намуди он мисли намуди бдолах.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "ва монӣ"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "мисли тухм"
+    },
+    {
+      "surface": "גד",
+      "gloss": "коҳнӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "буд"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ва намуди он"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "мисли намуди"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бдолах"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:36.447936709Z",
+  "model": "glm-5.3"
+}

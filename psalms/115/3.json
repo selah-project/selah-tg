@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 115,
+  "translation": "Ва Элоҳими мо дар осонҳост; ҳар чӣ хост, кард.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "ва Элоҳими мо"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осонҳост"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар чӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хост"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:16.525698165Z",
+  "model": "glm-5.3"
+}

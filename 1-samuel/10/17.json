@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Шемуэл халқро назди Яҳве ба Мицпа ҷамъ овард ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ҷамъ овард"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халқ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    }
+  ],
+  "timestamp": "2026-09-30T16:43:15.739276157Z",
+  "model": "glm-5.3"
+}

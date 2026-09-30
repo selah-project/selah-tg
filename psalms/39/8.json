@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва акнун чӣ интизор кунам? Эй Адонай, интизори ман ба Ту аст.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "интизор кунам"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "интизори ман"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба Ту"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨аст⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:28.351756846Z",
+  "model": "glm-5.3"
+}

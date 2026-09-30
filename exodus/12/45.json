@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Муҷонир ва муҷорир аз он нахӯрад.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "муҷонир"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ва муҷорир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аз он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:00.275957479Z",
+  "model": "glm-5.3"
+}

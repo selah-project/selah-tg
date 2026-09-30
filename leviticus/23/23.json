@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Яҳве бо Моше сухан ронид, гуфтанӣ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва сухан ронид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтанӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:18.111432384Z",
+  "model": "glm-5.3"
+}

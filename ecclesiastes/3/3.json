@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вақти куштан ва вақти шифо додан; вақти вайрон кардан ва вақти сохтан.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "куштан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "шифо додан"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "вайрон кардан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "сохтан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.995626514Z",
+  "model": "glm-5.3"
+}

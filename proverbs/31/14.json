@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ӯ монанди киштиҳои тиҷоратӣ буд; аз дур нонро барои худ меовард.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "монанди киштиҳо"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "тиҷоратӣ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "аз дур"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "меовард"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "нони ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:45.273677438Z",
+  "model": "glm-5.3"
+}

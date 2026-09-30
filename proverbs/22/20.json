@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Оё ба ту се бор навишта накардам, дар маслиҳатҳо ва дониш?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "оё... накардам"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "навишта"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "се бор"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "дар маслиҳатҳо"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ва дониш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:59.131113729Z",
+  "model": "glm-5.3"
+}

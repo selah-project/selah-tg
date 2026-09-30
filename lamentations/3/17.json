@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ту ҷони маро аз сулҳ дур кардӣ; некӣ-ро фаромӯш кардам.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "дур кардӣ"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "аз сулҳ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони маро"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "фаромӯш кардам"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "некӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:08.411668849Z",
+  "model": "glm-5.3"
+}

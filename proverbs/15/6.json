@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Хонаи тседик моли фаровон дорад, вале ҳосили бадкор нобуд мешавад.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "тседик"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "моли"
+    },
+    {
+      "surface": "רב",
+      "gloss": "фаровон"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "вале ҳосили"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "нобуд мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:20.323210965Z",
+  "model": "glm-5.3"
+}

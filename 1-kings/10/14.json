@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва вазни тиллое ки дар як сол ба Шеломо меомад — шашсаду шасту шаш кикори тилло буд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва буд"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "вазни"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "тиллое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меомад"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ба Шеломо"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "дар сол"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шаст"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кикори"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T17:05:00.525297755Z",
+  "model": "glm-5.3"
+}

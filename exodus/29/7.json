@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва равғани масҳро гирад ва бар сари ӯ резад ва ӯро бимасҳад.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "гирад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "равғани масҳ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "масҳ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "резад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "сари ӯ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "бимасҳад"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ӯро",
+      "marks": "ӯ (Аҳарон)"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:18.789657334Z",
+  "model": "glm-5.3"
+}

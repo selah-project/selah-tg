@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "об аз ҳавзи худ бинӯш ва ҷоришавандаҳоро аз миёни чоҳи худ",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "бинӯш"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "аз ҳавзи худ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ва ҷоришавандаҳоро"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "аз миёни"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "чоҳи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:16.777648139Z",
+  "model": "glm-5.3"
+}

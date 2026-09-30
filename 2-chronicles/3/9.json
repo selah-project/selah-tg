@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва вазни ⟨the⟩ мехҳо панҷоҳ шекел тилло буд, ва ҳуҷраҳои болоиро бо тилло пӯшонид.",
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "вазни"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "мехҳо"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "ҳуҷраҳои болоиро"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "пӯшонид"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:32.324802127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Онҳо ба аробаҳо ва онҳо ба аспон, вале мо ба Номи Яҳве Элоҳими худ ёд мекунем.",
+  "tokens": [
+    {
+      "surface": "апreplaced",
+      "gloss": ""
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Онҳо"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ба аробаҳо"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ва онҳо"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ба аспон"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "вале мо"
+    },
+    {
+      "surface": "бשם",
+      "gloss": "ба Номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "ёд мекунем"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:51.331797580Z",
+  "model": "glm-5.3"
+}

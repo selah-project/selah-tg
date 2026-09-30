@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Яъқоб ба роҳи худ рафт ва фариштагони Элоҳим ба ӯ дучор шуданд.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ва Яъқоб"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ба роҳи худ"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ду chor шуданд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "фариштагони"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:47.781120613Z",
+  "model": "glm-5.3"
+}

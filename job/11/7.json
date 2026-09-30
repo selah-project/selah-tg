@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Оё бо таҳқиқ Элоҳаро меёбӣ? Оё то интиҳои Шаддайро меёбӣ?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "бо таҳқиқ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоҳаро"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "меёбӣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Оё"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "интиҳои"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддайро"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "меёбӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:00.347413323Z",
+  "model": "glm-5.3"
+}

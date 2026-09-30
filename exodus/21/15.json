@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва задани падар ё модар — мурдан қатл карда мешавад.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "задани"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падар"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ё модар"
+    },
+    {
+      "surface": "מות",
+      "gloss": "мурдан"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "қатл карда мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:22.937541374Z",
+  "model": "glm-5.3"
+}

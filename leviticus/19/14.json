@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Карро лаънат накун ва пеши кӯр сангили Lagash нагузор; аз Элоҳими худ битарс — Ман Яҳве ҳастам.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תקלел",
+      "gloss": "лаънат"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "кар"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ва пеши"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кӯр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "нагузор"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "сангил"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ва битарс"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "аз Элоҳими худ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:26.866428994Z",
+  "model": "glm-5.3"
+}

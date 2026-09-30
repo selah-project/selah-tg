@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 92,
+  "translation": "Мазмӯр, суруд барои рӯзи Шаббат.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмӯр"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "барои рӯзи"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:58.936870445Z",
+  "model": "glm-5.3"
+}

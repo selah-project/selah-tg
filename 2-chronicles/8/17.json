@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Он гоҳ Шломо ба Этсиён-Гебер ва ба Эйлот рафт, дар лаби баҳр, дар замини Эдом.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ба Этсиён"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гебер"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Эйлот"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "лаби"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:05.589765016Z",
+  "model": "glm-5.3"
+}

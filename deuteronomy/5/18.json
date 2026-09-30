@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва зино накунӣ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "зино мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:31.513806788Z",
+  "model": "glm-5.3"
+}

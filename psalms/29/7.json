@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Овози Яҳве шуълаҳои оташро мебурид.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Овози"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "мебурид"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "шуълаҳои"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:39.506430974Z",
+  "model": "glm-5.3"
+}

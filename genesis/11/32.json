@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва рӯзҳои Тирах панҷ солу дусад сол буд, ва Тирах дар Ҳорон мурд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ва буданд"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тирах"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ва дусад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тирах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "дар Ҳорон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:48.715954749Z",
+  "model": "glm-5.3"
+}

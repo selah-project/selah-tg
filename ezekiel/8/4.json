@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ногоҳ, он ҷо ҷалоли Элоҳии Йисроэл — мисли он намуде ки дар водӣ дидам.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ва ногоҳ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳии"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "мисли он намуд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "дар водӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:07:55.139840318Z",
+  "model": "glm-5.3"
+}

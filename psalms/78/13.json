@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 78,
+  "translation": "Ҷӯро шиқофт ва онҳоро гузаронид, ва обҳоро ҳамчун тӯда истод.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "шиқофт"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ҷӯ"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ва онҳоро гузаронид"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ва истод"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳоро"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ҳамчун"
+    },
+    {
+      "surface": "נד",
+      "gloss": "тӯда"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:59.785551560Z",
+  "model": "glm-5.3"
+}

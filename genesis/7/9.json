@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ду-ду ба назди Нӯҳ, ба киштӣ, нар ва мода омаданд, чуноне ки Элоҳим ба ⟨את⟩ Нӯҳ фармуда буд.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "באו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба назди"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "киштӣ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "нар"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ва мода"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чуноне ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуда буд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нӯҳ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:36.426898592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Аз онҳо натарсед, зеро Яҳве Элоҳими шумо — Ӯст он ки барои шумо меҷангад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нa"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "натарсед аз онҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳими шумо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯст"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "меҷангад"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:18.844896487Z",
+  "model": "glm-5.3"
+}

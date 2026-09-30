@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Роҳҳои вай роҳҳои хушоянд, ва ҳамаи пайраҳаҳои вай салом аст.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "роҳҳои вай"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "роҳҳои"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "хушоӣ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "пайраҳаҳои вай"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "салом"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:40.779717010Z",
+  "model": "glm-5.3"
+}

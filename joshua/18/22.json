@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "ва Бейт-ҳа-Арава, ва Тсемараим, ва Бейт-Эл",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ва Бейт"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ҳа-Арава"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ва Тсемараим"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ва Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:57.303904159Z",
+  "model": "glm-5.3"
+}

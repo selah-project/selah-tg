@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва Яҳве ба Моше сухан ронда гуфтанро фармоуд, ки бигӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ки бигӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:09.148191323Z",
+  "model": "glm-5.3"
+}

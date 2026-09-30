@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Суханҳои Лемуэл, подшоҳ — борест, ки модараш ба ӯ таълим дод.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Суханҳои"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуэл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "бор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "таълим дод"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "модараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:03:09.385806682Z",
+  "model": "glm-5.3"
+}

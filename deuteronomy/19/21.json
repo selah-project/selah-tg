@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва чашми туро раҳм наояд: ҷон бар ҷон, чашм бар чашм, дандон бар дандон, даст бар даст, по бар по.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "рахм накунад"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "чашми туро"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ҷон"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "бар ҷон"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "бар чашм"
+    },
+    {
+      "surface": "שן",
+      "gloss": "дандон"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "бар дандон"
+    },
+    {
+      "surface": "יד",
+      "gloss": "даст"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "бар даст"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "по"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "бар по"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:21.332263178Z",
+  "model": "glm-5.3"
+}

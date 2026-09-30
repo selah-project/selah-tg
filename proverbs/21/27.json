@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Қурбонии рашъон макруҳ аст, чӣ бас ки онро бо зеҳни бад меорад.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "қурбонии"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "рашъон"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "махруҳ аст"
+    },
+    {
+      "surface": "אף",
+      "gloss": "чӣ бас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "бо зеҳни бад"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "онро меорад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:41.624135524Z",
+  "model": "glm-5.3"
+}

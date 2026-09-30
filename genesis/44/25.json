@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ва падари мо гуфт: Баргардед, барои мо каме ғизо харед.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "падари мо"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "баргардед"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "харед"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "барои мо"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "каме"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ғизо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:38.262181268Z",
+  "model": "glm-5.3"
+}

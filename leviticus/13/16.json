@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ё ки гӯшти зинда баргардад ва ба сафедӣ табдил ёбад — ӯ назди коҳин меояд.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "баргардад"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "гӯшти"
+    },
+    {
+      "surface": "החי",
+      "gloss": "зинда"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "табдил ёбад"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ба сафедӣ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:00.032803397Z",
+  "model": "glm-5.3"
+}

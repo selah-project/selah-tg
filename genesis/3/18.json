@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва хор ва гулорӯяк бароят мебарорад, ва алафи саҳроро мехӯрӣ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ва хор"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ва гулорӯяк"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бароят"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ва мехӯрӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алафи саҳро"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "алаф"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "саҳро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:47.461437896Z",
+  "model": "glm-5.3"
+}

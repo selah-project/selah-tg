@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Моше ин калImот-ро ба ҳамаи банй Йисроэл гуфт ва халқ селе пашмон шуд.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин калимаро"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "калимаҳо"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бану"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "пашмон шуданд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "селе"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:10.010455622Z",
+  "model": "glm-5.3"
+}

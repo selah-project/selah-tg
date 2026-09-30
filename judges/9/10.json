@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва дарахтон ба анҷир гуфтанд: Биё, ⟨ту⟩ подшоҳӣ кун бар мо.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "гуфтанд"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дарахтон"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "ба анҷир"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "биё"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ту⟩",
+      "marks": "подшоҳӣ кун"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "подшоҳӣ кун"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бар мо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:34:53.751760960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Дар роҳи тседек ⟨ҳаёт аст⟩, ва дар панели он роҳе ⟨аст, ки⟩ маргро надорад.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ва дар роҳи"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "панели он"
+    },
+    {
+      "surface": "אל",
+      "gloss": "надорад"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:41.452804918Z",
+  "model": "glm-5.3"
+}

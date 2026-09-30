@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Ӯ гуфт: «Чӣ кардӣ? Овози хуни бародари ту ба сӯи Ман аз замин нола мекунад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кардӣ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "овоз"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "хуни"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бародари ту"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "нола мекунад"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба сӯи Ман"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:10:56.633681229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Дар охири дувоздаҳ моҳ ӯ дар қасри подшоҳии Бавел мегашт.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "дар охири"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "қаср"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "подшоҳӣ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавел"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "мегашт"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "буд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:23:56.153954249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 8:21",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "То ба дӯстдорони ман мероси ⟨ъexisting substance⟩ диҳам, ва хазинаҳои онҳоро пур мекунам.",
+  "tokens": [
+    {
+      "surface": "להנחיל",
+      "gloss": "То мерос диҳам"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "дӯстдорони ман"
+    },
+    {
+      "surface": "יש",
+      "gloss": "молу мулк"
+    },
+    {
+      "surface": "ואצרתיהם",
+      "gloss": "ва хазинаҳои онҳоро"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "пур мекунам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:05.067067133Z",
+  "model": "glm-5.3"
+}

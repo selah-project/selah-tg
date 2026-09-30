@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Билъом бо Балак рафт, ва ба Кирьят-Хутсот омаданд.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ва рафт"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ва омаданд"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирьят"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "Хутсот"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:17.497036416Z",
+  "model": "glm-5.3"
+}

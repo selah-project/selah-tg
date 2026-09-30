@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 4:8",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ў даҳ миз сохт ва гузошт дар Ҳайкал панҷро аз рост ва панҷро аз чап, ва сад косаи тилло сохт.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "мизҳо"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ва гузошт"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "дар Ҳайкал"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "аз рост"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "аз чап"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "косаҳо"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:28.495010467Z",
+  "model": "glm-5.3"
+}

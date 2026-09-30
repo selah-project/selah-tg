@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Агар Яҳве моро хоҳад, моро ба ин замин меорад ва онро ба ⟨את⟩ мо медиҳад — замине ки ҷорӣ аст аз шир ва асал.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хоҳад"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "моро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "меорад"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ мо",
+      "marks": "моро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ва медиҳад"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замине"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ҷорӣ аст"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "аз шир"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ва асал"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:14.744851163Z",
+  "model": "glm-5.3"
+}

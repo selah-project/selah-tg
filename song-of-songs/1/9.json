@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ба мери худ дар аробаҳои Паръо ман туро монанд кардам, ёри ман.",
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "ба мери худ"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "дар аробаҳои"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "ман туро монанд кардам"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ёри ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.742879729Z",
+  "model": "glm-5.3"
+}

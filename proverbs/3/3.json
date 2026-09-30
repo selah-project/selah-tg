@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ҳесед ва ҳақиқат туро tule макунанд, онҳоро ба гарданат бибанд, онҳоро бар лавҳи дилат бинавис.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ҳесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ва ҳақиқат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "макунанд"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "туле"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "бибанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "гарданат"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "бинавис"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "лавҳи"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:35.682787833Z",
+  "model": "glm-5.3"
+}

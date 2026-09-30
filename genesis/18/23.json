@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Авраҳом наздик шуд ва гуфт: Оё ростӣ солеҳро бо золим нест мекунӣ?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "наздик шуд"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "האף",
+      "gloss": "оё ростӣ"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "нест мекунӣ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "солеҳро"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "золим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:21.537567510Z",
+  "model": "glm-5.3"
+}

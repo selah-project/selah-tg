@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва ӯ онро Шибъо номид; аз ин руй номи шаҳр Беэр-Шева аст то ин рӯз.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Шибъо"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Шибъо"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин рӯй"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:08.773767827Z",
+  "model": "glm-5.3"
+}

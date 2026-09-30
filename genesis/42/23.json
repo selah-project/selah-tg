@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ва онҳо намедонистанд, ки Йосеф мефаҳмид, зеро тарҷумон миёни онҳо буд.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ва онҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "медонистанд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "мефаҳмид"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "тарҷумон"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "миёни онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:26:39.755971921Z",
+  "model": "glm-5.3"
+}

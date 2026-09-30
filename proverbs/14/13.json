@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ҳатто дар ханда дард мекунад дил, ва охири шодӣ ғам аст.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "дар ханда"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "дард мекунад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ва охири он"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "шодӣ"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "ғам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:50.212072757Z",
+  "model": "glm-5.3"
+}

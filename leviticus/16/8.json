@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Аҳарон бар ду така қуръаҳоандозад: як қуръа барои Яҳве ва як қуръа барои Аъзоил.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "андозад"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "така"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "қуръаҳо"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "қуръа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ва қуръа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "барои Аъзоил"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:01.540186213Z",
+  "model": "glm-5.3"
+}

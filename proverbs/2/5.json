@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Он гоҳ тарси Яҳве мефаҳмӣ ва дониши Элоҳимро меёбӣ.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "мефаҳмӣ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "тарси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ва дониши"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "меёбӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:59.184076252Z",
+  "model": "glm-5.3"
+}

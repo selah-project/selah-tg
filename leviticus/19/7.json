@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва агар дар рӯзи севум хӯрида шавад, он пӯсидагӣ аст; маъқул намешавад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "хӯрида шавад"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрдан"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "севум"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "пӯсидагӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לא",
+      "gloss": "намешавад"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "маъқул"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:25.562854460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва ӯ ба ҳар як аз мардони Йисроэл — аз мард то зан — ба ҳар як як чида нон, як эшфар ва як ашиша тақсим кард.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "тақсим кард"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ба ҳар як"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "аз мард"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ба ҳар як"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "чида"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "эшфар"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ашиша"
+    }
+  ],
+  "timestamp": "2026-09-30T20:16:01.404188492Z",
+  "model": "glm-5.3"
+}

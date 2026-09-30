@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва субҳона сухани Яҳве ба ман расонда шуд, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "субҳона"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:02:15.580172752Z",
+  "model": "glm-5.3"
+}

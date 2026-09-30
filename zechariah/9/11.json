@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ҳам ту — бо хуни аҳди ⟨את⟩ ту асиронатро аз чоҳи беноб фиристодам, ки обӣ дар он нест.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ту"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "бо хуни"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "аҳди ту"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "фиристодам"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "асиронатро"
+    },
+    {
+      "surface": "мבור",
+      "gloss": "аз чоҳи"
+    },
+    {
+      "surface": "אין",
+      "gloss": "беноб"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:49.240618463Z",
+  "model": "glm-5.3"
+}

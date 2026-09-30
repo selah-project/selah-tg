@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Баҳри Суф равона шуданд ва дар биёбони Син табор заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "равона шуданд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "аз Баҳри"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ва табор заданд"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбони"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:05.960223207Z",
+  "model": "glm-5.3"
+}

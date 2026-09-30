@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Лея дид, ки аз таваллуд мондаст, ва Зилпа, канизи ӯро гирифт ва ӯро ба Яъқов ба занӣ дод.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "мондаст"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "аз таваллуд"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпаро"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "канизи ӯ"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқов"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:00.739528129Z",
+  "model": "glm-5.3"
+}

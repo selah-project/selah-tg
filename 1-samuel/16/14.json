@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва рӯҳи Яҳве аз Шаул рӯй гардонд, ва рӯҳи бад аз ⟨את⟩ Яҳве ӯро метарсонид.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ва рӯҳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "рӯй гардонд"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "метарсонид ӯро"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рӯҳ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бад"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "аз ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T16:45:14.385762057Z",
+  "model": "glm-5.3"
+}

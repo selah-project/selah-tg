@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писари Шаммой — Маон, ва Маон падари Байт-Тсур.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ва писари"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммой"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ва Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Тсур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:38.592264749Z",
+  "model": "glm-5.3"
+}

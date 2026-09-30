@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Урия ҳиттӣ, Забод писари Ахлай,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ҳиттӣ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Забод"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:59.551150556Z",
+  "model": "glm-5.3"
+}

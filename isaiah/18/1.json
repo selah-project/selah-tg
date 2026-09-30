@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Вой бар замини чарчи болҳо, ки дар он сӯи дарёҳои Куш аст!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "вой"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "чарч"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "болҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "дар он сӯ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "дарёҳои"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-09-30T17:27:41.528832500Z",
+  "model": "glm-5.3"
+}

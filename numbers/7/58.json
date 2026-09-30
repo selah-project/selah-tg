@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як бӯкҷи бузӣ бар қурбонии гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "бӯк"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузӣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "бар қурбонии гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:49.573304211Z",
+  "model": "glm-5.3"
+}

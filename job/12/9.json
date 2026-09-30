@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Кӣ дар ҳамаи инҳо надонист, ки дасти Яҳве инро кардааст?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "донист"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "кардааст"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "инро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:05:14.270019817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ин тораи касест ки дар ӯ захми_tsaraат аст ва дасти ӯ ба покшавии худ дастрасӣ надорад.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "тораи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар ӯ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "захм"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraъат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "дастрасӣ дорад"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "дасти ӯ"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "ба покшавии худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:18.626791210Z",
+  "model": "glm-5.3"
+}

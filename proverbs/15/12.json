@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Масхараkунанда дӯст надорад он кӣ, ки ӯро ислоҳ кунад; назди ҳакимон намеояд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "дӯст медорад"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "масхаракунанда"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ислоҳкунанда"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ҳакимон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "меларозад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:23.776295807Z",
+  "model": "glm-5.3"
+}

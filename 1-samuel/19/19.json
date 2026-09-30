@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва ба Шаул хабар дода шуд, ки: «Ҳано, Довуд дар Найти Рома аст».",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "хабар дода шуд"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ба Шаул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳано"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "дар Найт"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "дар Рома"
+    }
+  ],
+  "timestamp": "2026-09-30T16:47:06.030955277Z",
+  "model": "glm-5.3"
+}

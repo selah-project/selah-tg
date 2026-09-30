@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Кӯдакро мувофиқи роҳи худ тарбия кун; ҳатто ки пир шавад, аз он рӯй мето­рад.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "тарбия кун"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "кӯдакро"
+    },
+    {
+      "surface": "על",
+      "gloss": "мувофиқи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "пи… (даҳони)"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "роҳи ӯ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "пир шавад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "рӯй мето­рад"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "аз он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:00.067447847Z",
+  "model": "glm-5.3"
+}

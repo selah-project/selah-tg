@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Зеро агар ту аз раво кардан сар бипечӣ ва то ҳол онҳоро нигоҳ дорӣ —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "сар бипечӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "аз раво кардан"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "то ҳол"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "нигоҳ дорӣ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "онҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:32:37.168129059Z",
+  "model": "glm-5.3"
+}

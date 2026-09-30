@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Камти тседиқ беҳтар аст аз ғановати бадкорони бисёр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар аст"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "камти"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "тседиқ"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "аз ғановати"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:08.792854576Z",
+  "model": "glm-5.3"
+}

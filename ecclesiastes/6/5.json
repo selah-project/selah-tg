@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ҳам офтобро надидааст ва на донистааст; оромии ин аз он бештар аст.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "надидааст"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "донистааст"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "оромӣ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "аз он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:11.322614359Z",
+  "model": "glm-5.3"
+}

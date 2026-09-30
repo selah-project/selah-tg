@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Абаши, писари Тсруя, Эдомро дар водии намак зесҳдаҳ ҳазор зада кушт.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ва Абаши"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Тсруя"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "зада кушт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "дар водии"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "намак"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ҳашт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:50.750526736Z",
+  "model": "glm-5.3"
+}

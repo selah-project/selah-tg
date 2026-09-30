@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Дар паҳнои девори ҳавлӣ — роҳи шарқ, то рӯи гизра ва то рӯи бино — ҳуҷраҳо.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "дар паҳнои"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "девори"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ҳавлӣ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "шарқ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "то"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "гизра"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва то"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "бино"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "ҳуҷраҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:22.454686761Z",
+  "model": "glm-5.3"
+}

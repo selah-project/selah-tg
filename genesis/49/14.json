@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Йисошахар хари устувон аст, ки байни сарҳадҳо мехобад.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Йисошахар"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хар"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "устувон"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "мехобад"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "сарҳадҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:28:59.666828825Z",
+  "model": "glm-5.3"
+}

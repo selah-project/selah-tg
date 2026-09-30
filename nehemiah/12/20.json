@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ба Саллай — Каллай; ба Амок — Эвер.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "ба Саллай"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Каллай"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "ба Амок"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:08.411526001Z",
+  "model": "glm-5.3"
+}

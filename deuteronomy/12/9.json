@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "зеро ки шумо то ҳол наомадед ба ⟨оромиш⟩ ва ба ⟨мерос⟩, ки Яҳве Элоҳими ту ба ту медиҳад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "омадед"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ҳол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "оромиш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "мерос"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:13.323839714Z",
+  "model": "glm-5.3"
+}

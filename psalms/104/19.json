@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 104,
+  "translation": "Моҳро барои мавсимҳо сохт; офтоб ғуруби худро медонад.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "моҳро"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "барои мавсимҳо"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ғуруби худро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:59.071080642Z",
+  "model": "glm-5.3"
+}

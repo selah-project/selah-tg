@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ба Далайаҳу сию саввум, ба Маъазйаҳу чилу чорум.",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "Ба Далайаҳу"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "сию"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "саввум"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "ба Маъазйаҳу"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чилу"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "чорум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:37.034076255Z",
+  "model": "glm-5.3"
+}

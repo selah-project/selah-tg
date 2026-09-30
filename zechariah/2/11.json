@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Эй, Сион, гурез, эй сокини духтари Бобил!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Эй"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "гурез"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "сокини"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бобил"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:29.211370718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва марде аз хонаи Левӣ рафт ва духтари ⟨את⟩ Левӣро гирифт.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "аз хонаи"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левӣ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ва гирифт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "духтари Левӣ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:08.453589979Z",
+  "model": "glm-5.3"
+}

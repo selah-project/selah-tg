@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Тарси Яҳве чашмаи ҳаёт аст, то ки аз тӯриҳои марг гурехтан мумкин бошад.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Тарси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "чашмаи"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "то ки гурехтан"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "аз тӯриҳои"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:12.638145879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як такаи бузӣ барои қурбонии гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "така"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузӣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои қурбонии гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:07.507637003Z",
+  "model": "glm-5.3"
+}

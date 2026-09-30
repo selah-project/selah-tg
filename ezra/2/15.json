@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Один — чор саду панҷоҳу чор нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Один"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "саду"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳу"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "чор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:56.677459337Z",
+  "model": "glm-5.3"
+}

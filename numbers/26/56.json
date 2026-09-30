@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Аз рӯи даҳони қуръа меросаш миёни бисёр ва кам тақсим мешавад.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "қуръа"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "тақсим мешавад"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "меросаш"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "ба кам"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:35.594803469Z",
+  "model": "glm-5.3"
+}

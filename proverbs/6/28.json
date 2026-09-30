@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ё мегӯҳад мард болои ангиштаҳои сӯзон ва поҳои ӯ доғ нашаванд?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ё"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "мегӯҳад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "על",
+      "gloss": "болои"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "ангиштаҳои сӯзон"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ва поҳои ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "доғ нашаванд"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:17.317960972Z",
+  "model": "glm-5.3"
+}

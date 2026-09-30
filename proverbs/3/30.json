@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бе сабаб бо одамӣ ба ҷанг макуш, агар ба ту бадӣ накарда бошад.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ба ҷанг макуш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамӣ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бе сабаб"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "גמалך",
+      "gloss": "ба ту карда бошад"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:33.768885901Z",
+  "model": "glm-5.3"
+}

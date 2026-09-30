@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Авраҳом дар замини Фалиштиён рӯзҳои бисёр мусофир буд.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "ва мусофир буд"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Фалиштиён"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:49.733105168Z",
+  "model": "glm-5.3"
+}

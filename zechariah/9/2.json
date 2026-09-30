@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва ҳамчунин Хамат бар канораи он хоҳад буд; Тсор ва Тсидон, зеро онҳо хеле донишманданд.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва ҳамчунин"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "בה",
+      "gloss": "он"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Тсор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "ва Тсидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "донишманданд"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "хеле"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:59.488288839Z",
+  "model": "glm-5.3"
+}

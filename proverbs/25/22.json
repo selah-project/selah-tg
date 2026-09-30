@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Зеро ки ангиштҳоро бар сари ӯ мегузорӣ ва Яҳве ба ту подоши нек медиҳад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро ки"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ангиштҳоро"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "мегузорӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "сари ӯ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ва Яҳве"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "подоши нек медиҳад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:27.115574235Z",
+  "model": "glm-5.3"
+}

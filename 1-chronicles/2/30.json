@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Надаб: Селед ва Аппайим; ва Селед бе фарзандон мурд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надаб"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "ва Аппайим"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "фарзандон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:46.715086514Z",
+  "model": "glm-5.3"
+}

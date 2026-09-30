@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 14:22",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Va man khoham barkhiidan ʙa ziddi onho, megūjad Yaҳve Tsevoot, va az Boʙul khoham ʙuridan nomro va ʙoqimondaro va farzandro va naʙeraro, megūjad Yaҳve.",
+  "tokens": [
+    {
+      "surface": "וקמתי",
+      "gloss": "khoham barkhiidan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ʙa ziddi onho"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "megūjad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaҳve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevoot"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "khoham ʙuridan"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "az Boʙul"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomro"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "va ʙoqimondaro"
+    },
+    {
+      "surface": "ונין",
+      "gloss": "va farzandro"
+    },
+    {
+      "surface": "ונכד",
+      "gloss": "va naʙeraro"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "megūjad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaҳve"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:12.541148749Z",
+  "model": "glm-5.3"
+}

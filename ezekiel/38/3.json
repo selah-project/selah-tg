@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва мегӯйӣ: «Ин гӯяд Адонай Яҳве: Ман зидди ту ҳастам, эй Гог, сарвари Рош, Мешек ва Тувал!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Ва мегӯйӣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ин гӯяд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "зидди ту"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Рош"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Мешек"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ва Тувал"
+    }
+  ],
+  "timestamp": "2026-09-30T18:13:11.285655106Z",
+  "model": "glm-5.3"
+}

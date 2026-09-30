@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Доварӣ мекунад барои ятим ва бева, ва мусофирро дӯст медорад, то ба ӯ нон ва либос диҳад.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "мекунад"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ятим"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ва бева"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ва дӯст медорад"
+    },
+    {
+      "surface": "גר",
+      "gloss": "мусофир"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "то диҳад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ва либос"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:15.228341725Z",
+  "model": "glm-5.3"
+}

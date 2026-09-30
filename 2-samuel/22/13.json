@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Аз дурахши рӯ ба рӯи Ӯ, доғҳои оташ фурӯзон шуданд.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "аз дурахш"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "рӯ ба рӯи Ӯ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "фурӯзон шуданд"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "доғҳои"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:06.997130915Z",
+  "model": "glm-5.3"
+}

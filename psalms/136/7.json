@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба офаридани чароғҳои бузург, ки ҳесед-и Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ба офаридани"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "чароғҳо"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳесед-и Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:03.993191247Z",
+  "model": "glm-5.3"
+}

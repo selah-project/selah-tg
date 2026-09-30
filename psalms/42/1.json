@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ба сароянда. Масҷал барои фарзандони Қораҳ.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба сароянда"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "масҷал"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "барои фарзандони"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:15.287763524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Дон марумашро доварӣ мекунад, ҳамчун яке аз ашёири Йисроэл.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дон"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "доварӣ мекунад"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "марумашро"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ҳамчун яке аз"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ашёири"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:28:59.667164999Z",
+  "model": "glm-5.3"
+}

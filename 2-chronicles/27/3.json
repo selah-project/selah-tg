@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ӯ ⟨את⟩ дари болоии хонаи Яҳверо бино кард, ва дар девори Офел бисёр бино кард.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дари болоии хонаи Яҳве"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "боло"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ва дар девори"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Офел"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:50:38.836861453Z",
+  "model": "glm-5.3"
+}

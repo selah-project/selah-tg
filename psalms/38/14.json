@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва ман чун кар намешунавам ва чун гунг oe, ки даҳонашро намекушояд.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "чун кар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "мешунавам"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ва чун гунг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "мекушояд"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "даҳонашро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:50.228531621Z",
+  "model": "glm-5.3"
+}

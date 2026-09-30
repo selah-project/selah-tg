@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Яъқов танҳо монд, ва як мард бо ӯ мегаравишт то баромадани саҳар.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "монд"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "мегаравишт"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "як мард"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "баромадани"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "саҳар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:47.379813509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ба Шет ҳам ӯ писаре зоида шуд, ва ӯ ⟨את⟩ номи ӯро Энош гузошт; он гоҳ оғоз шуд хондан ба номи Яҳве.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "ва ба Шет"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зоида шуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ва номид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯро"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯро"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Энош"
+    },
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "оғоз шуд"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "хондан"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ба номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:00.857252933Z",
+  "model": "glm-5.3"
+}

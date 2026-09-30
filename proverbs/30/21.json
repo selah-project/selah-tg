@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Аз се чиз замин меларзад, ва аз чорумӣ наметавонад тобад;",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "се"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "меларзад"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "метавонад"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "тобад"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:43.400503324Z",
+  "model": "glm-5.3"
+}

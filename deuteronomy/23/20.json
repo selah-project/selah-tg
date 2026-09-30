@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ба бародари худ фоиз магир: фоизи пулаш, фоизи ғизо, фоизи ҳар чизе ки ба фоиз дода шавад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "фоиз магир"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ба бародари худ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "фоизи"
+    },
+    {
+      "surface": "כסףp",
+      "gloss": "пулаш"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "фоизи"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ғизо"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "фоизи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар чизе"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "чиз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ба фоиз дода шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:35.156395188Z",
+  "model": "glm-5.3"
+}

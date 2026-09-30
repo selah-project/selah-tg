@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва сухани Яҳве ба Элиёҳу-и тишбӣ расид, баён карданро:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элиёҳу"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "тишбӣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "баён карданро"
+    }
+  ],
+  "timestamp": "2026-09-30T17:11:20.416168660Z",
+  "model": "glm-5.3"
+}

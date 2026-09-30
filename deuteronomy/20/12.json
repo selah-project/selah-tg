@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва агар бо ту салом накунад, балки бо ту ҷанг кунад, он гоҳ онро муҳосира мекунӣ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "салом накунад"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо ту"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "балки кунад"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо ту"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "муҳосира мекунӣ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "онро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:31.279423938Z",
+  "model": "glm-5.3"
+}

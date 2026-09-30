@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Даҳони нодон ҳалокати вай аст ва лабҳояш дами ҷони ӯянд.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ҳалокат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "вай"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ва лабҳояш"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "дам"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ҷони ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:07.585568722Z",
+  "model": "glm-5.3"
+}

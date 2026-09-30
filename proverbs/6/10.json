@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Каме хоб, каме чақчақзанӣ, каме оғӯши дастро ба хоб рафтан",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "каме"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "каме"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "чақчақзанӣ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "каме"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "оғӯш"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "дастро"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ба хоб рафтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:03.966584596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Зеро ки сухани Яҳве рост аст ва ҳамаи корҳои ӯ бо имонӣ ⟨ҳастанд⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "рост"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "корҳои ӯ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "бо имонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:47.784063666Z",
+  "model": "glm-5.3"
+}

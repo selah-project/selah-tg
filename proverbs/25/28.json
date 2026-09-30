@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Шаҳри вайроншуда, ки девор надорад — мардест, ки ба руҳи худ маҳдудият нест.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "вайроншуда"
+    },
+    {
+      "surface": "אין",
+      "gloss": "надорад"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "девор"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "маҳдудият"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "ба руҳи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:07.851684821Z",
+  "model": "glm-5.3"
+}

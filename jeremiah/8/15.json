@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Интизор кашидем саломро, вале некӣ нест; вақти шифо — ва ногоҳ вҳишт.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "интизор кашидем"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "саломро"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "вале нест"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "шифо"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ногоҳ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "вҳишт"
+    }
+  ],
+  "timestamp": "2026-09-30T17:44:02.750770235Z",
+  "model": "glm-5.3"
+}

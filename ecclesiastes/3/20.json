@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ҳама ба як ҷо мераванд; ҳама аз хок буданд, ва ҳама ба хок бармегарданд.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "мераванд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "хок"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "שב",
+      "gloss": "бармегарданд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "хок"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:56.810157777Z",
+  "model": "glm-5.3"
+}

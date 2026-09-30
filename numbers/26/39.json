@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Шуфам — хонаводаи шуфамӣ; Ҳуфам — хонаводаи ҳуфамӣ.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "Шуфам"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "хонаводаи"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "шуфамӣ"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "Ҳуфам"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "хонаводаи"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "ҳуфамӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:27.321827187Z",
+  "model": "glm-5.3"
+}

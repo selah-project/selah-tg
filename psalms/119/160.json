@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Сарҳади калами Ту ҳақиқат аст, ва то абад ҳар ҳукми тседекӣ Ту",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "сарҳади"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "калами Ту"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ҳақиқат"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ва то абад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ҳукми"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "тседекӣ Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:53.361563544Z",
+  "model": "glm-5.3"
+}

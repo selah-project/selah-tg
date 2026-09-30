@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ҳар зирак бо дониш амал мекунад; вале нодон нодониро паҳн мекунад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "зирак"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "амал мекунад"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "бо дониш"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "вале нодон"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "паҳн мекунад"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "нодонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:36.644194253Z",
+  "model": "glm-5.3"
+}

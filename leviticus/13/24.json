@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ё агар дар пӯсти гӯште оташ сӯзонад ва ҷои зиндаи сӯхтагӣ донаи сафед шавад — сурхранг ё сафед —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "дар пӯсти ӯ"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "сӯхтагӣ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ва шавад"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "ҷои зинда"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "сӯхтагӣ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "донаи сафед"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "сафед"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "сурхранг"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "сафед"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:39.213955708Z",
+  "model": "glm-5.3"
+}

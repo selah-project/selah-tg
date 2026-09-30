@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва дар моҳи дуюм, дар рӯзи ҳабдаҳуми моҳ, замин хушк шуд.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Ва дар моҳи"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "хушк шуд"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:49.428474343Z",
+  "model": "glm-5.3"
+}

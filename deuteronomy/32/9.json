@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Зеро саҳми Яҳве мардуми Ӯст; Яъқов хатти мероси Ӯст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "саҳм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "мардуми Ӯ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "хатти (ченак)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мероси Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:32.247751713Z",
+  "model": "glm-5.3"
+}

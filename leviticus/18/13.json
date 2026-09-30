@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Эрваи хоҳари модаратро намакушой, ки ⟨он⟩ гӯшти модари туст.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "эрваи"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "хоҳари"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "модаратро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "кушой"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "гӯшти"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "модари"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "туст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:31.606651785Z",
+  "model": "glm-5.3"
+}

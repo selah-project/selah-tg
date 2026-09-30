@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Зарба ва хорӣ ёфт мешавад, ва таҳқири ӯ нопуда намешавад.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "зарба"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ва хорӣ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ёфт мешавад"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ва таҳқири ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "нопуда мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:14.208386683Z",
+  "model": "glm-5.3"
+}

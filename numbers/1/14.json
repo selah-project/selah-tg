@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Гад — Элёсоф, писари Деуъл.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Барои Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элёсоф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуъл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:44.430697518Z",
+  "model": "glm-5.3"
+}

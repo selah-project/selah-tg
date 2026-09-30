@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Азбаски ҳукме бар кори бадӣ зуд иҷро намешавад, бинобар ин дилҳои фарзандони одам дар онҳо пур мешавад, то бадӣ кунанд.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "иҷро мешавад"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "ҳукм"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "зуд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур мешавад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "дар онҳо"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "то кунанд"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:33.426640051Z",
+  "model": "glm-5.3"
+}

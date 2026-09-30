@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Тамоми ҷамоат якҷоя чор даҳҳазор ду ҳазор сесад шаст ⟨нафар⟩ буд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ҷамоат"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "якҷоя"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "даҳҳазор"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ду ҳазор"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шаст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:57.888738641Z",
+  "model": "glm-5.3"
+}

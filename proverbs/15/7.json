@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Лабҳои ҳакимон дониш мепошанд, вале дили нодонҳо он тавр нест.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "лабҳои"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ҳакимон"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "мепошанд"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "вале дили"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "нодонҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "כן",
+      "gloss": "он тавр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:20.323355409Z",
+  "model": "glm-5.3"
+}

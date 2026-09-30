@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Дар сари баландиҳо, бар роҳе, дар ҷои якҷояшавии стеҳҳо меистад.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "дар сари"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "баландиҳо"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳе"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ҷои"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "стеҳҳо"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "меистад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:36.132347950Z",
+  "model": "glm-5.3"
+}

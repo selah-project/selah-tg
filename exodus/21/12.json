@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Кӯбандаи мардро, ки вай бимурад, бо қатл ҷазо диҳанд.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "кӯбандаи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мардро"
+    },
+    {
+      "surface": "וומת",
+      "gloss": "ва бимурад"
+    },
+    {
+      "surface": "מות",
+      "gloss": "бо қатл"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ҷазо диҳанд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:09.800387585Z",
+  "model": "glm-5.3"
+}

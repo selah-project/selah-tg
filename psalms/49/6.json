@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Чаро дар рӯзҳои бад тарсам, гуноҳи пайҳам маро иҳота мекунад?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "тарсам"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "дар рӯзҳои"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гуноҳ"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "пайҳам"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "маро иҳота мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:01.666954156Z",
+  "model": "glm-5.3"
+}

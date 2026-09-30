@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Шукуҳ ва олиҷанобӣ пеши ӯст, қувват ва шодӣ дар ҷои ӯ.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "шукуҳ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ва олиҷанобӣ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пеши ӯст"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "ва шодӣ"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "дар ҷои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:45.011423009Z",
+  "model": "glm-5.3"
+}

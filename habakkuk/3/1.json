@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дуои Хабақуқи набӣ бар шигйонот.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "дуо"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "Хабақуқ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "шигйонот"
+    }
+  ],
+  "timestamp": "2026-09-30T18:26:45.293945138Z",
+  "model": "glm-5.3"
+}

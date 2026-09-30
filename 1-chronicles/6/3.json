@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва фарзандони Кеҳат: Амрам, Йитсҳар ва Chevron ва Уззӣэл.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеҳат"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ва Йитсҳар"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ва Chevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ва Уззӣэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:51.417877030Z",
+  "model": "glm-5.3"
+}

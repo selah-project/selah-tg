@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Мард ⟨את⟩ занони падари худро нагирад ва канори либоси падари худро биншоношад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "нагирад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "занони падари худ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "занони"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падари ӯ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "биншоношад"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "канори либос"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:28.517116385Z",
+  "model": "glm-5.3"
+}

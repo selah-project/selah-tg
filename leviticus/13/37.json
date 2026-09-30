@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 13:37",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар дар назари коҳин нетек бimonад ва муи сиёҳ дар он руёд, нетек шифо ёфт — ӯ пок аст, ва коҳин ӯро пок эълон мекунад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "дар назари ӯ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "istод"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ва му"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "сиёҳ"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "руёд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "шифо ёфт"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ва пок эълон мекунад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:06.048979068Z",
+  "model": "glm-5.3"
+}

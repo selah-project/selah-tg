@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Ливна сафар карданд ва дар Рисса муҳим шуданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "сафар карданд"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "аз Ливна"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "муҳим шуданд"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "дар Рисса"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:06.278348871Z",
+  "model": "glm-5.3"
+}

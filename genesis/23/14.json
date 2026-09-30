@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "ва Эфрон ба ҷавоби Абраҳом гӯён ба ӯ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ва ба ҷавоб"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Эфрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Абраҳомро"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Абраҳомро"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:34.054222285Z",
+  "model": "glm-5.3"
+}

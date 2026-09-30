@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Бале, агар ба дарк нидо занӣ ва ба таҳқиқ овози худро баланд кунӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бале"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ба дарк"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "нидо занӣ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ба таҳқиқ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "баланд кунӣ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "овози худро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:31.646973040Z",
+  "model": "glm-5.3"
+}

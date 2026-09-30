@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Маро магзор Яҳве, Элоҳими ман, аз ман дур машав!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "магзор"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "маро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими ман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "магзор"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "дур машав"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:43.717814332Z",
+  "model": "glm-5.3"
+}

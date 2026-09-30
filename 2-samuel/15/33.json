@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва Довуд ба ӯ гуфт: Агар бо ⟨את⟩ ман гузарӣ, ту бар ман ба бор мешавӣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "гузарӣ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ман"
+    },
+    {
+      "surface": "והית",
+      "gloss": "мешавӣ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар ман"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "ба бор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:56:51.277090128Z",
+  "model": "glm-5.3"
+}

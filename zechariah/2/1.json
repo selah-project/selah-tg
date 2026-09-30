@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ман чашмони худро бардоштам ва дидам — ва аҳо, чор шох.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ва ман бардоштам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чашмони худ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "чашмони худ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ва дидам"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва аҳо"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "шох"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:04.003657377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ҳецрон — авлоди ҳецрониён; Кармӣ — авлоди кармиён.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Ҳецрон"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "авлоди"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ҳецрониён"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Кармӣ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "авлоди"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "кармиён"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:36.678114665Z",
+  "model": "glm-5.3"
+}

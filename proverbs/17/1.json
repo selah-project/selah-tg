@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Беҳтар аст лӯқаи хушк ва оромӣ дар он, аз хонае пур аз қурбониҳои низоъ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар аст"
+    },
+    {
+      "surface": "פת",
+      "gloss": "лӯқа"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "хушк"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ва оромӣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "аз хонае"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "аз қурбониҳои"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "низоъ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:57.027204784Z",
+  "model": "glm-5.3"
+}

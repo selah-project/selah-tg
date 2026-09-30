@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 31:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Фарзандонаш хезида ӯро табрик мекунанд, шавҳараш низ ӯро меситояд.",
+  "tokens": [
+    {
+      "surface": "קמו",
+      "gloss": "хезиданд"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "фарзандонаш"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "ва ӯро saodatmand мехонанд"
+    },
+    {
+      "surface": "вעלה",
+      "gloss": "шавҳараш"
+    },
+    {
+      "surface": "והללה",
+      "gloss": "ва ӯро меситояд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:58.962261290Z",
+  "model": "glm-5.3"
+}

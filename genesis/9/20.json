@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Нӯҳ — одами замин — шурӯъ кард ва токзор шинид.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "шурӯъ кард"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одами"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "шинид"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "токзор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:36.676294688Z",
+  "model": "glm-5.3"
+}

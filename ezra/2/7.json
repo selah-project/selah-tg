@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Эйлом, ҳазору дусаду панҷоҳу чор.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлом"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазору"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "дусаду"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳу"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "чор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:37.289663431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва говҳо шашу се ҳазор, ва маҷбурӣ барои Яҳве аз онҳо ду ва ҳафтод.",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "говҳо"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "маҷбурии онҳо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ҳафтод"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:54.753332593Z",
+  "model": "glm-5.3"
+}

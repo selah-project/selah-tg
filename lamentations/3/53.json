@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зиндагии маро дар чоҳ нобуд карданд ва ба ман санг партофтанд.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "нобуд карданд"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "дар чоҳ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "зиндагии маро"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ва партофтанд"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "санг"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ба ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.824229414Z",
+  "model": "glm-5.3"
+}

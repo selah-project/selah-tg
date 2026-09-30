@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва писари Шеломоҳ Рәҳабъом, Авия писари ӯ, Асо писари ӯ, Йеҳошафот писари ӯ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ва писари"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоҳ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рәҳабъом"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеҳошафот"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:05.416772357Z",
+  "model": "glm-5.3"
+}

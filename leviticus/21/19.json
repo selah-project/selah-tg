@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ё марде, ки дар ӯ шикастаи по ё шикастаи даст бошад.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар ӯ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикастаи"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "по"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикастаи"
+    },
+    {
+      "surface": "יד",
+      "gloss": "даст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:02.625000911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва аз қабилаи фарзандони Ошер — сарвар Аҳиҳуд, писари Шеломӣ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "аз қабилаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ошер"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Аҳиҳуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шеломӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:07.662493892Z",
+  "model": "glm-5.3"
+}

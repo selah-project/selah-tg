@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Дар он рӯзҳо ман, Дониёл, се ҳафтаи рӯзҳоро матам мегирифтам;",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Дар он рӯзҳо"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "он"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Дониёл"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "будам"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "матам мегирифтам"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ҳафта"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:26:43.726176715Z",
+  "model": "glm-5.3"
+}

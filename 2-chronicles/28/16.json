@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Дар он замон подшоҳ Аҳаз ба подшоҳони Ашшур расолат фиристод, то ки ба ёрии ӯ омоянд.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Дар"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "он"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аҳаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "подшоҳони"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ёри"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:51:24.674239835Z",
+  "model": "glm-5.3"
+}

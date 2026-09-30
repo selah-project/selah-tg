@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ва қабилаи Гад, ва сардори банӣ-Гад Элёсоф писари Рўуэл.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ва қабилаи"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ва сардор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элёсоф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Рўуэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:53.855004058Z",
+  "model": "glm-5.3"
+}

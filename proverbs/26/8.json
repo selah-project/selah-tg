@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ҳамун сангеро ба ғалтак монда бастан — он ки ба аблаҳ ифтихор медиҳад.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "ҳамун баста"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "сангеро"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "ба ғалтак"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамун"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ба аблаҳ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ифтихор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:14.409772365Z",
+  "model": "glm-5.3"
+}

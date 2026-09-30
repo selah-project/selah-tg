@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Дар рӯзи бисту чоруми моҳи шашум, дар соли дуюми Дориявеши подшоҳ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Дар рӯзи"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ва чорум"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "дар соли"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Дориявеш"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:26:41.296454145Z",
+  "model": "glm-5.3"
+}

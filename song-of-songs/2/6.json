@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Дасти чапаш зери сарам аст ва дасти росташ маро дар огӯш мегирад.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "дасти чапаш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "сарам"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ва дасти росташ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "маро дар огӯш мегирад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:58.391029951Z",
+  "model": "glm-5.3"
+}

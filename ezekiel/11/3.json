@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ки мегӯянд: «Наздик нест; хонаҳо бисозед; ин шаҳр дег аст ва мо гӯштаем».",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Ки мегӯянд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "Наздик"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "бисозед"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "хонаҳо"
+    },
+    {
+      "surface": "היא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "дег"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ва мо"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "гӯштаем"
+    }
+  ],
+  "timestamp": "2026-09-30T18:02:57.195012351Z",
+  "model": "glm-5.3"
+}

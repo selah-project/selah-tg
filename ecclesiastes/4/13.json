@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Беҳтар аст кӯдаки бенаво ва ҳаким аз подшоҳи пир ва нодон, ки дигар намедонад огоҳ шавад.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Беҳтар аст"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "кӯдак"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "бенаво"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ва ҳаким"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "аз подшоҳ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "пир"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ва нодон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "надонад"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "огоҳ шавад"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:46.680037760Z",
+  "model": "glm-5.3"
+}

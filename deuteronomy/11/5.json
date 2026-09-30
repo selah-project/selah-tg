@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва он ки ба шумо дар биёбон кард, то омадани шумо то ин ҷой;",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ва он ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "омадани шумо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ин ҷой"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:21.590952390Z",
+  "model": "glm-5.3"
+}

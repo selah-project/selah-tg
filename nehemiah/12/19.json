@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва ба Йоярив — Маттанай; ба Йедаия — Уззӣ.",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "ва ба Йоярив"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Маттанай"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ба Йедаия"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:08.411358999Z",
+  "model": "glm-5.3"
+}

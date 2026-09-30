@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "сардори Оҳоливама, сардори Эла, сардори Пинон.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Оҳоливама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пинон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:25.280382832Z",
+  "model": "glm-5.3"
+}

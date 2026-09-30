@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 33:35",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Эброна кӯчиданд ва дар Этсиён-Гебер макун шуданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "кӯчиданд"
+    },
+    {
+      "surface": "מעברנה",
+      "gloss": "аз Эброна"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "макун шуданд"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "дар Этсиён"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гебер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:57.510639094Z",
+  "model": "glm-5.3"
+}

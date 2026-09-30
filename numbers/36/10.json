@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Чунон ки Яҳве ⟨את⟩ Моше фармуд, ҳамин тавр карданд духтарони Тселофҳад.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "карданд"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтарони"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Тселофҳад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:11.258240482Z",
+  "model": "glm-5.3"
+}

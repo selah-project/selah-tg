@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Ҳамон ба шоҳ гуфт: Ба одаме ки шоҳ мехоҳад ⟨את⟩ иқроми ӯ кунад —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Ҳамон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одаме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "мехоҳад"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "иқроми ӯ ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:27.137375156Z",
+  "model": "glm-5.3"
+}

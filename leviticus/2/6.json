@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Пора кардан ⟨את⟩ он — пораҳо — ва рехтан мебароӣ бар он равған; минҳа аст ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "пתות",
+      "gloss": "Пора кардан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "он (минҳа)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "пораҳо"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ва рехтан мебароӣ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минҳа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩ аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:40.818675223Z",
+  "model": "glm-5.3"
+}

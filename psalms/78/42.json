@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 78,
+  "translation": "Дasti Ӯро ёд накарданд — рӯзеро ки ӯ онҳоро аз тангӣ холӣ кард.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ёд накарданд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дасти Ӯро"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "дасти Ӯро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзеро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "холӣ кард"
+    },
+    {
+      "surface": "מני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тангӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:12.654730271Z",
+  "model": "glm-5.3"
+}

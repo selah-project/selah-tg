@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 105,
+  "translation": "То вақте ки сухани ӯ расид, сухани Яҳве ӯро тоза кард.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақте"
+    },
+    {
+      "surface": "בא",
+      "gloss": "расид"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сухани ӯ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "ӯро тоза кард"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:55.633326774Z",
+  "model": "glm-5.3"
+}

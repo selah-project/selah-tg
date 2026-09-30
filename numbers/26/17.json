@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Аз Арод — авлоди ҳа-Ародӣ; аз Аръэлӣ — авлоди ҳа-Аръэлӣ.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "Аз Арод"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "авлод"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ҳа-Ародӣ"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "аз Аръэлӣ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "авлод"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "ҳа-Аръэлӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:58.395983845Z",
+  "model": "glm-5.3"
+}

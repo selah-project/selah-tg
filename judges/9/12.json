@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва дарахтон ба ток гуфтанд: Биё, ⟨ту⟩ подшоҳӣ кун бар мо.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "гуфтанд"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дарахтон"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "ба ток"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "биё"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ту⟩",
+      "marks": "подшоҳӣ кун"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "подшоҳӣ кун"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бар мо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:34:53.752014854Z",
+  "model": "glm-5.3"
+}

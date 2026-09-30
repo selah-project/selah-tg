@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва бар керуб савор шуд ва парид, ва бар болҳои руах намоён шуд.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "савор шуд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "парид"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "намоён шуд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "болҳои"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-09-30T16:58:00.880668448Z",
+  "model": "glm-5.3"
+}

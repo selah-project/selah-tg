@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Се чиз аз ман аҷибтар аст ва чоруминро намедонам:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "аҷибтар"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "намедонам онҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:17.446863096Z",
+  "model": "glm-5.3"
+}

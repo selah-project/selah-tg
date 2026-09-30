@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Яҳве баромад то бинад ⟨את⟩ шаҳр ва ⟨את⟩ бурҷро, ки бино кардаанд банои Одам.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "боромад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "то бинад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шаҳр"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "бурҷ"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "бурҷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "бино кардаанд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банои"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Одам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:15.475125516Z",
+  "model": "glm-5.3"
+}

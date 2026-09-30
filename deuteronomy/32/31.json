@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Зеро сангашон чун Санги мо нест, ва душманони мо худ додгаранд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "чун Санги мо"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "сангашон"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ва душманони мо"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "додгаранд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:49.596031510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 71,
+  "translation": "Зеро ту умеди ман ҳастӣ, Адонай Яҳве, боварии ман аз ҷавонӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "умеди ман"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "боварии ман"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "аз ҷавонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:03.226888812Z",
+  "model": "glm-5.3"
+}

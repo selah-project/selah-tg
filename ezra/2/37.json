@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Имер — ҳазору панҷоҳу дунавар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имер"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "у дунавар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:57.137937740Z",
+  "model": "glm-5.3"
+}

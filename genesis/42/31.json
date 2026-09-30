@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ва ба ӯ гуфтем: мо ростинем, мо кашфиётчиён нестем.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "гуфтем"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ростинем"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "будем"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "кашфиётчиён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:26.639562920Z",
+  "model": "glm-5.3"
+}

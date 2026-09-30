@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Ва Йосеф бар рӯйи падари худ афтид ва бар ӯ гиря кард ва ӯро бӯсид.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "афтид"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падари худ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "гиря кард"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "бӯсид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:57.045341172Z",
+  "model": "glm-5.3"
+}

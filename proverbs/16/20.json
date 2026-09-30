@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Дар кор огоҳ бошад, некӣ меёбад; ва ба Яҳве такякунанда — оҳ, саодати ӯ!",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "огоҳ бошад"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "меёбад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ва такякунанда"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "оҳ, саодати ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:44.069048598Z",
+  "model": "glm-5.3"
+}

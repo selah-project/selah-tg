@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Чунон ки Яҳве ба Моше фармуд ⟨את⟩, ва ӯ онҳоро дар биёбони Сино шумурд.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ба Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ва ӯ онҳоро шумурд"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбони"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сино"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:26.108554751Z",
+  "model": "glm-5.3"
+}

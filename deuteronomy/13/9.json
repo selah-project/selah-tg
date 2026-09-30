@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ба ӯ розӣ нашавӣ ва ба ӯ гӯш накунӣ, чашми туро ба ӯ раҳм наояд ва асирӯ нагардонӣ ва ӯро пӯшонӣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "розӣ шавӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "гӯш кунӣ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "раҳм ояд"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "чашми туро"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "асирӯ гардонӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "пӯшонӣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:50.491618333Z",
+  "model": "glm-5.3"
+}

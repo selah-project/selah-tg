@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ин он сухан аст, ки ман ба Паръо гуфтам: он чиро ки Элоҳим мекунад, ба Паръо нишон додааст.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ман гуфтам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "мекунад"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "нишон додааст"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паръо"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:11.158192832Z",
+  "model": "glm-5.3"
+}

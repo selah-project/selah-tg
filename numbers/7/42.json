@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Рӯзи шашум — сардори фарзандони Гад: Эльясаф писари Деуэл.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Эльясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:37.142076715Z",
+  "model": "glm-5.3"
+}

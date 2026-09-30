@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва ⟨את⟩ Ҳуккок ва ⟨את⟩ мераҳои он, ва ⟨את⟩ Рехов ва ⟨את⟩ мераҳои он.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳуккок"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Ҳуккок"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "мераҳои он"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "мераҳои он"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Рехов"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Рехов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "мераҳои он"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "мераҳои он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:18.068418732Z",
+  "model": "glm-5.3"
+}

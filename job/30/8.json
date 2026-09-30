@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Фарзандони нодон, ҳам фарзандони беном — аз замин ронда шудаанд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "бе"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "ронда шудаанд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:47.167093757Z",
+  "model": "glm-5.3"
+}

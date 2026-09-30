@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз меваи даҳони одам ӯ бо некӣ сер мешавад, ва мукофоти дасти одам ба ӯ бармегардад.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Аз меваи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "сер мешавад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "бо некӣ"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "ва мукофот"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "даст"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "бармегардад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:21.784547033Z",
+  "model": "glm-5.3"
+}

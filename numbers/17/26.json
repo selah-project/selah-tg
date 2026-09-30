@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Моше он тавр кард, чунон ки Яҳве ба ӯ фармуда буд, ҳамин тавр кард.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ва кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуда буд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    }
+  ],
+  "timestamp": "2026-09-30T16:04:11.378033012Z",
+  "model": "glm-5.3"
+}

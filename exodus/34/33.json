@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва Моше гуфтан бо ⟨את⟩ онҳоро тамом кард ва бар рӯи худ масвэҳ гузошт.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "тамом кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ бо онҳо"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯи худ"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "масвэҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:42:30.298996181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Аз бӯи об мешафafad ва ҳосил меорад, чун ниҳол.",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "аз бӯи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "мешафафад"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "меорад"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ҳосил"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "чун"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ниҳол"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:06.258125498Z",
+  "model": "glm-5.3"
+}

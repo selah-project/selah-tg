@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "joshua 15:57",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ҳақайин, Гиваҳ ва Тимнаҳ — шаҳрҳо даҳто ва деҳаҳояшон.",
+  "tokens": [
+    {
+      "surface": "הקין",
+      "gloss": "Ҳақайин"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "Гиваҳ"
+    },
+    {
+      "surface": "ותמנה",
+      "gloss": "ва Тимнаҳ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаҳрҳо"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳто"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ва деҳаҳояшон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:46.746981962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 120,
+  "translation": "Чӣ ба ту дода мешавад ва чӣ бар ту афзуда мешавад, эй забони фиребгар?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дода мешавад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ва чӣ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "афзуда мешавад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "забони"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "фиребгар"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:58.112344425Z",
+  "model": "glm-5.3"
+}

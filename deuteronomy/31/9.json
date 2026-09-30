@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше ин тораро навишт ва онро ба коҳинони банӣ Ловӣ, ки сандиқи аҳди Яҳверо мебардоранд, ва ба ҳамаи пирони Йисроэл дод.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "навишт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин тора"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ин тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "вадод"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳинон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Ловӣ"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "мебардоранд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сандиқи аҳд"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандиқ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "аҳд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "пирон"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:56.556675621Z",
+  "model": "glm-5.3"
+}

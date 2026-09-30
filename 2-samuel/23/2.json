@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Рӯҳи Яҳве дар ман сухан ронд ва калимаи Ӯ бар забони ман аст.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Рӯҳи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан ронд"
+    },
+    {
+      "surface": "בי",
+      "gloss": "дар ман"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ва калимаи Ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "забони ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:41.541863348Z",
+  "model": "glm-5.3"
+}

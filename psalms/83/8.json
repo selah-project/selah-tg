@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 83,
+  "translation": "Гевал ва Аммон ва Амалек; Фалистия ҳамроҳи сокинони Тсор,",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Гевал"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "ва Аммон"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ва Амалек"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Фалистия"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ҳамроҳи"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Тсор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:50.200077031Z",
+  "model": "glm-5.3"
+}

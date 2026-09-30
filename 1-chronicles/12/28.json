@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Йеҳоядоъ — сардори Оҳаронӣ — ва бо ӯ се ҳазор ва ҳафтсад нафар.",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "ва Йеҳоядоъ"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Оҳаронӣ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ва бо ӯ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:17.598346621Z",
+  "model": "glm-5.3"
+}

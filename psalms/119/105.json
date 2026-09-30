@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Чароғи пои ман сухани Ту ⟨аст⟩, ва нӯри роҳи ман.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "чароғи"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "пои ман"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "сухани Ту"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ва нӯри"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "роҳи ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:17.358510415Z",
+  "model": "glm-5.3"
+}

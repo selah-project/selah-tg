@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Тўғноқ барои асп, ҳалқа барои хар, ва асо барои пушти нодирон.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "Тўғноқ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "барои асп"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ҳалқа"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "барои хар"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ва асо"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "барои пушт"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "нодирон"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:38.802347938Z",
+  "model": "glm-5.3"
+}

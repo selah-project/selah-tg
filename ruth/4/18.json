@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва инҳо наслҳои Перетсанд: Перетс Хетсронро зод.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "наслҳои"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хетсронро"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хетсрон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:03.427960637Z",
+  "model": "glm-5.3"
+}

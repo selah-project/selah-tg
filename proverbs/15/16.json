@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Некӯст камӣ бо хавфи Яҳве, аз ганҷи бисёр ва ошӯб дар он.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "некӯст"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "камӣ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "бо хавфи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "аз ганҷи"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "ва ошӯб"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:27.352114012Z",
+  "model": "glm-5.3"
+}

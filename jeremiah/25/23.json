@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "ва ⟨את⟩ Дедан ва ⟨את⟩ Тема ва ⟨את⟩ Буз ва ⟨את⟩ ҳамаи кундапошони мӯйбурро,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Дедан"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Дедан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Тема"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Тема"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Буз"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳамаи кундапошони мӯйбур"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "кундапошони"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "мӯйбур"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:09.852783492Z",
+  "model": "glm-5.3"
+}

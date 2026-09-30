@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Дар роҳи тседека мегардам, дар миёнаи роҳчаҳои доварӣ.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "тседека"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "мегардам"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёнаи"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "роҳчаҳои"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:48.455716450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 135,
+  "translation": "Эй Яҳве, номи Ту то абад; эй Яҳве, ёдоварии Ту насл ба насл.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Эй Яҳве"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "номи Ту"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ёдоварии Ту"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "насл ба насл"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "(ба насл)"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:29.123620988Z",
+  "model": "glm-5.3"
+}

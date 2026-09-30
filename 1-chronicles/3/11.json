@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Йорам писари ӯ, Аҳазйаҳу писари ӯ, Йоаш писари ӯ.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Йорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Аҳазйаҳу"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:05.416937264Z",
+  "model": "glm-5.3"
+}

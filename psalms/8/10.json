@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Яҳве, Адонайи мо, Номи Ту дар тамоми замин чӣ бузург аст!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Адонайи мо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Номи Ту"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:32:38.178794556Z",
+  "model": "glm-5.3"
+}

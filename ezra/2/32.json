@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Ҳорим — сесаду бисту 〈нафар〉.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Ҳорим"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "у бист"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:44.860192919Z",
+  "model": "glm-5.3"
+}

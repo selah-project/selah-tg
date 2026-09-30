@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва ҳар ҳашароти паррандаи мелазад — нопок аст барои шумо; хӯрда нашаванд",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ҳашароти мелазад"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "парранда"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨аст⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "хӯрда нашаванд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:48.339853619Z",
+  "model": "glm-5.3"
+}

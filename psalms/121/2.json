@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 121,
+  "translation": "Ёрии ман аз ҷониби Яҳве ⟨аст⟩ — Офарандаи осмонҳо ва замин.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ёрии ман"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз ҷониби"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Офарандаи"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ва замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:12.194568661Z",
+  "model": "glm-5.3"
+}

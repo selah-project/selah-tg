@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "оне ки ба онҳо даҳон занад, то шом нопок мешавад ва аз муқаддасот намехӯрад, магар ки танашро дар об шӯяд;",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "оне ки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "даҳон занад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "нопок мешавад"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "шом"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва наме"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрад"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "муқаддасот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "магар"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "шӯяд"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "танашро"
+    },
+    {
+      "surface": "במים",
+      "gloss": "дар об"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:23.445472362Z",
+  "model": "glm-5.3"
+}

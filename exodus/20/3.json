@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Барои ту худоёни дигар набошанд дар рӯи ⟨оскваи⟩ Ман.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошанд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои ту"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "худоён"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:34.263756720Z",
+  "model": "glm-5.3"
+}

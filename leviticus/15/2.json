@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Бо банӣёни Йисроэл гуед ва ба онҳо бигӯед: ҳар марде, ки аз бадани ӯ завбеҳ бошад — завби ӯ нопок аст.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "гуед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "баниион"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ва бигӯед"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар марде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "זב",
+      "gloss": "завбеҳ кунад"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "аз бадани ӯ"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "завби ӯ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:01.704266371Z",
+  "model": "glm-5.3"
+}

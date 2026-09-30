@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва ӯро махкам гирифт ва ӯро бӯсид, рӯйи хешро сахт кард ва ба ӯ гуфт:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "ва махкам гирифт"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "ва бӯсид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "сахт кард"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "рӯйи хешро"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:25.516973445Z",
+  "model": "glm-5.3"
+}

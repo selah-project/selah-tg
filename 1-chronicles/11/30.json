@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Маҳрай Нетофатӣ, Ҳелед писари Баана Нетофатӣ.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "Маҳрай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "Нетофатӣ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "Ҳелед"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Баана"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "Нетофатӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:25.750603429Z",
+  "model": "glm-5.3"
+}

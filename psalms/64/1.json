@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 64,
+  "translation": "Ба роҳбари мусиқӣ. Мизмор — шеъри оҳангсози Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:30.748099609Z",
+  "model": "glm-5.3"
+}

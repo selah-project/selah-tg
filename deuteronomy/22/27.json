@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Зеро дар саҳро ёфт ӯро; нолид духтари номзадшуда ва наҷотдиҳандае барояш набуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "дар саҳро"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ёфт"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "нолид"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "номзадшуда"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва набуд"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "наҷотдиҳандае"
+    },
+    {
+      "surface": "לה",
+      "gloss": "барояш"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:29.363020387Z",
+  "model": "glm-5.3"
+}

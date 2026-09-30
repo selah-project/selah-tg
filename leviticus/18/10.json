@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Эрваи духтари писари ту ё духтари духтари ту — эрваи онҳоро ошкор накун, зеро эрваи ту онҳоянд.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "эрваи"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "писари ту"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "духтари ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ошкор"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "эрваи онҳоро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "эрваи ту"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "онҳоянд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:39.759429197Z",
+  "model": "glm-5.3"
+}

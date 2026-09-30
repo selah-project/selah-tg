@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "dar пастӣ мо ӯ ба мо ёд кард, зеро ҳеседаш то абад ⟨аст⟩;",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "дар пастӣ мо"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ёд кард"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:06.012218283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Моше ба Аҳарон ва ба писаронаш ва ба ҳамаи писарони Йисроэл сухан ронд.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:46.501648186Z",
+  "model": "glm-5.3"
+}

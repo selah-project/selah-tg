@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Барои каҷ кардани доварии мард пеши рӯи Элйон.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "барои каҷ кардан"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Элйон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:05.837028552Z",
+  "model": "glm-5.3"
+}

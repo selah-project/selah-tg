@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дидам ⟨את⟩ машаққатро, ки Элоҳим ба писарони одам додааст, то дар он машғул шаванд.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "машаққат"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "машаққат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "додааст"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба писарони"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "машғул шаванд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:40.615621098Z",
+  "model": "glm-5.3"
+}

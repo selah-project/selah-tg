@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ҳудуди қадимиро, ки падаронат гузоштаанд, ҳаракат накун.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ҳаракат"
+    },
+    {
+      "surface": "גבул",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "қадимиро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "гузоштаанд"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "падаронат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:11.374529995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ё торикӣ — намебинӣ, ва фаровонии об туро мепӯшонад.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "торикӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "мебинӣ"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "ва фаровонии"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "туро мепӯшонад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:07:48.908461067Z",
+  "model": "glm-5.3"
+}

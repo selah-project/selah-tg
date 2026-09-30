@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва агар воқеъ бошад ин сухан, ки нишонаҳои бокирагӣ барои он ҷавон ёфт нашаванд —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "воқеъ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ин сухан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ёфт шаванд"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "нишонаҳои бокирагӣ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "барои он ҷавон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:04.290930428Z",
+  "model": "glm-5.3"
+}

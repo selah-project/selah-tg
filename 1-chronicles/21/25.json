@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Довуд ба Арнон барои он ҷо шекелҳои тилло ба вазнӣ шашсад дод.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "ба Арнон"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "барои он ҷо"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "шекелҳои"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ба вазнӣ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:18.795461616Z",
+  "model": "glm-5.3"
+}

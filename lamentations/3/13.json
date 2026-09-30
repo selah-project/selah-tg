@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Тирҳои қушонашро ба гурдаҳои ман даровард.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "даровард"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "ба гурдаҳои ман"
+    },
+    {
+      "surface": "בני",
+      "gloss": "тирҳои"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "қушонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:59.763802946Z",
+  "model": "glm-5.3"
+}

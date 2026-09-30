@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ҳаст роҳе ки пеш аз одамӣ рост менамояд, вале охири он роҳҳои мург аст.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Ҳаст"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳе"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "рост"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одамӣ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "вале охири он"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "роҳҳои"
+    },
+    {
+      "surface": "מות",
+      "gloss": "мург"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:32.512663956Z",
+  "model": "glm-5.3"
+}

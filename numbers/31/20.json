@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва ҳар либос ва ҳар асбоби пӯстӣ ва ҳар кори мӯи бузҳо ва ҳар асбоби чӯбин пок гардонед.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "либос"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоби"
+    },
+    {
+      "surface": "עור",
+      "gloss": "пӯстӣ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "мӯи бузҳо"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоби"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "чӯбӣ"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "пок гардонед"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:33.508108610Z",
+  "model": "glm-5.3"
+}

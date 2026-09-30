@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва подшоҳи Садом ба Аврам гуфт: одамонро ба ман бидеҳ, ва молро барои худ бигир.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Садом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "תן",
+      "gloss": "бидеҳ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "ва мол"
+    },
+    {
+      "surface": "קח",
+      "gloss": "бигир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:06.908950639Z",
+  "model": "glm-5.3"
+}

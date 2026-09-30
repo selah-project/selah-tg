@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Барои гурӯҳҳои дарбонён: аз қарҳиён Мешеламяҳу писари Қоре аз банӣ-Осуф.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "барои гурӯҳҳои"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "дарбонён"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "аз қарҳиён"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Мешеламяҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Қоре"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Осуф"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:12.244933261Z",
+  "model": "glm-5.3"
+}

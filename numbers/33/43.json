@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Пӯнон равона шуданд ва дар Овот лагер заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "равона шуданд"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "аз Пӯнон"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер заданд"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "дар Овот"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:05.259105672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Элоҳим ба Авраҳам гуфт: Сарай занат — номи ӯро Сарай нахон, зеро Сара номи ӯст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "занат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "хон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯро"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "номи ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:01.750751110Z",
+  "model": "glm-5.3"
+}

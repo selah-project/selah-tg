@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва бар сина пайҳои беремен сохтанд — кори ресмонҳои бофтаи тиллои пок.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ва сохтанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "пайҳои"
+    },
+    {
+      "surface": "גבלут",
+      "gloss": "берем"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ресмонҳои бофта"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллои"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:29.963004476Z",
+  "model": "glm-5.3"
+}

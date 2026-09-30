@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва Яҳве ба Моше сухан ронда, гуфт:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:28.809651432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ҳар як мард ба ҳеҷ хешованди пӯсти худ наздик нашавад, то урётияш ошкор накунад; ман Яҳве ҳастам.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар як мард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "хешованд"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "пӯсти ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "наздик нашавед"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "то ошкор кунад"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "урёти"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:34.311405782Z",
+  "model": "glm-5.3"
+}

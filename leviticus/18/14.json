@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Эрваи бародари падаратро намакушой; ба занаш наздик нашав — аммаи туст ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Эрваи"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бародари"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падаратро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "кушой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "занаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "наздик нашав"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "аммаи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "туст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:31.606976504Z",
+  "model": "glm-5.3"
+}

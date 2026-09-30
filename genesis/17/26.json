@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Дар айни ҳамин рӯз Авраҳам ва Йишмоэли писараш хатна шуданд —",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "дар айни"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ҳамин рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "хатна шуд"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ва Йишмоэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:23.238521491Z",
+  "model": "glm-5.3"
+}

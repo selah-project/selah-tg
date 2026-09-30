@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Назрҳоямро ба Яҳве адо мекунам, ҳоло, дар назди ҳамаи қавмаш.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Назрҳоямро"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "адо мекунам"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "қавмаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:24.296005325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Оё ҳикмат нодарад ва тавонзеҳӣ овозашро намедиҳад?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "оё"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "нодарад"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ва тавонзеҳӣ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "намедиҳад"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "овозашро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:36.131869218Z",
+  "model": "glm-5.3"
+}

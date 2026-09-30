@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони Небои дигар — панҷоҳу дӯ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Небо"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "у дӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:30.724234539Z",
+  "model": "glm-5.3"
+}

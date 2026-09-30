@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва гуфт Яҳве ба Моше, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:47.806605309Z",
+  "model": "glm-5.3"
+}

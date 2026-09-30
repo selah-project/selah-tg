@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Писарони Мерари: Махлӣ, Ливнӣ писари ӯ, Шимъӣ писари ӯ, Узза писари ӯ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлӣ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливнӣ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.582200602Z",
+  "model": "glm-5.3"
+}

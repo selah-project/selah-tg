@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Паръош — ду ҳазор сад ва ҳафтоду ду нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Паръош"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ду ҳазор"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ва ҳафтод"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ва ду"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:30.473681160Z",
+  "model": "glm-5.3"
+}

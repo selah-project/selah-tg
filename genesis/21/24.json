@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Авраҳам гуфт: Ман савганд мехӯрам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "савганд мехӯрам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:21.642019107Z",
+  "model": "glm-5.3"
+}

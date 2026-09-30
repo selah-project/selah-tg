@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Иммер, ҳазору панҷоҳу ду.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Иммер"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ву ду"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:41.050109391Z",
+  "model": "glm-5.3"
+}

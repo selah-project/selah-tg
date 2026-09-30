@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше ⟨את⟩ ба ливиёне, бардорандагони сандуқи аҳди Яҳве, фармон дод, бигӯяд:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ва фармон дод"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ливиён"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ба ливиёне"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "бардорандагони"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандуқи"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "аҳди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бигӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:11.659269559Z",
+  "model": "glm-5.3"
+}

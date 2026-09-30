@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ба ман бадиро ба ҷои нек медиҳанд — маҳрумияти ҷони ман.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "ба ман медиҳанд"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадиро"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ба ҷои"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "нек"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "маҳрумият"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ҷони ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:37.328636947Z",
+  "model": "glm-5.3"
+}

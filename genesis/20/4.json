@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Авимелех ба ӯ наздик нашуд ва гуфт: «Адонай, оё миллати одилро низ мекушӣ?»",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Ва Авимелех"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нашуд"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "наздик"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "оё миллат"
+    },
+    {
+      "surface": "גם",
+      "gloss": "низ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одилро"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "мекушӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:54.334220680Z",
+  "model": "glm-5.3"
+}

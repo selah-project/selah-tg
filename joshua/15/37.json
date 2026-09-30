@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Тсенан ва Ҳадаша ва Мигдал-Гад,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "Тсенан"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "ва Ҳадаша"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "ва Мигдал"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:44.438605076Z",
+  "model": "glm-5.3"
+}

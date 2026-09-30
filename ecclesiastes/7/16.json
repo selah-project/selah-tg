@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Одил бисёр мабош ва аз ҳад зиёд донсо машав — барои чӣ худатро нобуд кунӣ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "мабош (не)"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бош"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва мабош"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "донсо машав"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "аз ҳад зиёд"
+    },
+    {
+      "surface": "למה",
+      "gloss": "барои чӣ"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "нобуд кунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:48.287378782Z",
+  "model": "glm-5.3"
+}

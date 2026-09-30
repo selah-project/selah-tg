@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва Лӯт назди онҳо ба даромадгоҳ баромад ва дарро паси худ пӯшид.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "назди онҳо"
+    },
+    {
+      "surface": "лוט",
+      "gloss": "Лӯт"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ба даромадгоҳ"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ва дар"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "пӯшид"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "паси худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:00.496161285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва постии Филиштимиён ба сӯи гузаргоҳи Микмаш баромад.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ва баромад"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "пост"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филиштимиён"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "гузаргоҳ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Микмаш"
+    }
+  ],
+  "timestamp": "2026-09-30T16:42:54.850429120Z",
+  "model": "glm-5.3"
+}

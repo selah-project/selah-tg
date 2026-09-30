@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар мард ё зан дар пӯсти бадани худ доғҳои сафед, доғҳои равшани сафед дошта бошад,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ва мард"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "дошта бошад"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "дар пӯст"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "бадани худ"
+    },
+    {
+      "surface": "бгарт",
+      "gloss": "доғҳои"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "доғҳои"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "сафед"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:06.049209843Z",
+  "model": "glm-5.3"
+}

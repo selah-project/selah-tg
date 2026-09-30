@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 76,
+  "translation": "Ва ⟨қароргоҳи⟩ Ӯ дар Шолем аст, ва маскани Ӯ дар Тсийон.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "дар Шолем"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "химаи Ӯ"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ва маскани Ӯ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "дар Тсийон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:30.098232076Z",
+  "model": "glm-5.3"
+}

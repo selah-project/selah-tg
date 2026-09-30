@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Вале Элоҳим ба ман гуфт: «Ту барои Номи Ман хона насоз; зеро ту марди ҷангҳо ҳастӣ ва хунҳо рехтаӣ».",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Вале Элоҳим"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "соз"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "барои Номи Ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ҷангҳо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту ҳастӣ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ва хунҳо"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "рехтаӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:43:56.674349883Z",
+  "model": "glm-5.3"
+}

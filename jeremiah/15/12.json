@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Оё оҳан метавонад шиканад — оҳани шимолӣ ва мисро?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "метавонад шиканад"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "шимолӣ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ва мис"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:17.771197248Z",
+  "model": "glm-5.3"
+}

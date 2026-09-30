@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва се ҳазор мард аз халқ он ҷо баромаданд ва пеши мардони ҳа-Ай гурехтанд.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "баромаданд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "гурехтанд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ҳа-Ай"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:02.790629522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Утай писари Амиҳуд, писари Омрӣ, писари Имрӣ, писари Бани — аз фарзандони Перетс, писари Йеҳуда.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиҳуд"
+    },
+    {
+      "surface": "бן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омрӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имрӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:39.475975031Z",
+  "model": "glm-5.3"
+}

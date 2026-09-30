@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Пораси мебардор Ёсиф, пораси мебардор бар сари чашма; навдаҳо бар девор мебароянд.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "пораси"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "мебардор"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Ёсиф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "пораси"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "мебардор"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар сари"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашма"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "навдаҳо"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "мебароянд"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שור",
+      "gloss": "девор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:08.902186781Z",
+  "model": "glm-5.3"
+}

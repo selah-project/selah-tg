@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 67,
+  "translation": "Ба роҳбари мусиқӣ, бо созҳои торӣ. Мазмур, суруд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "бо созҳои торӣ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:38.195163002Z",
+  "model": "glm-5.3"
+}

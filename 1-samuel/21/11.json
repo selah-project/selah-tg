@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Довуд хест ва дар он рӯз аз рӯи Шаул гурехт ва назди Ахиш, подшоҳи Гат, омад.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "гурехт"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар он рӯз"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:48:57.965493546Z",
+  "model": "glm-5.3"
+}

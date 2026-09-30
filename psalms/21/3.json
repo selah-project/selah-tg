@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Хоҳиши дилашро ба ӯ додӣ ва арзиши лабҳояшро манъ накардӣ. Селаҳ.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Хоҳиш"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дилаш"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "додӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ва арзиш"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "лабҳояш"
+    },
+    {
+      "surface": "בל",
+      "gloss": "накардӣ"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "манъ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:02.140233353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Абималих гуфт: «Ман намедонам, ки ин корро кӣ кард; ва ту низ ба ман нагуфтӣ, ва ман низ нестidaм, магар имрӯз».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абималих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "медонам"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин корро"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "нагуфтӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "шунидаам"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "магар"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:52.340798993Z",
+  "model": "glm-5.3"
+}

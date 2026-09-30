@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": " ва Элъосо ⟨את⟩ Сисмайро зод, ва Сисмай ⟨את⟩ Шаллумро зод.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ва Элъосо"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сисмай"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Сисмай"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ва Сисмай"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллум"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.079006640Z",
+  "model": "glm-5.3"
+}

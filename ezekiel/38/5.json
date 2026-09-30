@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Парас, Куш ва Фут ⟨את⟩ бо онҳо — ҳамаи онҳо бо сипар ва тоқии оҳанин.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Парас"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ва Фут"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "бо онҳо"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ҳамаи онҳо"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "бо сипар"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ва тоқии оҳанин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:47.561464930Z",
+  "model": "glm-5.3"
+}

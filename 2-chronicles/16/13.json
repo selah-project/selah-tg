@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Асо бо падарони худ хобид ва дар соли чилу якуми подошии ӯ мурд.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "хобид"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "падарони худ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "дар соли"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ва якум"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "подошии ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:47:29.138371306Z",
+  "model": "glm-5.3"
+}

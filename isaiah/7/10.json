@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Яҳве боз ба Аҳоз сухан ронд, гуфтанӣ:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "боз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан ронд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аҳоз"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтанӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:05.595808137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Аз дарахти дониши неку бад аз он нахӯрӣ, зеро дар рӯзе ки аз он бихӯрӣ, мурдан мурданӣ.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "аз дарахти"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "неку"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "хӯрӣ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзе"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "бихӯрӣ"
+    },
+    {
+      "surface": "مמנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "מות",
+      "gloss": "мурдан"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "мурданӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:27.911629989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва сухари Яҳве Тсевоот буд, ба мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:26.459254100Z",
+  "model": "glm-5.3"
+}

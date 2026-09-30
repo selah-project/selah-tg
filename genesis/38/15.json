@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва Йеҳуда ӯро дид ва ӯро фоҳиша пиндорад, зеро ки рӯяшро пӯшида буд.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "пиндорад"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "фоҳиша"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "пӯшида буд"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "рӯяшро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:46.997269919Z",
+  "model": "glm-5.3"
+}

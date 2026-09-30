@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Инак, мегӯяд Яҳве: Ман бар Бобил ва бар сокинони Лав-Қомай боде вайронкунанда барангезонам.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Инак"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Инак ман"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "барангезонам"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бобил"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Лав"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Қомай"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "бод"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "вайронкунанда"
+    }
+  ],
+  "timestamp": "2026-09-30T17:58:39.348680150Z",
+  "model": "glm-5.3"
+}

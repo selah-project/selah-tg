@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва агар ин суханҳоноро нашнавед, ба Худи савганд хӯрдам, мегӯяд Яҳве, ки ин хона вайрон шавад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "шнавед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин суханҳоноро"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханҳоно"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ба Худи"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "савганд хӯрдам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "вайрон"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "шавад"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:46:53.432202534Z",
+  "model": "glm-5.3"
+}

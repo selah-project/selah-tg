@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Рӯз ба рӯз сухан мебарорад, ва шаб ба шаб донишро зоҳир мекунад.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Рӯз"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ба рӯз"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ва шаб"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ба шаб"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "зоҳир мекунад"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:08.903854044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва сухани Яҳве ба Йона бори дуюм омад, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "бори дуюм"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:48.850472009Z",
+  "model": "glm-5.3"
+}

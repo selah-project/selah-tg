@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Диловари доно фармонҳоро мегирад, лабҳои нодон афканда мешаванд.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "доно"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "мегирад"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "фармонҳоро"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "штforward",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:49.406264831Z",
+  "model": "glm-5.3"
+}

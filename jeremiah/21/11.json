@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ба хонаи подшоҳи Йеҳуда: бишнавед калами Яҳве.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ва ба хонаи"
+    },
+    {
+      "surface": "мелך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:46:59.572176059Z",
+  "model": "glm-5.3"
+}

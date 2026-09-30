@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Пашхур — ҳазору дусаду чилу ҳафт нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхур"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "дусад"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ва ҳафт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:31.975678023Z",
+  "model": "glm-5.3"
+}

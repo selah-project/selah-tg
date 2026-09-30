@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва додҳоро аз чӯби ситтӣ сохт ва ⟨את⟩ онҳоро бо мис пӯшонид.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "додҳоро"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "додҳо"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ситтӣ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "пӯшонид"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ онҳоро"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мис"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:38.516075863Z",
+  "model": "glm-5.3"
+}

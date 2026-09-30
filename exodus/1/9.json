@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ӯ ба мардуми худ гуфт: Инак, мардум — банӣ Йисроэл — аз мо бештар ва қувваттар аст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "мардуми ӯ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мардум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бонӣ"
+    },
+    {
+      "surface": "ישׂראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бештар"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ва қувваттар"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз мо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:10.307563682Z",
+  "model": "glm-5.3"
+}

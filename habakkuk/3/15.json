@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дар баҳр бо аспонат поидӣ, кафки обҳои бисёр.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "поидӣ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "дар баҳр"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "бо аспонат"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "кафки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳои"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:26:55.418233757Z",
+  "model": "glm-5.3"
+}

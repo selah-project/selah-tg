@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва ⟨ол⟩ қаат ва ⟨את⟩ раҳамаро ва ⟨את⟩ шалахро",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ва ⟨ол⟩ қаат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "раҳамаро"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "раҳамаро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шалахро"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "шалахро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:48.339272561Z",
+  "model": "glm-5.3"
+}

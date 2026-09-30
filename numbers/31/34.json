@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "ва харҳо — як ҳазор ва шаст ҳазор",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ва харҳо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ва шаст"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:06.908206982Z",
+  "model": "glm-5.3"
+}

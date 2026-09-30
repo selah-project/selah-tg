@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Дар рӯзи якум маъракаи муқаддас барои шумо хоҳад буд; ҳеҷ кори хидмат накунед.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Дар рӯзи"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "якум"
+    },
+    {
+      "surface": "мקרא",
+      "gloss": "маъракаи"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ… кори"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "кори"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хидмат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "накунед"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:18.517358023Z",
+  "model": "glm-5.3"
+}

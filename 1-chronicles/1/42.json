@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Фарзандони Этсер: Билҳон, ва Заавон, Яакан; фарзандони Дишон: Утс ва Арон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Этсер"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билҳон"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ва Заавон"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Утс"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ва Арон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:18.029221296Z",
+  "model": "glm-5.3"
+}

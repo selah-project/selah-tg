@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ҷомаат аз танат куҳна нашуд ва поят варам накард — ин чорӣ сол.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ҷомаат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "куҳна шуд"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "аз танат"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ва поят"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "верам накард"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чорӣ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:21.705618804Z",
+  "model": "glm-5.3"
+}

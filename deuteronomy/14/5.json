@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Айал, ва тсави, ва яҳмур, ва аққо, ва дийшон, ва тэо, ва зомер.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "айал"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ва тсави"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ва яҳмур"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ва аққо"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ва дийшон"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ва тэо"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ва зомер"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:43.788695788Z",
+  "model": "glm-5.3"
+}

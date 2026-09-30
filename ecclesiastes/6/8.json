@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Зеро чӣ фоида дорад ҳаким аз нодон? Чӣ дорад камбғал, ки медонад пеши зиндагон рафтор кунад?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "фоида"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "камбғал"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "рафтор кунад"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "зиндагон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:11.323300677Z",
+  "model": "glm-5.3"
+}

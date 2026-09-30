@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Батслит, фарзандони Меҳида, фарзандони Ҳарша.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Батслит"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Меҳида"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Ҳарша"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:43.132466524Z",
+  "model": "glm-5.3"
+}

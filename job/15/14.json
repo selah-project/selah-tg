@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 15:14",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Инсон чист, ки пок бошад? Ва модарзод — ки тседек бошад?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чистов"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "инсон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "пок бошад"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ва ки"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "тседек бошад"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "модарзод"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:15.802632416Z",
+  "model": "glm-5.3"
+}

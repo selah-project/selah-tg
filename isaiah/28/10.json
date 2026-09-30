@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Зеро фармон ба фармон, фармон ба фармон, хат ба хат, хат ба хат, каме ин ҷо, каме он ҷо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "צו",
+      "gloss": "фармон"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ба фармон"
+    },
+    {
+      "surface": "צו",
+      "gloss": "фармон"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ба фармон"
+    },
+    {
+      "surface": "קו",
+      "gloss": "хат"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ба хат"
+    },
+    {
+      "surface": "קו",
+      "gloss": "хат"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ба хат"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "каме"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ин ҷо"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "каме"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:05:35.387410061Z",
+  "model": "glm-5.3"
+}

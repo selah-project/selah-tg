@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "ва Яҳве ⟨את⟩ руахи Плиштим ва арабҳои наздики Кушимро ба зидди Йеҳорам бедор кард.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ва бедор кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба зидди"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Йеҳорам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руахи Плиштим ва арабҳо"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахи"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Плиштим"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "ва арабҳои"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": " nazdики"
+    },
+    {
+      "surface": "יד",
+      "gloss": " nazdики"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Кушим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:49:25.478270929Z",
+  "model": "glm-5.3"
+}

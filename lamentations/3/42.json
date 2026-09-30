@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Мо осӣ кардем ва саркашӣ намудем — Ту набахшидӣ.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Мо"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "осӣ кардем"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ва саркашӣ намудем"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "бахшидӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:55.714398047Z",
+  "model": "glm-5.3"
+}

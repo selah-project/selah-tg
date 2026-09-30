@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ҳар ҷое ки кафи пои шумо зер кунад — онро ба шумо додам, чунон ки ба Моше гуфта будам.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "зер кунад"
+    },
+    {
+      "surface": "כף",
+      "gloss": "каф"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "пои шумо"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "додам"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "гуфта будам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T16:25:19.707872016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва акнун шабона хез, ту ва мардуме ки бо туст, ва дар саҳро камин гир.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "קום",
+      "gloss": "хез"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шабона"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ва мардум"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ бо ту"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ва камин гир"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "дар саҳро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:35:23.709685269Z",
+  "model": "glm-5.3"
+}

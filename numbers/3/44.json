@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва Яҳве ба Моше сухан гуфт, ба гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:02.013624427Z",
+  "model": "glm-5.3"
+}

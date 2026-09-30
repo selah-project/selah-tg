@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ва писарони Завулун: Серед ва Элон ва Яҳлеэл.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Завулун"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Серед"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "ва Элон"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "ва Яҳлеэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:41.595566761Z",
+  "model": "glm-5.3"
+}

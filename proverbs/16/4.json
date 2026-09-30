@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ҳама чизро Яҳве барои мақсади Худ сохт, ҳатто бадкорро барои рӯзи бад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "чизро сохт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "барои мақсади Худ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкорро"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "барои рӯзи"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:52.474684872Z",
+  "model": "glm-5.3"
+}

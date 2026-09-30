@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "ва Ҳафароим, ва Шион, ва Анаҳарат,",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ва Ҳафароим"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ва Шион"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "ва Анаҳарат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:47.987738518Z",
+  "model": "glm-5.3"
+}

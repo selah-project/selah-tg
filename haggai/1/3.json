@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва сухари Яҳве ба дасти Ҳаҷҷай набӣ расид, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Ҳаҷҷай"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:47.017774242Z",
+  "model": "glm-5.3"
+}

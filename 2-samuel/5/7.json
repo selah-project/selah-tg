@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва Довуд ⟨את⟩ қалъаи Тсиёнро гирифт; он ⟨аст⟩ шаҳри Довуд.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "гирфт"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қалъаи Тсиён"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "қалъаи"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Тсиён"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:53:34.559595674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": " ва Азарё ⟨את⟩ Хелесро зод, ва Хелес ⟨את⟩ Элъосоро зод.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ва Азарё"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хелес"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелес"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ва Хелес"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элъосо"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Элъосо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.078835587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Тsalmonah равона шуданд ва дар Пӯнон лагер заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "равона шуданд"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "аз Тsalmonah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер заданд"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "дар Пӯнон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:05.258850172Z",
+  "model": "glm-5.3"
+}

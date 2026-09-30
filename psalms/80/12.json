@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 80,
+  "translation": "Шохаҳояшро то баҳр фиристод ва навдаҳояшро то наҳр.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "шохаҳояш"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "ים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва то"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "наҳр"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "навдаҳояш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:32.229856361Z",
+  "model": "glm-5.3"
+}

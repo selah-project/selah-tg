@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 66,
+  "translation": "Балки ростам Элоҳим шунид; ба овози дуои ман гӯш кард.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "балки ростам"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "шунид"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "гӯш кард"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ба овози"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дуои ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:21.655981468Z",
+  "model": "glm-5.3"
+}

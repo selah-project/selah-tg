@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ӯ се ҳазор масал гуфт, ва сурудҳояш ҳазору панҷ буданд.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "משל",
+      "gloss": "масал"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "сурудҳояш"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ва ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:55.521079066Z",
+  "model": "glm-5.3"
+}

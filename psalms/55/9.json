@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 55,
+  "translation": "Шитоб мекунам гурезаро барои худ, аз рухи сӯаҳ, аз тӯфон.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "Шитоб мекунам"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "гурезаро"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "аз рухи"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "сӯаҳ"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "аз тӯфон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:02.416690872Z",
+  "model": "glm-5.3"
+}

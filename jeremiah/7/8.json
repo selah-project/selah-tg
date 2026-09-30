@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳоло, шумо ба худатон бар калимаҳои дурӯғ такя мекунед — то беҳуда будан.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ҳоло"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "такя мекунед"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "ба худатон"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "калимаҳои"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "дурӯғ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "то накардан"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "беҳуда"
+    }
+  ],
+  "timestamp": "2026-09-30T17:42:53.635500124Z",
+  "model": "glm-5.3"
+}

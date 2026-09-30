@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Аз шодӣ меҷаҳонад падари одами солеҳ; падари ҳаким дар ӯ шод мешавад.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "аз шодӣ"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "меҷаҳонад"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одами солеҳ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "падари"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "шод мешавад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:21.779780684Z",
+  "model": "glm-5.3"
+}

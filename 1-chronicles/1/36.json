@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Писарони Элифаз: Теман ва Омар, Тсефи ва Гаам, Қеназ ва Тимна ва Амалек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ва Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Тсефи"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ва Гаам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Қеназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "ва Тимна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ва Амалек"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:37.593161869Z",
+  "model": "glm-5.3"
+}

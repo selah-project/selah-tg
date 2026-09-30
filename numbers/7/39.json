@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як гови ҷавон аз гала, як қӯқнос, як гӯсфанди яксола барои қурбонии сӯхт.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-и"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "аз гала"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қӯқнос"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-и"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "барои қурбонии сӯхт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:07.507465529Z",
+  "model": "glm-5.3"
+}

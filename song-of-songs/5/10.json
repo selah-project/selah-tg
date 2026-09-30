@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Маҳбуби ман дурахшон ва сурх аст, барҷаста аз даҳ ҳазор.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "маҳбуби ман"
+    },
+    {
+      "surface": "צח",
+      "gloss": "дурахшон"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "ва сурх"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "барҷаста"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "аз даҳ ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:11.606464588Z",
+  "model": "glm-5.3"
+}

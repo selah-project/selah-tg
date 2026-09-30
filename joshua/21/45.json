@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ҳеҷ як сухан аз ҳамаи суханҳои неки ки Яҳве ба хонаи Йисроэл гуфт нагӯft — ҳамааш ба амал омад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нагӯфт на"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "афтод"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "суханҳои"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳамааш"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ба амал омад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:38.038566992Z",
+  "model": "glm-5.3"
+}

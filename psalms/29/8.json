@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Овози Яҳве биёбонро меларзонад; Яҳве биёбони Қадешро меларзонад.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Овози"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "меларзонад"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "биёбон"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "меларзонад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "биёбони"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қадеш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:39.506580936Z",
+  "model": "glm-5.3"
+}

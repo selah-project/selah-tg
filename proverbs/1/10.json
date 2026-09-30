@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Писарам, агар гунаҳкорон туро бифитанд, розӣ нашав.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "писарам"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "туро бифитанд"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "гунаҳкорон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "розӣ шав"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:35.961156099Z",
+  "model": "glm-5.3"
+}

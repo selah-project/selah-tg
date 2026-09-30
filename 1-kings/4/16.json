@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Баъана писари Ҳушай — дар Ашер ва дар Беалот.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Баъана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Ҳушай"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "дар Ашер"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ва дар Беалот"
+    }
+  ],
+  "timestamp": "2026-09-30T20:02:29.757240551Z",
+  "model": "glm-5.3"
+}

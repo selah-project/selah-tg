@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "ва Уззӣ ⟨את⟩ Зерахйҳоро зоид, ва Зерахйҳо ⟨את⟩ Мрайёрро зоид.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ва Уззӣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зерахйҳоро"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахйҳоро"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ва Зерахйҳо"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мрайёрро"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мрайёрро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:32.391789428Z",
+  "model": "glm-5.3"
+}

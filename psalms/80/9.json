@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 80,
+  "translation": "Токро аз Мисраим беканӣ, халқҳоро рондӣ ва онро ба ҷо нишондӣ.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "ток"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "аз Мисраим"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "бекани"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "рондӣ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ба ҷо нишондӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:32.229278306Z",
+  "model": "glm-5.3"
+}

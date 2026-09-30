@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ноҳа чорум ва Рафа панҷум.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноҳа"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ва Рафа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "панҷум"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:55.121956453Z",
+  "model": "glm-5.3"
+}

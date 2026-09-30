@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва Эсав дид, ки духтарони Кенаан дар назди Йисҳоқ, падари ӯ, бад ҳастанд.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "раот",
+      "gloss": "бад"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтарони"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "dar nazdi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йисҳоқ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:26.964682986Z",
+  "model": "glm-5.3"
+}

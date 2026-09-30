@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ӯ гуфт: Аз кадом роҳ бароем? Ва ӯ гуфт: Роҳи биёбони Эдом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אי",
+      "gloss": "аз кадом"
+    },
+    {
+      "surface": "זה",
+      "gloss": "он"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "бароем"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "биёбони"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-30T17:12:17.243095327Z",
+  "model": "glm-5.3"
+}

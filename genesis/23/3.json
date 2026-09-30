@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Авраҳом аз пеши мурдаи худ хест ва бо писарони Ҳет гуфт, чунин мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ва хест"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "аз болои"
+    },
+    {
+      "surface": "פני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мурдаи худ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ҳет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чунин мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:44.962069423Z",
+  "model": "glm-5.3"
+}

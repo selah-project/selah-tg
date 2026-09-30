@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Оё қуввати ман қуввати сангҳост? Оё гӯшти ман аз мис аст?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "оё"
+    },
+    {
+      "surface": "כח",
+      "gloss": "қуввати"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "сангҳо"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "қуввати ман"
+    },
+    {
+      "surface": "אם",
+      "gloss": "оё"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "гӯшти ман"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "аз мис"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:07.454995192Z",
+  "model": "glm-5.3"
+}

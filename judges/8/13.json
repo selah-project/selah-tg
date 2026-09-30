@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Гидъон, писари Йоаш, аз ҷанг баргашт — аз баландии Ҳарес.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "баргашт"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидъон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "аз баландии"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "Ҳарес"
+    }
+  ],
+  "timestamp": "2026-09-30T16:35:36.002369777Z",
+  "model": "glm-5.3"
+}

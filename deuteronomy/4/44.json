@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ин он тораест, ки Моше пеши фарзандони Йисроэл гузошт.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "тора"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:02.301832124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 15:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва дар рӯзи ҳаштум барои худ ду туртӣ ё ду бачаҳои кабутар гирад ва пеши Яҳве, дар дари Оҳели Моъед ояд ва онҳоро ба коҳин диҳад.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "гирад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "туртӣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бачаҳои"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "кабутар"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ва ояд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дар"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "дари"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Оҳели"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Моъед"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "ва диҳад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:28.510715091Z",
+  "model": "glm-5.3"
+}

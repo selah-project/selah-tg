@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Паръо Аврамро ба назди худ хонда гуфт: Ин чиро ба ман кардӣ? Чаро ба ман нагуфтӣ, ки ⟨היא⟩ занитай?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "хонда"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврамро"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кардӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "нагуфтӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "занитай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨היא⟩ аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:22.664432655Z",
+  "model": "glm-5.3"
+}

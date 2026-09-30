@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 121,
+  "translation": "Рӯзона офтоб туро намерасонад ва моҳ шабона.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "рӯзона"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "номерасонад"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ва моҳ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шабона"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:10.065683359Z",
+  "model": "glm-5.3"
+}

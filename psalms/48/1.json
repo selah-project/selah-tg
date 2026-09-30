@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Суруд, мазмор аз фарзандони Қораҳ.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:20.325323019Z",
+  "model": "glm-5.3"
+}

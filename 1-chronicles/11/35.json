@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Аҳйом писари Сокари Ҳарорӣ, Элифал писари Ур",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Аҳйом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сокар"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Ҳарорӣ"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Элифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:23.269299834Z",
+  "model": "glm-5.3"
+}

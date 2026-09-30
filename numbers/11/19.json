@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "На як рӯз хоҳед хӯрд ва на ду рӯз ва на панҷ рӯз ва на даҳ рӯз ва na bist рӯз —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "хоҳед хӯрд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ду рӯз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:06.455853616Z",
+  "model": "glm-5.3"
+}

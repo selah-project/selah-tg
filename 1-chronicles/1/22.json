@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ⟨את⟩ Эйвол ва ⟨את⟩ Авимайэл ва ⟨את⟩ Шева",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Эйвол"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эйвол"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Авимайэл"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Авимайэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Шева"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:01.814569304Z",
+  "model": "glm-5.3"
+}

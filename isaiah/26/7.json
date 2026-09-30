@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Роҳи одил ростӣ аст; э Рост, роҳи одилро ҳамвор мекунӣ.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ростӣ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "э Рост"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ҳамвор мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:29:29.631741850Z",
+  "model": "glm-5.3"
+}

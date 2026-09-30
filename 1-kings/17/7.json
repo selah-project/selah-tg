@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва баъд аз чанд рӯз наҳал хушк шуд, зеро дар замин борон набуд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва баъд аз"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ба охири"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "хушк шуд"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "наҳал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "борон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:08:03.612130342Z",
+  "model": "glm-5.3"
+}

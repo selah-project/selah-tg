@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва баъд аз вабо ба вуқӯъ пайваст.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "вабо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:59.464362701Z",
+  "model": "glm-5.3"
+}

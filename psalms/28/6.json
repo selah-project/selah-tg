@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Барикад Яҳве, зеро ки Ӯ овози илтиҷоҳои маро шунид.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "барикад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "шунид"
+    },
+    {
+      "surface": "קול",
+      "gloss": "овози"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "илтиҷоҳои маро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:46.205285264Z",
+  "model": "glm-5.3"
+}

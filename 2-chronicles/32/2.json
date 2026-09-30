@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Хизқиёҳу дид, ки Санҳэрив омадааст ва рӯяш ба ҷанги зидди Ерушалайм аст.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизқиёҳу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омадааст"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санҳэрив"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "рӯяш"
+    },
+    {
+      "surface": "למלחмה",
+      "gloss": "ба ҷанг"
+    },
+    {
+      "surface": "על",
+      "gloss": "зидди"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    }
+  ],
+  "timestamp": "2026-09-30T19:53:17.528718473Z",
+  "model": "glm-5.3"
+}

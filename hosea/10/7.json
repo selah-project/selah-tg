@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Нобуд шуд Шомерон — подшоҳи он чун кафк бар рӯи об.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "нобуд шуд"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомерон"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "подшоҳи он"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "чун кафк"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T18:19:39.077923407Z",
+  "model": "glm-5.3"
+}

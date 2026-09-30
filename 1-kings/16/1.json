@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва калами Яҳве ба Йеҳу, писари Ханани, нисбат ба Баъша омад, ба гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва буд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йеҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханани"
+    },
+    {
+      "surface": "על",
+      "gloss": "нисбат ба"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баъша"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:08:50.677504387Z",
+  "model": "glm-5.3"
+}

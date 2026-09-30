@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як гов, фарзанди гала, як қӯчқор, як барраи яксола барои қурбонии сӯхт.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "фарзанди"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "гала"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "барра"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "фарзанди"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "барои қурбонии сӯхт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:14.534090016Z",
+  "model": "glm-5.3"
+}

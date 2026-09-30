@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 108,
+  "translation": "Бедор шав, навола ва қобус! Мебедорам саҳарро",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "бедор шав"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "навола"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ва қобус"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "мебедорам"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "саҳарро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:47.914201524Z",
+  "model": "glm-5.3"
+}

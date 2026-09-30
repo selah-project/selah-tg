@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ба сароянда, ба Довуд — мазмур.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба сароянда"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ба Довуд"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:57.273379821Z",
+  "model": "glm-5.3"
+}

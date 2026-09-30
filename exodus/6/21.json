@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва писарони Йитсҳор: Қорах ва Нефег ва Зихрӣ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йитсҳор"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ва Нефег"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ва Зихрӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:26.981042356Z",
+  "model": "glm-5.3"
+}

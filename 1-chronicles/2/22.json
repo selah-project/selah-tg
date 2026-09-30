@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Сегӯб Яирро таваллуд кард, ва ӯ бисту се шаҳр дар замини Гилъод дошт.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "ва Сегӯб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яир"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яир"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ва се"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилъод"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:58.119044955Z",
+  "model": "glm-5.3"
+}

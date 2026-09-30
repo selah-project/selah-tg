@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва дигар набӣ дар Йисроэл барнахост мисли Моше, ки Яҳве ӯро рӯ ба рӯй мешинохт.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ва на"
+    },
+    {
+      "surface": "קם",
+      "gloss": "барнахост"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "дар Йисроэл"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "мисли Моше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "мешинохт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:57.279101857Z",
+  "model": "glm-5.3"
+}

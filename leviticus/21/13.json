@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ӯ зане дар биктӯрияш ба занӣ гирифтан мекунад.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зане"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "дар биктӯрияш"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ба занӣ гирифтан мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:20.915307729Z",
+  "model": "glm-5.3"
+}

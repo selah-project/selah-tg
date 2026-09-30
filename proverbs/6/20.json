@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Эй писарам, фарзишҳои падаратро нигоҳ дор ва торои модаратро тарк накун.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "нигоҳ дор"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Эй писарам"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "фарзишҳои"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падаратро"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "тарк"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "торои"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "модаратро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:18.466221465Z",
+  "model": "glm-5.3"
+}

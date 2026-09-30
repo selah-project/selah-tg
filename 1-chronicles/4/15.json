@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва писарони Калеб, писари Йефунна: Иру, Эла ва Ноам; ва писарони Эла — ва Кеназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунна"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "ва Ноам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ва Кеназ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:41.231882823Z",
+  "model": "glm-5.3"
+}

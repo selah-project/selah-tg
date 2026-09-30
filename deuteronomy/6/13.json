@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Яҳве Элоҳими туро битарс, ва ⟨את⟩-и Ӯро бипараст, ва ба номи Ӯ савганд ёб.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими туро"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "битарс"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ва Ӯро"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "бипараст"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ва ба номи Ӯ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "савганд ёб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:50.201658639Z",
+  "model": "glm-5.3"
+}

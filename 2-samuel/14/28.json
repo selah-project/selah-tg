@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 14:28",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Абшалом дар Ерушалайим ду сол рӯзҳоро зист, ва рӯи шоҳро надид.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "зист"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Абшалом"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "дар Ерушалайим"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ду сол"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳоро"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ва рӯи"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дид"
+    }
+  ],
+  "timestamp": "2026-09-30T16:56:11.931772320Z",
+  "model": "glm-5.3"
+}

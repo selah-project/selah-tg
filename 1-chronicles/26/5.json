@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Аммиэл шашум, Йисасхор ҳафтум, Пеуллетай ҳаштум — зеро Элоҳим баракаташ дода буд.",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэл"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисасхор"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "Пеуллетай"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "бarakataш дода буд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:11.304275172Z",
+  "model": "glm-5.3"
+}

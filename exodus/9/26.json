@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Танҳо дар замини Гошен, ки фарзандони Йисроэл он ҷо буданд, жола набуд.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "жола"
+    }
+  ],
+  "timestamp": "2026-09-30T15:32:35.245672398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ба Яҳве шукр гузоред, зеро ⟨Ӯ⟩ некӯ аст, зеро ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шукр гузоред"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:22.186755220Z",
+  "model": "glm-5.3"
+}

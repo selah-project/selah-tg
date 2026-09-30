@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ба ман ёд овар, Элоҳайи ман, ба хайрӣ, ҳама он чи ман барои ин халқ кардам.",
+  "tokens": [
+    {
+      "surface": "זכרה לי",
+      "gloss": "ба ман ёд овар"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳайи"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ба хайрӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ман кардам"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:31:13.880853653Z",
+  "model": "glm-5.3"
+}

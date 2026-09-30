@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Зехарйа писари Мешелемйа дарвозабон дар даромадгоҳи хаймаи воқеъ буд.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарйа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Мешелемйа"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дарвозабон"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "даромадгоҳи"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "воқеъ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:04.164432710Z",
+  "model": "glm-5.3"
+}

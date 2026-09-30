@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Нӯҳ баъд аз тӯфон се саду панҷоҳ сол зист.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ва зист"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "тӯфон"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ва панҷоҳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:43.909614732Z",
+  "model": "glm-5.3"
+}

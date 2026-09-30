@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Гӯшҳои сагро дошта — гузарандае ки бар ҷанҷоле, ки аз они ӯ нест, хашммекашад.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "дошта"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "гӯшҳои"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "саг"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "гузарандае"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "хашммекашад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ҷанҷоле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аз они ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:08.441446418Z",
+  "model": "glm-5.3"
+}

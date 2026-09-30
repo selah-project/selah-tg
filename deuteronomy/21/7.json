@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ҷавоб дода мегӯянд: «Дастрҳои мо ⟨את⟩ ин хунро нарешондаанд ва чашмони мо онро надидаанд.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ҷавоб дода"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "мегӯянд"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "дастҳои мо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "решондаанд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин хунро"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ин хунро"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ва чашмони мо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "дидеанд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:49.834160124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве ба Моше сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:10.112813221Z",
+  "model": "glm-5.3"
+}

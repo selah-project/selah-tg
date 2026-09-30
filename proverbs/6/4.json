@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ба чашмони худ хоб маҷуз ва ба пӯшидаҳои чашмонат сусти маҷуз.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ҷуз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ба чашмони худ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "сусти"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ба пӯшидаҳои чашмонат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:50.784183647Z",
+  "model": "glm-5.3"
+}

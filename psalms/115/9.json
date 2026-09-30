@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 115,
+  "translation": "Эй Йисроэл, ба Яҳве такя кун; ӯст ёрии онҳо ва сипари онҳо.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "такя кун"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ёрии онҳо"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ва сипари онҳо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:25.770920399Z",
+  "model": "glm-5.3"
+}

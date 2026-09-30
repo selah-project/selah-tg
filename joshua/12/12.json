@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "подшоҳи Эғлон — як; подшоҳи Гезер — як;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Эғлон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:23.185521217Z",
+  "model": "glm-5.3"
+}

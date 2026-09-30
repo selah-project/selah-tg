@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 76,
+  "translation": "Tu natarsī hastī, tu; va kī metavonad ruʙ ʙa ruʙi tu istodan az on vaқt ki xaşmi tu ʙoşad?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "natarsī"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kī"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "metavonad istodan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ruʙ ʙa ruʙi tu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "az on vaқt"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "xaşmi tu"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:36.913110716Z",
+  "model": "glm-5.3"
+}

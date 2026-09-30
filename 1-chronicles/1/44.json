@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Бела мурд, ва ҷои ӯро Йовов писари Зерах аз Ботсра гирифт ва подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ва подшоҳӣ кард"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ҷои ӯро"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "аз Ботсра"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:18.029644354Z",
+  "model": "glm-5.3"
+}

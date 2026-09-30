@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Зеро суханҳои бисёр ҳастанд, ки ҳебелро бисёр мекунанд; чӣ изофа барои одам?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳастанд"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "суханҳо"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "бисёр мекунанд"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "изофа"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "барои одам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:18.433029931Z",
+  "model": "glm-5.3"
+}

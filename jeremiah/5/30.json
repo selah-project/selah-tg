@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ҳайратангез ва даҳшатнок чиз дар замин рӯй додааст.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "даҳшатнок"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "ва ҳайратангез"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "рӯй додааст"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:41:50.294896715Z",
+  "model": "glm-5.3"
+}

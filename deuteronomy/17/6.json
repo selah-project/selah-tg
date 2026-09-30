@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Аз даҳони ду шоҳид ё се шоҳид марг ба он зиндагӣ-мурданӣ мерасад; аз даҳони як шоҳид ҷон надода мешавад.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "шоҳидон"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "шоҳидон"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "кушта мешавад"
+    },
+    {
+      "surface": "המת",
+      "gloss": "маргбар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "кушта мешавад"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шоҳид"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T16:18:38.050737795Z",
+  "model": "glm-5.3"
+}

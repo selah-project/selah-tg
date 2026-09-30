@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Касе ки зан ёбад, некӣ ёфт, ва хушнудӣ аз Яҳве ба даст меорад.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "ёбад"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ёфт"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ба даст меорад"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "хушнудӣ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "аз Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:38.737390015Z",
+  "model": "glm-5.3"
+}

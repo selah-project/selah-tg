@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва Моше ⟨את⟩ хунро гирифт ва бар халқ пошид ва гуфт: «Ин хуни аҳд аст, ки Яҳве бо шумо дар бораи ҳамаи ин суханҳо бастааст».",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хун"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "пошид"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "דם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "аҳд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "бастааст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "бо шумо"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханҳо"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:27.570984954Z",
+  "model": "glm-5.3"
+}

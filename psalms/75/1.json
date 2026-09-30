@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 75,
+  "translation": "Барои сароянда; «Вайрон накун»; мазмур ба Асоф, сурудаше.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Барои сароянда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«Вайрон"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "накун»"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ба Асоф"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "сурудаше"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:47.203828366Z",
+  "model": "glm-5.3"
+}

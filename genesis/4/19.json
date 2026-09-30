@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва Ламеҳ барои худ ду зан гирифт; номи яке Адо ва номи дуюм Цилло буд.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламеҳ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "зан"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "яке"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Адо"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ва номи"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Цилло"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:01.944191697Z",
+  "model": "glm-5.3"
+}

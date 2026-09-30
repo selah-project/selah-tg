@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Бор babei Бовул, ки Ишоъяҳу писари Омоц онро дид.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "бор"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бовул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишоъяҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Омоц"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:43.892993997Z",
+  "model": "glm-5.3"
+}

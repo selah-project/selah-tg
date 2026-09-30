@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Барои чароғдони пок ӯ ⟨את⟩ фитилҳоро танзим кунад пеш аз Яҳве доимо.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Барои"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "чароғдони"
+    },
+    {
+      "surface": "הטהрה",
+      "gloss": "пок"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "танзим кунад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "фитилҳоро"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "фитилҳоро"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "доимо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:47.807360006Z",
+  "model": "glm-5.3"
+}

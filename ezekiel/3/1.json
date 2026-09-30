@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ба ман гуфт: «Е инсони одамӣ, он чиро ки меёбӣ, бихӯр — ин тӯморро бихӯр ва ба хонаи Йисроэл рав, гӯй».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он чиро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "меёбӣ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "бихӯр"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "бихӯр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин тӯморро"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "тӯмор"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ва рав"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гӯй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:19.391174649Z",
+  "model": "glm-5.3"
+}

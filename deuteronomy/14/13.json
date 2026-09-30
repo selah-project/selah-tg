@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва раъаҳ, ва ⟨את⟩ айяҳ ва даяҳ — ҳар яке ба навъи худ;",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ва раъаҳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "айяҳ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "айяҳ"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ва даяҳ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ба навъи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:51.583270057Z",
+  "model": "glm-5.3"
+}

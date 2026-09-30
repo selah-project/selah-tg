@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Балки ⟨את⟩ дасти худро ба ӯ бигӯшо ва ба ӯ қарз деҳ — ҳамчун дар ҳадди камбудиаш, ки ба ӯ кам аст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "балки"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "бигӯшо"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "гӯшо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дасти худро"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "дасти худро"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ва қарз"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "деҳ ба ӯ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ҳамчун дар ҳадди"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "камбудиаш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "кам аст"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:45.432709316Z",
+  "model": "glm-5.3"
+}

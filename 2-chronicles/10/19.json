@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Йисроэл то имрӯз ба хонаи Довуд шикст (фирор) кард.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "Ва шикст (фирор) кард"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ба хонаи"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:00.062086578Z",
+  "model": "glm-5.3"
+}

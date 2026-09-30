@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ман даҳонамро кушодам, ва ӯ маро ⟨את⟩ ин тӯморро хӯронд.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Ва ман кушодам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "даҳонамро"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳонам"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ва ӯ маро хӯронд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин тӯморро"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "тӯмор"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:19.391622927Z",
+  "model": "glm-5.3"
+}

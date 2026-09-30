@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва ӯ ба ӯ гуфт: намеравам; балки ба замини худ ва ба зодгоҳи худ меравам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "меравам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "балки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "замини худ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "мולדתי",
+      "gloss": "зодгоҳи худ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "меравам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:04.135253174Z",
+  "model": "glm-5.3"
+}

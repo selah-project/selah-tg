@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Мукризи Яҳве ҳар дорандаи дили баландчашм аст; даст ба даст ҳам, беҷазо намемонад.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мукризи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "баландчашм"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дорандаи дили"
+    },
+    {
+      "surface": "יד",
+      "gloss": "даст"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ба даст"
+    },
+    {
+      "surface": "לא",
+      "gloss": "наме"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ҷазо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:33.409986291Z",
+  "model": "glm-5.3"
+}

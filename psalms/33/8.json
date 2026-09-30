@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Битарсад аз Яҳве тамоми замин; аз Ӯ ҳарос кунанд ҳамаи сокинони тевел.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Битарсад"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "аз Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз Ӯ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ҳарос кунанд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "тевел"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:34.546577117Z",
+  "model": "glm-5.3"
+}

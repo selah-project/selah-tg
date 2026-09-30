@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Албатта, бехуда Эл намешунавад ва Шаддай онро намебинад.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "албатта"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "бехуда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "мешунавад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ва Шаддай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "мебинад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:11:14.298207241Z",
+  "model": "glm-5.3"
+}

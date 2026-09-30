@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Довуд сандуқро ба назди худ ба шаҳри Довуд набурд, балки онро ба хонаи Овэд-Эдомӣ Ҷаттӣ ронда бурд.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "бурд"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сандуқ"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "сандуқ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба назди худ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "ронда бурд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овэд-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Ҷаттӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:08.449201964Z",
+  "model": "glm-5.3"
+}

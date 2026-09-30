@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Шеломо ⟨את⟩ хонаро бино кард ва онро тамом намуд.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хона"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "онро тамом намуд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:03:38.450751867Z",
+  "model": "glm-5.3"
+}

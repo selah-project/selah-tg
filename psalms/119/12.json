@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Муборакӣ Тӯӣ, э Яҳве; маро ҳукмҳои Худро омӯз.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Муборакӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Тӯӣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "маро омӯз"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ҳукмҳои Худро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:12.676111859Z",
+  "model": "glm-5.3"
+}

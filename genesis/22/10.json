@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Авраҳом дастро дароз кард ва кордро гирифт, то ки писарашро забҳ кунад.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ва дароз кард"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "даш"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "даш"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ва гирифт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "корд"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "корд"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "то ки забҳ кунад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "писараш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:19.055520584Z",
+  "model": "glm-5.3"
+}

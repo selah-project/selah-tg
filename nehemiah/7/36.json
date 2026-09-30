@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Йериҳо — сисаду чилу панҷ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Йериҳо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "у панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:30.724751538Z",
+  "model": "glm-5.3"
+}

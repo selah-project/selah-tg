@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Дили фаҳмида донишро меҷӯяд ва гӯши ҳакимон донишро меҷӯяд.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "фаҳмида"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "меҷӯяд"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "донишро"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "ва гӯш"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ҳакимон"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "меҷӯяд"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "донишро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:06.920869558Z",
+  "model": "glm-5.3"
+}

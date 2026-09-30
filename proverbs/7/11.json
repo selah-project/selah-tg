@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "ӯ паршанули ва саркаш аст; пойҳои ӯ дар хонаи ӯ сокин намемонанд",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "паршанули"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "ва саркаш"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "дар хонаи ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "сокин мемонанд"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "пойҳои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:11.293578675Z",
+  "model": "glm-5.3"
+}

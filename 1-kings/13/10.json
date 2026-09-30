@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ӯ ба роҳи дигар рафт ва дар он роҳе ки ба Бейт-Эл омада буд, бознагашт.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ба роҳи"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "שב",
+      "gloss": "бознагашт"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омада буд"
+    },
+    {
+      "surface": "בה",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:07:05.032986945Z",
+  "model": "glm-5.3"
+}

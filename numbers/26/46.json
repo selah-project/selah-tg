@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва номи духтари Ашер Сараҳ буд.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ва номи"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Сараҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:13.724585681Z",
+  "model": "glm-5.3"
+}

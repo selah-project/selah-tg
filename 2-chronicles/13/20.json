@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Яровъом дар рӯзҳои Абиё дигар қувва барқарор накард; ва Яҳве ӯро зад, ва ӯ мурд.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "барқарор кард"
+    },
+    {
+      "surface": "כח",
+      "gloss": "қувва"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровъом"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "дар рӯзҳои"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Абиё"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "ӯро зад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:03.480288410Z",
+  "model": "glm-5.3"
+}

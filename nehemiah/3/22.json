@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва баъди ӯ коҳинони мардони ҳамворӣ мустаҳкам карданд.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "Ва баъди ӯ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "мустаҳкам карданд"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳинони"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ҳамворӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:31:18.258939977Z",
+  "model": "glm-5.3"
+}

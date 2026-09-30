@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ва бар ҳамаи бурҷҳои баланд ва бар ҳамаи деворҳои мустаҳкам",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "бурҷҳои"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "баланд"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "деворҳои"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "мустаҳкам"
+    }
+  ],
+  "timestamp": "2026-09-30T17:21:02.992257060Z",
+  "model": "glm-5.3"
+}

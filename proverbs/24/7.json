@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ҳикмат барои нодон баланд аст; дар дарвоза даҳонашро намекушояд.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "баланд"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "барои нодон"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "дар дарвоза"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "мекушояд"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "даҳонашро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:18.718395277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Писари ҳафтсола буд Йеҳоаш дар подшоҳии ⟨ӯ⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сола"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Йеҳоаш"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "дар подшоҳии ⟨ӯ⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T17:17:35.166546596Z",
+  "model": "glm-5.3"
+}

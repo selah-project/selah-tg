@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва бародари ӯ Асоф, ки дар тарафи рости ӯ меистод — Асоф, писари Береҳяҳу, писари Шимъа.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ва бародари ӯ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асоф"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "меистод"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "тарафи рости ӯ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асоф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Береҳяҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Шимъа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:05.759014181Z",
+  "model": "glm-5.3"
+}

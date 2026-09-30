@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ҳудуд гирифтааст — доираро бар рӯи ⟨את⟩ обҳо, то интиҳои рӯшноӣ бо торикӣ.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "ҳудуд"
+    },
+    {
+      "surface": "חג",
+      "gloss": "доираро"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "интиҳо"
+    },
+    {
+      "surface": "אור",
+      "gloss": "рӯшноӣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "торикӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:36.655668459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "leviticus 13:58",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва либос ё тор ё арғамчин ё ҳар асбоби пӯст, ки бишӯед, ва ногоҳ аз онҳо дур шавад — дуюбора мешӯяд ва пок мегардад.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ва либос"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "тор"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "арғамчин"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоби"
+    },
+    {
+      "surface": "העור",
+      "gloss": "пӯст"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "бишӯед"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ва дур шавад"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "аз онҳо"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ногоҳ"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "мешӯяд"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "дуюбора"
+    },
+    {
+      "surface": "ווטהר",
+      "gloss": "ва пок мегардад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:16.499180772Z",
+  "model": "glm-5.3"
+}

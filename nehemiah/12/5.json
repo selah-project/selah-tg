@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Мийамин, Маъдия, Билга,",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "Мийамин"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "Маъдия"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "Билга"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:59.349288267Z",
+  "model": "glm-5.3"
+}

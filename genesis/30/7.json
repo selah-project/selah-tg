@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Билҳа, канизи Раҳел, боз ҳомиладор шуд ва ба Яъқуб писари дуюмро зоид.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомиладор шуд"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билҳа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "канизи"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раҳел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "שני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқуб"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:03.315000729Z",
+  "model": "glm-5.3"
+}

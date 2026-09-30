@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва дар дувоздаҳумин сол, дар понздаҳуми моҳ, суханди Яҳве ба ман омад ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва воқеъ шуд"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "дар"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ду"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "понздаҳ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T18:10:38.869515969Z",
+  "model": "glm-5.3"
+}

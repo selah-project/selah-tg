@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Довуд ибни Йишай бар ҳамаи Йисроэл подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ва Довуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ибни"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:43:09.718380183Z",
+  "model": "glm-5.3"
+}

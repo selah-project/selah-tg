@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Яҳве ба Моше ва ба Аҳарон дар кӯҳи Ҳор, бар сарҳади замини Эдом сухан ронда, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва сухан ронда мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳи"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "сарҳади"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:07.623758761Z",
+  "model": "glm-5.3"
+}

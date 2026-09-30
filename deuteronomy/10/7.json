@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Аз он ҷо ба Ҳагудгода сафар карданд, ва аз Ҳагудгода ба Йотвата — замини ҷӯйҳои об.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Аз он ҷо"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "сафар карданд"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ба Ҳагудгода"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Ҳагудгода"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "ба Йотвата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ҷӯйҳои"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:32.176884245Z",
+  "model": "glm-5.3"
+}

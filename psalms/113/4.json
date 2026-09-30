@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 113,
+  "translation": "Болотар аз ҳамаи халқҳост Яҳве, болотар аз осмонҳо ҷалоли Ӯ.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Болотар"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "болотар аз"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ҷалоли Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:43.376778759Z",
+  "model": "glm-5.3"
+}

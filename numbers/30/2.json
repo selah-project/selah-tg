@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Моше бо сарони қабилаҳо — банӣ-Йисроэл — сухан ронда гуфт: ин аст он сухан ки Яҳве фармуд.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "сарони"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "қабилаҳо"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "баниён"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфта"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:29.828065567Z",
+  "model": "glm-5.3"
+}

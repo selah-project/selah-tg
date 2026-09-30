@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "То кай? Оё дар дили набиён — набиҳои дурӯғ ва набиҳои фиреби дилхешон аст?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "היש",
+      "gloss": "оё ҳаст"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "дар дили"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "набиён"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "набиҳои"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "дурӯғ"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "ва набиҳои"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "фиреби"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "дилхешон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:21.284745031Z",
+  "model": "glm-5.3"
+}

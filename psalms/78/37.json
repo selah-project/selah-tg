@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 78,
+  "translation": "Ва дили онҳо бо Ӯ рост набуд ва дар аҳдини Ӯ собит набуданд.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "Ва дили онҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "рост"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо Ӯ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва набуданд"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "собит"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "дар аҳдини Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:05.862221955Z",
+  "model": "glm-5.3"
+}

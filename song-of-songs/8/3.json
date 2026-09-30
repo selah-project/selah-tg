@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Дасти чапаш зери сари ман, ва дасти росташ маро оғӯш мекунад.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "дасти чапаш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "сари ман"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ва дасти росташ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "маро оғӯш мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:43.322969504Z",
+  "model": "glm-5.3"
+}

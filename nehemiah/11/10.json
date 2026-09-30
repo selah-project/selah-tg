@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Аз коҳенон: Йедаъяҳ писари Йоярив, Яхин,",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳенон"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедаъяҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярив"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Яхин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:56.505166812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 86,
+  "translation": "Ҷони бандаатро шод кон, зеро ба сӯи ту, эй Адонай, ҷони худро мебарам.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "шод кон"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ҷони"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "бандаатро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба сӯи ту"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони худро"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "мебарам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:14.284987387Z",
+  "model": "glm-5.3"
+}

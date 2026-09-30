@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва сухани Яҳве ба ман расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ... расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:47:05.138106633Z",
+  "model": "glm-5.3"
+}

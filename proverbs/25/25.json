@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Оби хунук барои нафаси хаста, ва хабари нек аз замини дур.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "хунук"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "хаста"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ва хабар"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "нек"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "аз замин"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "дур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:07.850596743Z",
+  "model": "glm-5.3"
+}

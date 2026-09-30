@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Моше ба Аҳарон гуфт: «Ин халқ ба ту чӣ кард, ки гуноҳи бузург бар он овардӣ?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ин халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "овардӣ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "гуноҳ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "бузург"
+    }
+  ],
+  "timestamp": "2026-09-30T15:41:51.340805263Z",
+  "model": "glm-5.3"
+}

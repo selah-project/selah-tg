@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар аз канори рӯяш сараш тозад, ӯ пешонатоз аст; ӯ пок аст.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯяш"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "тозад"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "сараш"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "пешонатоз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:04.075209604Z",
+  "model": "glm-5.3"
+}

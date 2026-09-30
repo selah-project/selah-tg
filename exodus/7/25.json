@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва шаш рӯз пур шуд — ҳафт рӯз — баъд аз задани Яҳве ⟨את⟩ дарёро.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "пур шуд"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "задани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дарё"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "дарё"
+    }
+  ],
+  "timestamp": "2026-09-30T15:32:10.411628819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Надуздед, ва дурӯғ нагӯед ва на одамро бо ҳамтои худ фиреб диҳед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "дуздед"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "инкор кунед"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "дурӯғ гӯед"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "бо ҳамтои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:31.546988775Z",
+  "model": "glm-5.3"
+}

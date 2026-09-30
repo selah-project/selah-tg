@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва бар ҳудуди Менашше, аз канори шарқӣ то канори ғарбӣ — Эфрайим, як ҳисса.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарбӣ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як ҳисса"
+    }
+  ],
+  "timestamp": "2026-09-30T18:16:36.852143972Z",
+  "model": "glm-5.3"
+}

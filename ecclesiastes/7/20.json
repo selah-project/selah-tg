@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Зеро одамеро нест рӯи замин, ки некӣ кунад ва гуноҳ накунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "рӯи замин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кунад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:56.716722461Z",
+  "model": "glm-5.3"
+}

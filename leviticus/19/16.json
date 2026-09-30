@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Милли ҷаҳонгардӣ накун; бар хуни рафиқи худ истода боқӣ мон — Ман Яҳве ҳастам.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "рафтан"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "милли ҷаҳонгардӣ"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "милл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "истода"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דם",
+      "gloss": "хуни"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "рафиқи худ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:26.866731013Z",
+  "model": "glm-5.3"
+}

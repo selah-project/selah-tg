@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳам ба ҳамаи суханҳое ки мегӯянд, дили худро мағардон — то нашунавӣ, ки ⟨את⟩ ғуломи туро малъон мекунад.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ҳам"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ба ҳамаи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханҳое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "мегӯянд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "гардон"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дили худро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "то"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "шунавӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ғуломи туро"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ғуломи туро"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "туро малъон мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:43.443649513Z",
+  "model": "glm-5.3"
+}

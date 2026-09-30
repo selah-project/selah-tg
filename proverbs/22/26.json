@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Дар байни зарбзанагони даст ва кафилони қарз набош.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "набош"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨набош⟩"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "дар байни зарбзанагони"
+    },
+    {
+      "surface": "כף",
+      "gloss": "даст"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "ва кафилони"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "қарз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:11.374201643Z",
+  "model": "glm-5.3"
+}

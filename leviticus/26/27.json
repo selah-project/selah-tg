@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва агар бо ин низ ба гуфтори Ман гӯш надиҳед, балки бо Ман ба саркашӣ роҳ меравед —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "бо ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "гӯш надиҳед"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба Ман"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ва шумо меравед"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "бо Ман"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ба саркашӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:37.789265035Z",
+  "model": "glm-5.3"
+}

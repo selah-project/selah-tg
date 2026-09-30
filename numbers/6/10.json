@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва дар рӯзи ҳаштум ду туртмурғ ё ду бачаи кабӯтар назди коҳен, ба дари хаймаи вохӯрӣ меорад.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "меорад"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "туртмурғ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бачаи"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "кабӯтар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "дари"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "вохӯрӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:05.202397445Z",
+  "model": "glm-5.3"
+}

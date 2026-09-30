@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва хонаи Йӯсиф низ онҳо ба Байт-Эл баромаданд, ва Яҳве бо онҳо буд.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "баромаданд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йӯсиф"
+    },
+    {
+      "surface": "גם",
+      "gloss": "низ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ва Яҳве"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "бо онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:31:02.722579126Z",
+  "model": "glm-5.3"
+}

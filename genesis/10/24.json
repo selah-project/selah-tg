@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Арфакшад Шалахро зойд ва Шалах Эверро зойд.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ва Арфакшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зойд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шалахро"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шалах"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ва Шалах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зойд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эверро"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:44.647690184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 38:22",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Оё ба анборҳои барф омадаӣ, ва анборҳои жола́ро дидаӣ?",
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "омадаӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "анборҳои"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "барф"
+    },
+    {
+      "surface": "ו אצרות",
+      "gloss": "ва анборҳои"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "жола"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "дидаӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:11:47.376186536Z",
+  "model": "glm-5.3"
+}

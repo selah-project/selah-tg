@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Барои тамоеи Дон — Аммиэл, писари Гемаллӣ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "барои тамое"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дон"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Гемаллӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:42.928133118Z",
+  "model": "glm-5.3"
+}

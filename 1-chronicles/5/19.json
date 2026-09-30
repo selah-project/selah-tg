@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва онҳо бо Ҳагриён ва Йетур ва Нафиш ва Нодав ҷанг карданд.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ва карданд"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "Ҳагриён"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "ва Йетур"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "ва Нафиш"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "ва Нодав"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:58.031247292Z",
+  "model": "glm-5.3"
+}

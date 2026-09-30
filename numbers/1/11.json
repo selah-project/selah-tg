@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Бинъёмин — Авидан, писари Гидъонӣ.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "барои Бинъёмин"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Гидъонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:42.198413793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Бисту якӯм ба Ҳотир, фарзандонаш ва бародаронаш — дӯздаҳ нафар.",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "ба Ҳотир"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "фарзандонаш"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва бародаронаш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дӯ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:33.074706803Z",
+  "model": "glm-5.3"
+}

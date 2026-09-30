@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва барои Мисраим коре набошад, ки сар ё дум, шохи хурмо ё қамиш бикунад.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "барои Мисраим"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "бикунад"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ё дум"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "шохи хурмо"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ё қамиш"
+    }
+  ],
+  "timestamp": "2026-09-30T17:27:05.159012817Z",
+  "model": "glm-5.3"
+}

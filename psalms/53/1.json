@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 53,
+  "translation": "Барои сароянда, ба сӯри «Маҳалат», машкил аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "барои сароянда"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба сӯри"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "«Маҳалат»"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "машкил"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:14.122647300Z",
+  "model": "glm-5.3"
+}

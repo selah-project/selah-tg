@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Беҳтар аст дар гӯшаи бом нишастан, аз зани ҷанҷолӣ ва хонаи ҳамшаҳрӣ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар аст"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "нишастан"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "гӯшаи"
+    },
+    {
+      "surface": "גג",
+      "gloss": "бом"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "аз зани"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "ҷанҷолӣ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ва хонаи"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ҳамшаҳрӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:19.287371844Z",
+  "model": "glm-5.3"
+}

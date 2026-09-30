@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Абром бар рӯи худ афтод, ва Элоҳим бо ⟨את⟩ ӯ сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ва афтод"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Абром"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯи ӯ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "бо ӯ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:37.836807748Z",
+  "model": "glm-5.3"
+}

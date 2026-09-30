@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ҳам он ки дар кори худ суст аст, бародари соҳиби вайронкор аст.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "суст аст"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "дар кори худ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "бародар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "соҳиби"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "вайронкор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:01.284885258Z",
+  "model": "glm-5.3"
+}

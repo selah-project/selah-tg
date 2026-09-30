@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Мазлум аст Эфроим, шикаста дар доварӣ, зеро ки хост рафт пас аз фармон.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "Мазлум"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфроим"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "шикаста"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "дар доварӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "хост"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "пас аз"
+    },
+    {
+      "surface": "צו",
+      "gloss": "фармон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:12.336799697Z",
+  "model": "glm-5.3"
+}

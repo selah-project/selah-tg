@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Кӯш Нимродро зоид; ӯ дар замин аввалин шуд, ки қаҳрамон бошад.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ва Кӯш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимродро"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Нимрод"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "аввалин шуд, ки"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "қаҳрамон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:20.002278347Z",
+  "model": "glm-5.3"
+}

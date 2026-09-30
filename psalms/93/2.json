@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 93,
+  "translation": "Устувор аст тахти ту аз он рӯзҳо, аз абад ту ҳастӣ.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "устувор аст"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "тахти ту"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "аз он рӯзҳо"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "аз абад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту ҳастӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:09.517497344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва зан ба мор гуфт: «Аз меваи дарахтони боғ мехӯрем",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "мор"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "аз меваи"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарахтони"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "боғ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "мехӯрем"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:49.163244279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Бо пок тавоно пок мебошӣ, ва бо каҷшуда бо макр рафтор мекунӣ.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "пок"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "пок мебошӣ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ва бо"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "каҷшуда"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "бо макр рафтор мекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:19.266507164Z",
+  "model": "glm-5.3"
+}

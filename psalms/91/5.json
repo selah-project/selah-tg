@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 91,
+  "translation": "Ту аз тарси шабона натарс, аз тире ки рӯзона мепарозад,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "натарс"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "аз тарси"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шабона"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "аз тир"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "мепарозад"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "рӯзона"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:11.103435114Z",
+  "model": "glm-5.3"
+}

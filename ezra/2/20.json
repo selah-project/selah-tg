@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Гиббар — наваду панҷ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гиббар"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "навад"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "у панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:59.055326967Z",
+  "model": "glm-5.3"
+}

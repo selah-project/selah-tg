@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 32:24",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Дар он рӯзҳо Хизқиёҳу то ба марг бемор шуд, ва ба Яҳве дуо кард, ва ба ӯ сухан гуфт ва ба ӯ мӯъҷиза дод.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "дар он рӯзҳо"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "—"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "бемор шуд"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизқиёҳу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ба марг"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "дуо кард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "ва мӯъҷиза"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:16:16.164530968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва об набуд барои маҷлис, ва ҷамъ шуданд бар зидди Моше ва бар зидди Аҳарон.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва набуд"
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "барои маҷлис"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ва ҷамъ шуданд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар зидди"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар зидди"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:40.024324491Z",
+  "model": "glm-5.3"
+}

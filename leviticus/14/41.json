@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва ⟨את⟩ хонаро аз дохил дар атрофаш токад кунанд ва хокиеро, ки токиданд, берун аз шаҳр ба ҷои нопок барезанд.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хонаро"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "токад кунанд"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "аз дохил"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "дар атроф"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "барезанд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хоке"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "хоке"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "токиданд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "берун"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "аз шаҳр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷои"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопок"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:50.720376443Z",
+  "model": "glm-5.3"
+}

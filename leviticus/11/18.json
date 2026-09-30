@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва ⟨את⟩ тиншемет ва ⟨את⟩ қоат ва ⟨את⟩ раҳом,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "тиншемет"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "тиншемет (бухарчаи шохдор)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "қоат"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "қоат (қӯқnos \/ леглетос)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "раҳом"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "раҳом (моҳихӯри калон)"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:07.345319115Z",
+  "model": "glm-5.3"
+}

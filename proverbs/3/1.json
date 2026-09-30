@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Писари ман, тораи маро фаромӯш макун, ва аз тираҳои ман дилат нигоҳ дорад.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "писари ман"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "тораи маро"
+    },
+    {
+      "surface": "אל",
+      "gloss": " macromakun"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "фаромӯш макун"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "аз тираҳои ман"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "нигоҳ дорад"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:35.682268589Z",
+  "model": "glm-5.3"
+}

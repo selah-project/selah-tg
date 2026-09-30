@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Малъун бошад ҳар кӣ ки бо модаркалони худ мехобад, ва тамоми халқ мегӯяд: Омин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Малъун бошад"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "мехобад"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "модаркалони худ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва мегӯяд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Омин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:28.626913771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Нетанэл чорум, Раddай панҷум буд.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанэл"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Раддай"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "панҷум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:38.137808632Z",
+  "model": "glm-5.3"
+}

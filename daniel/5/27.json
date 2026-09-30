@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Текел — ту дар тарозу вазн шудӣ ва камёфтӣ.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "вазн шудӣ"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "дар тарозу"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "ва ёфтӣ"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "кам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:23:03.519712546Z",
+  "model": "glm-5.3"
+}

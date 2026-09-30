@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "ва ба миён омад, баъд аз ҳамаи бадӣат — вой, вой бар ту! мегӯяд Адонай Яҳве.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба миён омад"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "бадӣат"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "вой"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "вой"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:03:37.712749508Z",
+  "model": "glm-5.3"
+}

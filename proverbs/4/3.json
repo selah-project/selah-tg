@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Зеро ман ба падарам писар — нарм ва ягона дар назди модарам будам.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "будам"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ба падарам"
+    },
+    {
+      "surface": "רך",
+      "gloss": "наrm"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "ва ягона"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "модарам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:42.538253827Z",
+  "model": "glm-5.3"
+}

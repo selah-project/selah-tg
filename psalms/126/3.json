@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 126,
+  "translation": "Бузург кард Яҳве бо мо кор карданро; мо шод будем.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "бузург кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кор карданро"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бо мо"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "будем"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "шод"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:48.650793092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Лаънатӣ он ки ҳудуди ҳамсояи худро ҷой дигар мекунад; ва тамоми халқ мегӯяд: Омин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "лаънатӣ"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "ҷой дигар мекунад"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуд"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ҳамсояи худро"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва мегӯяд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Омин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:29.859521765Z",
+  "model": "glm-5.3"
+}

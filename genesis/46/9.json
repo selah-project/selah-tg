@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ва писарони Реувен: Ханох ва Фаллу ва Хетсрон ва Кармӣ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ва Фаллу"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "ва Хетсрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ва Кармӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:39.406411634Z",
+  "model": "glm-5.3"
+}

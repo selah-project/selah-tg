@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро кӣ мехӯрад ва кӣ ба он шитоб мекунад, ҷуз аз ман?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ва кӣ"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "шитоб мекунад"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ҷуз"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:32.467246169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ба ман гуфт, мегӯяд: «Оё намедонӣ, ки инҳо чӣанд?» Ва ман гуфтам: «Не, хоҷаи ман».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "оё"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "намедонӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфтам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хоҷаи ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:19.356172558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 106,
+  "translation": "Онҳо халқҳоро нест нокарданд, ки Яҳве ба онҳо фармуда буд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "нест карданд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халқҳо"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "фармуда буд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:06.913657493Z",
+  "model": "glm-5.3"
+}

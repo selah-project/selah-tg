@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва баъд аз ин дили Довуд ⟨את⟩ ӯро зад, азбаски канореро ки аз Шоул буд, бурид.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва шуд"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "зад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дили"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро (Довудро)"
+    },
+    {
+      "surface": "על",
+      "gloss": "азбаски"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "бурид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канореро"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "канореро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "аз Шоул"
+    }
+  ],
+  "timestamp": "2026-09-30T16:48:30.894124211Z",
+  "model": "glm-5.3"
+}

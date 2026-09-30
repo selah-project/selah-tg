@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Уззо, фарзандони Посеах, фарзандони Бесай,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уззо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Посеах"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:07.036691190Z",
+  "model": "glm-5.3"
+}

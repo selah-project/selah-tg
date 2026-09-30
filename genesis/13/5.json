@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва ба Лути ҳам, ки бо ⟨את⟩ Авраҳам мерафт, гӯсфандон ва говҳо ва хаймаҳо буд.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва ба … ҳам"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Лут"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "мерафт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраҳам"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "гӯсфандон"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ва говҳо"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ва хаймаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:05.131196738Z",
+  "model": "glm-5.3"
+}

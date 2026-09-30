@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ҳамчунин агар дуҷоя кунанд, барои онҳо гармӣ ҳаст; вале танҳо чӣ гуна гарм мешавад?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳамчунин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "дуҷоя кунанд"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ва гармӣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "барои онҳо"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "вале танҳо"
+    },
+    {
+      "surface": "איך",
+      "gloss": "чӣ гуна"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "гарм мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:34.727461698Z",
+  "model": "glm-5.3"
+}

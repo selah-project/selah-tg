@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Яҳве бо Моше сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:21.432385376Z",
+  "model": "glm-5.3"
+}

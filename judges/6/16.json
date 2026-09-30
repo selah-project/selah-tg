@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве ба ӯ гуфт: «Ман бо тур хоҳам буд ва ту Мадянро мисли як тан мард мезанӣ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "хоҳам буд"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо тур"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ва мезанӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мадянро"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадян"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "мисли як тан мард"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T20:01:28.539152519Z",
+  "model": "glm-5.3"
+}

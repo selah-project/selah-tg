@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва он чи аз гӯшт ва нон боқӣ мемонад, дар оташ сӯзонед.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ва он чи боқӣ мемонад"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "аз гӯшт"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ва нон"
+    },
+    {
+      "surface": "באש",
+      "gloss": "дар оташ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "сӯзонед"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:09.299193009Z",
+  "model": "glm-5.3"
+}

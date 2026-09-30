@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Оё мӯҷе монанди Эл дорӣ? Ё бо овозе чун Ӯ тунд мезанӣ?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "оё"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "мӯҷ"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "монанди Эл"
+    },
+    {
+      "surface": "לך",
+      "gloss": "дорӣ"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ё бо овозе"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "чун Ӯ"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "тунд мезанӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:11:56.821815368Z",
+  "model": "glm-5.3"
+}

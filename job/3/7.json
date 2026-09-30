@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Инак, он шаб бемаҳвол бошад, овози шодӣ дар он наояд.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "бемаҳвол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "овози шодӣ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:03:16.765419898Z",
+  "model": "glm-5.3"
+}

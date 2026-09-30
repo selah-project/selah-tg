@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва Ҳамор, падари Шехем, назди Яъқов баромад, то бо ⟨את⟩ ӯ гӯяд.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Ҳамор"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "то гӯяд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "бо ⟨את⟩ ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:11.168570544Z",
+  "model": "glm-5.3"
+}

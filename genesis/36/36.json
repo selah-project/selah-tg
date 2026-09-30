@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва Ҳадад мурд, ва ҷои ӯро Самла аз Масрека гирифт.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ҳадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ва подшоҳ шуд"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ҷои ӯро"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "аз Масрека"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:05.111431207Z",
+  "model": "glm-5.3"
+}

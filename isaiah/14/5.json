@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Шикаст Яҳве асомони рашиконро, асои ҳокимонро.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "шикаст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "асом"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "рашикон"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "асо"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ҳокимон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:19.768223480Z",
+  "model": "glm-5.3"
+}

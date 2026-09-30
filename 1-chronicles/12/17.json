@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва аз фарзандони Бинёмин ва Йеҳуда то қалъа, назди Довуд омаданд.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинёмин"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ва Йеҳуда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "қалъа"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "назди Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:46.857379291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Эсов ба Яъқуб гуфт: «Лӯқа занон маро, илтимос, аз ин сурхи сурх, ки ман хастаам»; барои ҳамин номаш Адом хонда шуд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יעעקב",
+      "gloss": "Яъқуб"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "лӯқа занон маро"
+    },
+    {
+      "surface": "נא",
+      "gloss": "илтимос"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "сурх"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "сурх"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "хаста"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "хонда шуд"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номаш"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Адом"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:30.257468063Z",
+  "model": "glm-5.3"
+}

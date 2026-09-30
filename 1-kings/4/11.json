@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Бен-Авинадов — тамоми наваҳии Дор; Тафат, духтари Шломо, занаш буд.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "Авинадов",
+      "gloss": "Авинадов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "наваҳии"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дор"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "Тафат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:01:23.213241079Z",
+  "model": "glm-5.3"
+}

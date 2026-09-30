@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Кӣ метавонад гӯяд: тоза кардам дилро, пок шудам аз гуноҳи худ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "метавонад гӯяд"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "тоза кардам"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дил"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "пок шудам"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "аз гуноҳи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:15.062389128Z",
+  "model": "glm-5.3"
+}

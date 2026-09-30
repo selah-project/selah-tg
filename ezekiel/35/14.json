@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ин гӯяд Адонай Яҳве: мисли шодии тамоми замин, харобӣ бар ту хоҳам кард.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "мисли шодии"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "харобӣ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "хоҳам кард"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:12.909169447Z",
+  "model": "glm-5.3"
+}

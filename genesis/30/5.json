@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Билҳа ҳомиладор шуд ва ба Яъқуб писаре зоид.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомиладор шуд"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билҳа"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқуб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:03.314414573Z",
+  "model": "glm-5.3"
+}

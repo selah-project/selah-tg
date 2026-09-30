@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Чун пӯшidan либосро дар рӯзи хунукӣ ва чун сирка бар сода — он ки ба дили ғамгин тарона месарояд.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "пӯшидан\/чун гирифтани"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "либосро"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "хунукӣ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "сирка"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "сода"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ва он ки месарояд"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "тарона"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дили"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ғамгин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:44.496976220Z",
+  "model": "glm-5.3"
+}

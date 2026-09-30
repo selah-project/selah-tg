@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ҳар гоҳ ки овозашро мулоём мекунад, ба ӯ бовар макун, зеро ҳафт ифлосӣ дар дили ӯст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ҳар гоҳ ки"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "мулоём мекунад"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "овозашро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма-"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "бовар кун"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ифлосӣ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "дар дили ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:28.821608540Z",
+  "model": "glm-5.3"
+}

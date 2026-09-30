@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве ба ӯ гуфт: Саломатӣ ба ту! Натарс, намурӣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "саломатӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "тарс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "намурӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:33:32.757303063Z",
+  "model": "glm-5.3"
+}

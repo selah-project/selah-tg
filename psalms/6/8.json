@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Аз ғам чашми маро заиф кард, аз ҳамаи душманонам пир шуд.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "заиф кард"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "аз ғам"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "чашми маро"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "пир шуд"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "душманонам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:39.320390609Z",
+  "model": "glm-5.3"
+}

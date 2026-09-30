@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Пеш аз он ки ресмони нуқраҳо бурида шавад ва кӯзаи тилло шиканад ва кӯза сар чашма шиканад ва чарха ба чоҳ афтад.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "бурида шавад"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ресмон"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "шиканад"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "кӯза"
+    },
+    {
+      "surface": "הזהб",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "шиканад"
+    },
+    {
+      "surface": "כד",
+      "gloss": "кӯза"
+    },
+    {
+      "surface": "על",
+      "gloss": "сар"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "чашма"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "афта"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "чарха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "чоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:11.200323187Z",
+  "model": "glm-5.3"
+}

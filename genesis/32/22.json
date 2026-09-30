@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва минҳа аз пеши ӯ гузашт, ва ӯ худ он шаб дар лагерча хобид.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "ва гузашт"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минҳа"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "пеши ӯ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "хобид"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "он шаб"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "дар лагерча"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:42.174659125Z",
+  "model": "glm-5.3"
+}

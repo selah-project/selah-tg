@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва баъди ҳафт рӯз обҳои тӯфан бар замин шуданд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва баъди... шуд"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "баъди ҳафт"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ва обҳои"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "тӯфан"
+    },
+    {
+      "surface": "היו",
+      "gloss": "шуданд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:36.427204102Z",
+  "model": "glm-5.3"
+}

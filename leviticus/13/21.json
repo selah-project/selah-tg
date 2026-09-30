@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 13:21",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар коҳин онро бинад ва, behold, дар он мӯйи сафед набошад ва он аз пӯст паст набошад, вале он хира бошад, коҳин ӯро ҳафт рӯз ҳабс кунад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "бинад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва behold"
+    },
+    {
+      "surface": "אין",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "בה",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "שער",
+      "gloss": "мӯй"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "сафед"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "ва паст"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "העור",
+      "gloss": "пӯст"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ва он"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "хира"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "ҳабс кунад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:39.213244036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва инҳо довариҳое ⟨анд⟩ Моше пеши онҳо гузорад.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "довариҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨анд⟩"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "гузорад"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пеши онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:15.254584570Z",
+  "model": "glm-5.3"
+}

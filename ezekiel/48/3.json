@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва бар ҳудуди Ашер, аз канори шарқӣ то канори баҳрӣ — Нафталӣ як ⟨қисм⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "баҳрӣ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталӣ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:16:46.339230708Z",
+  "model": "glm-5.3"
+}

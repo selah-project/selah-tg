@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Туро бегона васф кунад, на даҳони ту; бегона, на лабҳои ту.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "туро васф кунад"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "даҳони ту"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "лабҳои ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:16.202660066Z",
+  "model": "glm-5.3"
+}

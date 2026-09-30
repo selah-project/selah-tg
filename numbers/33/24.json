@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз кӯҳи Шофер сафар карданд ва дар Ҳарада муҳим шуданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "сафар карданд"
+    },
+    {
+      "surface": "мҳр",
+      "gloss": "аз кӯҳ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Шофер"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "муҳим шуданд"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "дар Ҳарада"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:06.278815240Z",
+  "model": "glm-5.3"
+}

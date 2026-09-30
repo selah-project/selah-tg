@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 109,
+  "translation": "Бадкорро бар ӯ бигзор ва Шатан бар дасти рости ӯ бистад.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "бигзор"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ва Шатан"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "бистад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дасти рости ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:43.104805360Z",
+  "model": "glm-5.3"
+}

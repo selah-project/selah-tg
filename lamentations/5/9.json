@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ба нарисии ҷони худ нон баровардем, аз рӯи шамшери биёбон.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ба нарисии ҷони худ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "баровардем"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "нони худ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "шамшер"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "биёбон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:20.897305321Z",
+  "model": "glm-5.3"
+}

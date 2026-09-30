@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар он дар пӯст паҳн шавад, коҳин ӯро нопок эълон кунад: он зарар аст.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "паҳн шавад"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "паҳн кунад"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "дар пӯст"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "нопок эълон кунад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:39.213575949Z",
+  "model": "glm-5.3"
+}

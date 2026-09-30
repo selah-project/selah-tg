@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Сарватманд ва бедавлат вохӯрданд — Ҳамаишонро Яҳве месозад.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "сарватманд"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ва бедавлат"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "вохӯрданд"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ҳамаишонро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:57.117871286Z",
+  "model": "glm-5.3"
+}

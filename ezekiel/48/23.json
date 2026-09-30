@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва боқии гурӯҳҳо: аз канори шарқӣ то канори ғарбӣ — Бинъёмин, як [ҳисса].",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ва боқии"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "гурӯҳҳо"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарбӣ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинъёмин"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:09.604821094Z",
+  "model": "glm-5.3"
+}

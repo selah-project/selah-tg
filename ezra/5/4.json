@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Он гоҳ мо ба онҳо чунин гуфтем: чист номҳои мардоне, ки ин биноро месозанд?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "гуфтем"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "ҳастанд"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "номҳои"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "мардон"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "бино"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "месозанд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:29:19.794740898Z",
+  "model": "glm-5.3"
+}

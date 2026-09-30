@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ба ҷовидонӣ паймони Ӯ-ро ёд кунед, суханеро ки ба ҳазор насл фармуд.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ёд кунед"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ба ҷовидонӣ"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "паймони Ӯ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ба ҳазор"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:58.824321367Z",
+  "model": "glm-5.3"
+}

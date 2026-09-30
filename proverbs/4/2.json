@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Зеро таълими нек ба шумо додам, торамро тарк накунед.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "таълим"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "додам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "торам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "тарк кунед"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:42.538108126Z",
+  "model": "glm-5.3"
+}

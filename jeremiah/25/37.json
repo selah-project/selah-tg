@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва чарогоҳҳои ором хомӯш шуданд — аз пеши хашми ғазаби Яҳве.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "ва хомӯш шуданд"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "чарогоҳҳо"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ором"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз пеши"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "хашми"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ғазаби"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:07.485773185Z",
+  "model": "glm-5.3"
+}

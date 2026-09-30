@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва гуфтам: Эҳ, Адонай Яҳве! Инак, ман гуфтан намедонам, зеро ман ҷавонам.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфтам"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "эҳ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "намедонам"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ҷавон"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:23.376890630Z",
+  "model": "glm-5.3"
+}

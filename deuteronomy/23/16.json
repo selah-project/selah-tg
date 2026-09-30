@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ғуломро ба хоҷаи насупур, ки аз хоҷаи худ назди ту паноҳ меҷӯяд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "насупур"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ғуломро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хоҷаи ӯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "паноҳ меҷӯяд"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "назди ту"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хоҷаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:31.254020358Z",
+  "model": "glm-5.3"
+}

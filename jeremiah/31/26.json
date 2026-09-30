@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ба ин ман бедор шудам ва дидам, ва хоби ман барои ман ширин буд.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "бедор шудам"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ва дидам"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "ва хоби ман"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ширин буд"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:55.203748850Z",
+  "model": "glm-5.3"
+}

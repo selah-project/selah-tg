@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ғизо ба пул аз ⟨את⟩ онҳо харед ва хӯред, ва низ обро ба пул аз ⟨את⟩ онҳо харед ва бинӯшед.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Ғизо"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "харед"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "аз ⟨את⟩ онҳо"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ба пул"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ва хӯред"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "харед"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "аз ⟨את⟩ онҳо"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ба пул"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ва бинӯшед"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:00.665081005Z",
+  "model": "glm-5.3"
+}

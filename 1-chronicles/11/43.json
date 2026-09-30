@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳанон писари Мааха ва Йеҳошафатҳа митнӣ,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Ҳанон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ва Йеҳошафат"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "митнӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:59.551716660Z",
+  "model": "glm-5.3"
+}

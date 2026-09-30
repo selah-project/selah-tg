@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ин тора барои ҳар зарби тсараат ва барои натек аст.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "тора"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барои ҳар"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "зарб"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "тсараат"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ва барои натек"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:27.841182162Z",
+  "model": "glm-5.3"
+}

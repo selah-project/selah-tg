@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва дар рӯзе ки дар ӯ гӯшти зинда пайдо шавад, нопок мешавад.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзе"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "пайдо шавад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар ӯ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшти"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зинда"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нопок мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:00.032468900Z",
+  "model": "glm-5.3"
+}

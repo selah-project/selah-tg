@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Бар он қаддоси бегона ва ола ва минҳа набаред, ва ниск бар орезед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "набаред"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "қаддос"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ва ола"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ва минҳа"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ва ниск"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "орезед"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:22.309125556Z",
+  "model": "glm-5.3"
+}

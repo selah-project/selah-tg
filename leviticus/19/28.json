@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва барои ҷон харош дар гӯшти худ нагузоред; навиштаҷоти сӯзаконӣ дар худ накунед; ман Яҳве.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "ва харош"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "барои ҷон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "нагузоред"
+    },
+    {
+      "surface": "ббшрхм",
+      "gloss": ""
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "навиштаҷот"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "сӯзаконӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "накунед"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "дар худ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:13.270815192Z",
+  "model": "glm-5.3"
+}

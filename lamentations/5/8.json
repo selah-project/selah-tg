@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ғуломон бар мо ҳукм ронданд; аз дасти онҳо наҷотдиҳанде нест.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Ғуломон"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ҳукм ронданд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "бар мо"
+    },
+    {
+      "surface": "пרק",
+      "gloss": "наҷотдиҳанда"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "аз дасти онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:22.580207329Z",
+  "model": "glm-5.3"
+}

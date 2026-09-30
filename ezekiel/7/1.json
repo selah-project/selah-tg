@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва сузи Яҳве ба ман омад, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва...омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "суз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:18.643408542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 52,
+  "translation": "Зеро ин гӯяд Яҳве: беҳуда фурӯхта шудед, ва бо пул накушонida хориҷ мешавед.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ин гӯяд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "беҳуда"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "фурӯхта шудед"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "бо пул"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "хориҷ мешавед"
+    }
+  ],
+  "timestamp": "2026-09-30T17:37:26.206084213Z",
+  "model": "glm-5.3"
+}

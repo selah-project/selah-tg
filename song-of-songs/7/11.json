@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ман аз они дӯсти ман ва майли ӯ ба ман аст.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "аз они дӯсти ман"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ва ба ман"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "майли ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:39.239183358Z",
+  "model": "glm-5.3"
+}

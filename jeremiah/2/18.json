@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва акнун чӣ ба ту дар роҳи Мисраим — оби Шихорро нӯшанӣ? Ва чӣ ба ту дар роҳи Ашшур — оби дарёро нӯшанӣ?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ва акнун"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "нӯшанӣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "оби"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "Шихор"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ва чӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "нӯшанӣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "оби"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "дарё"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:38.964646850Z",
+  "model": "glm-5.3"
+}

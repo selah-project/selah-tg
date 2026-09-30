@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва коҳени масҳ аз хуни гов ба хаймаи муъод биёварад.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ва биёварад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳени"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "масҳ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "аз хуни"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "муъод"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:57.116408623Z",
+  "model": "glm-5.3"
+}

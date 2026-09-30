@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Яҳве маро ба вуҷуд овард — аввали роҳи Худ, пеш аз корҳои Худ аз қадим.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "маро ба вуҷуд овард"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "аввали"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "роҳи Худ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пеш"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "корҳои Худ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "аз қадим"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:05.067341492Z",
+  "model": "glm-5.3"
+}

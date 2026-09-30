@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ⟨את⟩ афтодагон аз паи ⟨את⟩ Яҳве, ва онҳое ки Яҳверо наҷустаанд ва напурсидаанд Ӯро.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "афтодагон"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "афтодагон"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "аз паи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ва онҳое ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ҷустаанд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "пурсидаанд Ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T20:09:33.999268860Z",
+  "model": "glm-5.3"
+}

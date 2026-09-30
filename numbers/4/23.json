@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 4:23",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "аз сиcола то аз боло, то cола — ⟨את⟩ онҳоро бишимор; ҳар яке ки меояд ба хизматкарӣ дар Хаймаи Воқеъ:",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сиcола"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "то аз боло"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "cола"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "бишимор"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ онҳоро",
+      "marks": "онҳо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар яке ки"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "хизматкарӣ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ба анҷом додани"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "дар"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Хаймаи Воқеъ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:41.454070957Z",
+  "model": "glm-5.3"
+}

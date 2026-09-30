@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Моше гуфт: ин аст сухароне, ки Яҳве фармуд — инро кунед, то ки ҷалоли Яҳве ба шумо намоён шавад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухароне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "инро кунед"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "намоён шавад"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалоли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:10.486664479Z",
+  "model": "glm-5.3"
+}

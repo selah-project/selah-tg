@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва ин наслномаи Эсав аст — ⟨ӯ⟩ Эдом аст.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "наслномаи"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ӯ⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:19.712357132Z",
+  "model": "glm-5.3"
+}

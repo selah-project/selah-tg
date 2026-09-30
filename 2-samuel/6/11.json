@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Тоҷи Яҳве се моҳ дар хонаи Овед-Эдоми гаттӣ монд, ва Яҳве Овед-Эдом ва тамоми хонаи ӯро баракат дод.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "монд"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Тоҷи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дар хонаи"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "гаттӣ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "бarakat дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овед-Эдом"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "тамоми хонаи ӯ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:53:21.437949843Z",
+  "model": "glm-5.3"
+}

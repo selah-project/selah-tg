@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва он ҷо қурбонгоҳе барпо кард ва онро Эл Элоҳей-Йисроэл номид.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Ва барпо кард"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "қурбонгоҳ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ва номид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "онро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳей"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:04.381406495Z",
+  "model": "glm-5.3"
+}

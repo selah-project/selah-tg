@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Яҳве ⟨את⟩ даҳони харро кушод ва ба Билъом гуфт: «Чӣ ба ту кардам, ки маро се бор задӣ?»",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ва кушод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "даҳони хар"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳон"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "хар"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ба Билъом"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кардам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "маро задӣ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "бор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:37.919112731Z",
+  "model": "glm-5.3"
+}

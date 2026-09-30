@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 112,
+  "translation": "Зеро то абад лангеш нахоҳад кард; содиқ то абад дар ёд дошта мешавад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "лангеш нахоҳад кард"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "дар ёд"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "мешавад"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "содиқ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:07.665047926Z",
+  "model": "glm-5.3"
+}

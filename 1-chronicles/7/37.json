@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ботср, ва Ҳод, ва Шаммо, ва Шилшо, ва Йитрон ва Беъро.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Ботср"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ва Ҳод"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ва Шаммо"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ва Шилшо"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ва Йитрон"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "ва Беъро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:27.673625950Z",
+  "model": "glm-5.3"
+}

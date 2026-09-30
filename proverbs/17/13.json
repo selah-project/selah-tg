@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Бадӣ барои некӣ бармегардонад — бадӣ аз хонаи ӯ намеравад.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "бармегардонад"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "намеравад"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "аз хонаи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:51.416831746Z",
+  "model": "glm-5.3"
+}

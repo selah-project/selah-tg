@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Аз ин рӯ мо натарсем, ҳарчанд замин иваз шавад ва кӯҳҳо ба дилғи баҳрҳо лағжонанд.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин рӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "тарсем"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "иваз шавад"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "лағжонанд"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "кӯҳҳо"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ба дилғи"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "баҳрҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:28.862522067Z",
+  "model": "glm-5.3"
+}

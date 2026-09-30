@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва баъд аз ӯ Автсан ⟨את⟩ Йисроэлро додгорӣ кард — аз Бейт-Лаҳм.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "додгорӣ кард"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "баъд аз ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисроэлро"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Автсан"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "аз Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лаҳм"
+    }
+  ],
+  "timestamp": "2026-09-30T16:36:59.615318506Z",
+  "model": "glm-5.3"
+}

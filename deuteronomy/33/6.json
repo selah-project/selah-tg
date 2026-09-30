@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Зинда монад Реувен ва намирад, ва мардонаш шуморашаванда бошанд.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Зинда монад"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יָמֹת",
+      "gloss": "намирад"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва бошанд"
+    },
+    {
+      "surface": "מְתָיו",
+      "gloss": "мардонаш"
+    },
+    {
+      "surface": "מִסְפָּר",
+      "gloss": "шуморашаванда"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:03.987884101Z",
+  "model": "glm-5.3"
+}

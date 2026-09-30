@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Яъқов чунин кард ва ин ҳафторо пур кард, ва ӯ ба ӯ ⟨את⟩ Раҳел-и духтари худро ба ӯ ба занӣ дод.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва кард"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "כן",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ва пур кард"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафта"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Раҳел"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раҳел"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "духтари худро"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:41.967620642Z",
+  "model": "glm-5.3"
+}

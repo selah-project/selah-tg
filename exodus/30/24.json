@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "ва қиёми панҷсад бо шекели муқаддас, ва равғани зайтун як ҳин.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "ва қиёми"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "бо шекел"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ва равғани"
+    },
+    {
+      "surface": "זית",
+      "gloss": "зайтун"
+    },
+    {
+      "surface": "הין",
+      "gloss": "як ҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:05.584424715Z",
+  "model": "glm-5.3"
+}

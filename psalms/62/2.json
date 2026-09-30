@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 62,
+  "translation": "Танҳо назди Элоҳим хомӯш аст нафси ман; аз Ӯ растагории ман.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "хомӯш"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нафси ман"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз Ӯ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "растагории ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:24.078210424Z",
+  "model": "glm-5.3"
+}

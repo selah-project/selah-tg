@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва дар охири рӯзҳо шуд, ки Қайин аз меваи замин минҳае барои Яҳве овард.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва шуд"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "дар охири"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "вард"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қайин"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "аз меваи"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замин"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минҳа"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:09.028302750Z",
+  "model": "glm-5.3"
+}

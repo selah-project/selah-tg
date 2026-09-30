@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Обҳои чуқур — суханони даҳони мард; ҷӯйи ҷӯшон — чашмаи ҳикмат.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "чуқур"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "суханони"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ҷӯй"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "ҷӯшон"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "чашмаи"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:07.581639681Z",
+  "model": "glm-5.3"
+}

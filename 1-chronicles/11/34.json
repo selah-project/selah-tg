@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Писарони Ҳошеми Гизонӣ, Йонатон писари Шоғеи Ҳарорӣ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Ҳошем"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "Гизонӣ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "Шоғе"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Ҳарорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:23.269145823Z",
+  "model": "glm-5.3"
+}

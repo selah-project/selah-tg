@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Шешан духтари худро ⟨את⟩ ба Ярҳа, ғуломи худ, ба занӣ дод, ва ӯ ба ӯ ⟨את⟩ Аттайро зоид.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ва дод"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "духтари худро"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "духтари худ"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "ба Ярҳа"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ғуломи худ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ва зоид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аттайро"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Аттай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:41.901198001Z",
+  "model": "glm-5.3"
+}

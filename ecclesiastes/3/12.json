@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Донистам, ки дар онҳо хайре нест, магар шод будан ва некӣ кардан дар ҳаёташ.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "донистам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хайр"
+    },
+    {
+      "surface": "בם",
+      "gloss": "дар онҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "магар"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "шод будан"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ва некӣ кардан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "дар ҳаёташ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:40.616085233Z",
+  "model": "glm-5.3"
+}

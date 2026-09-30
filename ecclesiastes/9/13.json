@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ин ҳам дидам ман зери офтоб: ҳикмат, ва он бузург аст барои ман.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ин ҳам"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ва бузург"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он аст"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "барои ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:45.811690436Z",
+  "model": "glm-5.3"
+}

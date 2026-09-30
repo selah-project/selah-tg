@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Эвер чор сӣ ва чор сол зиста ва ⟨את⟩ Пелегро таваллуд кард.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "зиста"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пелегро"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелег"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:51.296268199Z",
+  "model": "glm-5.3"
+}

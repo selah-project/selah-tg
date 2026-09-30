@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "сарвари Магдиэл, сарвари Ирам. Инҳо сарварони Эдом буданд.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "сарвари"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Магдиэл"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сарвари"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ирам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "сарварони"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:59.813024752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Дар он вақт Авияҳ, писари Яровъом, бемор шуд.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "дар он вақт"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "он"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "бемор шуд"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авияҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровъом"
+    }
+  ],
+  "timestamp": "2026-09-30T17:07:51.393379402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва калимаи Яҳве ба ман расид, ба гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:11.194227656Z",
+  "model": "glm-5.3"
+}

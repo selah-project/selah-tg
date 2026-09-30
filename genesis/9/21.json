@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": " ва ӯ аз шароб нӯшид ва маст шуд ва дар миёнаи хаймаи худ бенизом шуд.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "нӯшид"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шароб"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "маст шуд"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "бинизом шуд"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёнаи"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "хаймаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:42.580892556Z",
+  "model": "glm-5.3"
+}

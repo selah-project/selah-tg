@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва хоҳари ӯ дур истод, то бидонад, ки бо ӯ чӣ мешавад.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "истод"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "хоҳари ӯ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "дур"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "то бидонад"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "мешавад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:08.454251990Z",
+  "model": "glm-5.3"
+}

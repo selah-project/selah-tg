@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Ханан, фарзандони Гиддел, фарзандони Гаҳар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гаҳар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:33.664217793Z",
+  "model": "glm-5.3"
+}

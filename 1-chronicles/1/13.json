@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Кнаъан ⟨את⟩ Тсидонро нахустинзодаи худ ва ⟨את⟩ Ҳетро зойд.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ва Кнаъан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зойд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тсидонро"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Тсидонро"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "нахустинзодаи худ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳетро"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ҳетро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:33.581849760Z",
+  "model": "glm-5.3"
+}

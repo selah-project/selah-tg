@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Аз рӯи ӯ ⟨ма⟩ шитоб кунӣ, ⟨рав⟩; дар кори бад истода мон; зеро ҳар чӣ хоҳад, мекунад.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "шитоб кунӣ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "аз рӯи ӯ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨рав⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "истода мон"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "дар кори"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יחפוץ",
+      "gloss": "хоҳад"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:06.263629933Z",
+  "model": "glm-5.3"
+}

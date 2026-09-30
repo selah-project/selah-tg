@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва писарони Уззийэл: Мишоэл ва Элтсафан ва Ситрӣ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззийэл"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишоэл"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "ва Элтсафан"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "ва Ситрӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:26.981239325Z",
+  "model": "glm-5.3"
+}

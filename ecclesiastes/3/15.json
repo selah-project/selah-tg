@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Он чи буд, аллакай ҳаст; ва он чи бояд шавад, аллакай буд; ва Элоҳим ⟨את⟩ рондашударо меҷӯяд.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "аллакай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ва он чи"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "бояд шавад"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "аллакай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ва Элоҳим"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "меҷӯяд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рондашударо"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "рондашуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:54.320933823Z",
+  "model": "glm-5.3"
+}

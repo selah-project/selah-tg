@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Ийов ҷавоб дод ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:07:07.659026437Z",
+  "model": "glm-5.3"
+}

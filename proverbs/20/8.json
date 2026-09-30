@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Подшоҳе ки бар тахти доварӣ меншинад, бо чашмони худ ҳар бадиро мепароканад.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳе"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "меншинад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тахти"
+    },
+    {
+      "surface": "דין",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "мепароканад"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "бо чашмони худ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадиро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:11.908445138Z",
+  "model": "glm-5.3"
+}

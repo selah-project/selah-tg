@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Come, let us be sated with caresses till the morning, let us be filled with delight in loves.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "come"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "let us be sated"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "with caresses"
+    },
+    {
+      "surface": "עד",
+      "gloss": "till"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "the morning"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "let us be filled with delight"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "in loves"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:36.768908231Z",
+  "model": "glm-5.3"
+}

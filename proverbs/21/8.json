@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Каҷ аст роҳи марди гуноҳкор, вале пок аст кори росткор.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "каҷ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "гуноҳкор"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "вале пок"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "росткор"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "кори ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:26.074742883Z",
+  "model": "glm-5.3"
+}

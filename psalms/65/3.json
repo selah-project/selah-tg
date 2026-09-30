@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 65,
+  "translation": "Гӯшкунандаи дуо, ба Ту ҳама гӯшт меояд.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Гӯшкунандаи"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дуо"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ба Ту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "меояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:43.667541048Z",
+  "model": "glm-5.3"
+}

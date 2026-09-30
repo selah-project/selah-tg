@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 65,
+  "translation": "Ба саровари мутрибон. Мизмори Довуд. Суруд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба саровари мутрибон"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:43.667116167Z",
+  "model": "glm-5.3"
+}

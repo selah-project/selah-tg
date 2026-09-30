@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 81,
+  "translation": "Зеро он ҳукми қонунӣ барои Йисроэл аст, доварии Элоҳими Яъқов.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ҳукми қонунӣ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "барои Йисроэл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:56.534974608Z",
+  "model": "glm-5.3"
+}

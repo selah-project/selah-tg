@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва руах аз рӯи ман гузашт; мӯи пӯсти ман аз худ астод.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ва руах"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи ман"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "гузашт"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "аз худ астод"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "мӯи"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "пӯсти ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:03:13.796541899Z",
+  "model": "glm-5.3"
+}

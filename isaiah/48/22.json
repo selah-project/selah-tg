@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Сулҳ нест, мегӯяд Яҳве, барои бадкорон.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "сулҳ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "барои бадкорон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:34:46.700324529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва писарони Йеҳаллелэл: Зиф ва Зифа, Тиря ва Ашарэл.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "Йеҳаллелэл"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "ва Зифа"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Тиря"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "ва Ашарэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:41.232090964Z",
+  "model": "glm-5.3"
+}

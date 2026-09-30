@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 12:35",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "ва аз фарзандони коҳинон бо карнайҳо: Зехарё барЙонотон барШимъё барМатанё барМихоё барЗаккур барО sof",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ва аз фарзандони"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳинон"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "бо карнайҳо"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарё"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бар"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонотон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шимъё"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Матанё"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Михоё"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бар"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "О sof"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:01.895288970Z",
+  "model": "glm-5.3"
+}

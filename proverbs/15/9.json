@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Туъбаи Яҳве роҳи рашшо аст, вале ҷониби дӯст доштан касест, ки тседекро дунбол мекунад.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "туъба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "рашшо"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "вале пайравӣ kunanda"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "дӯст медорад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:23.775765038Z",
+  "model": "glm-5.3"
+}

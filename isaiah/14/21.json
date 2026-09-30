@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Baroi farzandoni ū makoni koshtanī tayyor kuned, ba gunohi padaroni onho; ki onho naxizand va zaminro irth nabarand va rūyi dunyoro pur nakunand az shahrho.",
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "tayyor kuned"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "baroi farzandoni ū"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "makoni koshtanī"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ba gunohi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "padaroni onho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "naxizand (inkor)"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "naxizand"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "irth nabarand"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zaminro"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "pur nakunand"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rūyi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunyoro"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "az shahrho"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:12.540884448Z",
+  "model": "glm-5.3"
+}

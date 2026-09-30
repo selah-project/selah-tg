@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ман бо мардони ботил нишаста нестам ва бо пиншудагон намеоям.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "нишаста нестам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "мардон"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ботил"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ва бо"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "пиншудагон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "намеоям"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:30.171736478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Сутунҳои хонаи мо арзҳо, ва лавҳаҳои мо сарвҳоянд.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "сутунҳои"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "хонаи мо"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "арзҳо"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "лавҳаҳои мо"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "сарвҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:51.965501836Z",
+  "model": "glm-5.3"
+}

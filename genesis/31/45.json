@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Яъқоб санге гирифт ва онро ба маҷмааи ёдгор баровард.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "יעעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "санге"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "баровард"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "маҷмааи ёдгор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:28.290081923Z",
+  "model": "glm-5.3"
+}

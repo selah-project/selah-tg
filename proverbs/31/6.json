@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Бидиҳед шароби қавӣ ба нобудшуда ва май ба он ки руҳаш талх аст.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "бидиҳед"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "шароби қавӣ"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "ба нобудшуда"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ва май"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "ба он ки … талх аст"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "руҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:49.079259662Z",
+  "model": "glm-5.3"
+}

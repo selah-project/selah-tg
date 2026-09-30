@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Рӯҳи шимолӣ боронро меҷунбонад ва рӯйҳои хашмгин забони пинҳониро <…>",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Рӯҳ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "шимолӣ"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "меҷунбонад"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "боронро"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ва рӯйҳо"
+    },
+    {
+      "surface": "נזעмים",
+      "gloss": "хашмгин"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "забон"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "пинҳонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:27.115736839Z",
+  "model": "glm-5.3"
+}

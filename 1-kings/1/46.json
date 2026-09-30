@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ҳамчунин Шеломоҳ бар тахти подшоҳӣ нишаст.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва ҳамчунин"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "нишаст"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тахт"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "подшоҳӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:01:28.299515143Z",
+  "model": "glm-5.3"
+}

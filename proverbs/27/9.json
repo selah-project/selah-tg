@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Равған ва қадқаш дилро шод мекунад, ва ширинии дӯсти ӯ аз машварати нафс.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "Равған"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "ва қадқаш"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "шод мекунад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "ва ширинии"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дӯсти ӯ"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "аз машварати"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафс"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:27.616296736Z",
+  "model": "glm-5.3"
+}

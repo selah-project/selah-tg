@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Вай як parrandaro — яктояшро — дар зарфи сафолӣ бар оби зинда мекушад.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "мекушад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "як парранда"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "парранда"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "яктояшро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дар"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "зарфи"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "сафолӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מים",
+      "gloss": "оби"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "зинда"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:57.814848555Z",
+  "model": "glm-5.3"
+}

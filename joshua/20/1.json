@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Яҳве ба Йеҳошуа сухан ронда мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:30:17.163723684Z",
+  "model": "glm-5.3"
+}

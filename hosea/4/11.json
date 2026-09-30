@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Зино ва шароб ва шароби нава дилро мебарад.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "зино"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ва шароб"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ва шароби нав"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "мебарад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дилро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:10.456337775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Барои ҳамин шоҳ Дориюш навишт ва фармонро имзо кард.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "барои ҳамин"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Дориюш"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "имзо кард"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "навишт"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "ва фармонро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:25:38.155805216Z",
+  "model": "glm-5.3"
+}

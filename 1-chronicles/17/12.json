@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ӯ барои ман хона месозад ва ман ⟨את⟩ тахти ӯро то абад мустаҳкам менамоям",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ва ман мустаҳкам менамоям"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тахти ӯро"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "тахти ӯро"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:29.486244358Z",
+  "model": "glm-5.3"
+}

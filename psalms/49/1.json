@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Ба роҳбари мусиқӣ, мазмури фарзандони Корах.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба фарзандони"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:33.096242780Z",
+  "model": "glm-5.3"
+}

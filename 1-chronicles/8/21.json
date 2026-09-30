@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Адайяҳу, ва Бераяҳу, ва Шимрот — писарони Шимъӣ.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ва Адайяҳу"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ва Бераяҳу"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ва Шимрот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:58.727703517Z",
+  "model": "glm-5.3"
+}

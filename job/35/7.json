@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Агар тседек пайдо кардӣ — ба Ӯ чӣ медиҳӣ? Ё аз дасти ту чӣ мегирад?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "тседек пайдо кардӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "медиҳӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба Ӯ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "аз дасти ту"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "мегирад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:11:35.267944157Z",
+  "model": "glm-5.3"
+}

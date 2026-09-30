@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дар торикиҳо маро нишонд, монанди мурдагони қадим.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "дар торикиҳо"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "маро нишонд"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "монанди мурдагон"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "қадим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.808324974Z",
+  "model": "glm-5.3"
+}

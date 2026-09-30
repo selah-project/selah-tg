@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Даҳони содиқ ҳикмат мегӯяд ва забонаш доварӣ мехонад.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "содиқ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ва забонаш"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "мехонад"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:32.274966664Z",
+  "model": "glm-5.3"
+}

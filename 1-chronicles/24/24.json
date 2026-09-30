@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Фарзандони Уззиэл: Миҳа; аз фарзандони Миҳа — Шамур.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззиэл"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миҳа"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миҳа"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:26.755992955Z",
+  "model": "glm-5.3"
+}

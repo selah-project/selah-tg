@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Аз фарзандони Гершом Йоэл сардор ва бародаронаш сад ва сӣ нафар буданд.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "השר",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва бародаронаш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ва сӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:22.791234453Z",
+  "model": "glm-5.3"
+}

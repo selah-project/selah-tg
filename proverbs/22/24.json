@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Дӯсти ⟨את⟩ соҳиби хашм нашав ва назди ⟨את⟩ одами ҷаҳҷол нарав.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "нашав"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "дӯсти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "соҳиби хашм"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "соҳиби"
+    },
+    {
+      "surface": "אף",
+      "gloss": "хашм"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "одами ҷаҳҷол"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одами"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ҷаҳҷол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "нрав"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:21.447541812Z",
+  "model": "glm-5.3"
+}

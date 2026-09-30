@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "ва Яҳве аз бадие ки ба мардумащ карданӣ буд, пушаймон шуд.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ва пушаймон шуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "карданӣ буд"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ба мардумаш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:41:54.106690471Z",
+  "model": "glm-5.3"
+}

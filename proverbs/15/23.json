@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Шодистонӣ барои мард дар ҷавоби даҳонаш, ва сухан дар вақташ — чӣ хуб!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "шодистонӣ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "барои мард"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "дар ҷавоб"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "даҳонаш"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ва сухан"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "дар вақташ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:15.659575692Z",
+  "model": "glm-5.3"
+}

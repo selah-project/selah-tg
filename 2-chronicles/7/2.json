@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва коҳенҳо натавонистанд ба хонаи Яҳве дароянд, зеро ҷалоли Яҳве ⟨את⟩ хонаи Яҳверо пур карда буд.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "тавонистанд"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳенҳо"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "дароянд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур карда буд"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалоли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хонаи Яҳверо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:48.101758410Z",
+  "model": "glm-5.3"
+}

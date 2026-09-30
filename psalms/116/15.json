@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Дар назди Яҳве гаронбҳо марги ҳасидонаш аст.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "гаронбҳо"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "марги"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ҳасидонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:34.507181763Z",
+  "model": "glm-5.3"
+}

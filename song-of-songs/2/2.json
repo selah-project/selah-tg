@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Мисли савсан миёни хорҳо, ҳамин тавр ёрами ман миёни духтарон.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Мисли савсан"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "хорҳо"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ёрами ман"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "духтарон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:27.291006764Z",
+  "model": "glm-5.3"
+}

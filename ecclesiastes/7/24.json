@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Дур аст он чи буд, ва чуқин — чуқин аст; кӣ онро меёбад?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "дур"
+    },
+    {
+      "surface": "מה",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ва чуқин"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "чуқин"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "онро меёбад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:43.444259279Z",
+  "model": "glm-5.3"
+}

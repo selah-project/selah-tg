@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ба шумо гуфтам: шумо то кӯҳи Эморӣ, ки Яҳве Элоҳимони мо ба мо медиҳад, расидед.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфтам"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "расидед"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Эморӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳимони мо"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:23.589912487Z",
+  "model": "glm-5.3"
+}

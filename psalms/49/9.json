@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Ва гарон аст фидёи ҷони онҳо, ва он то абад бас мешавад.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ва гарон аст"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "фидё"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ҷони онҳо"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ва бас мешавад"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:06.548490866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва ин тораи ⟨את⟩ ашом аст: он муқаддаси муқаддасон аст.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "тораи"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ашом"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "муқаддаси"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "муқаддасон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:33.687136777Z",
+  "model": "glm-5.3"
+}

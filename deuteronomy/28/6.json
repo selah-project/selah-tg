@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Муборак бод ту дар омаданат, ва муборак бод ту дар рафтанат.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "муборак бод"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "дар омаданат"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ва муборак бод"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "дар рафтанат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:40.272228795Z",
+  "model": "glm-5.3"
+}

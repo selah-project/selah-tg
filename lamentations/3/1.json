@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ман ⟨ҳам⟩ он мард ҳастам, ки азоби маро дидааст, дар асоя хашми Ӯ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "он мард"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дидааст"
+    },
+    {
+      "surface": "עני",
+      "gloss": "азоби маро"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "дар асоя"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "хашми Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:05.220261876Z",
+  "model": "glm-5.3"
+}

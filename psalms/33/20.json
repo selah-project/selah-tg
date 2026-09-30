@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ҷони мо Яҳве-ро интизор шуд; Ў кумакрас ва сипари мост.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ҷони мо"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "интизор шуд"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве-ро"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "кумакрас"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ва сипари мо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ў"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:31.788201619Z",
+  "model": "glm-5.3"
+}

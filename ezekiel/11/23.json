@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва ҷалоли Яҳве аз миёни шаҳр боло шуд ва бар кӯҳе, ки аз шарқи шаҳр аст, истод.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ва боло шуд"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "аз болои"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ва истод"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "аз шарқи"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:02:08.759062046Z",
+  "model": "glm-5.3"
+}

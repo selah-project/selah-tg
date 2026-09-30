@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва ин он аст, ки онро бисозӣ: се сад ама дарозии сандуқ, панҷоҳ ама бараш ва сию ама баландиаш.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "бисозӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "онро (сандуқро)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозӣ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "сандуқ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ва сию"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "баландӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:55.771938918Z",
+  "model": "glm-5.3"
+}

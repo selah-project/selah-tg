@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Кӯдаконе ки ба онҳо таваллуд мешаванд, насли сеюми онҳо ба маҷлиси Яҳве дохил мешавад.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "кӯдаконе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "таваллуд мешаванд"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "сеюми"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "дохил мешавад"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ба маҷлиси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:08.240300690Z",
+  "model": "glm-5.3"
+}

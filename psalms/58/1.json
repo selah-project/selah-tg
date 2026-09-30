@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 58,
+  "translation": "Ба роҳбари мусиқӣ. «Нобуд накун». Забури Довуд. Махтам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Нобуд"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Забури Довуд"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Махтам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:35.794024580Z",
+  "model": "glm-5.3"
+}

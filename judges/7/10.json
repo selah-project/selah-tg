@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва агар ту аз фуромадан метарсӣ, ту ва Пура, ҷавони ту, ба лагер фурӯ равед.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "метарсӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "аз фуромадан"
+    },
+    {
+      "surface": "רד",
+      "gloss": "фурӯ рав"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "ва Пура"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "ҷавони ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагер"
+    }
+  ],
+  "timestamp": "2026-09-30T16:33:59.459035842Z",
+  "model": "glm-5.3"
+}

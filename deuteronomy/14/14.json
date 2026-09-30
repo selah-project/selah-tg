@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва ⟨את⟩ ҳар зог — ба ҳар навъи он;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ҳар зог"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "зог"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ба ҳар навъи он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:51.583534917Z",
+  "model": "glm-5.3"
+}

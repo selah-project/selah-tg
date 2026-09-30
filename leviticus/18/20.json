@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва ба зани ҳамсоят хобидани худро бар тухм бидиҳ — барои нопок шудан бо ӯ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ҳамсоят"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бидиҳ"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "хобидани худро"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "бар тухм"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "барои нопок шудан"
+    },
+    {
+      "surface": "בה",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:06.847821318Z",
+  "model": "glm-5.3"
+}

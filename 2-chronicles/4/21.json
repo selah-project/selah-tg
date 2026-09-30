@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва гулҳо, ва чироғҳо ва қайчичаҳо — тиллоӣ; он ҳама тамоман тилло буд.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "ва гулҳо"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "ва чироғҳо"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "қайчичаҳо"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "тамоман"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:11.318127768Z",
+  "model": "glm-5.3"
+}

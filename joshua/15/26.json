@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Амам ва Шема ва Молада,",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "Амам"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ва Шема"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ва Молада"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:47.435674450Z",
+  "model": "glm-5.3"
+}

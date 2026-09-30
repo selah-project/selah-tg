@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва инҳо номҳои он мардон: барои қабилаи Йеҳуда — Калев бин Йефунне.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "номҳо"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "он мардон"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "барои қабила"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бин"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:23.966525176Z",
+  "model": "glm-5.3"
+}

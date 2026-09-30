@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "ва Мишмоъ, ва Думо ва Моссо.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "ва Мишмоъ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ва Думо"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "ва Моссо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:00.704814819Z",
+  "model": "glm-5.3"
+}

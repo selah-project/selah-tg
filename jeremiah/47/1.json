@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Он ки шуд калами Яҳве ба Ярмияҳу набӣ ба филиштиён, пеш аз он ки бизанад Паръо ⟨את⟩ Ғазза.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияҳу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "филиштиён"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пеш аз он ки"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "бизанад"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ғазза"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Ғазза"
+    }
+  ],
+  "timestamp": "2026-09-30T17:56:17.186966227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "То кай парчамро бинам, овози шофарро бишунавам?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "бинам"
+    },
+    {
+      "surface": "נס",
+      "gloss": "парчамро"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "бишунавам"
+    },
+    {
+      "surface": "קול",
+      "gloss": "овози"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофарро"
+    }
+  ],
+  "timestamp": "2026-09-30T17:41:44.530384275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва ба Ирмиё сухани Яҳве расид, вақте ки ӯ маҳбус дар ҳавлии нигоҳбонӣ буд, гӯён:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ва ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмиё"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "вақте ки ӯ"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "маҳбус"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "дар ҳавлии"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "нигоҳбонӣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T20:07:50.963974787Z",
+  "model": "glm-5.3"
+}

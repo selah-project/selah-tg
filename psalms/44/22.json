@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Оё Элоҳим инро тафтиш намекунад? Зеро ӯ пинҳониҳои дилро медонад.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "оё... на"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "тафтиш намекунад"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "инро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "пинҳониҳоро"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:43.990403044Z",
+  "model": "glm-5.3"
+}

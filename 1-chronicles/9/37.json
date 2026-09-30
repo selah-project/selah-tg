@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "ва Гадор, ва Аҳйо, ва Захарйо, ва Миклот",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ва Гадор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва Аҳйо"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "ва Захарйо"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "ва Миклот"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:15.756800345Z",
+  "model": "glm-5.3"
+}

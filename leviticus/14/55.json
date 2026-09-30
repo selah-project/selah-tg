@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва барои тсараати либос ва барои хона,",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ва барои тсараат"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "либос"
+    },
+    {
+      "surface": "ו לבית",
+      "gloss": "ва барои хона"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:27.841297619Z",
+  "model": "glm-5.3"
+}

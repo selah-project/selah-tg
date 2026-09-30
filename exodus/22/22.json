@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Агар ⟨את⟩ ӯро озор диҳед — зеро агар ба сӯйи Ман фарёд кунад, садояшро ба ҳатми хоҳам шунид.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "озор"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "диҳед"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ӯро",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "фарёд"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "кунад"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба сӯйи Ман"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "хоҳам"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "шунид"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "sadояшро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:32.793235931Z",
+  "model": "glm-5.3"
+}

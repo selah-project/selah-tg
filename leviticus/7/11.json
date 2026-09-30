@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва ин тораи қурбонии шаломим аст, ки ба Яҳве ба наздик оварда мешавад.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "тораи"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "қурбонии"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шаломим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ба наздик оварда мешавад"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:28.953565772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва бар рӯи миз нони рӯй ¬ PSAнро пеши Ман ҳамеша гузор.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "гузор"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар рӯи"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "миз"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нони"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши Ман"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ҳамеша"
+    }
+  ],
+  "timestamp": "2026-09-30T15:39:08.784573885Z",
+  "model": "glm-5.3"
+}

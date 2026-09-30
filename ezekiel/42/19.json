@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ба сӯи руҳи баҳр гардид ва чен кард — панҷсад қадҳӣ, бо қадҳии ченак.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "гардид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руҳи"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "чен кард"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "қадҳӣ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "бо қадҳии"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ченак"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:13.005276451Z",
+  "model": "glm-5.3"
+}

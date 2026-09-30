@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва коҳин ангушти худро дар хун ғӯтонид ва аз хун ҳафт бор пеш аз Яҳве, ⟨את⟩ рӯ ба пардаи муқаддас, пошид.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ва ғӯтонид"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ангушти худ"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ангушти худ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "дар хун"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "ва пошид"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "бор"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ рӯ ба"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "пардаи"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "муқаддас"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:37.957597579Z",
+  "model": "glm-5.3"
+}

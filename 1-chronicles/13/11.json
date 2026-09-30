@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва ба Довуд бад гашт, зеро Яҳве дар Узо шикаст ворид кард; ва ӯ он ҷойро Перетс-Узо номид, то ин рӯз.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "бад гашт"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ба Довуд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "шикаст ворид кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "шикаст"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "дар Узо"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ва номид"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "он ҷойро"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ин рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T20:16:01.918297572Z",
+  "model": "glm-5.3"
+}

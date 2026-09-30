@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва подшоҳ тахти калони аз дандон (фил) сохт ва онро бо тиллои пок пӯшонд.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тахт"
+    },
+    {
+      "surface": "שן",
+      "gloss": "дандон (фил)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "калон"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "пӯшонд онро"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:19.273734655Z",
+  "model": "glm-5.3"
+}

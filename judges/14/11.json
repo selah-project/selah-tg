@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва чун онҳо ӯро диданд, сӣҳ рафиқ гирифтанд ва бо ⟨את⟩ ӯ буданд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "чун диданд"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "гирифтанд"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣҳ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "рафиқон"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:36:52.385993920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ту ҳастӣ подшоҳи ман, эй Элоҳим; наҷотҳои Яъқобро фармон деҳ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ҳастӣ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "подшоҳи ман"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "эй Элоҳим"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармон деҳ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "наҷотҳои"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқобро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:27.095371561Z",
+  "model": "glm-5.3"
+}

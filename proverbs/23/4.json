@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Хаста нашав барои бой шудан; аз фаҳми худ бозист.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "хаста шав"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "барои бой шудан"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "аз фаҳми худ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "бозист"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:00.324621430Z",
+  "model": "glm-5.3"
+}

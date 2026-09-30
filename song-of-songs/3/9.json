@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Тахтравон сохт ба худ подшоҳ Шломо аз дарахтони Лувнон.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "тахтравон"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба худ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "аз дарахтони"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Лувнон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:26.278741377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ҳар ҷисм бинад, ки ман Яҳве онро афрӯхтам; он хомӯш намешавад, —",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ва бинад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ҷисм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "онро афрӯхтам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "намешавад"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "хомӯш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:06:04.574852389Z",
+  "model": "glm-5.3"
+}

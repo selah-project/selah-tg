@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва хурдӣ ҳам зин ӯ писаре зойид ва номи ӯро Бен-Аммӣ гузошт — ӯй аст падари банӣ-Аммон то имрӯз.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "ва хурдӣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "зойид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писаре"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "гузошт номи"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯро"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Аммӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯй"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:50.104895891Z",
+  "model": "glm-5.3"
+}

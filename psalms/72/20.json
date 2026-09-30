@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 72,
+  "translation": "Тамом шуданд дуоҳои Довуд, писари Йишай.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "тамом шуданд"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "дуоҳои"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:23.998675495Z",
+  "model": "glm-5.3"
+}

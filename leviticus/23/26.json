@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Яҳве ба Моше сухан ронд, ба гӯид:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гӯид"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:00.834087145Z",
+  "model": "glm-5.3"
+}

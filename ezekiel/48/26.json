@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва назди сарҳади Йисасхар, аз тарафи шарқ то тарафи ғарб: Зевулун — як ⟨ҳисса⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва назди"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "сарҳади"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисасхар"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз тарафи"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "шарқ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "тарафи"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарб"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:28.714628853Z",
+  "model": "glm-5.3"
+}

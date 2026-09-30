@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз Хилқиё — Ҳашавиё; аз Йедайо — Нетанэл.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Аз Хилқиё"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Ҳашавиё"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "аз Йедайо"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:16.077464709Z",
+  "model": "glm-5.3"
+}

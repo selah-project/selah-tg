@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як қафҳои тиллоии даҳшекела, пур аз қуторат.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "қафҳои тиллоӣ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пур"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "қуторат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:18.159991892Z",
+  "model": "glm-5.3"
+}

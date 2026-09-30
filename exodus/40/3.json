@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва он ҷо ⟨את⟩ Сандуқи Шаҳодатро гузорӣ, ва рӯй ⟨את⟩ пардаро бар сандуқ пӯшонӣ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "гузорӣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сандуқи Шаҳодат"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Сандуқ"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "Шаҳодат"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "пӯшонӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандуқ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "парда"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "парда"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:42.102814760Z",
+  "model": "glm-5.3"
+}

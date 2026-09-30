@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Вале ту хонаро насозӣ, зеро писаре, ки аз камарат баромадааст, ӯ хонаро барои Номи Ман месозад.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "вале"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "созӣ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хонаро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "писаре"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "кӣ баромадааст"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "аз камарат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хонаро"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "барои Номи Ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:38.540362951Z",
+  "model": "glm-5.3"
+}

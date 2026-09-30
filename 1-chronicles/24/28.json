@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Аз Махлӣ — Элазар; ва ӯ фарзандон надошт.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "аз Махлӣ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва ... на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "дошт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "фарзандон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:28.093363818Z",
+  "model": "glm-5.3"
+}

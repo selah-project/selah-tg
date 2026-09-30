@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 40:48",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва маро ба пешайвони хона бурд; ва сутуни пешайвонро чен кард: панҷ аmma аз ин тараф ва панҷ аmma аз он траф; ва бари дарвоза се аmma аз ин тараф ва се аmma аз он тараф.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "маро бурд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "пешайвон"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "чен кард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сутуни"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "пешайвон"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "аз ин тараф"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "аз он тараф"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарвоза"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "аз ин тараф"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ва се"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amma"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "аз он траф"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:50.729618275Z",
+  "model": "glm-5.3"
+}

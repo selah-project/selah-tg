@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва ту аз дидани чашмони худ, ки мебинӣ, девона ⟨хоҳӣ шуд⟩.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ва хоҳӣ шуд"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "девона"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "аз дидани"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "чашмони худ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "мебинӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:17.412898198Z",
+  "model": "glm-5.3"
+}

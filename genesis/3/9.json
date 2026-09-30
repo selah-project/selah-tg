@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва Яҳве Элоҳим ба ⟨the⟩ одам нидо кард ва ба ӯ гуфт: «Дар куҷо ҳастӣ?»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "навохт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "дар куҷо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:28.182493470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Азгад — ду ҳазор се сад бисту ду нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгад"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ду ҳазор"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ва ду"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:33.832469736Z",
+  "model": "glm-5.3"
+}

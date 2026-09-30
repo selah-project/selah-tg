@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Шамуил ба Яҳве нido кард, ва Яҳве дар он рӯз овозҳо ва борон дод, ва тамоми халқ аз Яҳве ва ⟨את⟩ Шамуил хеле тарсид.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ва нido кард"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шамуил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "овозҳо"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ва борон"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯз"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "ва тарсид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "хеле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шамуил"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шамуил"
+    }
+  ],
+  "timestamp": "2026-09-30T16:44:03.733221931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва Элиҳу ⟨боз сухан⟩ илова кард ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "илова кард"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Элиҳу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:20.492684099Z",
+  "model": "glm-5.3"
+}

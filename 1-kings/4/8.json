@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва инҳо номҳои онҳо: Бен-Ҳур дар кӯҳи Эфроим.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ва инҳо"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "номҳои онҳо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Ҳур"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳи"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфроим"
+    }
+  ],
+  "timestamp": "2026-09-30T20:02:25.266412816Z",
+  "model": "glm-5.3"
+}

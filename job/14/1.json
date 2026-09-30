@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Одам, зодаи зан, кӯтоҳрӯз ва сери ошуб аст.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Одам"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "зодаи"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "кӯтоҳрӯз"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва сери"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "ошуб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:06.639078198Z",
+  "model": "glm-5.3"
+}

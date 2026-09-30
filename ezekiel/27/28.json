@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ба овози фарёди нохудаҳоят канорҳо меларзанд.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "ба овози"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "фарёди"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "нохудаҳоят"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "меларзанд"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "канорҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:08:51.917715564Z",
+  "model": "glm-5.3"
+}

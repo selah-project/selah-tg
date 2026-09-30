@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "«Ва Ман подшоҳи Худро бар Тсийон, кӯҳи муқаддаси Худ, нишондаам».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ва Ман"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "нишондаам"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "подшоҳи Худ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Тсийон"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "муқаддаси Худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:37.306738536Z",
+  "model": "glm-5.3"
+}

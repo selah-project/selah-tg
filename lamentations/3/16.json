@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва дандонҳоямро бо регча душмид, маро дар хокистар поид.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "душмид"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "бо регча"
+    },
+    {
+      "surface": "שני",
+      "gloss": "дандонҳоямро"
+    },
+    {
+      "surface": "הכפישנи",
+      "gloss": "маро поид"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "дар хокистар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:59.764370873Z",
+  "model": "glm-5.3"
+}

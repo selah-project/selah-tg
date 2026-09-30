@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва ӯ панҷоҳ чангаки мис сохт барои пайвастан ⟨את⟩ хайма, то ки як бошад.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "чангак"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мис"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "барои пайвастан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хайма"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "хайма"
+    },
+    {
+      "surface": "להית",
+      "gloss": "то ки бошад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:11.326372214Z",
+  "model": "glm-5.3"
+}

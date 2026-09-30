@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Зеро роҳи одилонро Яҳве медонад ва роҳи шарирон нобуд мешавад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "одилон"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ва роҳи"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "шарирон"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "нобуд мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:45.920852157Z",
+  "model": "glm-5.3"
+}

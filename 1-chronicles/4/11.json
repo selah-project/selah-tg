@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Келув, бародари Шуҳо, ⟨את⟩ Меҳирро зод — ӯ падари Эштон аст.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ва Келув"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бародари"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Шуҳо"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Меҳирро"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Меҳирро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Эштон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:42.099666677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Эстёр гуфт, ки ба Мордовай ҷавоб гардонанд:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстёр"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "то ҷавоб гардонанд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордовай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:20.771754381Z",
+  "model": "glm-5.3"
+}

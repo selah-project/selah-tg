@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва ғазаби Яҳве бар онҳо аланҷ гирифт ва ⟨Ӯ⟩ рафт.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "аланҷ гирифт"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ғазаб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בם",
+      "gloss": "бар онҳо"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:05.533646578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "⟨את⟩ мизро, ⟨את⟩ ҳамаи асбобҳои он ва ⟨את⟩ нони рӯйро.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "миз"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "миз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи асбобҳои он"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "асбобҳои он"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "нони рӯй"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нони"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "рӯй"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:52.670457336Z",
+  "model": "glm-5.3"
+}

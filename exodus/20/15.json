@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "«Дуздӣ накун».",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "дуздӣ накун"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:13.659048001Z",
+  "model": "glm-5.3"
+}

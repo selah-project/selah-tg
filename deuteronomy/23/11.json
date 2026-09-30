@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Агар дар байни шумо марде бошад, ки аз ҳодисаи шабона пок набошад, вай берун, ба берunи маҳалла равад; ба дохили маҳалла наояд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар байни шумо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "аз ҳодисаи"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шабона"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "равад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "берunи"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "маҳалла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "дохили"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "маҳалла"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:08.240762798Z",
+  "model": "glm-5.3"
+}

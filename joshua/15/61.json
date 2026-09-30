@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Дар биёбон: Байт-ал-Араба, Миддин ва Секака,",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ал-Араба"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Миддин"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "ва Секака"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:39.281251891Z",
+  "model": "glm-5.3"
+}

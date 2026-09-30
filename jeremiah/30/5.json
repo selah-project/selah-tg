@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Зеро ки чунин мегӯяд Яҳве: овози тарс шунидем — хавф, ва осудастӣ нест.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро ки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "овузаи"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "тарс"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "шунидем"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "хавф"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва нест"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "осудастӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:50:56.952668631Z",
+  "model": "glm-5.3"
+}

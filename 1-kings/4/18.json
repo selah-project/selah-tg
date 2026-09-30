@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Шимъӣ писари Эла дар ‹ҳудуди› Бинёмин;",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "дар Бинёмин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:56.241074917Z",
+  "model": "glm-5.3"
+}

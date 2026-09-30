@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва агар об бар тухм рехта шавад ва аз мурдаи онҳо бар он биезад, нопок аст барои шумо",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "рехта шавад"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "тухм"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ва биезад"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "аз мурдаи онҳо"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:48:31.877763131Z",
+  "model": "glm-5.3"
+}

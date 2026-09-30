@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ман ба Ерушалайим омадам ва он ҷо се рӯз будам.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "омадам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайим"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "будам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:31:23.423432431Z",
+  "model": "glm-5.3"
+}

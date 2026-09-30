@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва тамоми рӯзҳои Нӯҳ нӯҳсад ва панҷоҳ сол буд, ва ӯ мурд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "нӯҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ва панҷоҳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:08.310491302Z",
+  "model": "glm-5.3"
+}

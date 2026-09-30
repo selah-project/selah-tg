@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Аҳарон гуфт: «Хашми хоҷаи ман gazаб нашавад; ту худ медонӣ ⟨את⟩ ин халқро, ки ба бади майл дорад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "магар"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "даргирад"
+    },
+    {
+      "surface": "אף",
+      "gloss": "хашм"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хоҷаи ман"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту худ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "медонӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин халқ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ин халқ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ба бадӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "дорад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:41:51.341038413Z",
+  "model": "glm-5.3"
+}

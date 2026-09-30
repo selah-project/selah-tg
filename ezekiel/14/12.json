@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва сухани Яҳве ба ман расид, ва dryarfarmoӣ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "расид, гуфта"
+    }
+  ],
+  "timestamp": "2026-09-30T18:03:37.302516360Z",
+  "model": "glm-5.3"
+}

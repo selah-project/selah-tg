@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 105,
+  "translation": "Ва Ӯ бар замин гуруснагиро фаро хонд ва ҳама асои нонро шикаст.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ва фаро хонд"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "гуруснагиро"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "асои"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нонро"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикаст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:03.155141334Z",
+  "model": "glm-5.3"
+}

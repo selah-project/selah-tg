@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва ӯ ба Яҳве имон овард ва ӯ онро ба ӯ тседака ҳисобид.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "ва имон овард"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "ва ҳисобид онро"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "тседака"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:43.205283247Z",
+  "model": "glm-5.3"
+}

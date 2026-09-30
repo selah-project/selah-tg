@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Доварии ниёставандаи худро дар парвандаи ӯ накҷа.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "кҷа"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "ниёставандаи худ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "дар парвандаи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:05.312662988Z",
+  "model": "glm-5.3"
+}

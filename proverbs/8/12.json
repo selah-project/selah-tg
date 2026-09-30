@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ман — ҳикмат — бо зиракӣ сокинам, ва дониши макрҳоро меёбам.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "сокинам"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "бо зиракӣ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ва дониши"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "макрҳоро"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "меёбам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:04.759387552Z",
+  "model": "glm-5.3"
+}

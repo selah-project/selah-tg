@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва сухан ронид Яҳве ба Моше, чунин гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чунин гуфтан:"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:13.836540833Z",
+  "model": "glm-5.3"
+}

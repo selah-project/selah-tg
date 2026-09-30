@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва малик ва Ҳомон омаданд, то бо Эстер ⟨ҳам⟩ малика бинӯшанд.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "малик"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ва Ҳомон"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "то бинӯшанд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨ҳам⟩ бо"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "малика"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:35.329570840Z",
+  "model": "glm-5.3"
+}

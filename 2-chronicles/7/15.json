@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Акунон чашмони ман боз ва гӯшҳои ман ҳушёр бошанд барои дуои ин ҷой",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "акунон"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "чашмони ман"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "бошанд"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "боз"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ва гӯшҳои ман"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ҳушёр"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "барои дуои"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ин ҷой"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:45.884153032Z",
+  "model": "glm-5.3"
+}

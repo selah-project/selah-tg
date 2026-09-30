@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва бародаронашон Шаванъя, Ҳодия, Клитъа, Плаъя, Ҳонан.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "ва бародаронашон"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шаванъя"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "Ҳодия"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Клитъа"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "Плаъя"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ҳонан"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:50.441634400Z",
+  "model": "glm-5.3"
+}

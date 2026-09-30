@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва ⟨את⟩ сутунҳоро кард — шаст зироъ — ва ба сутуни ҳавлӣ, дарвоза атроф ба атроф.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сутунҳоро"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "сутунҳоро"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шаст"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "зироъ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "איל",
+      "gloss": "сутуни"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ҳавлӣ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарвоза"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "атроф"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ба атроф"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:31.846408021Z",
+  "model": "glm-5.3"
+}

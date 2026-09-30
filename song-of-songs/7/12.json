@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Биё, дӯсти ман, ба саҳро бароем, дар деҳаҳо шабоншин кунем.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Биё"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "дӯсти ман"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "бароем"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ба саҳро"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "шабоншин кунем"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "дар деҳаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:39.239336393Z",
+  "model": "glm-5.3"
+}

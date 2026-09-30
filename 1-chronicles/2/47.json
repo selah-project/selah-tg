@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Яҳдой: Регем ва Йотам ва Гейшон ва Пелет ва Эйфа ва Шааф.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "Яҳдой"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "Регем"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "ва Йотам"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "ва Гейшон"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "ва Пелет"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "ва Эйфа"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "ва Шааф"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:38.592916624Z",
+  "model": "glm-5.3"
+}

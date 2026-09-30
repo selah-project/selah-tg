@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Эсов гуфт: «Ман ҳастам равон ба мурдан, ва ин аввалзодагӣ ба ман чӣ фоида?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳастам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "равон"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ба мурдан"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ва чӣ фоида"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "аввалзодагӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:30.257780978Z",
+  "model": "glm-5.3"
+}

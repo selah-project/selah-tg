@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ҷасадҳои шумо — худи шумо — дар ин биёбон меафтанд.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "ва ҷасадҳои шумо"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "худи шумо"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "меафтанд"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбон"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:36.209289968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва чунин шуд, ки чун тамом шуданд тамоми мардони ҷанг барои мурдан аз миёни халқ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва чунин шуд"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чуноне ки"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "тамом шуданд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "למות",
+      "gloss": "барои мурдан"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "аз миёни"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:16.268942214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 77,
+  "translation": "Рӯзҳои қадимро андеша кардам, солҳои азалҳоро.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "андеша кардам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "микдем",
+      "gloss": "қадимро"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "солҳои"
+    },
+    {
+      "surface": "עולамим",
+      "gloss": "азалҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T20:10:47.527836134Z",
+  "model": "glm-5.3"
+}

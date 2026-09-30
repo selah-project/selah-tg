@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Тораеро Моше ба мо фармуд — мероси ҷамъияти Яъқов.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "тора"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "мерос"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ҷамъият"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:56.262873863Z",
+  "model": "glm-5.3"
+}

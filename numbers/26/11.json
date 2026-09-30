@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Вале писарони Қорах намурданд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Вале писарони"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қорах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мурданд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:16.469976293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва ⟨את⟩ Ҳадорам ва ⟨את⟩ Узал ва ⟨את⟩ Дикларо.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳадорам"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Ҳадорам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Узал"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Узал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Дикла"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Дикла"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:48.735821655Z",
+  "model": "glm-5.3"
+}

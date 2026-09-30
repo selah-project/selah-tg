@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва ба Ӯ гуфт: Агар Рухсари Ту наравад, моро аз ин ҷо барма",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба Ӯ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Рухсари Ту"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "наравад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "моро бардор"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "аз ин ҷо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:00.397433905Z",
+  "model": "glm-5.3"
+}

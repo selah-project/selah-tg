@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Овозро нашунид, тарбияро напазирад; ба Яҳве такя накард; ба Элоҳими худ наздик нашуд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "шунид"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "овозро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "пазирад"
+    },
+    {
+      "surface": "мוסר",
+      "gloss": "тарбияро"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "такя кард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "наздик шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:40.314837379Z",
+  "model": "glm-5.3"
+}

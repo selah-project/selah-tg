@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва Данна, ва Кирят-Санна — он Довир аст",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ва Данна"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "ва Кирят-"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "Санна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Довир"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:33.881704057Z",
+  "model": "glm-5.3"
+}

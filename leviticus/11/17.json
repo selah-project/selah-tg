@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва ⟨את⟩ куос ва ⟨את⟩ шолох ва ⟨את⟩ ёношуф,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "куос"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "куос (бухарчаи хурд)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шолох"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "шолох (қарғи обӣ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ёношуф"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ёношуф (бухарчаи калон)"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:07.345087083Z",
+  "model": "glm-5.3"
+}

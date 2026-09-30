@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 104,
+  "translation": "Пӯшидаи рӯшноиро чун ҷома, паррони осмонро чун парда.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "пӯшида"
+    },
+    {
+      "surface": "אור",
+      "gloss": "рӯшноӣ"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "чун ҷома"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "парронда"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмон"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "чун парда"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:14.677426426Z",
+  "model": "glm-5.3"
+}

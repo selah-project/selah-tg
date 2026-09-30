@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва ⟨את⟩ асосҳоро сохт, ва ⟨את⟩ ҳавзҳоро бар асосҳо сохт.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "асосҳоро"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "асосҳоро"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ҳавзҳоро"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ҳавзҳоро"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "асосҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:29.409769017Z",
+  "model": "glm-5.3"
+}

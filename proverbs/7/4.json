@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ба ҳикмат бигӯ: «Хоҳари ман ту ҳастӣ», ва донишро хешованди худ бином.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "бигӯ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ба ҳикмат"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Хоҳари ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ва донишро"
+    },
+    {
+      "surface": "לבинינה",
+      "gloss": "фаҳмишро"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "бином"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:52.390353351Z",
+  "model": "glm-5.3"
+}

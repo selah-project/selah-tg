@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Тсидониён онро Ҳермон-и Ширйон меноманд, ва эморӣ онро Сенир меномад.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Тсидониён"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "меноманд"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Ҳермон-ро"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Ширйон"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ва эморӣ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "меномад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "онро"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Сенир"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:02.372380981Z",
+  "model": "glm-5.3"
+}

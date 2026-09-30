@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва акнун, эй Яҳве, Элоҳими Йисроэл, сухане ки ба бандаат Довуд гуфтӣ, собит гардад.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "собит гардад"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "суханат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "гуфтӣ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "бандаат"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:12.044453893Z",
+  "model": "glm-5.3"
+}

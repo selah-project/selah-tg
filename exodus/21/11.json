@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "ва агар ин сееро ба ӯ накунад, вай бемаҷбурӣ, бе пул берун равад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кунад"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "берун равад"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бемаҷбурӣ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "бе"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "пул"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:09.800242094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва ⟨את⟩ керубҳоро бо тилло пӯшонид.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "пӯшонид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "керубҳоро"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керубҳо"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T20:03:07.220065593Z",
+  "model": "glm-5.3"
+}

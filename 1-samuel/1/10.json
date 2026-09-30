@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ӯ дар талхии нафас буд ва ба Яҳве дуо мекард ва гиряи бисёр мекард.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "талхии"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ва дуо мекард"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "гиря"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "бисёр мекард"
+    }
+  ],
+  "timestamp": "2026-09-30T16:40:14.151521348Z",
+  "model": "glm-5.3"
+}

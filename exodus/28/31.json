@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва ту ⟨את⟩ меҳпӯши ⟨the⟩ эфод месозӣ — тамоман аз текелет.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "месозӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "меҳпӯш"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "меҳпӯш"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "эфод"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "тамоман"
+    },
+    {
+      "surface": "תכלет",
+      "gloss": "текелет"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:45.348953474Z",
+  "model": "glm-5.3"
+}

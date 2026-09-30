@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 128,
+  "translation": "Ва фарзандони фарзандонатро бубинӣ. Сулҳ бар Йисроэл!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ва бубинӣ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "фарзандон"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "фарзандонатро"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Сулҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:05.149193429Z",
+  "model": "glm-5.3"
+}

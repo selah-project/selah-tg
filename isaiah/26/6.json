@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "По онро мехарошад — поҳои бенаво ва қадамҳои камбадастон.",
+  "tokens": [
+    {
+      "surface": "תרмסנה",
+      "gloss": "онро мехарошад"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "по"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "поҳои"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бенаво"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "қадамҳои"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "камбадастон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:29:29.631503183Z",
+  "model": "glm-5.3"
+}

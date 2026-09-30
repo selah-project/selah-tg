@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Шармидор шуд духтари Мисраим, ба дасти мардуми шимолӣ дода шуд.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "шармидор шуд"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "дода шуд"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мардуми"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "шимолӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:55:31.692877815Z",
+  "model": "glm-5.3"
+}

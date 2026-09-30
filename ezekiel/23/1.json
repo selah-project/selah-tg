@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 23:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва калидаи Яҳве ба ман омад, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калида"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:07:58.910889314Z",
+  "model": "glm-5.3"
+}

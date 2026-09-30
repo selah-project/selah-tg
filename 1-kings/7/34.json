@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва чор китф ба чор гӯшаи пойгоҳи якто; аз худи пойгоҳ китфҳои он.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "китф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "гӯшаи"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "пойгоҳи"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "якто"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "пойгоҳ"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "китфҳои он"
+    }
+  ],
+  "timestamp": "2026-09-30T17:03:28.708801454Z",
+  "model": "glm-5.3"
+}

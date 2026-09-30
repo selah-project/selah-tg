@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва онҳо ба ӯ гуфтанд: Мо ⟨את⟩-и туро дӯст медорем — на, мо бо ту ба қавми ту бармегардем.",
+  "tokens": [
+    {
+      "surface": "ויאמרנה",
+      "gloss": ""
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": ""
+    },
+    {
+      "surface": "לעמך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:48.256271071Z",
+  "model": "glm-5.3"
+}

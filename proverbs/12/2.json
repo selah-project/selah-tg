@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Одами нек аз Яҳве ризо меёбад, вай одами макрҳоро гуноҳкор месозад.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "меёбад"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ризо"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "аз Яҳве"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ву одами"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "макрҳо"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "гуноҳкор месозад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:45.164878823Z",
+  "model": "glm-5.3"
+}

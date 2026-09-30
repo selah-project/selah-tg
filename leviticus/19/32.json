@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Дар назди саҷдор бархез ва рӯи пирро арҷ гузор, ва аз Элоҳии худ битарс; Ман Яҳвеам.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "саҷдор"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "бархез"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "ва арҷ гузор"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "пир"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ва битарс"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "аз Элоҳии"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:19.279988391Z",
+  "model": "glm-5.3"
+}

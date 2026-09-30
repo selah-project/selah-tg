@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва ба кӣ Элоҳимро шабеҳ месозед? Ва тасвире чиро барои Ӯ мегузоред?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ва ба"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "шабеҳ месозед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ва чиро"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "тасвире"
+    },
+    {
+      "surface": "תערкו",
+      "gloss": "мегузоред"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:34:09.924257359Z",
+  "model": "glm-5.3"
+}

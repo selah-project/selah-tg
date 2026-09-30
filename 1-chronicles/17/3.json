@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва дар ҳамон шаб сухани Элоҳим ба Нотон омад, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва…шуд"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "дар шаб"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ҳамон"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нотон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:56.119627868Z",
+  "model": "glm-5.3"
+}

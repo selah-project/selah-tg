@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 74,
+  "translation": "Аломатҳои моро надидем: дигар набӣ нест, ва ⟨את⟩ мо касе нест, ки бидонад то кай.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "аломатҳои мо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "дидем"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "мо"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ки бидонад"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кай"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:41.178566519Z",
+  "model": "glm-5.3"
+}

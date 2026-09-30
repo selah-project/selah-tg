@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ба Билға — Шаммуа; ба Шемаия — Йеҳонатон.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "ба Билға"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "ба Шемаия"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеҳонатон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:08.411217700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва сухани Яҳве ба ман расид,.frames говоря:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:13:02.199731707Z",
+  "model": "glm-5.3"
+}

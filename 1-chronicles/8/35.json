@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва писарони Мико: Питон ва Мелех ва Таареа ва Аҳаз.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мико"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ва Мелех"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "ва Таареа"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ва Аҳаз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:01.497283005Z",
+  "model": "glm-5.3"
+}

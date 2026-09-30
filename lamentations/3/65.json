@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ба онҳо пӯшидагии дил бидеҳ, тагьирот⌄и<-BAD--->Туро ба онҳо.",
+  "tokens": [],
+  "timestamp": "2026-09-30T19:15:38.296210166Z",
+  "model": "glm-5.3"
+}

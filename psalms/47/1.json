@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Ба роҳбари овозхонӣ, ба фарзандони Короҳ, мазмур.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари овозхонӣ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба фарзандони"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Короҳ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:30.243422697Z",
+  "model": "glm-5.3"
+}

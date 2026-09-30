@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва дар аввал равона шуданд, ба даҳони Яҳве, ба дасти Моше.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "равона шуданд"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "дар аввал"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:50.445800128Z",
+  "model": "glm-5.3"
+}

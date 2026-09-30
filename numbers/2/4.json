@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва лашкари ва шумораи онҳо — чор ва ҳафтод ҳазору шашсад.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ва лашкари ӯ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ва шумораи онҳо"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ва ҳафтод"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:32.945354779Z",
+  "model": "glm-5.3"
+}

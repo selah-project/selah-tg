@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва агар ғарибе дар замини шумо бо шумо зиндагӣ кунад, ӯро маҷбур накунед.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "зиндагӣ кунад"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ бо шумо"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ғариб"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "дар замини шумо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "маҷбур накунед"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:25.731149956Z",
+  "model": "glm-5.3"
+}

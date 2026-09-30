@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Тседик ⟨ҳастӣ⟩ Ту, э Яҳве, ва рост ⟨ҳастанд⟩ довариҳои Ту.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "тседик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ва рост"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "довариҳои Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:45.427026466Z",
+  "model": "glm-5.3"
+}

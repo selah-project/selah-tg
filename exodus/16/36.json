@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва омер даҳуми ҳиссаи эфа аст.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ва омер"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "даҳуми ҳиссаи"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨аст⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:44.434738800Z",
+  "model": "glm-5.3"
+}

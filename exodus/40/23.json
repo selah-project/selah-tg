@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва бар он тартиби нонро пеши Яҳве чор кард, чӣ тавре ки Яҳве ба ⟨את⟩ Моше фармуда буд.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "чор кард"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "тартиб"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чӣ тавре ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:11.974864670Z",
+  "model": "glm-5.3"
+}

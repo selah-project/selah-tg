@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Ҷавоб дод Элифази ҳаттеманӣ ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ҳаттеманӣ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:03:13.187221610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Дар рӯзҳои ӯ Эдом зери дасти Йеҳуда шӯрид ва ба онҳо подшоҳе гузоштанд.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "дар рӯзҳои ӯ"
+    },
+    {
+      "surface": "пשע",
+      "gloss": "шӯрид"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "аз зери"
+    },
+    {
+      "surface": "יד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "ва гузоштанд подшоҳ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:49:26.827176760Z",
+  "model": "glm-5.3"
+}

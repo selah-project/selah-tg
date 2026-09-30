@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Нафталӣ аҳуи равонашуда ⟨аст⟩ — суханҳои зебо медиҳад.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталӣ"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "аҳуи"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "равонашуда"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "суханҳои"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "зебо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:08.901908091Z",
+  "model": "glm-5.3"
+}

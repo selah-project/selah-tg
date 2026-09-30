@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Зеро ҳоло мегӯянд: «Малле мо нест, зеро мо ⟨את⟩ Яҳверо натарсидем; ва подшоҳ ба мо чӣ мекунад?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "мегӯянд"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "малл"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "мо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "натарсидем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳверо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ו המלך",
+      "gloss": "ва подшоҳ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "мекунад"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:19:42.092679436Z",
+  "model": "glm-5.3"
+}

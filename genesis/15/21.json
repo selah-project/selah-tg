@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва ⟨את⟩ аморӣ ва ⟨את⟩ кенаънӣ ва ⟨את⟩ гиргашӣ ва ⟨את⟩ ябусӣ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "аморӣ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "аморӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кенаънӣ"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "кенаънӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "гиргашӣ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "гиргашӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ябусӣ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ябусӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:54.681367713Z",
+  "model": "glm-5.3"
+}

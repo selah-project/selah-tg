@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Дар он тарафи Ярдон, дар замини Моов, Моше ба баён кардани ⟨את⟩ ин тора оғоз кард ва гуфт:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "дар он тарафи"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "הואил",
+      "gloss": "оғоз кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ба баён кардани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин тора"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ин тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:41.179565392Z",
+  "model": "glm-5.3"
+}

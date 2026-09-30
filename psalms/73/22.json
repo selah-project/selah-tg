@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 73,
+  "translation": "Ва ман нодон будам ва намедонистам; ҳамчун чорпо бо Ту будам.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "בער",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва намедонистам"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "медонистам"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "чорпо"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "будам"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:10.532254574Z",
+  "model": "glm-5.3"
+}

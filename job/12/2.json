@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ростӣ, шумо ⟨ҳастед⟩ халқ, ва бо шумо ҳикмат мемирад.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ростӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ва бо шумо"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "мемирад"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:03.553346811Z",
+  "model": "glm-5.3"
+}

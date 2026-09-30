@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Элоҳим ба Нӯҳ сухан гуфт, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва сухан гуфт"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:49.428616063Z",
+  "model": "glm-5.3"
+}

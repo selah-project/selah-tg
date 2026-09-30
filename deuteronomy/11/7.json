@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "зеро ки чашмони шумо ⟨את⟩ ҳамаи амали бузурги Яҳверо, ки кард, диданд;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "чашмони шумо"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "диданд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи амали бузурги Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "амали"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:21.591534146Z",
+  "model": "glm-5.3"
+}

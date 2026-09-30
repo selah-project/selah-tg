@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Тоҷи ҳакимон — сарвати онон аст, вале аблаҳии нодирон — аблаҳист.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "тоҷи"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ҳакимон"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "сарвати онон"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "аблаҳии"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "нодирон"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "аблаҳист"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:11.327100435Z",
+  "model": "glm-5.3"
+}

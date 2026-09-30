@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Яҳве ба Моше ва ба Аҳарон сухан ронда гуфт:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гӯфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "сухан ронда гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:34.568524757Z",
+  "model": "glm-5.3"
+}

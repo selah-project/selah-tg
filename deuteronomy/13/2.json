@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Агар дар миёни шумо набӣ ё хоббин хоб барпо шавад ва ба шумо нишоне ё муъҷизае диҳад,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "барпо шавад"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "дар миёни шумо"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "хоббин"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ва диҳад"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "אות",
+      "gloss": "нишоне"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "муъҷизае"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:03.574602909Z",
+  "model": "glm-5.3"
+}

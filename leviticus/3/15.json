@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "ва ⟨את⟩ ду гӯрдаро ва ⟨את⟩ равғани бар онҳостаро — ки бар гӯшаҳост — ва ⟨את⟩ пардаи бар ҷигарро, ки бо гӯрдаро бардорад.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ду гӯрд"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "гӯрд"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "равған"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "равған"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "бар онҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "гӯшаҳо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "парда"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "парда"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ҷигар"
+    },
+    {
+      "surface": "על",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "гӯрд"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "бардорад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:34.789385060Z",
+  "model": "glm-5.3"
+}

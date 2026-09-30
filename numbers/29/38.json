@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 29:38",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва як буз барои хато, ҷуз аз олаи тамид ва минҳаи он ва нусоҳи он.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "ва буз"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "барои хато"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ҷуз аз"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "олаи"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "тамид"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "ва минҳаи он"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ва нусоҳи он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:48.879094503Z",
+  "model": "glm-5.3"
+}

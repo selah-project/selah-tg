@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 7:7",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Омад субҳи ⟨tūfon⟩ бар ту, эй сокини замин; омад вақт, наздик аст рӯз — тиеҷон, на фарёди кӯҳҳо.",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "омад"
+    },
+    {
+      "surface": "הצפירה",
+      "gloss": "субҳ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сокини"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "העת",
+      "gloss": "вақт"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "наздик"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "тиеҷон"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "на"
+    },
+    {
+      "surface": "הד",
+      "gloss": "фарёд"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "кӯҳҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:51.957660039Z",
+  "model": "glm-5.3"
+}

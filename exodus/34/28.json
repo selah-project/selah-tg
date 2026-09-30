@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 34:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва ӯ он ҷо бо Яҳве чил рӯз ва чил шаб буд; нон нахӯрд ва об нонушид; ва бар лавҳҳо ⟨את⟩ калмаҳои аҳд — даҳ калмаро навишт.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва буд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ва чил"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хӯрд"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ва об"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "нушид"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ва навишт"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "лавҳҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "калмаҳои аҳд"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "калмаҳои"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "аҳд"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "калма"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:09.110178312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "ezra 2:66",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Аспҳои онҳо ҳафтсад сию шаш; харҳои онҳо дусад чилу панҷ.",
+  "tokens": [
+    {
+      "surface": "סוסיהם",
+      "gloss": "аспҳои онҳо"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "си"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "פרדיהם",
+      "gloss": "харҳои онҳо"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "дусад"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ва панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:27.533775284Z",
+  "model": "glm-5.3"
+}

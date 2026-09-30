@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Даҳ ама дарозии такта, ва як ама ва ним ама барои паҳноии як такта.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ама"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозии"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "такта"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ва як ама"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ва ним"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "паҳноии"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "такта"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T15:39:11.190051129Z",
+  "model": "glm-5.3"
+}

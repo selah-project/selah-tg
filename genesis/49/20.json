@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Аз Ашер — нони ӯ фарбеҳ аст, ва ӯ лазизоти подшоҳро медиҳад.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "аз Ашер"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "фарбеҳ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "нони ӯ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "лазизот"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:24.651836857Z",
+  "model": "glm-5.3"
+}

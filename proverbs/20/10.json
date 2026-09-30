@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Санге ва санг — эфа ва эфа: мукрри Яҳве ҳар ду яксон.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "санг"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ва санг"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ва эфа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мукрри"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ҳар ду яксон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:15.062653849Z",
+  "model": "glm-5.3"
+}

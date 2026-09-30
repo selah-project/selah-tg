@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 129,
+  "translation": "Хиҷил шаванд ва ақиб бармегарданд ҳамаи дushmanони Тсиён.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "хиҷил шаванд"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ва ақиб бармегарданд"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ақиб"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "дushmanони"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Тсиён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:37.274998919Z",
+  "model": "glm-5.3"
+}

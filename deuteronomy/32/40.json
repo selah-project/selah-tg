@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Зеро ки ба сӯи осмонҳо дасти Худро мебардорам ва мегӯям: Зинда Ман, то абад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "мебардорам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "дасти Ман"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ва мегӯям"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Зинда"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:12.140513170Z",
+  "model": "glm-5.3"
+}

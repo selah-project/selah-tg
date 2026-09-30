@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва чанг бар замин бармегардад, чун буд, ва руах ба Элоҳим бармегардад, Ки онро додааст.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "бармегардад"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "чанг"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "чун буд"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ва руах"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "бармегардад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ки"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "додааст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:11.200468748Z",
+  "model": "glm-5.3"
+}

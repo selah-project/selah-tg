@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ду чиз аз назди ⟨את⟩ Ту пурсидам; манро маҳрум накун пеш аз он ки бимирам.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "чиз пурсидам"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "аз назди ⟨את⟩",
+      "marks": "Ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תמнע",
+      "gloss": "маҳрум"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "манро"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пеш аз он ки"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "бимирам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:53.312770743Z",
+  "model": "glm-5.3"
+}

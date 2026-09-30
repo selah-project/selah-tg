@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳамаи ливиён дар шаҳри муқаддас ду сад ҳаштод ва чаҳор ⟨нафар⟩ ⟨буданд⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ҳамаи"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ливиён"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "дар шаҳри"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ду сад"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ҳаштод"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ва чаҳор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:17.303146758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "ва маҷлис байни задаву гоэли хун ба воситаи ин довариҳо додгорӣ кунад —",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "додгорӣ кунад"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "маҷлис"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "зада"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ву"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба воситаи"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ин довариҳо"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:41.114678032Z",
+  "model": "glm-5.3"
+}

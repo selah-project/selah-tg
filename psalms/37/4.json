@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва дар Яҳве шод бош, ва Вай ба ту дилхоҳиҳои дилатро медиҳад.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "шод бош"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва медиҳад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "дилхоҳиҳои"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилатро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:14.187888769Z",
+  "model": "glm-5.3"
+}

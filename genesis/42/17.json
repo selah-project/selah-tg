@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ва ӯ ⟨את⟩ онҳоро ба нигаҳбонӣ се рӯз ҷамъ кард.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ва ҷамъ кард"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ онҳоро",
+      "marks": "онҳоро (бародарон)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "нигаҳбонӣ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:26:57.479941414Z",
+  "model": "glm-5.3"
+}

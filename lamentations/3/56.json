@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Овози маро шунидӣ; гӯши Худро барои нафаскам ва фарёдам макуш.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Овози маро"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "шунидӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "макуш"
+    },
+    {
+      "surface": "תעלм",
+      "gloss": " макуш"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "гӯши Худро"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "барои нафаскам"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "фарёдам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.824735946Z",
+  "model": "glm-5.3"
+}

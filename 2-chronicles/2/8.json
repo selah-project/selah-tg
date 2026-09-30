@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ва барои омода кардани ба ман чӯбҳо ба фаровонӣ, зеро хонае ки ман месозам бузург ва аҷиб аст.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "ва барои омода кардан"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "чӯбҳо"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ба фаровонӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "месозам"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "ва аҷиб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:27.992552131Z",
+  "model": "glm-5.3"
+}

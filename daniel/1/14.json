@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ба онҳо ба ин сухан гӯш ниҳод ва онҳоро даҳ рӯз санҷид.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ва гӯш ниҳод"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ба сухан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "ва санҷид"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:41.921006136Z",
+  "model": "glm-5.3"
+}

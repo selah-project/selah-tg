@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Марде, ки ба дӯсти худ хушомӯзӣ мекунад, барои қадамҳои ӯ тӯр меандозад.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "хушомӯзӣ мекунад"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дӯсти худ"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "тӯр"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "меандозад"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "қадамҳои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:49.318596974Z",
+  "model": "glm-5.3"
+}

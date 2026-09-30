@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Лод, Ҳадид ва Оно, ҳафтсаду бисту як.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Ҳадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ва Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ву як"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:41.048972229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳамаи нетинимҳо ва фарзандони ғуломони Шеломоҳ — се сад наваду ду.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "нетинимҳо"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ғуломони"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоҳ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "наваду"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ду"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:46.237837819Z",
+  "model": "glm-5.3"
+}

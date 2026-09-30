@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "ва Элткеъ, ва Гивтон, ва Баалот.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "ва Элткеъ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ва Гивтон"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "ва Баалот"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:29.423377429Z",
+  "model": "glm-5.3"
+}

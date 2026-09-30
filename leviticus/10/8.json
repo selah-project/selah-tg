@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Яҳве ба Аҳарон сухан ронду гуфт:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:25.764294424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Зеро ки Элоа ҷуз Яҳве кист? Ва санге ҷуз Элоҳими мо кист?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кист"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоа"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ҷуз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ва кист"
+    },
+    {
+      "surface": "צור",
+      "gloss": "санге"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ҷуз"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳими мо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:44.049669204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 26:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Рӯи тахташро мегирад ва абрашро бар он паҳн мекунад.",
+  "tokens": [
+    {
+      "surface": "מאחז",
+      "gloss": "мегирад"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "тахташ"
+    },
+    {
+      "surface": "פרשז",
+      "gloss": "паҳн мекунад"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "עננו",
+      "gloss": "абраш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:36.655401014Z",
+  "model": "glm-5.3"
+}

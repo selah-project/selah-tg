@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Серӯг, Ноҳор, Тераҳ.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "Серӯг"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Ноҳор"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тераҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:07.924458813Z",
+  "model": "glm-5.3"
+}

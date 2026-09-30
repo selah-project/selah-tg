@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ин тавр мегӯяд Яҳве: Бирав поин, ба хонаи подшоҳи Йеҳуда, ва он ҷо ин ⟨את⟩ суханро бигӯ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ин тавр"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "רד",
+      "gloss": "бирав поин"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ба хонаи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ва бигӯ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин сухан"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "суханро"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:47:29.729736983Z",
+  "model": "glm-5.3"
+}

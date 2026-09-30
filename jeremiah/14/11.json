@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ба ман гуфт Яҳве: Дуо макун барои ин халқ ба некӯӣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "дуо макун"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "барои"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ин халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ба некӯӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:37.730139298Z",
+  "model": "glm-5.3"
+}

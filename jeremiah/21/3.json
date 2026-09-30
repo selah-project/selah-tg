@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Йирмияҳу ба онҳо гуфт: «Ин гуна ба Тсидқияҳу бигӯед:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмияҳу"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ин гуна"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "бигӯед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Тсидқияҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T17:47:41.167015592Z",
+  "model": "glm-5.3"
+}

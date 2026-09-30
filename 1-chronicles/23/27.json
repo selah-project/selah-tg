@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 23:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Зеро ки мувофиқи суханони охирини Довуд шумориши банӣ Левӣ аз бистсола ва боло шуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "мувофиқи суханони"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "האחרנים",
+      "gloss": "охирини"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "шумориш"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левӣ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "шанə",
+      "gloss": "сола"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ва боло"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:43.722188764Z",
+  "model": "glm-5.3"
+}

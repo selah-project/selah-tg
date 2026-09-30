@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 52,
+  "translation": "Ту бадӣро аз некӣ дӯст дорӣ, дурӯғро аз гуфтани тседек. Села.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "дӯст дорӣ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "аз некӣ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "дурӯғ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "аз гуфтани"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:28.198137942Z",
+  "model": "glm-5.3"
+}

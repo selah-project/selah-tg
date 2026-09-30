@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Сари он муҷассама аз тиллои пок, сина ва дастҳояш аз нуқра, шикам ва ронҳояш аз мис буд.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "муҷассама"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "сари он"
+    },
+    {
+      "surface": "די",
+      "gloss": "аз"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "טב",
+      "gloss": "пок"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "синааш"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "ву дастҳояш"
+    },
+    {
+      "surface": "די",
+      "gloss": "аз"
+    },
+    {
+      "surface": "косф",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "шикамаш"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "ву ронҳояш"
+    },
+    {
+      "surface": "די",
+      "gloss": "аз"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "мис"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:11.266221413Z",
+  "model": "glm-5.3"
+}

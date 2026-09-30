@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва акнун марди донойи донандаи фаҳмишро — Хурами падарамро — фиристодаам.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "фиристодаам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "доной"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "донандаи"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "фаҳмишро"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "Хурами"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падарамро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:39.343891904Z",
+  "model": "glm-5.3"
+}

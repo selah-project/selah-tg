@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва фариштаи Яҳве ба Маноҳ гуфт: «Аз ҳар он чӣ ба ⟨⟨зан⟩⟩ гуфтам, эҳтиёт шавад».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фариштаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноҳ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "эҳтиёт шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:36:28.641436049Z",
+  "model": "glm-5.3"
+}

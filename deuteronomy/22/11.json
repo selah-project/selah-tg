@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Либоси шаътнез пӯш макун — пашм ва зебо якҷоя.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "пӯш макун"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "шаътнез"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "пашм"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "ва зебо"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "якҷоя"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:34.767257181Z",
+  "model": "glm-5.3"
+}

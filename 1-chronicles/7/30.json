@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Ашер: Йимна ва Йишва ва Йишвӣ ва Бериа, ва Серах, хоҳари онҳо.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Йимна"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "ва Йишва"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "ва Йишвӣ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ва Бериа"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "ва Серах"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "хоҳари онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:43.901913589Z",
+  "model": "glm-5.3"
+}

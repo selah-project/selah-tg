@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва хизматгорони шоҳ Хизқиё ба Яшайаҳу омаданд.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "хизматгорони"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизқиё"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Яшайаҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T20:05:45.390240605Z",
+  "model": "glm-5.3"
+}

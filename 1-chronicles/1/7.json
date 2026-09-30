@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва фарзандони Явон: Элиша ва Таршиша, Китим ва Роданим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Явон"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "ва Таршиша"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Китим"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "ва Роданим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:11.596067491Z",
+  "model": "glm-5.3"
+}

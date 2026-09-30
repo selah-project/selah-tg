@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 140,
+  "translation": "Забонҳоро мемонанд, мисли мор; заҳри афъӣ зери лабҳои онҳост. Села.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "мемонанд"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "Забонҳоро"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мисли"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "мор"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "заҳри"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "афъӣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "лабҳои онҳост"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:30.608712024Z",
+  "model": "glm-5.3"
+}

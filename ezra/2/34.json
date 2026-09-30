@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Йериҳо, се сад чилу панҷ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Йериҳо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ву панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:49.804531238Z",
+  "model": "glm-5.3"
+}

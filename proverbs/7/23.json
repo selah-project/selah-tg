@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "То он ки тир ҷигарашро шикофад; чун паранда ба тӯр шитоб мекунад ва намедонад, ки ин бо ҷони ӯст.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "то он ки"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "шикофад"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "тир"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ҷигарашро"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "чун шитобкунанда"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "паранда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פח",
+      "gloss": "тӯр"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва намедонад"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "бо ҷони ӯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ин аст"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:30.982713732Z",
+  "model": "glm-5.3"
+}

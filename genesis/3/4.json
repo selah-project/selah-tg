@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва мор ба зан гуфт: «На мурдан мемиред",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "мор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "מות",
+      "gloss": "мурдан"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "мемиред"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:49.163512421Z",
+  "model": "glm-5.3"
+}

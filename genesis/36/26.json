@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва инҳо фарзандони Дишон: Ҳемдон ва Эшбон ва Йитрон ва Керон.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Ҳемдон"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ва Эшбон"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ва Йитрон"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ва Керон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:54.515711032Z",
+  "model": "glm-5.3"
+}

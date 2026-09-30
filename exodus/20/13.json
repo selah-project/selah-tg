@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "«Накуш».",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "накуш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:13.658688009Z",
+  "model": "glm-5.3"
+}

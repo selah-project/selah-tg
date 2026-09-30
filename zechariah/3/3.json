@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва Йеҳошуаъ бо ҷомаҳои ифлос пӯшида буд ва истода буд пеши фаришта.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ва Йеҳошуаъ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "пӯшида"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "бо ҷомаҳо"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "ифлос"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ва истода"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "фаришта"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:15.595103067Z",
+  "model": "glm-5.3"
+}

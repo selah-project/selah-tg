@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Агар лабҳоям сидқӣ гӯянд, ва забонам агар фиреб барорад —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "гӯянд"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "лабҳоям"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "сидқӣ"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ва забонам"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יהгה",
+      "gloss": "барорад"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "фиреб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:05.396270640Z",
+  "model": "glm-5.3"
+}

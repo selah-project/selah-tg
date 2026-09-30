@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Шаул дид, ки ӯ бо дониши беандоза амал мекунад, ва аз ӯ тарсид.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ву дид"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "бо дониш амал мекунад"
+    },
+    {
+      "surface": "мъд",
+      "gloss": "беандоза"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ву тарсид"
+    },
+    {
+      "surface": "мфнйв",
+      "gloss": "аз ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:46:37.870978168Z",
+  "model": "glm-5.3"
+}

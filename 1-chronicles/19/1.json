@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва баъд аз ин Ноҳош, подшоҳи бани Аммон, мурд ва писараш ба ҷои ӯ подшоҳ шуд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва баъд аз ин"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъд"
+    },
+    {
+      "surface": "כן",
+      "gloss": "аз ин"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Ноҳош"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бани"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳ шуд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:45.847328569Z",
+  "model": "glm-5.3"
+}

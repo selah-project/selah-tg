@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Беақл ⟨את⟩ дасти худро меафшонад ва ⟨את⟩ гӯшти худро мехӯрад.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Беақл"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "меафшонад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дасти худро"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "дасти худро"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ва мехӯрад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гӯшти худро"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "гӯшти худро"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:58.487125531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Йовав мурд, ва ба ҷои ӯ Ҳушом аз замини теимониён подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Ҳушом"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "аз замини"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "теимониён"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:27.808418116Z",
+  "model": "glm-5.3"
+}

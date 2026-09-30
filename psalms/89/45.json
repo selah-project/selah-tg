@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "Ту нурашро бозхоҳӣ кардӣ ва тахташро ба замин афкандӣ.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "бозхоҳӣ кардӣ"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "нури ӯ"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ва тахташ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ба замин"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "афкандӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:48.038810514Z",
+  "model": "glm-5.3"
+}

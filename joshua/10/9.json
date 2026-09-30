@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Йеҳошуа ногаҳон бар онҳо омад — тамоми шаб аз Гилгол боло рафт.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "бар онҳо"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ногоҳон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "боло рафт"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгол"
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:45.484270238Z",
+  "model": "glm-5.3"
+}

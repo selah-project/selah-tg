@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ба Яҳве бо тамоми дилат эътимод кун ва ба фаҳми худ такя макун.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "эътимод кун"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бо тамоми"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилат"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "фаҳми худ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "макун"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "такя"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:26.288117291Z",
+  "model": "glm-5.3"
+}

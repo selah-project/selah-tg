@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 95,
+  "translation": "Пеш аз рӯйи ӯ бо сипос бошем, бо замарот ба ӯ нидо барем.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "пеш бошем"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "аз рӯйи ӯ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "бо сипос"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "бо замарот"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "нидо барем"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:01.165613658Z",
+  "model": "glm-5.3"
+}

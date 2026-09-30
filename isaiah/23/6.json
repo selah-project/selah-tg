@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Гузаред ба Таршиш; нола кунед, эй сокинони соҳил!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "гузаред"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "ба Таршиш"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "нола кунед"
+    },
+    {
+      "surface": "יובי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "אי",
+      "gloss": "соҳил"
+    }
+  ],
+  "timestamp": "2026-09-30T17:28:45.856499005Z",
+  "model": "glm-5.3"
+}

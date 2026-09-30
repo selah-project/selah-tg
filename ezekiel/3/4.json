@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ба ман гуфт: «Е писари одам, рав, назди хонаи Йисроэл даро ва бо суханони Ман ба онҳо гӯй».",
+  "tokens": [
+    {
+      "surface": "ויאмר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "בא",
+      "gloss": "даро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ва гӯй"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "бо суханони Ман"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:19.391954072Z",
+  "model": "glm-5.3"
+}

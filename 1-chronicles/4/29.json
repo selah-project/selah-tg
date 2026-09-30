@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва дар Билҳа, ва дар Этсем ва дар Толад.",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "ва дар Билҳа"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "ва дар Этсем"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "ва дар Толад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:40.697709526Z",
+  "model": "glm-5.3"
+}

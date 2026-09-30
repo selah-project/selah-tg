@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ин гуна ба набӣ мегӯӣ: чиро ба ту ҷавоб дод Яҳве ва чиро гуфт Яҳве?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ин гуна"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "мегӯӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чиро"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ва чиро"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:38.272253320Z",
+  "model": "glm-5.3"
+}

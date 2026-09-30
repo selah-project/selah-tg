@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "гоҳе дар берун, гоҳе дар майдонҳо, ва назди ҳар кунҷ пинҳонӣ меистад",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "гоҳе"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "дар берун"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "гоҳе"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "дар майдонҳо"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ва назди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "кунҷ"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "пинҳонӣ меистад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:11.293726332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "ва Шеломо назди Хирам фиристод, гӯftан:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ва фиристод"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯftан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:03:33.358266811Z",
+  "model": "glm-5.3"
+}

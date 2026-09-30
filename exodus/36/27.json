@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва барои қафои Мишкан, тарафи ғарбӣ, шаш кашӣ сохт.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "ва барои қафои"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "тарафи ғарбӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "кашӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:25.672714605Z",
+  "model": "glm-5.3"
+}

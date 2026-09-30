@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Агар дар рӯзи мусибат суст шавӣ — тор аст қувваат.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "суст шавӣ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯз"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "мусибат"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тор"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "қувваат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:29.213820568Z",
+  "model": "glm-5.3"
+}

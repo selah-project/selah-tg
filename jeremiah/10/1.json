@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Бишнавед ⟨את⟩ каламеро, ки Яҳве ба шумо мегӯяд, эй хони Йисроэл.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "каламе"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "каламе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:44:21.635170972Z",
+  "model": "glm-5.3"
+}

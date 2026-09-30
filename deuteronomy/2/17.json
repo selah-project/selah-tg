@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Яҳве ба ман сухан ронд, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва ... сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:31.271266575Z",
+  "model": "glm-5.3"
+}

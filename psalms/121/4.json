@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 121,
+  "translation": "Инак, нағафлати хоб мекунад ва нахобад — ⟨Ӯ⟩ Нигаҳбони Йисроэл.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Инак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ғафлати хоб мекунад"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "нахобад"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Нигаҳбон"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:12.195094540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 109,
+  "translation": "Рӯзҳои ӯ кам бошанд ва дигарӣ мансаби ӯро гирад.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "бошанд"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "рӯзҳои ӯ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "кам"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "мансаби ӯ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "гирад"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигарӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:43.105058276Z",
+  "model": "glm-5.3"
+}

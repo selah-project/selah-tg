@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Зеро дили онҳо харобиро меандешад ва лабҳои онҳо бадкориро мегӯянд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "שד",
+      "gloss": "харобӣ"
+    },
+    {
+      "surface": "יהгה",
+      "gloss": "меандешад"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "дили онҳо"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ва бадкорӣ"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "лабҳои онҳо"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "мегӯянд"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:40.416793172Z",
+  "model": "glm-5.3"
+}

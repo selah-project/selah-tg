@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони Анатот — саду бисту ҳашт.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ва ҳашт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:38.168110024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Меҳнати одил барои ҳаёт аст, ҳосили бадкор барои гуноҳ.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "Меҳнати"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "барои ҳаёт"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ҳосили"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:54.294905974Z",
+  "model": "glm-5.3"
+}

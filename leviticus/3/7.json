@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Агар ӯ барра барои қурбонии худ пешкаш кунад, пас онро ⟨את⟩ пеш аз рӯи Яҳве орад.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "барра"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "пешкаш кунад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қурбонии худ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "қурбонии ӯ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "оварад"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "онро"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз рӯи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:08.452266295Z",
+  "model": "glm-5.3"
+}

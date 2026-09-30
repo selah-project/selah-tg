@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Шунидӣ таҳқири онҳоро, эй Яҳве, ҳамаи макрҳои онҳоро бар зидди ман.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "Шунидӣ"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "таҳқири онҳоро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "эй Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "макрҳои онҳоро"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар зидди ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:50.298931346Z",
+  "model": "glm-5.3"
+}

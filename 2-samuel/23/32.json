@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Элйаҳбаву Шаълбонӣ; писарони Яшен: Йеҳонатон,",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "Элйаҳба"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "Шаълбонӣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "Яшен"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеҳонатон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:16.670944528Z",
+  "model": "glm-5.3"
+}

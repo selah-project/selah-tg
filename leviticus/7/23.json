@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "«Бо банӣ-Йисроэл сухан рон, гуфтан: Ҳеҷ чарбии гову гӯсфанд ва бузро нахӯред.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сухан рон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бanī-и"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "чарбии"
+    },
+    {
+      "surface": "שור",
+      "gloss": "гов"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ва гӯсфанд"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ва буз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "хӯред"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:25.713539784Z",
+  "model": "glm-5.3"
+}

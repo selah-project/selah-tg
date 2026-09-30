@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Се нафар — инҳо писарони Нӯҳ буданд, ва аз инҳо тамоми замин пароканда шуд.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Се нафар"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ва аз инҳо"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "пароканда шуд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:36.676186006Z",
+  "model": "glm-5.3"
+}

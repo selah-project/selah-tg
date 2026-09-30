@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва он мард сар фурифт ва пеш аз Яҳве саҷда кард.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "сар фурифт"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "он мард"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "саҷда кард"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "пеш аз Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:36.676109013Z",
+  "model": "glm-5.3"
+}

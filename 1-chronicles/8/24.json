@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Ҳананяҳу, ва Эйлом ва Антотияҳу,",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ва Ҳананяҳу"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ва Эйлом"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "ва Антотияҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:58.728291064Z",
+  "model": "glm-5.3"
+}

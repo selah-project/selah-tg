@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "То кай, эй Яҳве, худро пинҳон мекунӣ то абад? Хашми ту мисли оташ месӯзонад?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "пинҳон мекунӣ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "месӯзонад"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мисли"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "хашми ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:48.039503607Z",
+  "model": "glm-5.3"
+}

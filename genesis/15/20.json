@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва ⟨את⟩ хиттийён ва ⟨את⟩ призийён ва ⟨את⟩ рефоимро:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "хиттийён"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хиттийён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "призийён"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "призийён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "рефоим"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "рефоим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:09.045959089Z",
+  "model": "glm-5.3"
+}

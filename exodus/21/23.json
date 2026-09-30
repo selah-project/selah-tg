@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва агар осеб бошад, ва нафеш барои нафеш медиҳӣ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "осеб"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "медиҳӣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафеш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафеш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:16.182512317Z",
+  "model": "glm-5.3"
+}

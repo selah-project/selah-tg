@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Йеҳошуа бо подшоҳи Йисроэл сулҳ кард.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "сулҳ кард"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:11:49.341002620Z",
+  "model": "glm-5.3"
+}

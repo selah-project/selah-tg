@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва ман дар оромии худ гуфтам: «То абад ҳеҷ гоҳ наҷунбам».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "дар оромии худ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ҳеҷ гоҳ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "наҷунбам"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:33.961369821Z",
+  "model": "glm-5.3"
+}

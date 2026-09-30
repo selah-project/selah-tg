@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Зеро ки Адонай Яҳве чунин мегӯяд: Шамшери подшоҳи Бовил ба ту меояд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "шамшери"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бовил"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ба ту меояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:10:29.235036453Z",
+  "model": "glm-5.3"
+}

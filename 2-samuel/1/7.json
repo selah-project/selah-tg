@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ӯ ба пушти худ гардид, маро дид ва маро ба худ охонaddin занад, вале ман гуфтам: «Ин манам».",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "гардид"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ба пушти худ"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "маро дид"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "охонaddin зад"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ин манам"
+    }
+  ],
+  "timestamp": "2026-09-30T16:51:40.466889840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 115,
+  "translation": "Бутҳои онҳо нуқра ва тиллоанд — кори дасти одамон.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "бутҳои онҳо"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ва тиллоанд"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:16.525838278Z",
+  "model": "glm-5.3"
+}

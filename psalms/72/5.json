@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 72,
+  "translation": "Туро метарсонанд ҳамроҳи офтоб ва пеш аз моҳ, насл дар наслҳо.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Туро метарсонанд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ҳамроҳи"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ва пеш аз"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "дар наслҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:45.806462090Z",
+  "model": "glm-5.3"
+}

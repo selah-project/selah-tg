@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва агар ногаҳон, бе адоват, ӯро тела диҳад ё ҳар асбобе бар ӯ партошад, бе қасд —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "ногоҳон"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "адоват"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "ӯро тела диҳад"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "партошад"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбобе"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "қасд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:41.114359390Z",
+  "model": "glm-5.3"
+}

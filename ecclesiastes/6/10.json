@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Он чи буд — пешакӣ номаш хонда шуд, ва маълум аст, ки ӯ одам аст; ва наметавонад бо он ки аз ӯ қавитар аст доварӣ кунад.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "пешакӣ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "хонда шуд"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номаш"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "ва маълум шуд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "наметавонад"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "доварӣ кардан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "он ки қавитар"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:18.432874381Z",
+  "model": "glm-5.3"
+}

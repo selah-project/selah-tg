@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Мамзер ба маҷлиси Яҳве наояд; ҳатто насли даҳуми ӯ ба маҷлиси Яҳве наояд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "мамзер"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ба маҷлиси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насли"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "даҳумин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ба маҷлиси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:28.517498169Z",
+  "model": "glm-5.3"
+}

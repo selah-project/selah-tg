@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро чӣ мерасад ба одам аз ҳамаи меҳнати ӯ ва аз ранҷи дилаш, ки ӯ дар зери офтоб мебарорад?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "мерасад"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ба одам"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "меҳнати ӯ"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "ва аз ранҷи"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дилаш"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "ки ӯ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дар зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:58.600050577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва ба хонаи зиёфат нарав, то бо онҳо биншинӣ ва ⟨את⟩ бихӯрӣ ва би нӯшӣ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ва ба хонаи"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "зиёфат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "равӣ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "то биншинӣ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "бихӯрӣ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "бихӯрӣ"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ва нӯшӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:25.025289805Z",
+  "model": "glm-5.3"
+}

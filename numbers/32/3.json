@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Атарот ва Дивон ва Яъзер ва Nimро ва Хешбон ва Элъоле ва Севам ва Нево ва Беън —",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "ва Дивон"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "ва Яъзер"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "ва Nimро"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ва Хешбон"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "ва Элъоле"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "ва Севам"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "ва Нево"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "ва Беън"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:39.682259880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Аз кабилаи Нафтали — Наҳбӣ, писари Вофсӣ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "аз кабилаи"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Наҳбӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Вофсӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:55.524161980Z",
+  "model": "glm-5.3"
+}

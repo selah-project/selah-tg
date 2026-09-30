@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 107,
+  "translation": "Ҳар хӯрокро нафарашон бад меномид ва то дарманоғи марг расиданд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хӯрок"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "бад меномид"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "нафарашон"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ва расиданд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "дарманоғи"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:20.384915936Z",
+  "model": "glm-5.3"
+}

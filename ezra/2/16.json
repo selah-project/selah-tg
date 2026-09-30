@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Атери Хизқиёҳ — наваду ҳашт нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атер"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "Хизқиёҳ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "наваду"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ҳашт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:56.678141255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ҳафтум ба Ҳақотс, ҳаштум ба Авидя.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ба Ҳақотс"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ба Авидя"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:20.552081549Z",
+  "model": "glm-5.3"
+}

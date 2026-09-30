@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Суханони Коҳелет, писари Довуд, подшоҳ дар Ерушалайм.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Суханони"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коҳелет"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "дар Ерушалайм"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:42.789953151Z",
+  "model": "glm-5.3"
+}

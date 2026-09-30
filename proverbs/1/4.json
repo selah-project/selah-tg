@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои додан ба соддалардилон зиракӣ, ба ҷавон дониш ва тадбир:",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "Барои додан"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ба соддалардилон"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "зиракӣ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ба ҷавон"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ва тадбир"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:51.367570205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "подшоҳи Қедеш, як; подшоҳи Йокнеами Кармел, як;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қедеш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеам"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Кармел"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:25.894458137Z",
+  "model": "glm-5.3"
+}

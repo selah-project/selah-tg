@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Яҳве ба Моше ва ба Аҳарон сухан гуфт, гуфтан ки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан ки"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:21.523877575Z",
+  "model": "glm-5.3"
+}

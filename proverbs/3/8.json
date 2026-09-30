@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "⟨Он⟩ шифо барои танат ва сершуӣ барои устухонҳоят бошад.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "шифо"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": " барои танат"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ва сершуӣ"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "барои устухонҳоят"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:26.288669573Z",
+  "model": "glm-5.3"
+}

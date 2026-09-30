@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва ин ⟨аст⟩ тароумае, ки аз ⟨את⟩ онҳо мегиред: тилло ва нуқра ва мис.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ва ин"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "тароумае"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "мегиред"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ онҳо",
+      "marks": "аз онҳо"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ва нуқра"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ва мис"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:23.131273511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Йеҳошуа писари Нун, хидматгори Яҳве, дар синни саду даҳсолаӣ даргузашт.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "darguzasht"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "хидматгори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בן",
+      "gloss": "дар синни"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "саду"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "солаӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:31:08.861328100Z",
+  "model": "glm-5.3"
+}

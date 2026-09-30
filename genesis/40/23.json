@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва сарви машидҳо Йўсефро ёд накард ва фаромӯшаш кард.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва накард"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ёд"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сарви"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "машидҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йўсефро"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йўсеф"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ва фаромӯшаш кард"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:32.745725710Z",
+  "model": "glm-5.3"
+}

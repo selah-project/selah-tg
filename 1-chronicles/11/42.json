@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Адина писари Шиза реувенӣ, сардори реувениҳо, ва бо ӯ сӣ ⟨нафар⟩,",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "Адина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "Шиза"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "реувенӣ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "реувениҳо"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ва бо ӯ"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "сӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:59.551427846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дилҳои худро бо дастро ба сӯи Эл дар осмонҳо бардорем.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "бардорем"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "дилҳои худро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "дастро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осмонҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:55.714177121Z",
+  "model": "glm-5.3"
+}

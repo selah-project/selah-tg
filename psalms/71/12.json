@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 71,
+  "translation": "Элоҳим, дур макун аз ман; Элоҳаи ман, ба ёрии ман шитоб кун.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "макун"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "дур"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳаи ман"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ба ёрии ман"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "шитоб кун"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:17.484106168Z",
+  "model": "glm-5.3"
+}

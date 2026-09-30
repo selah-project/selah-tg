@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Йисроэл некиро партофт; душман ⟨ӯро⟩ пайравӣ мекунад.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "партофт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душман"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "пайравӣ мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:19:18.956944686Z",
+  "model": "glm-5.3"
+}

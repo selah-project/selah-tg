@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва пирадагони он шаҳр он мардро гиранд ва ӯро танбеҳ диҳанд.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ва гиранд"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "пирадагони"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он мардро"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "он мард"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ва танбеҳ диҳанд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:04.290605709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва одамонро мисли моҳиёни баҳр месозӣ, мисли ҳашароте, ки ҳокими он нест.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "месозӣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамонро"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "мисли моҳиёни"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "мисли ҳашароте"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "мшл",
+      "gloss": "ҳокими"
+    },
+    {
+      "surface": "בו",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:25:11.178586502Z",
+  "model": "glm-5.3"
+}

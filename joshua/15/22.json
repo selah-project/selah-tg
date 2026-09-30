@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва Қина, ва Димона, ва Адаъда.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "ва Қина"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ва Димона"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "ва Адаъда"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:37.425420550Z",
+  "model": "glm-5.3"
+}

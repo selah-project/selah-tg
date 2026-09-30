@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Амагӣ ба Шеол фуро бурда мешавӣ, ба чуқуриҳои чоҳ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "амагӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "фуро бурда мешавӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "чуқуриҳои"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:11.343881995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "зарзири камарбаста ё така, ва подшоҳе ки бо ӯ бархоста намешавад.",
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "зарзир"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "камар"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "така"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ва подшоҳ"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "бархостан"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:17.843035702Z",
+  "model": "glm-5.3"
+}

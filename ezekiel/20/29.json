@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва ба онҳо гуфтам: Бома чӣст, ки шумо ба он медароед? Ва номи он Бома номида шуд то имрӯз.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфтам"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "Бома"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "медароед"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ва номида шуд"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "номи он"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Бома"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ҳамин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:06:50.914297366Z",
+  "model": "glm-5.3"
+}

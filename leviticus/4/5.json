@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва коҳини машеах аз хуни нарро мегирад ва онро ба Хаймаи Муъод меорад.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ва мегирад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳини"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "машеах"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "аз хуни"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "нар"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ва меорад"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ он"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Муъод"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:37.957261196Z",
+  "model": "glm-5.3"
+}

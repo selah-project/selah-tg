@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Шер гур ул зад — кӣ натарсад? Адонай Яҳве сухан ронд — кӣ набиӣ накунад?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "Шер"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "гур ул зад"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "тарсад"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан ронд"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "набиӣ накунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:21:00.045269746Z",
+  "model": "glm-5.3"
+}

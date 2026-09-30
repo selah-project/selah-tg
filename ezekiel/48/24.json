@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва бар ҳудуди Бинъёмин — аз канори шарқӣ то канори ғарбӣ — Шимъон, як [ҳисса].",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинъёмин"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарбӣ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимъон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:09.604947517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "«Эй писари одам, чӣ мешавад чӯби ток аз ҳар чӯб, парфи ток, ки миёни дарахтони ҷангал буд?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "мешавад"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "чӯб"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "ток"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳар"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "чӯб"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "парфи ток"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "миёни дарахтони"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ҷангал"
+    }
+  ],
+  "timestamp": "2026-09-30T18:03:31.506577490Z",
+  "model": "glm-5.3"
+}

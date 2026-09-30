@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Йишморай, ва Йизлияҳу, ва Йовов — фарзандони Элпаъл.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "ва Йишморай"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "ва Йизлияҳу"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "ва Йовов"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаъл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.491409551Z",
+  "model": "glm-5.3"
+}

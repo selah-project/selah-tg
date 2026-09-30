@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Агар марде зане гирад ва назди ӯ дарояд ва ӯро нафрат дошта бошад,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "гирад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зане"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ва дарояд"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "назди ӯ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ва ӯро нафрат дошта бошад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:04.447130210Z",
+  "model": "glm-5.3"
+}

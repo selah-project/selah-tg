@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 84,
+  "translation": "Чӣ маҳбубанд Мишканҳои Ту, Яҳве Тсевоот!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Чӣ"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "маҳбубанд"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Мишканҳои Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:06.776810829Z",
+  "model": "glm-5.3"
+}

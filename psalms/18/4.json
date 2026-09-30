@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ситоишшуда — Яҳверо меномам, ва аз душманонам наҷот меёбам.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ситоишшуда"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "меномам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душманонам"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "наҷот меёбам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:18.574557219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Йоав писари Тсаруйа донист, ки дилҳои шоҳ ба сӯи Авшалом аст.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "донист"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Тсаруйа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дилҳои"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-09-30T16:56:01.063010654Z",
+  "model": "glm-5.3"
+}

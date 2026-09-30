@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 12:6",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва яке ба марди пӯшидаи катон, ки болои обҳои ⟨the⟩ дарё буд, гуфт: То кай ⟨will be⟩ охири ин мӯъҷизаҳо?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ба марди"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "пӯшидаи"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "катон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "болои"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "обҳои"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "дарё"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "охири"
+    },
+    {
+      "surface": "הפלאות",
+      "gloss": "ин мӯъҷизаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:05.397962798Z",
+  "model": "glm-5.3"
+}

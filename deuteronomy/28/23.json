@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Осмоне ки аз болои сари ту аст, мис бошад, ва замине ки зери пои ту аст, оҳан.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "бошанд"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "осмони ту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз болои"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "сари ту"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мис"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ва замин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "зери пои ту"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "оҳан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:18.203090964Z",
+  "model": "glm-5.3"
+}

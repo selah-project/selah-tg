@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Исёнгарон будед бо Яҳве аз рӯзе ки ⟨את⟩ шуморо шинохтам.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "исёнгарон"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "будед"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "аз рӯзе"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ки шинохтам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ шуморо",
+      "marks": "шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:47.642385136Z",
+  "model": "glm-5.3"
+}

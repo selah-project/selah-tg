@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва арони Яҳве дар замдики Филиштимӣҳо ҳафт моҳ монд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "арон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "дар замдики"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филиштимӣҳо"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "моҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:42:33.683576697Z",
+  "model": "glm-5.3"
+}

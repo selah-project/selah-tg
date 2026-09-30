@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 10:21",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Чор рӯй ба ҳар яке ва чор бол ба ҳар яке; ва шабоҳати дасти одам зери болҳои онҳост.",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ба ҳар яке"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ба ҳар яке"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "ва шабоҳат"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "даст"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "болҳои онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:51.614692191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Инро ба дилам бармегардонам — бар ҳамин умедвор мешавам.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "инро"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "бармегардонам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дилам"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "умедвор мешавам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:12.245994591Z",
+  "model": "glm-5.3"
+}

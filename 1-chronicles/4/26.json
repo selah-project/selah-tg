@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва писарони Мишмаъ: Ҳаммуэл писараш, Заккур писараш, Шимъӣ писараш.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "Мишмаъ"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "Ҳаммуэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:20.392936859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Сеҳргарзанро зинда нагузор.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "сеҳргарзанро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "зинда гузор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:43.980569505Z",
+  "model": "glm-5.3"
+}

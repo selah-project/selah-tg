@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз Маллухӣ — Йонатон; аз Шеваная — Йосеф.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "аз Маллухӣ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатон"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "аз Шеваная"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:59.128687950Z",
+  "model": "glm-5.3"
+}

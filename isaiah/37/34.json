@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ба он роҳе ки омад, ба он бармегардад, ва ба ин шаҳр нахоҳад омад, — мегӯяд Яҳве.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "ба роҳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "бармегардад"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "нахоҳад омад"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:32:21.601151820Z",
+  "model": "glm-5.3"
+}

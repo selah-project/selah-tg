@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони Байт-Леҳем ва Нетофа — саду ҳаштоду ҳашт.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Леҳем"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ва Нетофа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ҳаштод"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ва ҳашт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:38.167979133Z",
+  "model": "glm-5.3"
+}

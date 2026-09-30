@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Эрваи хоҳари падари туро ошкор накун, ки гӯшти падари ту аст.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "эрваи"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "хоҳари"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падари ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ошкор"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "гӯшти"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падари ту"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:39.759672683Z",
+  "model": "glm-5.3"
+}

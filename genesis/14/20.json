@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 14:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва муборак Эл Элён, ки душманонатро ба дасти ту супорид; ва ӯ ба ӯ даҳяк аз ҳама дод.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "ва муборак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Элён"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "супорид"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "душманонат"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ба дасти ту"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва ӯ дод"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "даҳяк"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳама"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:44.076045212Z",
+  "model": "glm-5.3"
+}

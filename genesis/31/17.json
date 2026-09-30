@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Яъқоб хест ва писаронаш ва занонашро бар шутурҳон савор кард.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "савор кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "писаронаш"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "занонаш"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "занонаш"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "шутурҳон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:12.063693246Z",
+  "model": "glm-5.3"
+}

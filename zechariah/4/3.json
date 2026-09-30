@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ду дарахти зайтун назди он — яке аз ростии кӯза ва яке аз чапи он.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ва ду"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "дарахти зайтун"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "назди он"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "аз ростӣ"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "кӯза"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ва яке"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "чапи он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:38.826049164Z",
+  "model": "glm-5.3"
+}

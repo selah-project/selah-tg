@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Рӯ ба рӯи дарозии сад амаҳ даромадгоҳи шимол буд, ва бараш панҷоҳ амаҳ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "рӯ ба рӯи"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозии"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амаҳ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "даромадгоҳи"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "шимол"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ва бараш"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:33.140268667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Вале агар аз назр сузондан худдорӣ кунӣ, дар ту гуноҳ набошад.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "вале агар"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "худдорӣ кунӣ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "аз назр сузондан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар ту"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:04.757011788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "⟨את⟩ руҳи ҷанубро чен кард — панҷсад қадҳӣ, бо қадҳии ченак.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руҳи ҷануб"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руҳи"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ҷануб"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "чен кард"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "қадҳӣ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "бо қадҳии"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ченак"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:13.005160226Z",
+  "model": "glm-5.3"
+}

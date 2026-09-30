@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Зеро мардони лашкар ҳар як ба худ ғанимат гирифта буданд.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "лашкар"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ғанимат гирифта буданд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар як"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:44.043394617Z",
+  "model": "glm-5.3"
+}

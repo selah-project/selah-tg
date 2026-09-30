@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 115,
+  "translation": "Чаро халқҳо гӯянд: «Коҷост Элоҳими онҳо?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "гӯянд"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "איה",
+      "gloss": "коҷост"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элоҳими онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:16.525535491Z",
+  "model": "glm-5.3"
+}

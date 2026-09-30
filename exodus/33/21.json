@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва Яҳве мегӯяд: Инак, ҷое назди Ман ⟨את⟩, ва ту бар санг истодаӣ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷое"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ назди Ман"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "ва ту истодаӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "санг"
+    }
+  ],
+  "timestamp": "2026-09-30T15:41:40.198695157Z",
+  "model": "glm-5.3"
+}

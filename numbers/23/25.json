@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Болоқ ба Билъом гуфт: ҳатто маломат нақаб, ҳатто баракат надиҳад ба ӯ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Болоқ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "קב",
+      "gloss": "маломат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "қаб кунӣ ӯро"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "баракат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "диҳад ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:20.744387305Z",
+  "model": "glm-5.3"
+}

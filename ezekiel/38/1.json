@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва сухари Яҳве ба ман омад, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ... омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:13:11.285107994Z",
+  "model": "glm-5.3"
+}

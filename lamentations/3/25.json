@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Некӯст Яҳве ба он ки ба ӯ умед бастааст, ба нафсе ки ӯро меҷӯяд.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Некӯст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ба он ки ба ӯ умед бастааст"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ба нафсе ки"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ӯро меҷӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.300726055Z",
+  "model": "glm-5.3"
+}

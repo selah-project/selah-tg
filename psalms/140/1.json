@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 140,
+  "translation": "Ба сарвари овозахонон. Мазмур аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба сарвари овозахонон"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:30.608127543Z",
+  "model": "glm-5.3"
+}

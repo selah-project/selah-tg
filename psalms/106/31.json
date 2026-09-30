@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 106,
+  "translation": "Ва ба ӯ ҳисоб шуд ба тседака, насл ба насл, то абад.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ва ҳисоб шуд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ба тседака"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "насл"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ба насл"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:15.800270939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Моше ⟨את⟩ асоҳоро пеши Яҳве дар хаймаи шаҳодат гузошт.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "асоҳоро"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "асоҳоро"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "дар хаймаи"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "шаҳодат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:27.032836218Z",
+  "model": "glm-5.3"
+}

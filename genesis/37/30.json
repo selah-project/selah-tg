@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва назди бародаронаш баргашт ва гуфт: «Кӯдак нест, ва ман — ба куҷо равам?»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "баргашт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародаронаш"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "кӯдак"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "нест"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ба куҷо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "בא",
+      "gloss": "равам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:38.126297455Z",
+  "model": "glm-5.3"
+}

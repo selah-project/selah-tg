@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Касил ба фаҳмиш розӣ намешавад, балки ба ошкор шудани дили худ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "намешавад... не"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "розӣ мешавад"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "касил"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ба фаҳмиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "балки"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ба ошкор шудан"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дили ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:07.581320480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 81,
+  "translation": "Дамидед дар моҳ карнай; дар рӯзи мазкур бар рӯзи иди мо.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "дамидед"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "дар моҳ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "карнай"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "дар рӯзи мазкур"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "бар рӯзи"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "иди мо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:42.260939327Z",
+  "model": "glm-5.3"
+}

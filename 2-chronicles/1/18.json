@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Шеломоҳ гуфт, ки хонае барои Номи Яҳве ва хонае барои подшоҳии худ бисозад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоҳ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "барои бино кардан"
+    },
+    {
+      "surface": "бейти лшем Яҳве — corrected below",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:56.642978692Z",
+  "model": "glm-5.3"
+}

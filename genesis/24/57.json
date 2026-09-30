@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва гуфтанд: бихонем духтарро ва ⟨את⟩ даҳонашро бипурсем.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ва гуфтанд"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "бихонем"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "духтарро"
+    },
+    {
+      "surface": "וישאלה",
+      "gloss": "ва бипурсем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "даҳонаш"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "даҳонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:52.454270309Z",
+  "model": "glm-5.3"
+}

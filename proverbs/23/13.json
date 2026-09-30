@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Тарбияро аз кӯдак маҳрам макун, ки туро бо асо мезанӣ, вай намирад.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "макун"
+    },
+    {
+      "surface": "תמнע",
+      "gloss": "маҳрам"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "аз кӯдак"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбияро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "мезанӣ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "бо асо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "мирад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:31.682881577Z",
+  "model": "glm-5.3"
+}

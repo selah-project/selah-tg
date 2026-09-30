@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Зиф, ва Телем, ва Баалот.",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ва Телем"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ва Баалот"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:37.425811624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва бад шуд ба назди Йуно бадии бузург, ва ӯ ба хашм омад.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ва бад шуд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба назди"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йуно"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ва ба хашм омад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:23.104719760Z",
+  "model": "glm-5.3"
+}

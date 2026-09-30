@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва инҳо суханонеанд, ки Яҳве ба Исроил ва ба Яҳудо гуфт.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ва инҳо"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яҳудо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:06:09.402089391Z",
+  "model": "glm-5.3"
+}

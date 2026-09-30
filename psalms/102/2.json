@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 102,
+  "translation": "Эй Яҳве, дуои маро бишнав, ва фарёд аз ман назди Тавояд.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Эй Яҳве"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дуои маро"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ва фарёд аз ман"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "назди Таво"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:11.249291740Z",
+  "model": "glm-5.3"
+}

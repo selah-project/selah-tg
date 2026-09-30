@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Тавонам нест ман, танҳо, бардоштани ⟨את⟩ тамоми ин халқро, зеро вай аз ман вазнин аст.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "тавонам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "бардоштани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тамоми ин халқ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "вазнин"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:54.966197085Z",
+  "model": "glm-5.3"
+}

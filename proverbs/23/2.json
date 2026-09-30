@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "ва кордро ба гулӯягузор, агар соҳиби нафас ҳастӣ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ва гузор"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "корд"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ба гулӯят"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "соҳиби"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ҳастӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:00.324109241Z",
+  "model": "glm-5.3"
+}

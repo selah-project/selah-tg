@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Заҳри танинҳост майи онҳо, ва оташмири потори сахтҷон.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "заҳри"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "танинҳо"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "майи онҳо"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ва оташмири"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "потори"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "сахтҷон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:53.828686013Z",
+  "model": "glm-5.3"
+}

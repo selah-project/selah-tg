@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва сухари Яҳве ба Шломо омад, ба гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва...буд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:55.427588865Z",
+  "model": "glm-5.3"
+}

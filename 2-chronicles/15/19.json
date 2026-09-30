@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва ҷанг набуд то соли сиву панҷоҳуми подшоҳии Асо.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ва ҷанг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "набуд — не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "соли"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сиву"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "панҷоҳуми"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "подшоҳии"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:47:27.859330311Z",
+  "model": "glm-5.3"
+}

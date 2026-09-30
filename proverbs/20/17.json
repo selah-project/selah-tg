@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Нони қазиб ба одам ширин аст, вале баъдан даҳонаш аз регча пур мешавад.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "ширин аст"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ба одам"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "қазиб"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "вале баъдан"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "пур мешавад"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "даҳонаш"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "регча"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:23.977386956Z",
+  "model": "glm-5.3"
+}

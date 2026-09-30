@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 79,
+  "translation": "То кай, эй Яҳве, хашм гирии то абад? Ҳасадати ту мисли оташ месӯзонад.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "то кай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "(то) кай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "хашм гирии"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "месӯзонад"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мисли"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ҳасадати ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:57.902852833Z",
+  "model": "glm-5.3"
+}

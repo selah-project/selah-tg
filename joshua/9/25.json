@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 9:25",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва акнун, behold, мо дар дасти ту; он чи ба назарат некӯ ва рост бинамояд, ки бо мо кунӣ — бикун.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "behold, мо"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "дар дасти ту"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "он чи некӯ"
+    },
+    {
+      "surface": "וכישר",
+      "gloss": "ва рост"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ба назарат"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кунӣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бо мо"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бикун"
+    }
+  ],
+  "timestamp": "2026-09-30T16:25:37.933726422Z",
+  "model": "glm-5.3"
+}

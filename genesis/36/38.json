@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва Шаул мурд, ва ба ҷои ӯ Баал-Ҳанан, писари Ақбор, подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ҳанан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Ақбор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:13.730597400Z",
+  "model": "glm-5.3"
+}

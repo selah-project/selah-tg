@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва Шевуэл писари Гершом, писари Моше, сардор бар анборҳо буд.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "ва Шевуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "анборҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:38.953140949Z",
+  "model": "glm-5.3"
+}

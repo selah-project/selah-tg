@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ҳоло, воқеан, ки ман гоэлам, вале гоэли дигаре ҳаст, ки наздиктар аз ман аст.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва ҳоло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "воқеан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "вале"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэли"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "наздиктар"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:22.698654559Z",
+  "model": "glm-5.3"
+}

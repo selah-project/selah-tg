@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Моше ба овози хусни худ гӯш кард ва ҳар он чиро ки гуфт, кард.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ва гӯш кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ба овози"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "хусни худ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ва кард"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар он чиро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:33.466769960Z",
+  "model": "glm-5.3"
+}

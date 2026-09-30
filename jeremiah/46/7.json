@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ин кӣст, ки мисли Йеор мебарояд, мисли дарёҳо обҳои худ меҷӯшонад?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ин кӣст"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "мисли Йеор"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "мебарояд"
+    },
+    {
+      "surface": "кנהרות",
+      "gloss": "мисли дарёҳо"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "меҷӯшонад"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "обҳои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:55:30.476776450Z",
+  "model": "glm-5.3"
+}

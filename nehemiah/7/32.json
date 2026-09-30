@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони Бет-Эл ва Ай — саду бисту се нафар.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ва Ай"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ву се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:39.368907022Z",
+  "model": "glm-5.3"
+}

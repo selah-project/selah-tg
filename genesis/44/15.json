@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 44:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ва Йосеф ба онҳо гуфт: Ин кадом корест, ки кардед? Оё намедонед, ки марде мисли ман фолбинӣ мекунад?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "кардед"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "оё на"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "медонед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "фолбинӣ"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "мекунад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "мисли ман"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:13.755206078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Агар ⟨ӯ⟩ девор бошад, бар ӯ бурҷи нуқра месозем; ва агар ⟨ӯ⟩ дар бошад, ӯро бо тахтаҳои арз маҳкам медорем.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "девор"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ӯ⟩ бошад"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "месозем"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "бурҷи"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ӯ⟩ бошад"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "маҳкам медорем"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "тахтаҳои"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "арз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:37.044447904Z",
+  "model": "glm-5.3"
+}

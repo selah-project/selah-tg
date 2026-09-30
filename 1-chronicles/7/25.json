@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Рефаҳ писари ӯ, ва Решеф, ва Телаҳ писари ӯ, ва Таҳан писари ӯ.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "ва Рефаҳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "ва Решеф"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "ва Телаҳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "ва Таҳан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:30.107877178Z",
+  "model": "glm-5.3"
+}

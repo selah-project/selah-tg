@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва як мард аз кӯҳистони Эфрайим буд ва номи ӯ Микаҳу буд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "як мард"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "аз кӯҳистони"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ва номи ӯ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микаҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T16:38:47.738219922Z",
+  "model": "glm-5.3"
+}

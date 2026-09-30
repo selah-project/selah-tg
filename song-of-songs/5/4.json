@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Дӯсти ман дасти худро аз сӯрохии дар дароз кард, ва даруни ман барои ӯ ба шӯр омад.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "дӯсти ман"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "дароз кард"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "дасти худро"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "החר",
+      "gloss": "сӯрохии дар"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "ва даруни ман"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ба шӯр омад"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "барои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:06.682749877Z",
+  "model": "glm-5.3"
+}

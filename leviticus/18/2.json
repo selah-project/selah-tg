@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ба банӣ-Йисроэл гӯй ва ба онҳо бигӯ: «Ман Яҳве, Элоҳими шумо ҳастам».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "гӯй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ…ҳо"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ва бигӯ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳими шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:00.569680463Z",
+  "model": "glm-5.3"
+}

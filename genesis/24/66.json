@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва хизматгор ба Йитсҳоқ ⟨את⟩ ҳамаи корҳое ки карда буд, нақл кард.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "нақл кард"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "хизматгор"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ба Йитсҳоқ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи корҳо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "корҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "карда буд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:44.695932749Z",
+  "model": "glm-5.3"
+}

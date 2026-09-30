@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва гаштам ва аз кӯҳ фуруд омадам, ва кӯҳ дар оташ месӯхт, ва ду лавҳи аҳд бар ду дасти ман буд.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "Ва гаштам"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ва фуруд омадам"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ва кӯҳ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "месӯхт"
+    },
+    {
+      "surface": "באש",
+      "gloss": "дар оташ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ва ду"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "лавҳи"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "аҳд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "дасти ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:10.084015264Z",
+  "model": "glm-5.3"
+}

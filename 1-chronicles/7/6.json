@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Бинёмин: Белъа, ва Бехер, ва Йдиъэл — се нафар.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Бинёмин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Белъа"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "ва Бехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "ва Йдиъэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:54.327633090Z",
+  "model": "glm-5.3"
+}

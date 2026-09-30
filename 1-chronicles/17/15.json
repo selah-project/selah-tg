@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Мувофиқи ҳамаи ин суханон ва мувофиқи тамоми ин руъё Натон ба Довуд гуфт.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "мувофиқи ҳамаи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханон"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "ва мувофиқи тамоми"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "руъё"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:27.877596380Z",
+  "model": "glm-5.3"
+}

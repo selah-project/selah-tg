@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 91,
+  "translation": "Бало ба сарат наояд ва зарар ба хаймаи туро наздик нашавад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба сарат"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бало"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ва зарар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "наздик нашавад"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ба хаймаи туро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:32.410803221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Тседик доир ба доварии камбагалон медонад; рашоъ донишро намефаҳмад.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "тседик"
+    },
+    {
+      "surface": "דין",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "камбагалон"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "рашоъ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "намефаҳмад"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "донишро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:49.319016895Z",
+  "model": "glm-5.3"
+}

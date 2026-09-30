@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ба Яҳве такё кунед то абад, зеро дар Яҳ, Яҳве — санги асрҳост.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "такё кунед"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "то"
+    },
+    {
+      "surface": "עד",
+      "gloss": "абад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "дар Яҳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צור",
+      "gloss": "санг"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "асрҳост"
+    }
+  ],
+  "timestamp": "2026-09-30T17:29:09.598072596Z",
+  "model": "glm-5.3"
+}

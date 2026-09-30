@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ба сарватманд гӯштуру молҳои зиёд — неъматаш бениҳоят бисёр буд.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ба сарватманд"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "гӯштур"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ва мол"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "зиёд"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бениҳоят"
+    }
+  ],
+  "timestamp": "2026-09-30T16:55:45.265726875Z",
+  "model": "glm-5.3"
+}

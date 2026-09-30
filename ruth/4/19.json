@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Хетсрон ⟨את⟩ Рамро зод, ва Рам ⟨את⟩ Аминадавро зод.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "ва Хетсрон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рамро"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ва Рам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аминадавро"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:03.428164031Z",
+  "model": "glm-5.3"
+}

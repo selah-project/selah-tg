@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Куҷост он роҳе ки нур дар он сокин аст, ва торикӣ — куҷост ҷои он?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "куҷост"
+    },
+    {
+      "surface": "зה",
+      "gloss": "он"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "сокин аст"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нур"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ва торикӣ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "куҷост"
+    },
+    {
+      "surface": "זה",
+      "gloss": "он"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ҷои он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:30.433849795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 38:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Эй бани одам, рӯи худ ба сӯи Гоги замини Магог, сарвари Рош, Мешек ва Тувал гардон, ва бар ӯ набӣ кун.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "бани"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "שים",
+      "gloss": "гардон"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯи худ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "המגוג",
+      "gloss": "Магог"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "Рош"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Мешек"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ва Тувал"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ва набӣ кун"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:13:11.285433272Z",
+  "model": "glm-5.3"
+}

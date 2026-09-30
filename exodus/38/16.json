@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ҳамаи пардаҳои ҳавлӣ гирди он аз зафои нозуки ресмонфурӯ буд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "пардаҳои"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ҳавлӣ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирди он"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зафои нозук"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ресмонфурӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:49.173287932Z",
+  "model": "glm-5.3"
+}

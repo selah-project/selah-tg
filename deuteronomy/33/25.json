@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Оҳан ва мис қулфҳои туро, ва ҳамчун рӯзҳои тун — қувваи ту.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ва мис"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "қулфҳои туро"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "ва ҳамчун рӯзҳои тун"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "қувваи ту"
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:59.970285420Z",
+  "model": "glm-5.3"
+}

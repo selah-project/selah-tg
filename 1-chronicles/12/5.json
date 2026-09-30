@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "ва Йирмия, ва Яҳазиил, ва Йӯҳонон, ва Йӯзободи Гедаратӣ",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "ва Йирмия"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "ва Яҳазиил"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "ва Йӯҳонон"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "ва Йӯзобод"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "Гедаратӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:44.600091322Z",
+  "model": "glm-5.3"
+}

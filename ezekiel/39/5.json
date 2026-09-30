@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Бар рӯи саҳро меафтӣ, зеро ман сухан гуфтам, мегӯяд Адонай Яҳве.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "саҳро"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "меафтӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сухан гуфтам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:40.700568726Z",
+  "model": "glm-5.3"
+}

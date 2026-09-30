@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Яҳве бо ман аст — наметарсам: одам чӣ кор метавонад бо ман кунад?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "бо ман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "метарсам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кор кунад"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:33.821728780Z",
+  "model": "glm-5.3"
+}

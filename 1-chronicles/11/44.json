@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Узияҳ аштаротӣ, Шамаъ ва Йеуэл, писарони Хотом ароерӣ.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Узияҳ"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "аштаротӣ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шамаъ"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "ва Йеуэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотом"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ароерӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:59.551902172Z",
+  "model": "glm-5.3"
+}

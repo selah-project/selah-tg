@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Авраҳам пеши халқи замин саҷда кард.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "саҷда кард"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:02.440451219Z",
+  "model": "glm-5.3"
+}

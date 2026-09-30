@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Ҳадад мурд, ва ба ҷои ӯ Самла аз Машреқа подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ҳадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "аз Машреқа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:27.808937352Z",
+  "model": "glm-5.3"
+}

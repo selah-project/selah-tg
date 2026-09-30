@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ва Айюб мурд — пир ва аз рӯзҳо сер.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Айюб"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "пир"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва сер"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "аз рӯзҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:44.437944956Z",
+  "model": "glm-5.3"
+}

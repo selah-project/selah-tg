@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Яҳве аз Йисроэл сар ва думро бурид — шохи хурмо ва най — дар як рӯз.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "ва бурид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "аз Йисроэл"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "ва дум"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "шохи хурмо"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "ва най"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:25.739782658Z",
+  "model": "glm-5.3"
+}

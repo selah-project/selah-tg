@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз Эзро — Мешуллам; аз Амарая — Йеҳоҳанон.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "аз Эзро"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "аз Амарая"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Йеҳоҳанон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:59.128436504Z",
+  "model": "glm-5.3"
+}

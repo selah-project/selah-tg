@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Лабҳоро мебӯса ⟨он ки⟩ ҷавоби суханонҳои ростин медиҳад.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "лабҳоро"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "мебӯса"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "ҷавобдиҳанда"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "суханон"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ростин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:48.186887224Z",
+  "model": "glm-5.3"
+}

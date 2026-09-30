@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 78,
+  "translation": "Ва душманонашро ба пушт зад, ба онҳо хори абадӣ дод.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "зад"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "душманонашро"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ба пушт"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "хори"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абадӣ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:22.613386750Z",
+  "model": "glm-5.3"
+}

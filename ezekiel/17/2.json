@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "«Э фарзанди одам, маҷмаъе пеш гузор ва масале ба хонаи Йисроэл бигӯ».",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "фарзанд"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "маҷмаъе пеш гузор"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "моҷмаъ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ва масал"
+    },
+    {
+      "surface": "משל",
+      "gloss": "бигӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:04:40.189967815Z",
+  "model": "glm-5.3"
+}

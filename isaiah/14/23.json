@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 14:23",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Va onro meguzoram ʙa mulki хokposht va ʙa hovuzhoi oʙ, va onro khoham ruda kardan ʙo çoruʙi noʙudī, megūjad Yaҳve Tsevoot.",
+  "tokens": [
+    {
+      "surface": "ושמתיה",
+      "gloss": "meguzoram onro"
+    },
+    {
+      "surface": "למורש",
+      "gloss": "ʙa mulki"
+    },
+    {
+      "surface": "קפד",
+      "gloss": "хokposht"
+    },
+    {
+      "surface": "ואגמי",
+      "gloss": "va hovuzhoi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "oʙ"
+    },
+    {
+      "surface": "וטאטאתיה",
+      "gloss": "khoham ruda kardan onro"
+    },
+    {
+      "surface": "במטאטא",
+      "gloss": "ʙo çoruʙi"
+    },
+    {
+      "surface": "השמד",
+      "gloss": "noʙudī"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "megūjad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaҳve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevoot"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:12.541333075Z",
+  "model": "glm-5.3"
+}

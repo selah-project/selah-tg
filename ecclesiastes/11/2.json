@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳиссае ба ҳафт ва ҳамчунин ба ҳашт деҳ, зеро намедонӣ, ки чӣ бадӣ ба рӯи замин хоҳад омад.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "деҳ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ҳиссае"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ба ҳафт"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва ҳамчунин"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ба ҳашт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "медонӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба рӯи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:14.880247936Z",
+  "model": "glm-5.3"
+}

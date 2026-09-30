@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Зеро беҳайвонтар аз ҳар мард манам, ва фаҳми одамӣ ба ман нест.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "בער",
+      "gloss": "беҳайвонтар"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "манам"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "аз ҳар мард"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "фаҳми"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:32.318732825Z",
+  "model": "glm-5.3"
+}

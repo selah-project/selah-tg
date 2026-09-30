@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ту дидӣ, эй Яҳве, ситамеро ки ба ман шуд; доирии маро бинӣ.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ту дидӣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ситамеро ки ба ман шуд"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "доирии маро бинӣ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "доирии маро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:06.435718300Z",
+  "model": "glm-5.3"
+}

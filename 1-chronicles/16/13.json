@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Эй тухми Йисроэл, бандаи Ӯ, эй фарзандони Яъқоб, интихобшудаони Ӯ!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "тухми"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "бандаи Ӯ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "интихобшудаони Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:47.864324229Z",
+  "model": "glm-5.3"
+}

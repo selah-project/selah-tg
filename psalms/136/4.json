@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба kunç ваҳдаш кардани муҷизҳои бузург шукр гӯед, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ба кардани"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "муҷизҳои"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ваҳдаш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ аст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:19.742622165Z",
+  "model": "glm-5.3"
+}

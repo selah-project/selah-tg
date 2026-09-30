@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 82,
+  "translation": "Хез, Элоҳим, заминро доварӣ кун, зеро Ту ба ҳамаи халқҳо мерос мешавӣ!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "хез"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "доварӣ кун"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "заминро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "мерос мешавӣ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ба ҳамаи"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халқҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:47.344845191Z",
+  "model": "glm-5.3"
+}

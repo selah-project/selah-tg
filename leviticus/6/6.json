@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Оташи доимӣ бар мизбоҳ мехезад, хомӯш нашавад.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "доимӣ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "мехезад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мизбоҳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "хомӯш шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:55.824958078Z",
+  "model": "glm-5.3"
+}

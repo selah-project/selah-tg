@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 43,
+  "translation": "Ва ҷалоли Яҳве ба хона аз тариқи даромадгоҳе омад, ки рӯяш ба сӯи роҳи шарқ аст.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ва ҷалоли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "аз тариқи"
+    },
+    {
+      "surface": "שער",
+      "gloss": "даромадгоҳе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯяш"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ба сӯи роҳи"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "шарқ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:15:08.875994175Z",
+  "model": "glm-5.3"
+}

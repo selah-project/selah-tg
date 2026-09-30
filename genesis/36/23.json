@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва инҳо фарзандони Шовал: Алвон, ва Манаҳат, ва Эвал, Шефо ва Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовал"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алвон"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ва Манаҳат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ва Эвал"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ва Онам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:23.169235584Z",
+  "model": "glm-5.3"
+}

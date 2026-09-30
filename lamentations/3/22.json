@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ҳеседҳои Яҳве — зеро тамом нашудем; зеро раҳмати Ӯ тамом намешавад.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ҳеседҳои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "тамом нашудем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "тамом намешавад"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "раҳмати Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:12.246269091Z",
+  "model": "glm-5.3"
+}

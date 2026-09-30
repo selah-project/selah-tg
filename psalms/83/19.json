@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 83,
+  "translation": "Ва бидонанд, ки Тӯ — Номи Ту Яҳве — танҳо Тӯ ҳастӣ, Олӣ бар тамоми замин.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ва бидонанд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Тӯ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Номи Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "танҳо Тӯ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Олӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:29.375229017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва ⟨את⟩ Ҳориро дар кӯҳҳои Сеири онҳо, то Эл-Парон, ки бар канори биёбон аст.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ҳори"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Ҳори"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "дар кӯҳҳои онҳо"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Парон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "биёбон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:35.429535593Z",
+  "model": "glm-5.3"
+}

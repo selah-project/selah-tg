@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ҳамчунин вақте ки нодон дар роҳ меравад, дили ӯ ночиз аст ва ба ҳама мегӯяд, ки ӯ нодон аст.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ҳамчунин"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "вақте ки нодон"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "меравад"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дили ӯ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ночиз аст"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва мегӯяд"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ба ҳама"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:21.032037596Z",
+  "model": "glm-5.3"
+}

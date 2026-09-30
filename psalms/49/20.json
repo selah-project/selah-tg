@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Ба насли ниёгони худ меравад; онҳо то абад нурро намебинанд.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "меравад"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ба"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ниёгони ӯ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "абад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "намебинанд"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:12.467533019Z",
+  "model": "glm-5.3"
+}

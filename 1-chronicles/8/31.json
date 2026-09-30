@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Гдор, ва Аҳйо, ва Захар.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ва Гдор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва Аҳйо"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "ва Захар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:41.075584501Z",
+  "model": "glm-5.3"
+}

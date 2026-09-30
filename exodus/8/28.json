@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Паръо ⟨את⟩ дилоти худро ин бор ҳам вазнин кард, ва ⟨את⟩ халқро наравонид.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "ва вазнин кард"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дилоти худ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дилоти худро"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ин бор"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "наравонид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халқ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:32:36.745379039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Доварии худро бо ⟨את⟩ дӯсти худ адо кун ва сирри дигарро ошкор накун.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "доварии худ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "адо кун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дӯсти худ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "дӯсти худ"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ва сирри"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ошкор накун"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:20.782862070Z",
+  "model": "glm-5.3"
+}

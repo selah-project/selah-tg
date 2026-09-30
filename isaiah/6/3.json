@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва ин ба он нидо дод ва гӯфт: Қудӯс, қудӯс, қудӯс Яҳве Тсевоот — пуррии тамоми замин нури ӯст.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "ва нидо дод"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "זה",
+      "gloss": "он"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва гӯфт"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Қудӯс"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Қудӯс"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Қудӯс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пуррии"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "нури ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T17:24:13.169342029Z",
+  "model": "glm-5.3"
+}

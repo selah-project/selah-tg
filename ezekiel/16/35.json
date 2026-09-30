@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Бинобар ин, эй зиноёна, сухани Яҳверо бишнав.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "бинобар ин"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "эй зиноёна"
+    },
+    {
+      "surface": "шмъэй",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:04:43.468465027Z",
+  "model": "glm-5.3"
+}

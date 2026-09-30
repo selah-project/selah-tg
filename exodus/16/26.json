@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Шаш рӯз онро ҷамъ mekuned, ва дар рӯзи ҳафтум — Шаббат — дар он нахоҳад буд.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "онро ҷамъ мекунед"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯз"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нахоҳад буд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:13.541154332Z",
+  "model": "glm-5.3"
+}

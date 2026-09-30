@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Яҳве илтиҷои маро шунид; Яҳве дуои маро қабул мекунад.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "шунид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "илтиҷои маро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дуои маро"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "қабул мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:22.153933141Z",
+  "model": "glm-5.3"
+}

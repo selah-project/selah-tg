@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ҳамаи шуморашидагон шашсад ҳазор ва се ҳазору панҷсаду панҷоҳ буданд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ва ... буданд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "шуморашидагон"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ва се"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ва панҷоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:54.606424193Z",
+  "model": "glm-5.3"
+}

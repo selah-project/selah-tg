@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ӯ бар керув савор шуд ва парид, ва бар болҳои руах парвоз кард.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "савор шуд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керув"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "парид"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "парвоз кард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "болҳои"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:18.121493992Z",
+  "model": "glm-5.3"
+}

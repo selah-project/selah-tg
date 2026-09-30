@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Қувваи ман ва зимрати ман — Яҳ, ва ӯ ба ман ба наҷот шуд.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "қувваи ман"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ва зимрати ман"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ба наҷот"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:45.950495387Z",
+  "model": "glm-5.3"
+}

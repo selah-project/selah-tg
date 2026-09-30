@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ва писарони Левӣ: Гершон, Кеҳат ва Мерарӣ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левӣ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеҳат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ва Мерарӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:39.406869132Z",
+  "model": "glm-5.3"
+}

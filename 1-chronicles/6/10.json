@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва писарони Элкана: Амосай ва Аҳимот.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амосай"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ва Аҳимот"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:49.188790282Z",
+  "model": "glm-5.3"
+}

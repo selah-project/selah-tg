@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "«Шаҳодати бардағон ба зидди ҳамсояи худ анҷом надеҳ».",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "анҷом надеҳ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ба зидди ҳамсояи худ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шаҳодат"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "бардағон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:13.659146206Z",
+  "model": "glm-5.3"
+}

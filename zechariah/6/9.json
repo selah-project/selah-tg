@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва сузи Яҳве ба ман расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва … расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "суз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:36.693769322Z",
+  "model": "glm-5.3"
+}

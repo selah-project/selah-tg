@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Байт-Лаҳм — сад ва бисту се.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лаҳм"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бисту"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:13.299681952Z",
+  "model": "glm-5.3"
+}

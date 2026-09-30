@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Салма, падари Байт-Леҳем; Ҳареф, падари Байт-Гадер.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Леҳем"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Ҳареф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гадер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:29.395069735Z",
+  "model": "glm-5.3"
+}

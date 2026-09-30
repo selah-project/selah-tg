@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Дил талхии нафси худро медонад, ва бо шодиаш бегона омехта намешавад.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "талхии"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "нафси худро"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "ва бо шодиаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "наме"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "омехта мешавад"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бегона"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:12.525264988Z",
+  "model": "glm-5.3"
+}

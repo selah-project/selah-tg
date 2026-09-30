@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Он гоҳ аз пеши Ӯ кафи дасти фиристода шуд ва ин навишта сабт гардид.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "пеши Ӯ"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "фиристода шуд"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "кафи дасти"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "даст"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "ва навишта"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "сабт гардид"
+    }
+  ],
+  "timestamp": "2026-09-30T19:23:34.168712944Z",
+  "model": "glm-5.3"
+}

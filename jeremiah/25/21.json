@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "⟨את⟩ Эдом ва ⟨את⟩ Моав ва ⟨את⟩ фарзандони Аммонро,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "фарзандони Аммон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:09.852246648Z",
+  "model": "glm-5.3"
+}

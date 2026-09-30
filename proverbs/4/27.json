@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ба рост нағез ва на чап, пои худро аз бадӣ дур кун.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תט",
+      "gloss": "нағез"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ба рост"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ва на чап"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "дур кун"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "пои худро"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "аз бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:05.731341088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва коҳин аз лоғи равған гирад ва ба кафи дасти чапи худ резад.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "гирад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "аз лоғи"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "резад"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כף",
+      "gloss": "кафи"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "чапи"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:53.765745515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Агар мор бе сеҳр газад, бар соҳиби забон суде нест.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "газад"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "мор"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "сеҳр"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "суде нест"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "суд"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "бар соҳиби"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "забон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:39.229654178Z",
+  "model": "glm-5.3"
+}

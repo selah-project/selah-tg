@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "ва коҳен вайро наздик орад ва ӯро пеши Яҳве истодагӣ кунад",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "наздик орад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "вайро (зан)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "истодагӣ кунад"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:48.552983639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Зане ба худ магир, ва дар ин ҷой фарзандон — писарон ва духтарон — нахоҳӣ дошт.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "магир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба худ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "нахоҳӣ дошт"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "писарон"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ва духтарон"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "дар ҷой"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:28.590835320Z",
+  "model": "glm-5.3"
+}

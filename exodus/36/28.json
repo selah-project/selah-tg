@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 36:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "ва барои кунҷҳои Мишкан, дар ду қафо, ду кашӣ сохт.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "кашӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "барои кунҷҳои"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "дар ду қафо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:25.672838793Z",
+  "model": "glm-5.3"
+}

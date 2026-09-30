@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Аз тарси ногоҳон натарс ва аз табории бадкорон, вақте ки меояд.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "натарс"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "натарс"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "аз тарси"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ногоҳон"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ва аз табории"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "вақте ки"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "меояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:29.661524307Z",
+  "model": "glm-5.3"
+}

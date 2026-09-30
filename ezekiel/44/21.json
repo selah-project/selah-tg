@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ва шароб нонӯшад ҳеҷ коҳин, вақте ки ба ҳавлии дохилӣ меоянд.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ва шароб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нонӯшад"
+    },
+    {
+      "surface": "יִשְׁתּוּ",
+      "gloss": "нонӯшад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "вақте ки меоянд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ҳавлии"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "дохилӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:15:48.916969716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Чаро то абад моро фаромӯш мекунӣ, моро то рӯзҳои дароз месозӣ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Чаро"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "моро фаромӯш мекунӣ"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "моро месозӣ"
+    },
+    {
+      "surface": "лארך",
+      "gloss": "то рӯзҳои дароз"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "(рӯзҳо)"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:48.397909318Z",
+  "model": "glm-5.3"
+}

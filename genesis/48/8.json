@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва Йисроэл ⟨את⟩ писарони Йосефро дид ва гуфт: «Инҳо кистанд?»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ва дид"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "писарони Йосефро"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кистанд"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:28:37.830200498Z",
+  "model": "glm-5.3"
+}

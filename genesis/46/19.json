@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Писарони Роҳел, зан Яъқов: Йосеф ва Бинъёмин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Роҳел"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зан"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ва Бинъёмин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:49.423254442Z",
+  "model": "glm-5.3"
+}

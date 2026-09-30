@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Аз кабилаи Гад — Геуэл, писари Махӣ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "аз кабилаи"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "Геуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "Махӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:55.524291197Z",
+  "model": "glm-5.3"
+}

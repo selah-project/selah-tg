@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва писарони Гомер: Ашкеназ ва Рифат ва Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ва Рифат"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ва Тогарма"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:16.231746425Z",
+  "model": "glm-5.3"
+}

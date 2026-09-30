@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва баъд аз ин вай духтаре зойид ва номи ӯро Дина гузошт.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ва баъд аз ин"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "зойид"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтар"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ва гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:39.282518307Z",
+  "model": "glm-5.3"
+}

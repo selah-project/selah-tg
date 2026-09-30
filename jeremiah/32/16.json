@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва ба Яҳве дуо кардам, баъди додани ⟨את⟩ китоби харидро ба Барӯх писари Нерияҳ, гӯён:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "дуо кардам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъди"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "додани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "китоби харид"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китоб"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "харид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барӯх"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Нерияҳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:51.320031185Z",
+  "model": "glm-5.3"
+}

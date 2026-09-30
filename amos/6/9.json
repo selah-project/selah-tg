@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва агар даҳ мард дар як хона боқӣ монанд, онҳо хоҳанд мурд.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ва"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "боқӣ монанд"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мард"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "дар хона"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "хоҳанд мурд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:22:11.341752502Z",
+  "model": "glm-5.3"
+}

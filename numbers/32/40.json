@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Моше Гилъодро ба Махир, писари Менашше, дод ва ӯ дар он ҷо маскан гирифт.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилъод"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилъод"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ба Махир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "маскан гирифт"
+    },
+    {
+      "surface": "בה",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:05.700780028Z",
+  "model": "glm-5.3"
+}

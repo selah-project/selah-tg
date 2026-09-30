@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "сарвари Кеназ, сарвари Теъмон, сарвари Мибтсар.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "сарвари"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сарвари"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теъмон"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сарвари"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мибтсар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:59.812657780Z",
+  "model": "glm-5.3"
+}

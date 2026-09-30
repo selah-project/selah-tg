@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Бисёр гунаҳкор машав ва бемаънии набош; чаро дар вақти нестии худ бимирӣ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "накардан"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "гунаҳкор"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва накардан"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "набош"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "бемаънӣ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "бимирӣ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "дар нестӣ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "вақти ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:56.716115Z",
+  "model": "glm-5.3"
+}

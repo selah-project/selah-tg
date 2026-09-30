@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Наара ба ӯ ⟨את⟩ Аҳуззам ва ⟨את⟩ Ҳефер ва ⟨את⟩ Теменӣ ва ⟨את⟩ Аҳаштариро зоид; инҳо писарони Наараанд.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ва зоид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Наара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аҳуззам"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Аҳуззам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ҳефер"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Ҳефер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Теменӣ"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Теменӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аҳаштари"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Аҳаштари"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Наара"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:09.504253374Z",
+  "model": "glm-5.3"
+}

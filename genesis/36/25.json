@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва инҳо фарзандони Ана таҳ\/\/: Дишон ва Оҳоливама духтари Ана.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ана"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ва Оҳоливама"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ана"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:54.515327013Z",
+  "model": "glm-5.3"
+}

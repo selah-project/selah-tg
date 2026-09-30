@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Мотсо Бинъоро таваллуд кард; Рафа писари ӯ, Элъаса писари ӯ, Атсел писари ӯ.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ва Мотсо"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинъо"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинъо"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Элъаса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Атсел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:01.591917216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "писари Таҳат, писари Асир, писари Эвйасаф, писари Қораҳ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Таҳат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Асир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Эвйасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:05.758333389Z",
+  "model": "glm-5.3"
+}

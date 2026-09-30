@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Биёед, аз нони ман бихӯред ва аз шароби омехтаи ман бинӯшед.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "биёед"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "бихӯред"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "аз нони ман"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ва бинӯшед"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "аз шароб"
+    },
+    {
+      "surface": "масахти ... ",
+      "gloss": "омехтаи ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:01.908501141Z",
+  "model": "glm-5.3"
+}

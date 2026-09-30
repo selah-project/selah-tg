@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва онҳо дар ту барои нишонӣ ва барои ибрат хоҳанд буд ва дар насли ту то абад.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ва хоҳанд буд"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар ту"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "барои нишонӣ"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "ва барои ибрат"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "ва дар насли ту"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:42.810034380Z",
+  "model": "glm-5.3"
+}

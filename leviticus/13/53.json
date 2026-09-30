@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар коҳен бинад ва іншо, ки зарар дар либос ё дар арғамҷӣ ё дар тароҳ ё дар ҳар гуна асбоби пӯст паҳн нашуда бошад —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "бинад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва іншо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нашуда"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "паҳн"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "дар либос"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "дар арғамҷӣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "дар тароҳ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳар гуна"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоб"
+    },
+    {
+      "surface": "עור",
+      "gloss": "пӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:12.723561553Z",
+  "model": "glm-5.3"
+}

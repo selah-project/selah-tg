@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва сатри саввум: лешем, шebo ва ахлама.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ва сатри"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "саввум"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шebo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ва ахлама"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:02.244954606Z",
+  "model": "glm-5.3"
+}

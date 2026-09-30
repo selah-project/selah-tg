@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва калимаи Яҳве ба ман омад, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва... омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калимаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:07:58.828387585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Танҳо ⟨את⟩ тилло ва ⟨את⟩ нуқра, ⟨את⟩ мис, ⟨את⟩ оҳан, ⟨את⟩ қалъӣ ва ⟨את⟩ сурб —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тилло"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "нуқра"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мис"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "мис"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оҳан"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қалъӣ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "қалъӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "сурб"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "сурб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:54.671379901Z",
+  "model": "glm-5.3"
+}

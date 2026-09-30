@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Некӯст, ки одамӣ ба нидо набошад ва оромона интизор кунад наҷотро аз Яҳве.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Некӯст"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ки одамӣ интизор кунад"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ва оромона"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "наҷотро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "аз Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.300972405Z",
+  "model": "glm-5.3"
+}

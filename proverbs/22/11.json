@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Дӯстдори покии дил, бо хушоҳангии лабҳояш — дӯсти ӯ подшоҳ аст.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "дӯстдор"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "покӣ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хушоҳангӣ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "лабҳояш"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дӯсти ӯ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:27.719562220Z",
+  "model": "glm-5.3"
+}

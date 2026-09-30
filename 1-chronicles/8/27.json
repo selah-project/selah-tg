@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Яъарешйа ва Элйа ва Зихрӣ, писарони Йероҳам.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ва Яъарешйа"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "ва Элйа"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ва Зихрӣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероҳам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:27.822924226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва рӯзи ягона хоҳад буд — он ба Яҳве маълум аст; на рӯз ва на шаб; ва воқеъ мешавад, ки дар вақти шом нур хоҳад буд.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ва хоҳад буд"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ягона"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "маълум"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ва мешавад"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "дар вақти"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "шом"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:30:24.907674775Z",
+  "model": "glm-5.3"
+}

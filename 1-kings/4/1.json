@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва подшоҳ Шлимо подшоҳӣ мекард бар тамоми Йисроэл.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шлимо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳӣ мекард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:02.249130059Z",
+  "model": "glm-5.3"
+}

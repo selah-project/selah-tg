@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве ба Довуди падарам гуфт: Зеро ки бо дили ту буд, ки барои Номи ман хонае бисозӣ, ту некӯ кардӣ, ки бо дили ту буд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падарам"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Зеро ки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "дили ту"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "бисозӣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонае"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "барои Номи ман"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "ту некӯ кардӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "дили ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:21.282957305Z",
+  "model": "glm-5.3"
+}

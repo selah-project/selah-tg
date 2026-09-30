@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва Паръо бар ду сариси худ — бар сари соқиён ва бар сари нонпазон — ғазаб кард.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "ғазаб кард"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "сариси худ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сари"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "соқиён"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сари"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "нонпазон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:51.000463473Z",
+  "model": "glm-5.3"
+}

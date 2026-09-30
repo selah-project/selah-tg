@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Дасти худро бар ӯ бигзор; ҷангро ёд кун — боз наафзой",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "бигзор"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "дасти худро"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ёд кун"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷангро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "боз наафзой"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:39.905298798Z",
+  "model": "glm-5.3"
+}

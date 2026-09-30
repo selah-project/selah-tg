@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ба роҳбари мусиқӣ, ба сабки неҳилот, мазмур аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сабки"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "неҳилот"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:28.769855911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "Яҳве тадбирҳои одамро медонад, ки онҳо беҳудаанд.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "тадбирҳо"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "беҳудаанд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:30.907353422Z",
+  "model": "glm-5.3"
+}

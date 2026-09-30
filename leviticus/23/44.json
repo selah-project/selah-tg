@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Моше мавсимҳои айёди Яҳверо ⟨את⟩ ба бании-Йисроэл баён кард.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва баён кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мавсимҳои айёди Яҳве"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "мавсимҳои айд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:00.767956955Z",
+  "model": "glm-5.3"
+}

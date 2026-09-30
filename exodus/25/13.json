@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва топҳеро аз чӯби шитта сохта, ⟨את⟩ онҳоро бо тилло мебипошӣ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ва сохта"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "топҳеро"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитта"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "мебипошӣ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ онҳоро"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "бо тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:46.934252378Z",
+  "model": "glm-5.3"
+}

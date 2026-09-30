@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "писари Яҳат, писари Гершом, писари Левӣ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яҳат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:18.070251360Z",
+  "model": "glm-5.3"
+}

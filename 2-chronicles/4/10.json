@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ⟨את⟩ Баҳрро аз китфи рост, сӯйи шарқ, рӯ ба ҷануб ниҳод.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Баҳр"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Баҳр"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ниҳод"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "аз китф"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "рост"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "сӯйи шарқ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "рӯ ба"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ҷануб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:20.541767127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Аз чӣ хотир боз зедан мешавед, ки гурезакорӣ боз меафзоед? Ҳар сар бемор аст ва ҳар дил беморхол.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "зедан мешавед"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "меафзоед"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "гурезакорӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "бемор"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "беморхол"
+    }
+  ],
+  "timestamp": "2026-09-30T17:21:55.623651356Z",
+  "model": "glm-5.3"
+}

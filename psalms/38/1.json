@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Мизмори Довуд, барои ёдовар кардан.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "барои ёдовар кардан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:05.526402027Z",
+  "model": "glm-5.3"
+}

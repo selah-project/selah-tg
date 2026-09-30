@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва боз ҳомила шуд ва писаре зоид, ва ӯ номи ⟨את⟩-и ӯро Онан гузошт.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомила шуд"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:52.800675917Z",
+  "model": "glm-5.3"
+}

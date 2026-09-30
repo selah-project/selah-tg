@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "ва аз фарзандони Бинёмин: Саллу писари Мешуллам писари Ҳодавя̄ҳ писари ⟨ánakҲаснуа̄ҳ⟩.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинёмин"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Саллу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Ҳодавяҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Ҳаснуаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:18.746873736Z",
+  "model": "glm-5.3"
+}

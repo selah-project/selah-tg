@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "A bundle of silver he took in his hand, at the day of the full moon he will come to his house.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "a bundle"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "of silver"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "he took"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in his hand"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "at the day"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "of the full moon"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "he will come"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "to his house"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:36.769349245Z",
+  "model": "glm-5.3"
+}

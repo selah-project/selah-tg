@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Дарвоза бар меғелони худ мегардад, ва танбал бар бистари худ.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "дарвоза"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "мегардад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "меғелони худ"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "ва танбал"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "бистари худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:56.800415777Z",
+  "model": "glm-5.3"
+}

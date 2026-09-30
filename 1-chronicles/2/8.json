@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва фарзандони Эйтон: Аъзарё.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтон"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Аъзарё"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:01.770437294Z",
+  "model": "glm-5.3"
+}

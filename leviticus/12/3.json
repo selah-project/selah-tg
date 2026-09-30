@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва дар рӯзи ҳаштум пӯсти ғафси ӯ ҳилол карда шавад.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ҳилол карда шавад"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "пӯст"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ғафси ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:58.784029647Z",
+  "model": "glm-5.3"
+}

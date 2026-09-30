@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва левиҳо бо асбобҳои Довуд истоданд, ва коҳинон бо карнайҳо.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "истоданд"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левиҳо"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "бо асбобҳои"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ва коҳинон"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "бо карнайҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:52:16.955105949Z",
+  "model": "glm-5.3"
+}

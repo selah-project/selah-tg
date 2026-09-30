@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Қабилаи Зевулун, ва сардори бонини Зевулун — Элиав писари Хелон.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "қабилаи"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ва сардор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "бонини"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:41.280002493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Урияи ҳиттӣ — ҳама дарӣ сиҳо ва ҳафт нафар.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ҳиттӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сиҳо"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ва ҳафт"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:14.627706411Z",
+  "model": "glm-5.3"
+}

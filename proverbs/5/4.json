@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Вале охирати ӯ талх аст мисли афсантин ва тез мисли теғи дудона.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "Вале охирати ӯ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "талх аст"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "мисли афсантин"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "тез"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "мисли теғи"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "дудона"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:44.588504776Z",
+  "model": "glm-5.3"
+}

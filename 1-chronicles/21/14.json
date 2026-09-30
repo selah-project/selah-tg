@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Яҳве таъунро дар Йисроэл паҳн кард, ва аз Йисроэл ҳафтод ҳазор мард афтоданд.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "паҳн кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "таъун"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "дар Йисроэл"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ва афтод"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "аз Йисроэл"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ҳафтод"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:29.059670509Z",
+  "model": "glm-5.3"
+}

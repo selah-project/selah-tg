@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ӯ рӯи ҳеҷ фидёро намепазирад ва розӣ намешавад, ҳатто агар туширо бисёр зиёд кунӣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "мепазирад"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "фидё"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва не"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "розӣ мешавад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "зиёд кунӣ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "туши"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:51.644592210Z",
+  "model": "glm-5.3"
+}

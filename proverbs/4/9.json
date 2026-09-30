@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ба сари ту тоҷиgrace — Ба сари ту гарландаи ҳусн медиҳад, тоҷи зиннат туро мепӯшонад.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ба сари туро"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "гарланда"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ҳусн"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "тоҷ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "зиннат"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "туро мепӯшонад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:11.055175361Z",
+  "model": "glm-5.3"
+}

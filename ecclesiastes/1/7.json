@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ҳамаи наҳрҳо ба баҳр мераванд, ва баҳр пур намешавад; ба ҷое ки наҳрҳо мераванд, он ҷо онҳо бозмегарданд, то раванд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "наҳрҳо"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "мераванд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ва баҳр"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "намешавад"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷое"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ки наҳрҳо"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "мераванд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "הם",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "бозмегарданд"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "то раванд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.851654528Z",
+  "model": "glm-5.3"
+}

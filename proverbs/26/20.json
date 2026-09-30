@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Бе ҳезум оташ хомӯш мешавад, ва бе ғайбаткунанда ҷанҷол ором мешавад.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "бе"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ҳезум"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "хомӯш мешавад"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ва бе"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "ғайбаткунанда"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "ором мешавад"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ҷанҷол"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:08.442084751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва Моше дар вақти маргаш сад ва бист сола буд; чашмаш нобино нашуд ва тару тозагияш набаромад.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ва Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…сола"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "дар вақти маргаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "нобино шуд"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "чашмаш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "נס",
+      "gloss": "набаромад"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "тару тозагияш"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:04.100038484Z",
+  "model": "glm-5.3"
+}

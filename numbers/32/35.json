@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "ва ⟨את⟩ Атарот-Шофон ва ⟨את⟩ Йаъзер ва Йогвеҳа.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Атарот-Шофон"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Шофон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Йаъзер"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Йаъзер"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "Йогвеҳа"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:12.073920108Z",
+  "model": "glm-5.3"
+}

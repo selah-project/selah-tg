@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва писарони Ҳелаа: Тсерет, Йитсҳар ва Этнан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Ҳелаа"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Тсерет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Йитсҳар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ва Этнан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:09.504494693Z",
+  "model": "glm-5.3"
+}

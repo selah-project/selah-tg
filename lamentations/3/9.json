@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Роҳҳояро бо сангҳои боркард девор кард, стҳояро каҷ кард.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "девор кард"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "роҳҳояро"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "бо сангҳои боркард"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "стҳояро"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "каҷ кард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.191986601Z",
+  "model": "glm-5.3"
+}

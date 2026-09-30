@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "ва ҳамаи халқҳо гӯянд: «Аз чӣ Яҳве чунин ба ин замин кард? Чӣст ин ҷӯшиши ғазаби бузурги чунин?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ва гӯянд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ба ин замин"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣст"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ҷӯшиши"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ғазаби"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:27.793803719Z",
+  "model": "glm-5.3"
+}

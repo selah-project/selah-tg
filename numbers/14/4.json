@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ба ҳамдигар гуфтанд: биёед сар坟интем ва ба Мисраим баргардем.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "гуфтанд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар як"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародари худ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "гузорем"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "вншвбе",
+      "gloss": "ва баргардем"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ба Мисраим"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:15.293300213Z",
+  "model": "glm-5.3"
+}

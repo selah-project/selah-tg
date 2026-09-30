@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва Йоэл ва Йеҳу писари Йошибйоҳо писари Серайоҳо писари Асиэл,",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ва Йоэл"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ва Йеҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Йошибйоҳо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Серайоҳо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Асиэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:30.383679790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": " як гӯсола, писари гов, як қӯчқор, як барра, писари яксола, барои қурбонии сӯзониданӣ.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "гӯсола"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "барра"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "барои қурбонии сӯзониданӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:20.831601665Z",
+  "model": "glm-5.3"
+}

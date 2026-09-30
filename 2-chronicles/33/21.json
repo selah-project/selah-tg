@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Бисту ду сола Аҳмон ба подшоҳӣ расид ва ду сол дар Ерушалайим подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сола"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "у ду"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Аҳмон"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ба подшоҳӣ расид"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "дар Ерушалайим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:52:15.027732693Z",
+  "model": "glm-5.3"
+}

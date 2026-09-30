@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Он сухане, ки аз Яҳве ба Йирмияҳу дар бораи беборониҳо расид.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмияҳу"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ҳодисаҳои"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "беборониҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:44.536630907Z",
+  "model": "glm-5.3"
+}

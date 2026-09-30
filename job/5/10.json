@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Кӣ боронро ба рӯи замин медиҳад ва обро ба рӯи берунҳо мефиристад.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Кӣ медиҳад"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "боронро"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ва мефиристад"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обро"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "берунҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:28.352133162Z",
+  "model": "glm-5.3"
+}

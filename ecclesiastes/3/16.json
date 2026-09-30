@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва боз дидам, ки зери офтоб — дар ҷои доварӣ он ҷо бадӣ аст, ва дар ҷои тседек он ҷо бадӣ аст.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ва боз"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷои"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ва дар ҷои"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:54.321121292Z",
+  "model": "glm-5.3"
+}

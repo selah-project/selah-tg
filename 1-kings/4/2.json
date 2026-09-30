@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва инҳо саророне буданд, ки ӯ дошт: Аазарёҳу писари Тсадок коҳин.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "саророн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯ дошт"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Аазарёҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Тсадок"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:02.249382766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 54,
+  "translation": "Инак, гар касе ҷамъ ояд — на аз ⟨את⟩ Ман; кӣ бо ⟨את⟩ ту ҷамъ ояд? Бар ту меафтад.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "инак"
+    },
+    {
+      "surface": "גור",
+      "gloss": "гар касе ҷамъ ояд"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ҷамъ ояд"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "на"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "Ман"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ҷамъ ояд"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "бо ⟨את⟩ ту"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "меафтад"
+    }
+  ],
+  "timestamp": "2026-09-30T17:36:36.271286038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва ӯ гуфт: «Бародарат бо макр омад ва баракати туро гирифт.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бародарат"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "бо макр"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ва гирифт"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "баракати туро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:34.226778372Z",
+  "model": "glm-5.3"
+}

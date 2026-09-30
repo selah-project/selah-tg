@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Пеш аз шикаст дилу ҷони одам такаббур мекунад, ва пеш аз ҷалол — камтаринӣ.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикаст"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "такаббур мекунад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ва пеш аз"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "камтаринӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:01.285522822Z",
+  "model": "glm-5.3"
+}

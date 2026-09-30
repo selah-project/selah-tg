@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Ту фармон додӣ, ки аҳкоми Худро бо ғайрат нигоҳ дорем.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "фармон додӣ"
+    },
+    {
+      "surface": "пקדיך",
+      "gloss": "аҳкоми Худ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "нигоҳ дорем"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бо ғайрат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:03.503802002Z",
+  "model": "glm-5.3"
+}

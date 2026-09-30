@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Оё чизест, ки дар борааш гӯянд: «Бин, ин нав аст»? Он аллакай дар замонҳои қадим буд, ки пеш аз мо буд.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "оё чизест"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "чизе"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "ки гӯянд"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бин"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "аллакай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "дар замонҳои қадим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "пеш аз мо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:33.591649937Z",
+  "model": "glm-5.3"
+}

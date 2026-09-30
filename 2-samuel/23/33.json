@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Шамма ⟨⟩ҳарарӣ, Аҳиам писари Шарар ⟨⟩ҳарарӣ,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ҳарарӣ"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "Аҳиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "Шарар"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ҳарарӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:16.062321965Z",
+  "model": "glm-5.3"
+}

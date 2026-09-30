@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 32:13",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "то нагӯед: «мо ҳикмат ёфтем», Эл ӯро мепартовад, на одам.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "то не"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "нагӯед"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "ёфтем"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ידפנו",
+      "gloss": "мепартовад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:10:08.248239420Z",
+  "model": "glm-5.3"
+}

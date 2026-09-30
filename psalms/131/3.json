@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 131,
+  "translation": "Э Йисроэл, ба Яҳве умед бош, аз ҳамин вақт то абад.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "умед бош"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "аз ҳамин вақт"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:19.135971170Z",
+  "model": "glm-5.3"
+}

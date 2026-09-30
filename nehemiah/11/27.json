@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва дар Ҳатсар-Шуал, ва дар Беэр-Шева ва деҳаҳои он.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "ва дар Ҳатсар"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуал"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "ва дар Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ва деҳаҳои он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:37.236854608Z",
+  "model": "glm-5.3"
+}

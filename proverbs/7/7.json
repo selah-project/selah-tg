@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "ва дар беақлон дидам, миёни писарон фаҳмидам — ҷавоне ки дилаш кам аст",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ва дидам"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "дар беақлон"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "фаҳмидам"
+    },
+    {
+      "surface": "бבנים",
+      "gloss": "миёни писарон"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ҷавоне"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "кам"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:30.525943521Z",
+  "model": "glm-5.3"
+}

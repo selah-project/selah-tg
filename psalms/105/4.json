@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 105,
+  "translation": "Яҳве ва қуввати Ӯ-ро ҷӯед, рӯи Ӯ-ро доимо бинҷаред.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "ҷӯед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ва қуввати Ӯ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "бинҷаред"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯи Ӯ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "доимо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:50.304492795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва сузи Яҳве ба Йирмияҳу набӣ омад, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "суз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмияҳу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:53:29.422981153Z",
+  "model": "glm-5.3"
+}

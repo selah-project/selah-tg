@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Фарзандони Йеҳуда — Эр ва Онан; ва Эр ва Онан дар замини Кенаъон мурданд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ва Онан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурданд"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ва Онан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаъон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:58.396469561Z",
+  "model": "glm-5.3"
+}

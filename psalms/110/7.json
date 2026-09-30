@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 110,
+  "translation": "Аз ҷӯйоб дар роҳ менӯшад; бинобар ин сарро баланд мекунад.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "аз ҷӯйоб"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "менӯшад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бинобар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "баланд мекунад"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сарро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:00.518769366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Зиёдае барои хӯрдани ӯ нест; аз ин рӯ некии ӯ намебоқад.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "зиёдаӣ"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "барои хӯрдани ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин рӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "намебоқад"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "некии ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:07:54.786159965Z",
+  "model": "glm-5.3"
+}

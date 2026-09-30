@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва фарзандони Лотан: Ҳорӣ ва Ҳомам; ва хоҳари Лотан — Тимна.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва фарзандони"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Ҳорӣ"
+    },
+    {
+      "surface": "ו הומם",
+      "gloss": "ва Ҳомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ва хоҳари"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:05.750190339Z",
+  "model": "glm-5.3"
+}

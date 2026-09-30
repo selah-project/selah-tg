@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Пӯсти мо чун танӯр тафид, аз рӯи ҳарорати гуруснагӣ.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "пӯсти мо"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "чун танӯр"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "тафид"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ҳарорати"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "гуруснагӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:20.897564244Z",
+  "model": "glm-5.3"
+}

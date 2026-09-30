@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва ба сӯи Ноҳ, ба киштӣ даромаданд ду-ду аз ҳар гӯште ки дар он руаҳи ҳаёт аст.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ва даромаданд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноҳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "киштӣ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳар"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:59.203763211Z",
+  "model": "glm-5.3"
+}

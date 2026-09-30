@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Дили пок дар ман биофар, эй Элоҳим, ва руҳи собитро дар даруни ман нав соз.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "биофар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "дар ман"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "эй Элоҳим"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ва руҳи"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "собит"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нав соз"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "дар даруни ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:57.155172796Z",
+  "model": "glm-5.3"
+}

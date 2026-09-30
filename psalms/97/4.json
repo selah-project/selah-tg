@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 97,
+  "translation": "Равшанӣ доданд барқҳои Ӯ — табиатро дид ва ҳаросид замин.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "Равшанӣ доданд"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "барқҳои Ӯ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "табиатро"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ва ҳаросид"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:03.260457856Z",
+  "model": "glm-5.3"
+}

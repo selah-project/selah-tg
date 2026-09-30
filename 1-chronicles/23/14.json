@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Моше — марди Элоҳим — фарзандонаш дар байни қабилаи Левӣ номбар шуданд.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ва Моше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "фарзандонаш"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "номбар шуданд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар байни"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "қабилаи"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:39.346831710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Шикаст шуд Моаб; кӯдаконаш фариёро ба сон расониданд.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "Шикаст шуд"
+    },
+    {
+      "surface": "мואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ба сон расониданд"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "фариёро"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "кӯдаконаш"
+    }
+  ],
+  "timestamp": "2026-09-30T17:56:44.713120233Z",
+  "model": "glm-5.3"
+}

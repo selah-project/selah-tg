@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва ⟨את⟩ номи Аҳаронро бар асои Ливй навис, зеро як асо бар сари хонаи падаронии онҳост.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "номи Аҳарон"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "навис"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "асои"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Ливй"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "асо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "бар сари"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "падаронии онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:04:00.826355980Z",
+  "model": "glm-5.3"
+}

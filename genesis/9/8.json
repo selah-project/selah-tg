@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Элоҳим ба Нӯҳ ва ба писаронаш ⟨את⟩-ро бо ӯ гуфт, чиуне ки мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ бо ӯ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чиуне ки мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:27.620427755Z",
+  "model": "glm-5.3"
+}

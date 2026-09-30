@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "«Ба фарзандони Йисроэл гӯй ва ба онҳо бигӯ: ки шумо аз ⟨את⟩ Яардон ба замини Кенаан мегузаред,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "гӯй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ва бигӯ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "мегузаред"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яардон"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Яардон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:27.237163366Z",
+  "model": "glm-5.3"
+}

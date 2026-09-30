@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва чанд рӯз бо ӯ зинат кун, то он ки бозгардад хашми бародарат.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "ва зинат кун"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "чанд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то он ки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "бозгардад"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "хашми"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бародарат"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:11.772838956Z",
+  "model": "glm-5.3"
+}

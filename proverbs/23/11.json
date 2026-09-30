@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Зеро гоэли онҳо қавист; ӯ ⟨את⟩ баҳси онҳоро ⟨את⟩ бо ту мекашад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "гоэли онҳо"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "қавист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "мекашад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баҳси онҳоро"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "баҳси онҳо"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ бо ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:24.714053730Z",
+  "model": "glm-5.3"
+}

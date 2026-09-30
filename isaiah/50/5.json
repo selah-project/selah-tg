@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Адонай Яҳве гӯши маро боз кард ва ман осӣ накардам, ақиб напафтодам.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "боз кард"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маро"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "гӯш"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "осӣ накардам"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ақиб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "напафтодам"
+    }
+  ],
+  "timestamp": "2026-09-30T17:36:56.122244651Z",
+  "model": "glm-5.3"
+}

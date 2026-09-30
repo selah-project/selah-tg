@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва бори дигар сухари Яҳве ба Ҳаҷҷай расид, дар бисту чоруми моҳ, ба гуфтан.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва бори"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "бори дигар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Ҳаҷҷай"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:28.947693199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Подшоҳи доно бадкоронро мепартояд ва чархро бар онҳо мебарорад.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "мепартояд"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкоронро"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "доно"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ва мебарорад"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "бар онҳо"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "чарх"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:00.966770944Z",
+  "model": "glm-5.3"
+}

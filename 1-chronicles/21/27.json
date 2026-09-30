@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Яҳве ба фаришта сухан ронду ӯ турбашро ба қиннаш баргардонд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "ба фаришта"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ва баргардонд"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "турбашро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "қиннаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:18.796386313Z",
+  "model": "glm-5.3"
+}

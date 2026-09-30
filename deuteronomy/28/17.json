@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Малъун сабади ту ва замиштагоҳи ту.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "малъун"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "сабади ту"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ва замиштагоҳи ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:36.718311174Z",
+  "model": "glm-5.3"
+}

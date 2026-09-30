@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Ин ба ман ба худ шуд, ки фарзҳои Туро нигоҳ доштаам.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "шуд"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "фарзҳои Туре"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "нигоҳ доштаам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:05.172036072Z",
+  "model": "glm-5.3"
+}

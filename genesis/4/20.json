@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва Адо Йавалро зоид; ӯ падари сокинони хайма ва чорводорон буд.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Адо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йавалро"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Йавал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "хайма"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "чорводорон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:01.944368619Z",
+  "model": "glm-5.3"
+}

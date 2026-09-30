@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Эҳтиёт кун, ки қурбониҳои сӯхти худро дар ҳар ҷое ки бинӣ, набарорӣ.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "эҳтиёт кун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "худи худ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ки... нанӣ"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "набарорӣ"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "қурбониҳои сӯхти ту"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳар"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "бинӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:13.439182143Z",
+  "model": "glm-5.3"
+}

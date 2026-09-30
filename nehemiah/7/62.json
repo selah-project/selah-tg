@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Делайо, фарзандони Товийо, фарзандони Некодо — шаш сад чилу ду.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Делайо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товийо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некодо"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "чуил"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ду"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:52.243710033Z",
+  "model": "glm-5.3"
+}

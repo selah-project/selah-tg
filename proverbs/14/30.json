@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ҳаёти бадан дили шифобахш аст, вале пусидагии устухонҳо ҳасад аст.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ҳаёти"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "бадан"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "шифобахш"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "вале пусидагии"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "устухонҳо"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ҳасад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:22.777127823Z",
+  "model": "glm-5.3"
+}

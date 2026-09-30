@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "ва чӯбчаест, ки хоҳад буд барои ту берун аз лагер, ва ту он ҷо берун мебароӣ.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "ва чӯбчаест"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои ту"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "берун"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "аз лагер"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "ва мебароӣ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "берун"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:31.253323424Z",
+  "model": "glm-5.3"
+}

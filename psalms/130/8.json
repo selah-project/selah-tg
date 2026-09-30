@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 130,
+  "translation": "Ва Ӯ Йисроэли ⟨את⟩-ро аз ҳама гуноҳонаш халос хоҳад кард.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ва Ӯ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "халос хоҳад кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисроэл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳама"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "гуноҳонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:41.364654128Z",
+  "model": "glm-5.3"
+}

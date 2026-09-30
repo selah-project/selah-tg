@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 73,
+  "translation": "Зеро дили ман турш мешуд, ва гурдаҳоям теғ мехӯрд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "турш мешуд"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "дили ман"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ва гурдаҳоям"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "теғ мехӯрд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:10.532049294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва ин хона то рӯзи сеюми моҳи Адар тамом шуд — ки он соли шашуми подшоҳии Дориюш подшоҳ буд.",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "ва тамом шуд"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "хона"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "сеюм"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "моҳи"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Адар"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "соли"
+    },
+    {
+      "surface": "שת",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "подшоҳии"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Дориюш"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:54.353698045Z",
+  "model": "glm-5.3"
+}

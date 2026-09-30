@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яҳве бо Моше сухан гуфт, чунин гуфтанро:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чунин гуфтанро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:46.287782526Z",
+  "model": "glm-5.3"
+}

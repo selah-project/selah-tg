@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Чашмони ман ҳамеша сӯи Яҳве, зеро Ӯ пойҳои маро аз тӯр мебарорад.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "чашмони ман"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ҳамеша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сӯи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "аз тӯр"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "пойҳои маро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:28.571035314Z",
+  "model": "glm-5.3"
+}

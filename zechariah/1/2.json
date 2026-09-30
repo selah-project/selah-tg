@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Хашм кард Яҳве ба падарони шумо — хашми сард",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "Хашм кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба (бар зидди)"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "падарони шумо"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "хашм"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:01.643057967Z",
+  "model": "glm-5.3"
+}

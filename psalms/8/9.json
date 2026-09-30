@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Паррандаи осмон ва моҳии баҳр, он ки аз роҳҳои баҳрҳо мегузарад.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "парранда"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмон"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ва моҳии"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "мегузарад"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "роҳҳои"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "баҳрҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:32:38.178512303Z",
+  "model": "glm-5.3"
+}

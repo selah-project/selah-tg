@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Эйлом — ҳазору дусаду панҷову чаҳор нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлом"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "дусад"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷо"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "чаҳор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:03.543989462Z",
+  "model": "glm-5.3"
+}

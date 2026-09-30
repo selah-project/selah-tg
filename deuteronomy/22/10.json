@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ба ⟨את⟩ зенгоз ва ⟨את⟩ хар якҷоя шудгор макун.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "шудгор макун"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "бо зенгоз"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ва бо хар"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "якҷоя"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:34.767112249Z",
+  "model": "glm-5.3"
+}

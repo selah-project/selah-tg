@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Набошад барои ту дар кисат як санг ва як санг, калон ва хурд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои ту"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "дар кисат"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "як санг"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ва як санг"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "калон"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ва хурд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:09.488941135Z",
+  "model": "glm-5.3"
+}

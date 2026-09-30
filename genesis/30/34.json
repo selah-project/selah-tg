@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Лаван гуфт: Инак, кошки мувофиқи сухани ту бошад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הן",
+      "gloss": "инак"
+    },
+    {
+      "surface": "לו",
+      "gloss": "кошки"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "мувофиқи сухани ту"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:51.038518778Z",
+  "model": "glm-5.3"
+}

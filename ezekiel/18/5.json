@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва агар марде бошад, ки одил бошад ва доварӣ ва тседака кунад,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ва агар марде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ва кунад"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "тседака"
+    }
+  ],
+  "timestamp": "2026-09-30T18:04:44.672288814Z",
+  "model": "glm-5.3"
+}

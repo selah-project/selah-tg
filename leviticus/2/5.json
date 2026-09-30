@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва агар минҳае бар ⟨the⟩ махбат қурбонии tu бошад — орди соф, омехта бо равған — фатир бошад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минҳа"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "махбат"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "қурбонии tu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "орди соф"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "омехта"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "бо равған"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "фатир"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бошад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:40.818397301Z",
+  "model": "glm-5.3"
+}

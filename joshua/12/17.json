@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Подшоҳи Таппуах, яке; подшоҳи Хefer, яке;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Таппуах"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Хefer"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:24.448172690Z",
+  "model": "glm-5.3"
+}

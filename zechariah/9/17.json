@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ки чӣ некӯӣ ва чӣ зебоии Ӯ! Ғалла бачагонро ва шарми нав дугонаҳоро шукуфо месозад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "некӯӣ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ва чӣ"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "зебоӣ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ғалла"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "бачагон"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ва шарми нав"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "шукуфо месозад"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "дугонаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:28.979412854Z",
+  "model": "glm-5.3"
+}

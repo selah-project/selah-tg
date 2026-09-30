@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Яҳве ба ман гуфт, ки мегӯяд: Ман ⟨את⟩ ин халқро дидам ва инак, халқи сахтгардан аст ӯ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ки мегӯяд"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ман дидам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин халқро"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва инак"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқи"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "сахт"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "гардан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:10.083472553Z",
+  "model": "glm-5.3"
+}

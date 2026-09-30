@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яҳве гуфт: «Оё хашм гирифтанат некӯ аст?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "оё некӯ аст"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "хашм гирифтанат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:23.105392250Z",
+  "model": "glm-5.3"
+}

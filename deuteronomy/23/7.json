@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Саломияти онҳоро ва хайри онҳоро на ҷӯй, ҳамаи рӯзҳои туро то абад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ҷӯй"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "саломияти онҳоро"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ва хайри онҳоро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "рӯзҳои туро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:45.766659343Z",
+  "model": "glm-5.3"
+}

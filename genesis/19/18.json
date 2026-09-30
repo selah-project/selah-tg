@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва Лут ба онҳо гуфт: «Не, Адонай, илтимос!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лут"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "илтимос"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:36.628404793Z",
+  "model": "glm-5.3"
+}

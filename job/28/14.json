@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Теҳом мегӯяд: «Дар ман нест он», ва баҳр мегӯяд: «Бо ман нест».",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Теҳом"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "בי",
+      "gloss": "дар ман"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ва баҳр"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "бо ман"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:05.288150410Z",
+  "model": "glm-5.3"
+}

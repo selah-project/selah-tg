@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва номи бародараш Ювал; ӯ падари ҳамаи навозандаи канор ва ўғоб буд.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ва номи"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародараш"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Ювал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "навозандаи"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "канор"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ва ўғоб"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:43.595269963Z",
+  "model": "glm-5.3"
+}

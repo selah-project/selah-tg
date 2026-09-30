@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ӯро гиред ва чашмҳои худро бар ӯ ниҳед ва ба ӯ чизе бад накунед, балки он тавре ки ӯ ба ту гӯяд, ҳамон тавр бо ӯ кунед.",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "Ӯро гиред"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "ва чашмҳои худ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ниҳед"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва… на"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "кунед"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "чизе"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "балки"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "он тавре ки"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамон тавр"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кунед"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:53:42.233218228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Касеро ки бадиро меандешад, вайро соҳиби макрҳои бад меноманд.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "меандешад"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "бадиро"
+    },
+    {
+      "surface": "לו",
+      "gloss": "вайро"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "соҳиби"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "макрҳои бад"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "меноманд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:18.718558021Z",
+  "model": "glm-5.3"
+}

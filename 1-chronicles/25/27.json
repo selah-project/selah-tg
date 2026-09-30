@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Бистӯм ба Элиёто, фарзандонаш ва бародаронаш — дӯздаҳ нафар.",
+  "tokens": [
+    {
+      "surface": "לעשרים",
+      "gloss": "бистӯм"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "ба Элиёто"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "фарзандонаш"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва бародаронаш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дӯ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:33.074561313Z",
+  "model": "glm-5.3"
+}

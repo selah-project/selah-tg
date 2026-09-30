@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Чӣ хоҳед кард дар рӯзи мавъид ва дар рӯзи иди Яҳве?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хоҳед кард"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "мавъид"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:19:46.510112114Z",
+  "model": "glm-5.3"
+}

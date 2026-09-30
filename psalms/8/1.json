@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ба роҳбари овозхон, бар рӯи ⟨the⟩ гитит, мизмор аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари овозхон"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар рӯи"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "⟨the⟩ гитит"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:34.757309119Z",
+  "model": "glm-5.3"
+}

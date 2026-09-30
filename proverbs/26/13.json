@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Танбал мегӯяд: «Шер дар роҳ аст, шер дар майдонҳо».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "танбал"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "шер"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "шер"
+    },
+    {
+      "surface": "בין",
+      "gloss": "дар"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "майдонҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:56.800069196Z",
+  "model": "glm-5.3"
+}

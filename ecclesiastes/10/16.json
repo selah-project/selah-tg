@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Вай бар ту, эй замин, ки подшоҳат навҷавон аст ва сарваронат субҳохӯрӣ мекунанд!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "вай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "эй замин"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "подшоҳат"
+    },
+    {
+      "surface": "נער",
+      "gloss": "навҷавон"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ва сарваронат"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "субҳ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": " мехӯранд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:29.460611253Z",
+  "model": "glm-5.3"
+}

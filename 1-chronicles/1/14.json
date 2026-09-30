@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ⟨את⟩ ҳайевусӣ ва ⟨את⟩ ҳаэморӣ ва ⟨את⟩ ҳагиргашӣ,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳайевусӣ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ҳайевусӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳаэморӣ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ҳаэморӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳагиргашӣ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ҳагиргашӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:33.582148981Z",
+  "model": "glm-5.3"
+}

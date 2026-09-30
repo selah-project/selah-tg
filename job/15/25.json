@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Зеро ки дасти худро ба сӯйи Эл дароз кард ва дар баробари Шаддай худро қавӣ сохт.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "daroz kard"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯйи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "дасти худро"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва дар баробари"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "худро қавӣ сохт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:58.882832149Z",
+  "model": "glm-5.3"
+}

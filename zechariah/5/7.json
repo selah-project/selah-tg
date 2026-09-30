@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ман дидам, ки як пора сурб бардошта шудааст, ва ин як зан аст, ки дар миёнаш ♥……♥",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Ва ман дидам, ки"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "пора"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "сурб"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "бардошта шудааст"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ки нишастааст"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёнаш"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:51.060873218Z",
+  "model": "glm-5.3"
+}

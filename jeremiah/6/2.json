@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Хонуми зебу нозукро — духтари Тсиён — ман нобуд кардам.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "Хонуми зеб"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "ву нозукро"
+    },
+    {
+      "surface": "дמיתי",
+      "gloss": ""
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Тсиён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:42:53.377341655Z",
+  "model": "glm-5.3"
+}

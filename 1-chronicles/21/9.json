@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Яҳве бо Гад, бинандаи Довуд сухан гуфт ва гӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "бинандаи"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ва гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:02.736850903Z",
+  "model": "glm-5.3"
+}

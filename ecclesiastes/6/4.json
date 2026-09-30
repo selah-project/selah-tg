@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Зеро дар ҳебел меояд ва дар торикӣ меравад ва дар торикӣ номи ӯ пӯшонида мешавад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "дар ҳебел"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ва дар торикӣ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "меравад"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ва дар торикӣ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "пӯшонида мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:41.370056309Z",
+  "model": "glm-5.3"
+}

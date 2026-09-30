@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "ва Яҳтсо ва Қедемот ва Мефоат.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ва Яҳтсо"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ва Қедемот"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "ва Мефоат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:35.623214509Z",
+  "model": "glm-5.3"
+}

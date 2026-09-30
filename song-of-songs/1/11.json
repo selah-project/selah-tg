@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Тӯрҳои тилло барои туст месозем, бо нуқтаҳои нуқра.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "тӯрҳои"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "месозем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои туст"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "нуқтаҳои"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "нуқра"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.743277160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва ⟨את⟩ даа, ва ⟨את⟩ айя ба навъи худ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "даа"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "даа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "айя"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "айя"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ба навъи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:48:21.594530943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Аз Сион, ⟨ки⟩ камоли зебоист, Элоҳим дурахшон гашт.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Аз Сион"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "камол"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "зебоӣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "дурахшон гашт"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:40.529901004Z",
+  "model": "glm-5.3"
+}

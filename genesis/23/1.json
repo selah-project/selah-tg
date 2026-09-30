@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва умри Сарра сад солу бисту ҳафт сол буд — солҳои ҳаёти Сарра.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "умри"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарра"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "солу"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "бисту"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "שני",
+      "gloss": "солҳои"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ҳаёти"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарра"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:44.961535163Z",
+  "model": "glm-5.3"
+}

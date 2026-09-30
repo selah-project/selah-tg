@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Бани Шем: Эйлом ва Ашшур, ва Арфакшад, ва Луд ва Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "бани"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлом"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ва Ашшур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ва Арфакшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ва Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ва Арам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:44.647317969Z",
+  "model": "glm-5.3"
+}

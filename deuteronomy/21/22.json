@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва агар дар марде гуноҳи ҳукми марг бошад, ва ҷазои марг шавад, ва ӯро ⟨את⟩ бар дарахт овезонӣ,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "дар мард"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "гуноҳ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ҳукми"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "ва ҷазои марг шавад"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "ва овезонӣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарахт"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:42.002545346Z",
+  "model": "glm-5.3"
+}

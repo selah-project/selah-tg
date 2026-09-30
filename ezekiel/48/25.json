@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва назди сарҳади Шимъон, аз тарафи шарқ то тарафи ғарб: Йисасхар — як ⟨ҳисса⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва назди"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "сарҳади"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимъон"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз тарафи"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "шарқ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "тарафи"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарб"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисасхар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:28.714377404Z",
+  "model": "glm-5.3"
+}

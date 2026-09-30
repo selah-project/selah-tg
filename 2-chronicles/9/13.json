@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Вазни тиллое ки дар як сол ба Шеломоҳ меомад, шашсаду шасту шаш кикри тилло буд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "буд"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "вазни"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "тиллое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меомад"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ба Шеломоҳ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "дар сол"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ву шаст"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ву шаш"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "кикри"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:12.706175147Z",
+  "model": "glm-5.3"
+}

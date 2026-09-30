@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Шамшер бар Кашдим, мегӯяд Яҳве, ва бар аҳолии Бовул, ва бар сарваронаш ва бар доноёнаш.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Шамшер"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдим"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "аҳолии"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бовул"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "сарваронаш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "доноёнаш"
+    }
+  ],
+  "timestamp": "2026-09-30T17:57:39.685296550Z",
+  "model": "glm-5.3"
+}

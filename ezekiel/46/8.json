@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ва дар омадани носӣ ба воситаи ayvonи он дарвоза дарояд ва бо роҳи худ берун ояд.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "ва дар омадани"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "носӣ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "айвони"
+    },
+    {
+      "surface": "השער",
+      "gloss": "он дарвоза"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "дарояд"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "ва бо роҳи худ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "берун ояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:15:23.379096164Z",
+  "model": "glm-5.3"
+}

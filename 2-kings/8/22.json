@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 8:22",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Эдом зери дасти Яҳуда шӯрид, то ин рӯз; дар он вақт Ливна низ шӯрид.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "шӯрид"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "יד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яҳуда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ин рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "אז",
+      "gloss": "дар он вақт"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "шӯрид"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливна"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "он вақт"
+    }
+  ],
+  "timestamp": "2026-09-30T17:14:20.872986868Z",
+  "model": "glm-5.3"
+}

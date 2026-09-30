@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва ба сандуқ ⟨את⟩ гувоҳиро, ки ба ту медиҳам, гузор.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ва гузор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандуқ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гувоҳиро"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "гувоҳиро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "медиҳам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:46.934941629Z",
+  "model": "glm-5.3"
+}

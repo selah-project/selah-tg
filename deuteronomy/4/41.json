@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Он гоҳ Моше се шаҳрро дар он тарафи Ярдун, тарафи баромадани офтоб, ҷудо кард.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ҷудо кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "дар он тарафи"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдун"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "тарафи баромадани офтоб"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "офтоб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:02.301119684Z",
+  "model": "glm-5.3"
+}

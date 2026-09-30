@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ба Шовали падари Кирят-Йеарим писарон буданд: Ҳароэҳ ва нисфи Менуҳот.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ва буданд"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "писарон"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "ба Шовал"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирят-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Йеарим"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Ҳароэҳ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "нисфи"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Менуҳот"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:29.395239391Z",
+  "model": "glm-5.3"
+}

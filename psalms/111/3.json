@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 111,
+  "translation": "Шукуҳ ва такаллuf кори Ӯст, ва тседек-и Ӯ то абад поидӯст.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Шукуҳ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ва такаллуф"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "кори Ӯст"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ва тседек-и Ӯ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "поидӯст"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:03.936312713Z",
+  "model": "glm-5.3"
+}

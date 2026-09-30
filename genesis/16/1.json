@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Сорай, зани Абрам, ба ӯ фарзанд наниҳод, ва ӯ канизи мисриёрдошт, ки номаш Ҳоғор буд.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "Ва Сорай"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Абрам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ниҳод"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "каниз"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "мисриёр"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "номаш"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Ҳоғор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:45.238854485Z",
+  "model": "glm-5.3"
+}

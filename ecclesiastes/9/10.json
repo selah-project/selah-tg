@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ҳар он чиро дасти ёбад, бо қувваи худ кун; зеро дар Шеол, ки ту ба он ҷо меравӣ, на кор аст, на ҳисоб, на дониш ва на ҳикмат.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чиро"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ёбад"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кардан"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "бо қувваи худ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "на… аст"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "на ҳисоб"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "на дониш"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ва на ҳикмат"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "дар Шеол"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "меравӣ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ба он ҷо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:52.680164404Z",
+  "model": "glm-5.3"
+}

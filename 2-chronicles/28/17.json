@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва боз эдомиён омаданд ва дар Йеҳуда заданд ва асиронро бурданд.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ва боз"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "эдомиён"
+    },
+    {
+      "surface": "באו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ва заданд"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "дар Йеҳуда"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ва асир гирифтанд"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "асирон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:51:00.903262152Z",
+  "model": "glm-5.3"
+}

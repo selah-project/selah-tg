@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Маро ⟨את⟩ ронду бар ва ба торикӣ бурд, на ба рӯшноӣ.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "маро"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ронду"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ва бурд"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ба торикӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ба рӯшноӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:05.220502011Z",
+  "model": "glm-5.3"
+}

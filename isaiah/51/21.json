@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Бинобар ин, эй мазлума ва маста — вале на аз шароб — ҳоло инро бишнав.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Бинобар ин"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "инро"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "эй мазлума"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "ва маста"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "вале на"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "аз шароб"
+    }
+  ],
+  "timestamp": "2026-09-30T17:36:18.990421847Z",
+  "model": "glm-5.3"
+}

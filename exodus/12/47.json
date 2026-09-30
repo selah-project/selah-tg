@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Тамоми ҷамоати Йисроэл ⟨את⟩ онро ба ҷо оранд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ҷамоати"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ба ҷо оранд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ онро",
+      "marks": "он (Пасоҳ)"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:00.276414279Z",
+  "model": "glm-5.3"
+}

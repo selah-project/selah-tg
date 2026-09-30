@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "ва бар Дивон ва бар Нево ва бар Байт-Дивлатайим.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "Дивлатайим"
+    }
+  ],
+  "timestamp": "2026-09-30T17:57:15.600380841Z",
+  "model": "glm-5.3"
+}

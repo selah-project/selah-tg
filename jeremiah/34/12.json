@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва сухани Яҳве ба Йирмияҳу аз ⟨את⟩ Яҳве расид, баён кардан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмияҳу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "аз ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "баён кардан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:52:05.197784506Z",
+  "model": "glm-5.3"
+}

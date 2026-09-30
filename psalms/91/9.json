@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 91,
+  "translation": "Зеро ки Ту, эй Яҳве, паноҳи ман ҳастӣ; Элйон — макони Худ ҷой кардӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "паноҳи ман"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Элйон"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ҷой кардӣ"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "макони Худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:32.410422205Z",
+  "model": "glm-5.3"
+}

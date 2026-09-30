@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше ба ⟨את⟩ онҳо супориш дода мегӯяд: дар охири ҳафт сол, дар ваъдаи соли шӯриш, дар иди Сукkot —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "супориш дода"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ онҳо",
+      "marks": "онҳо (коҳинон ва пирон)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "дар охири"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "дар ваъдаи"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "соли"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "шӯриш"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "дар иди"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Сукkot"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:56.557122922Z",
+  "model": "glm-5.3"
+}

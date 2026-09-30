@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва аз ҳар ду беҳтар он аст, ки ҳанӯз набудааст, — ⟨את⟩ он ки ⟨את⟩ кори бадро, ки зери офтоб карда мешавад, надидааст.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "аз ҳар ду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он ки ҳанӯз набудааст"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ҳанӯз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "набудааст"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "надидааст"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кори бад"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "карда мешавад"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:19.477922568Z",
+  "model": "glm-5.3"
+}

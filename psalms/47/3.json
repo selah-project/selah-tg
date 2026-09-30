@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Зеро Яҳве Олӣ макуфатарин аст, подшоҳи бузург бар тамоми замин.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Олӣ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "макуфатарин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:30.243790303Z",
+  "model": "glm-5.3"
+}

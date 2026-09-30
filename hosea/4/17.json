@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ба бутон ҳамроҳ шудааст Эфраим — ҳолашро бигузоред.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "ҳамроҳ шудааст"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "ба бутон"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "бигузоред"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ҳолашро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:08.807297792Z",
+  "model": "glm-5.3"
+}

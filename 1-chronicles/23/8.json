@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Фарзандони Ладан: сардор Йеҳиэл, ва Зетам ва Йоэл — се нафар",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ладан"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Йеҳиэл"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ва Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ва Йоэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се нафар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:25.734201387Z",
+  "model": "glm-5.3"
+}

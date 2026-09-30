@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 98,
+  "translation": "Дарёҳо каф зада, кӯҳҳо якҷо шодӣ хонанд.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "дарёҳо"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "каф зада"
+    },
+    {
+      "surface": "כף",
+      "gloss": "каф"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "якҷо"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "кӯҳҳо"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "шодӣ хонанд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:36.651145457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Аз ин сабаб он чоҳро Беэр-Лаҳай-Роӣ номиданд; ҳоло, он миёни Қадеш ва Берад аст.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин сабаб"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "номиданд"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "он чоҳро"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лаҳай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Роӣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қадеш"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ва"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "Берад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:15:22.544867524Z",
+  "model": "glm-5.3"
+}

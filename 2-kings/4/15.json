@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ӯ гуфт: Ӯро биёред. Ва ӯ ӯро биёвард, ва ӯ дар дарвоза истод.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "биёред"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ва биёвард"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ва истод"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "дар дарвоза"
+    }
+  ],
+  "timestamp": "2026-09-30T17:13:12.295615394Z",
+  "model": "glm-5.3"
+}

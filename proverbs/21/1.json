@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ҷӯйборҳои об — дилі подшоҳ дар дасти Яҳве; ба ҳар он чӣ хоҳад, онро мебарад.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ҷӯйборҳои"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дилі"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "дар дасти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чӣ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "хоҳад"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "онро мебарад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:51.553609969Z",
+  "model": "glm-5.3"
+}

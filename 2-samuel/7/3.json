@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Нотон ба подшоҳ гуфт: «Ҳар он чӣ дар дилат аст, бирав ва кун, зеро Яҳве бо туст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Нотон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чӣ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "дар дилат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бирав"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо туст"
+    }
+  ],
+  "timestamp": "2026-09-30T16:53:43.770782054Z",
+  "model": "glm-5.3"
+}

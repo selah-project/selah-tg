@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Қӯчқоре ки туро соҳиби шохҳо дидӣ — подшоҳони Мадай ва Парас ⟨ҳастанд⟩.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "туро дидӣ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "соҳиби"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "шохҳо"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "подшоҳони"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадай"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ва Парас"
+    }
+  ],
+  "timestamp": "2026-09-30T19:25:22.766029530Z",
+  "model": "glm-5.3"
+}

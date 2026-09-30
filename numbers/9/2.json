@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "«ва фарзандони Йисроэл Пасохро ⟨את⟩ дар вақташ нигоҳ доранд —",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ва кунанд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пасохро"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Пасох"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "дар вақташ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:28.759250045Z",
+  "model": "glm-5.3"
+}

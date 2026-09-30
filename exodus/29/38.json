@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва ин аст он ки бар қурбонгоҳ кунӣ: гӯсфандони яксола, ду то дар рӯз, доимо.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ва ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кунӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "қурбонгоҳ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "гӯсфандон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ҷавони"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "дар рӯз"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "доимо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:48.197837758Z",
+  "model": "glm-5.3"
+}

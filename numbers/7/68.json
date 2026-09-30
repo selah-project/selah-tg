@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як кошути тиллои даҳ шекел, пур аз бӯи хушбӯӣ.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кошут"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пур"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "аз бӯи хушбӯӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:13.420362257Z",
+  "model": "glm-5.3"
+}

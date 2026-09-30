@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 97,
+  "translation": "Абр ва торикӣ атрофи Ӯст, тседек ва доварӣ — пояи тахти Ӯ.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Абр"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ва торикӣ"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "атрофи Ӯст"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ва доварӣ"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "пояи"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "тахти Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:03.260218909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва калами Яҳве ба ман омад, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва... шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:11:20.786940589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Барои кабилаи Шимъон — Шофат писари Хорӣ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "барои кабилаи"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимъон"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Шофат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:41.897857947Z",
+  "model": "glm-5.3"
+}

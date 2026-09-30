@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 27:18",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Хонаи худро мисли парвона месозад ва мисли Kulbah (poshok)-e ki нигоҳбон сохтааст.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "мисли парвона"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи худро"
+    },
+    {
+      "surface": "וכסכה",
+      "gloss": "ва мисли kulbah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохтааст"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "нигоҳбон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:05.482740136Z",
+  "model": "glm-5.3"
+}

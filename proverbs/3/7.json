@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дар назари худ донишманд набош, аз ⟨את⟩ Яҳве битарс ва аз бадӣ рӯй гардон.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "набош"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "маҳз ҳастӣ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "донишманд"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "дар назари худ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "битарс"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ва рӯй гардон"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "аз бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:26.288520100Z",
+  "model": "glm-5.3"
+}

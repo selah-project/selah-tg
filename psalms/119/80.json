@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Бошад дилди ман беайб дар қарорҳои Ту, то ки хижил нашавам.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дилди ман"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "дар қарорҳои Ту"
+    },
+    {
+      "surface": "למען",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "хижил шавам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:55.932412099Z",
+  "model": "glm-5.3"
+}

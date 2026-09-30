@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Сухане ки ба Ирмияҳу аз назди ⟨את⟩ Яҳве расид, гӯян:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сухане ки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияҳу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ аз назди",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯян"
+    }
+  ],
+  "timestamp": "2026-09-30T20:06:49.012256946Z",
+  "model": "glm-5.3"
+}

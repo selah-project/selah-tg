@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ман ба фариштае ки бо ман сухан мегуфт гуфтам: Кӯҷо онҳо ⟨את⟩ эфаро мебаранд?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "фаришта"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "בי",
+      "gloss": "бо ман"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кӯҷо"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "мебаранд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эфа"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:16.502115220Z",
+  "model": "glm-5.3"
+}

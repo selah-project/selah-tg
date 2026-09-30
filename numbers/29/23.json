@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "ва дар рӯзи чорум даҳ гӯсола, ду қӯчқор, чордаҳ барраи яксола, беайб:",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "гӯсолаҳо"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "қӯчқорҳо"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "баррагон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ҷавони"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "беайб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:50.483245565Z",
+  "model": "glm-5.3"
+}

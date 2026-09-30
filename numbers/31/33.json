@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "ва говҳо — дӯ ҳазор ва ҳафтод ҳазор",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ва говҳо"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дӯ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ва ҳафтод"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:06.907968803Z",
+  "model": "glm-5.3"
+}

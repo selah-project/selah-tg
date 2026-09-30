@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Тӯҳфаи мард барои ӯ ҷо кушода ва пеш аз бузургон онро ҳидоят мекунад.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "тӯҳфа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "кушода"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "бузургон"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ҳидоят мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:06.921023710Z",
+  "model": "glm-5.3"
+}

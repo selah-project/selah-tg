@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва Йовав мурд, ва ҷои ӯро Хушам аз замини Тейманӣ гирифт.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ва подшоҳ шуд"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ҷои ӯро"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "аз замини"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Тейманӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:05.111012823Z",
+  "model": "glm-5.3"
+}

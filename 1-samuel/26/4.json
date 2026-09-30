@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва Довуд ҷосусонро фиристод ва донист, ки Шаул ҳақиқатан омадааст.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ҷосусонро"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ва донист"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омадааст"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "нכון",
+      "gloss": "ҳақиқатан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:50:48.388423073Z",
+  "model": "glm-5.3"
+}

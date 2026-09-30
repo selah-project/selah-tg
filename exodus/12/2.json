@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Моҳи ⟨ин⟩ барои шумо сари моҳҳост; он аввалин аст барои шумо аз моҳҳои сол.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "моҳи"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "моҳҳост"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "аввалин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "аз моҳҳои"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-30T15:33:35.276824271Z",
+  "model": "glm-5.3"
+}

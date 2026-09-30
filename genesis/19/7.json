@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва гуфт: «Хоҳиш мекунам, эй бародаронам, бадӣ накунед».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "נא",
+      "gloss": "хоҳиш мекунам"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "эй бародаронам"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "бадӣ накунед"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:00.496291061Z",
+  "model": "glm-5.3"
+}

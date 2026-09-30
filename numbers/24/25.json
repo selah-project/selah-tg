@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва Билъом хест ва рафт ва ба ҷои худ баргашт; ва Балак ҳам ба роҳи худ рафт.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ва хест"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ва рафт"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ва баргашт"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ба ҷои худ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва ҳам"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ба роҳи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:46.637632198Z",
+  "model": "glm-5.3"
+}

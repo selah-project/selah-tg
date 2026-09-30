@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва инҳо баромадгоҳҳои шаҳр аз тарафи шимолӣ: панҷсад ва чор ҳазор ченак.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "баромадгоҳҳо"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз тарафи"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "шимолӣ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ченак"
+    }
+  ],
+  "timestamp": "2026-09-30T18:17:33.800752198Z",
+  "model": "glm-5.3"
+}

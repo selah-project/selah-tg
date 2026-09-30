@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Элоҳим ба Лия гӯш кард, ва ӯ ҳомила шуд ва ба Яъқов писари панҷумро зоид.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "гӯш кард"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лия"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомила шуд"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "панҷум"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:59.223575228Z",
+  "model": "glm-5.3"
+}

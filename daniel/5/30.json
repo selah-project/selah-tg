@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Дар ҳамон шаб Белшатсцар, подшоҳи Кашдӣён, кушта шуд.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "дар ҳамон"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "кушта шуд"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Белшатсцар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Кашдӣён"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:07.640466681Z",
+  "model": "glm-5.3"
+}

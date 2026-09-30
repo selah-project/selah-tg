@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "«Бад, бад», мегӯяд харидор, ва чун равон шавад, он гоҳ худро меситояд.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "«Бад,"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад»,"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "харидор"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "ва равон шавад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ҳе⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "худро меситояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:36.673315689Z",
+  "model": "glm-5.3"
+}

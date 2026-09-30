@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Макруҳ назди Яҳве сангу санг, ва тарозуҳои фиреб на хуб.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "макруҳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "назди Яҳве"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "санг"
+    },
+    {
+      "surface": "ואбן",
+      "gloss": "ва санг"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ва тарозуҳои"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "фиреб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:17.510781620Z",
+  "model": "glm-5.3"
+}

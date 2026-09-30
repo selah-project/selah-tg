@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва dayгоҳҳои чӯби шитт сохт ва ⟨את⟩ онҳоро бо тилло пӯшонд.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "daygoҳho"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитт"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ва пӯшонд"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "онҳо"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "бо тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:54.072834083Z",
+  "model": "glm-5.3"
+}

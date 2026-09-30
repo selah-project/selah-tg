@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва айвонҳо атроф, атроф; дарозӣ бисту панҷ газ ва паҳнӣ панҷ газ.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "ва айвонҳо"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "атроф"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "атроф"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозӣ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "газ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ва паҳнӣ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "газ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:04.202906060Z",
+  "model": "glm-5.3"
+}

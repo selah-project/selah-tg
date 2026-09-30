@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 62,
+  "translation": "Як бор сухан гуфт Элоҳим, ду бор инро шунидам: ки қувват аз Элоҳим аст.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Як бор"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду бор"
+    },
+    {
+      "surface": "זו",
+      "gloss": "инро"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "шунидам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "аз Элоҳим аст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:18.094526579Z",
+  "model": "glm-5.3"
+}

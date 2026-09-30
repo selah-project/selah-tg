@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва номи Довуд дар тамоми мамлакатҳо баромад, ва Яҳве тарси ӯро бар тамоми халқҳо ниҳод.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар тамоми"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "мамлакатҳо"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ва Яҳве"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ниҳод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тарси ӯро"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "тарси ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халқҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:01.233856590Z",
+  "model": "glm-5.3"
+}

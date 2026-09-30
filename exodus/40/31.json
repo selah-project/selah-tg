@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Аз он Моше ва Аҳарон ва писаронаш ⟨את⟩ дастро ва ⟨את⟩ поҳоро шустанд.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "шустанд"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дастро"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "дастро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "поҳоро"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "поҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:04.068579803Z",
+  "model": "glm-5.3"
+}

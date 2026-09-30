@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Тамоми рӯзҳои узвияти ӯ муқаддас аст барои Яҳве.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "узвияти ӯ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:12.975948736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ҳамаи рӯзҳои мискин баданд, вале хурсандии дил зиёфати ҳамешагист.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мискин"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "баданд"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "вале хурсандии"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "зиёфати"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ҳамешагист"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:27.351995272Z",
+  "model": "glm-5.3"
+}

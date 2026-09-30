@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва Моше ба назди ⟨ҳа⟩ мардум фуромад ва ба онҳо гуфт.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "фуромад"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба назди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ҳа⟩ мардум"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:09.797169910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зеро Ӯ аз дилаш азоб надод ва фарзандони одамро ранҷонид.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "азоб дод"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "аз дилаш"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "ва ранҷонид"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:05.836632658Z",
+  "model": "glm-5.3"
+}

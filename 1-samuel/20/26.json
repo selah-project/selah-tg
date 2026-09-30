@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Шаул он рӯз чизе нагуфт, зеро гуфт: «Микре аст, ӯ пок нест — албатта пок нест».",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "нагуфт... на"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "чизе"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "микре"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "нест"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "албатта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    }
+  ],
+  "timestamp": "2026-09-30T16:47:40.621656201Z",
+  "model": "glm-5.3"
+}

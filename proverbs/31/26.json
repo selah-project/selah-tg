@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Даҳонашро бо ҳикмат мекушояд, ва тораи ҳесед бар забонаш аст.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "даҳонаш"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "мекушояд"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "бо ҳикмат"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "ва тораи"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ҳесед"
+    },
+    {
+      "surface": "על",
+      "gloss": " бар"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "забонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:58.962011726Z",
+  "model": "glm-5.3"
+}

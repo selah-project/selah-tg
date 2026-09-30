@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Кенаан ⟨את⟩ Тсидонро, аввалзодааш, ва ⟨את⟩ Хетро ба дунё овард.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ва Кенаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тсидонро"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Тсидон"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "аввалзодааш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Хетро"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:03.684215184Z",
+  "model": "glm-5.3"
+}

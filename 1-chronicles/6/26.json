@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "писари Этнӣ, писари Зерах, писари Адаяҳ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "Этнӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адаяҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:18.069990344Z",
+  "model": "glm-5.3"
+}

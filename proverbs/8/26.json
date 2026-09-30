@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ҳанӯз ки ӯ заминро ва саҳроҳоро насохта буд, ва сари ғуборҳои оламро.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ҳанӯз ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохта буд"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "ва саҳроҳо"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ва сари"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "ғуборҳои"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "олам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:49.669417907Z",
+  "model": "glm-5.3"
+}

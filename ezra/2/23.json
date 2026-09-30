@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Мардони Анатот — сад ва бисту ҳашт.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бисту"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ҳашт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:13.300170044Z",
+  "model": "glm-5.3"
+}

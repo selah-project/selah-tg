@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Танҳо қавӣ бош, то хун нахӯрӣ, зеро хун — ⟨он⟩ нефеш аст; ва нефешро бо гӯшт нахӯрӣ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "қавӣ бош"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "то на"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хӯрӣ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "хӯрӣ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефешро"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "гӯшт"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:16.446448923Z",
+  "model": "glm-5.3"
+}

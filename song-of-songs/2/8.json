@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Овози маҳбубам! Ин бинед, меояд — бар кӯҳҳо мебуҷад, бар теппаҳо мехезад.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Овози"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "маҳбубам"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ин"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "мебуҷад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "кӯҳҳо"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "мехезад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "теппаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:58.391415367Z",
+  "model": "glm-5.3"
+}

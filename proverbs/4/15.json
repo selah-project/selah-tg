@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Аз он дур шав, аз наздикаш нагузар, аз он рӯ гардон ва гузар.",
+  "tokens": [
+    {
+      "surface": "поръеҳу",
+      "gloss": "дур шав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "гузар"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аз наздикаш"
+    },
+    {
+      "surface": "штеҳ",
+      "gloss": "рӯ гардон"
+    },
+    {
+      "surface": "меалайв",
+      "gloss": "аз он"
+    },
+    {
+      "surface": " ваавор",
+      "gloss": "ва гузар"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:26.734999010Z",
+  "model": "glm-5.3"
+}

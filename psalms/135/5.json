@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 135,
+  "translation": "Зеро ман медонам, ки Яҳве бузург аст ва Адонайи мо аз ҳамаи худоён болост.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "медонам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ва Адонайи мо"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "худоён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:51.070026656Z",
+  "model": "glm-5.3"
+}

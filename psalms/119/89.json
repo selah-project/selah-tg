@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "То абад, эй Яҳве, калами Ту дар осмонҳо устувор аст.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "калами Ту"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "устувор аст"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осмонҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:26.921918977Z",
+  "model": "glm-5.3"
+}

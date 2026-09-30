@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва подшоҳи Йисроэл як сарисро даъват кард ва гуфт: «Зуд Микаҳу писари Йимлоро биёр».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "даъват кард"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "сарис"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "зуд"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Микаҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Йимло"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:25.532636550Z",
+  "model": "glm-5.3"
+}

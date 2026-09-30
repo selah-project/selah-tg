@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва рӯзҳои Йитсҳоқ сад сол ва ҳаштод сол шуданд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "шуданд"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йитсҳоқ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ва ҳаштод"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:53.058021344Z",
+  "model": "glm-5.3"
+}

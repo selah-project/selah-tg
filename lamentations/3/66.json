@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дар ғазаб пайравӣ кунӣ ва онҳоро нобуд созӣ, аз зери осмонҳои Яҳве.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "пайравӣ кунӣ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "дар ғазаб"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "ва онҳоро нобуд созӣ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "аз зери"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "осмонҳои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:35.600401293Z",
+  "model": "glm-5.3"
+}

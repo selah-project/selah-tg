@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 139,
+  "translation": "Донishaи аҷиб аст, аз ман болотар; баланд аст, ман тавон натавонам расидан ба он.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "аҷиб"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "баланд аст"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "тавонам"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ба он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:16.474183791Z",
+  "model": "glm-5.3"
+}

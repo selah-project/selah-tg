@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Йӯсеф вафтод, ва ҳамаи бародаронаш, ва ҳамаи он насл.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ва вафтод"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йӯсеф"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародаронаш"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "он насл"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:05.553165691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 15:10",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва сухари Яҳве ба Шемуэл омад, ба гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T16:44:56.420455359Z",
+  "model": "glm-5.3"
+}

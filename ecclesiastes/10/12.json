@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Суханҳои даҳони ҳаким некӯаҳанг ⟨аст⟩, ва лабҳои нодон ӯро фурӯ мебаранд.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Суханҳои"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "חן",
+      "gloss": "некӯаҳанг"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ва лабҳои"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ӯро фурӯ мебаранд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:39.229789961Z",
+  "model": "glm-5.3"
+}

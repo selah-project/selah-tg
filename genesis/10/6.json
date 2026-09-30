@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва писарони Ҳом: Кӯш, ва Мисраим, ва Фӯт, ва Кенаъан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ҳом"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кӯш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ва Мисраим"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ва Фӯт"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ва Кенаъан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:17.152971728Z",
+  "model": "glm-5.3"
+}

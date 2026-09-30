@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Тарс меояд, ва осоиштӣ ҷӯянд, вале он наҳоҳад буд.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "тарс"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ва ҷӯянд"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "осоиштӣ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "вале наҳоҳад буд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:20.658656361Z",
+  "model": "glm-5.3"
+}

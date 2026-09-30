@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 122,
+  "translation": "Барои хотири хонаи Яҳве Элоҳимы мо некӯиро барои ту меҷӯям.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "барои хотири"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳимы мо"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "меҷӯям"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:59.832623950Z",
+  "model": "glm-5.3"
+}

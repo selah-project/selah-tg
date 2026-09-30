@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва сухани Яҳве ба Ирмиё расид, ба сухан гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва… расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмиё"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба сухан гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T20:06:41.792747352Z",
+  "model": "glm-5.3"
+}

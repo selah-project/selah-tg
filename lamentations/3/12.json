@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Камаро тақ кард ва маро ҳамчун нишона барои тир қарор дод.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "тақ кард"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "камаро"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ва қарор дод маро"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "ҳамчун нишона"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "барои тир"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.192450526Z",
+  "model": "glm-5.3"
+}

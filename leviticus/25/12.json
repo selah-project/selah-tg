@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Зеро йовел он, муқаддас ба шумо хоҳад буд; аз саҳро маҳсулоти онро мехӯред.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יובел",
+      "gloss": "йовел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "саҳро"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "мехӯред"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "маҳсулоти онро"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "маҳсулоти он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:57.420209635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва ӯ барои онҳо зиёфат кард, ва хӯрданд ва нӯшиданд.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва ӯ кард"
+    },
+    {
+      "surface": "להם",
+      "gloss": "барои онҳо"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "зиёфат"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ва хӯрданд"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ва нӯшиданд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:24.917921988Z",
+  "model": "glm-5.3"
+}

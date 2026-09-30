@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 58,
+  "translation": "Одил шод мешавад, ки интиқомро дид; пойҳояшро дар хуни бадкор мешӯяд.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "шод мешавад"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "дид"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "интиқом"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "пойҳояш"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "мешӯяд"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "дар хун"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "бадкор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:06.844692033Z",
+  "model": "glm-5.3"
+}

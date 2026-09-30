@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 62,
+  "translation": "Танҳо назди Элоҳим сокут кун, ҷони ман, зеро умеди ман аз Ӯст.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Танҳо"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "назди Элоҳим"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "сокут кун"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз Ӯ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "умеди ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:26.283723735Z",
+  "model": "glm-5.3"
+}

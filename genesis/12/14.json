@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва чун Аврам ба Мисраим омад, мисриён ⟨את⟩ занро диданд, ки вай хело зебост.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва чун"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ба Мисраим"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "диданд"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "мисриён"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "занро"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебост"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "вай"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "хело"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:16.501966145Z",
+  "model": "glm-5.3"
+}

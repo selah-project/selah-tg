@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва он ҷо ⟨את⟩ сандуқро гузоштам, ки дар он аҳди Яҳве аст — аҳде ки ӯ бо банӣёни Йисроэл бастааст.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "гузоштам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сандуқро"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "сандуқро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "аҳди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "бастааст"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣёни"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:38.542598183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Дар номи қудсии Ӯ mAFTAхиред; дилҷони ҷустуҷӯягони Яҳве шод бошад.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "mAFTAхиред"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "дар номи"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "қудсии Ӯ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "шод бошад"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дилҷон"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ҷустуҷӯягон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:34.245279183Z",
+  "model": "glm-5.3"
+}

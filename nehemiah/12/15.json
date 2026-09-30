@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз Ҳарим — Адна; аз Мерайот — Ҳелқай.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "аз Ҳарим"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "аз Мерайот"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Ҳелқай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:59.128817654Z",
+  "model": "glm-5.3"
+}

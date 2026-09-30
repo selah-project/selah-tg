@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ва лашкари вай ва шумордашудаҳояш яку чил ҳазору панҷсад.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ва лашкари вай"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ва шумордашудаҳояш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ва чил"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:54.164449986Z",
+  "model": "glm-5.3"
+}

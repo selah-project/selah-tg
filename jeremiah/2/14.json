@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Оё Йисроэл ғулом аст? Оё дар хона зодаи ғулом аст? Пас чаро ӯ ба ғаним афтод?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "оё ғулом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אם",
+      "gloss": "оё"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "зода"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дар хона"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "היה",
+      "gloss": "афтод"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ба ғаним"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:01.734954682Z",
+  "model": "glm-5.3"
+}

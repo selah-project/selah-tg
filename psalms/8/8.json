@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Гӯсфандон ва говҳо — ҳамаи онҳо, ва ҳатто ҳайвоноти саҳроро.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "гӯсфандон"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ва говҳо"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ҳамаи онҳо"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва ҳатто"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ҳайвоноти"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "саҳроро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:32:46.145253638Z",
+  "model": "glm-5.3"
+}

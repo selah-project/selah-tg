@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Як кикор тилои пок — ӯ онро ва ⟨את⟩ ҳамаи асбобҳои онро сохт.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "як кикор"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тило"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ӯ сохт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ онро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи асбобҳои он"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "асбобҳои он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:34.112828898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Нафталӣ — Аҳира, писари Эйнон.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "Барои Нафталӣ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Аҳира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Эйнон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:44.430851321Z",
+  "model": "glm-5.3"
+}

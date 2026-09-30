@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Бисёрон рӯи ҳокимро меҷӯянд, вале аз Яҳве доварии ҳар кас аст.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Бисёрон"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "меҷӯянд"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ҳоким"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "вале аз Яҳве"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар кас"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:24.688792174Z",
+  "model": "glm-5.3"
+}

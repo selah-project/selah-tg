@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Девор дар атрофи ман кашид, то ки берун наоям; занҷири мисии маро вазнин кард.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "девор кашид"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "дар атрофи ман"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "то ки на"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "берун оям"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "вазнин кард"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "занҷири мисии ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.808494632Z",
+  "model": "glm-5.3"
+}

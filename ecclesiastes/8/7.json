@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Зеро ӯ намедонад, ки чӣ хоҳад буд; зеро вақте ки ба вуқӯъ пайвад, кӣ ба ӯ хабар медиҳад?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ӯ нест"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "вақте ки"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ба вуқӯъ пайванд"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хабар медиҳад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:16.640096897Z",
+  "model": "glm-5.3"
+}

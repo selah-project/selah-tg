@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Шимолро бар тҳу меҷонорад ва заминро бар ҳеҷ чиз меовезад.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "меҷонорад"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "Шимол"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тҳу"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "меовезад"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "бе"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ҳеҷ чиз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:02.213225664Z",
+  "model": "glm-5.3"
+}

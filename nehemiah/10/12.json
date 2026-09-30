@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Михо, Раҳов, Ҳашавъя.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "Михо"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "Раҳов"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Ҳашавъя"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:50.442117532Z",
+  "model": "glm-5.3"
+}

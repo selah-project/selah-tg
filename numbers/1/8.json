@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Йиссохор — Нетанэл, писари Тсуар.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Барои Йиссохор"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Тсуар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:23.449249392Z",
+  "model": "glm-5.3"
+}

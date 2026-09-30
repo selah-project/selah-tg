@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ҳам ту маст хоҳӣ шуд, нонизор хоҳӣ гашт; ҳам ту аз душман паноҳ ҷуста хоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "את",
+      "gloss": "ту"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "mast хоҳӣ шуд"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "хоҳӣ гашт"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "нонигор"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "את",
+      "gloss": "ту"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ҷуста хоҳӣ кард"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "паноҳ"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "аз душман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:25:22.083961738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Дониёл то соли якуми Кӯруш шоҳ боқӣ монд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Дониёл"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "соли"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "якуми"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Кӯруш"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:02.032475737Z",
+  "model": "glm-5.3"
+}

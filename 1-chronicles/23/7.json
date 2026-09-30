@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ба гершониён: Ладан ва Шимъӣ",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ба гершониён"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ладан"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ва Шимъӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:25.734044860Z",
+  "model": "glm-5.3"
+}

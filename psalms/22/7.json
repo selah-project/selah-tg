@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва ман кирмам, на одам — таҳқири одамон ва ҳақори мардум.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ва ман"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "кирм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "на"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одам"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "таҳқири"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ва ҳақори"
+    },
+    {
+      "surface": "עם",
+      "gloss": "мардум"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:15.794186133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Бинобар ин бигӯ: Ин ман ба ӯ аҳди шуломи Худро медиҳам.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "бинобар ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "бигӯ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ин ман"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "медиҳам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аҳди Худ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "аҳди Худ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шулом"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:27.506632212Z",
+  "model": "glm-5.3"
+}

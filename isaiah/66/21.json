@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 66,
+  "translation": "Ва аз онҳо низ гузарам ба коҳинон ва левиён, мегӯяд Яҳве.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "аз онҳо"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "гузарам"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ба коҳинон"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ва ба левиён"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:04.676976702Z",
+  "model": "glm-5.3"
+}

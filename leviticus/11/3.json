@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳар ки пои шохdor ва шохдори пойҳо аст ва гирё мебарорад аз чорпоён — онро мехӯред.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ки пои шохдор"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "по"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ва шохдор"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "шохдор"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "пойҳо"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гирё"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "аз чорпоён"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "онро"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "мехӯред"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:21.762474719Z",
+  "model": "glm-5.3"
+}

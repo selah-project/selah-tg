@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва он чи кард, ба чашмони Яҳве бад менамуд, ва ӯро низ мурд.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "бад буд"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар чашмони"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "גם",
+      "gloss": "низ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро (Онанро)"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:07.503755087Z",
+  "model": "glm-5.3"
+}

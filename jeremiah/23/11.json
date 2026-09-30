@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Зеро ҳам набӣ ҳам коҳин нопок шудаанд, ҳам дар хонаи ман ёфтам бадии онҳоро, мегӯяд Яҳве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "нопок шудаанд"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "дар хонаи ман"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ёфтам"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "бадии онҳоро"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:17.526990475Z",
+  "model": "glm-5.3"
+}

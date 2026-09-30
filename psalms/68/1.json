@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 68,
+  "translation": "Ба роҳбари мусиқӣ; ба Довуд; мазмур, суруд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ба Довуд"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:50.994345420Z",
+  "model": "glm-5.3"
+}

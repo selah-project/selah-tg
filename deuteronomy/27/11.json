@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва Моше дар он рӯз ⟨את⟩ мардмро фармуд, бигӯяд:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мардм"
+    },
+    {
+      "surface": "העם",
+      "gloss": "мардм"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бигӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:23.872689500Z",
+  "model": "glm-5.3"
+}

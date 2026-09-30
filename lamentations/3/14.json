@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ман ба тамасхурӣ барои тамоми халқам шудам, суруди онҳо — тамоми рӯз.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "шудам"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ба тамасхурӣ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барои тамоми"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халқам"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "суруди онҳо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:59.764054815Z",
+  "model": "glm-5.3"
+}

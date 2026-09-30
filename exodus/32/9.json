@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Яҳве ба Моше гуфт: ман ⟨את⟩ ин халқро дидам, ва ҳоло ин халқи сахтгардан аст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин халқро"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ҳоло"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "сахт"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "гардан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨аст⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:19.220865922Z",
+  "model": "glm-5.3"
+}

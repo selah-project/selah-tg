@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Авраҳам хест ва пеши марди кишвар — писарони Ҳет — саҷда кард.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "саҷда кард"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "пеши марди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "кишвар"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ҳет"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:45.111212331Z",
+  "model": "glm-5.3"
+}

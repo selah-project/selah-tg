@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Мотсо ⟨את⟩ Бинъоро зоида; ва Рефайо писараш, Элъасо писараш, Оцел писараш.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "ва Мотсо"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоида"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинъо"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинъо"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ва Рефайо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Элъасо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Оцел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:30.731500356Z",
+  "model": "glm-5.3"
+}

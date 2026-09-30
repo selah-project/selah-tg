@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Маноҳах ба занаш гуфт: «Мо ҳатман мемирем, зеро Элоҳимро дидем».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноҳах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "занаш"
+    },
+    {
+      "surface": "мות",
+      "gloss": "мурдан"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "мемирем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "дидем"
+    }
+  ],
+  "timestamp": "2026-09-30T16:36:41.580033528Z",
+  "model": "glm-5.3"
+}

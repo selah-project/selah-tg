@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ва лашкари вай ва шумордашудаҳояш шасту ду ҳазору ҳафтсад.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ва лашкари вай"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ва шумордашудаҳояш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ва шаст"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:54.164207407Z",
+  "model": "glm-5.3"
+}

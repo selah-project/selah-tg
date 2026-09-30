@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва писарони Ҳелем, бародари ӯ: Тсофах ва Йимно ва Шелеш ва Амол.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Ҳелем"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародари ӯ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Тсофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "ва Йимно"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ва Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ва Амол"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:16.053083116Z",
+  "model": "glm-5.3"
+}

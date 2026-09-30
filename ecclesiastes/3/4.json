@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вақти гиря кардан ва вақти хандидан; вақти мотам гирифтан ва вақти рақсидан.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "гиря кардан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "хандидан"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "мотам гирифтан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "рақсидан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.995974771Z",
+  "model": "glm-5.3"
+}

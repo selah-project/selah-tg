@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Тадбир туро нигоҳ медорад, тавунно туро ҳифз мекунад,",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "тадбир"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "нигоҳ медорад"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "туро"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "тавунно"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ҳифз мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:56.876196905Z",
+  "model": "glm-5.3"
+}

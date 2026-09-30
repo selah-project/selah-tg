@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Яҳӯшафат ба подшоҳи Йисроэл гуфт: «Эру, имрӯз ⟨את⟩ сухани Яҳверо бипурс».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Яҳӯшафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "бипурс"
+    },
+    {
+      "surface": "נא",
+      "gloss": "эру"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сухан"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:12:14.410785395Z",
+  "model": "glm-5.3"
+}

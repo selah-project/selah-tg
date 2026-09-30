@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ҳар гоҳ ки лашкар бар зидди душманонат берун барояд, худро аз ҳар чизи бад нигоҳ дор.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ҳар гоҳ ки"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "берун барояд"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лашкар"
+    },
+    {
+      "surface": "על",
+      "gloss": " бар зидди"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "душманонат"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "нигоҳ дор"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "чизи"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:08.240581056Z",
+  "model": "glm-5.3"
+}

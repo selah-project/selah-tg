@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Шефатя — се саду ҳафтоду ду нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатя"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "саду"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ҳафтод"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ва ду нафар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:05.370440142Z",
+  "model": "glm-5.3"
+}

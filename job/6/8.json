@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Кӣ медӣ, ки хостаи ман биояд ва Элоҳа умеди маро бидиҳад?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "медӣ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "биояд"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "хостаи ман"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "ва умеди ман"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бидиҳад"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоҳа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:09.018061840Z",
+  "model": "glm-5.3"
+}

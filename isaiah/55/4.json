@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 55,
+  "translation": "Инак, ӯро ба халқҳо гувоҳ кардам, сарвар ва фармондеҳи халқҳо.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "инак"
+    },
+    {
+      "surface": "עד",
+      "gloss": "гувоҳ"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ба халқҳо"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "кардам"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ва фармондеҳ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "халқҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:36:51.107291839Z",
+  "model": "glm-5.3"
+}

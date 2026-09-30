@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва Аҳитофел машваратдиҳандаи подшоҳ буд, ва Ҳушайи Аркӣ дӯсти подшоҳ.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Ва Аҳитофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "машваратдиҳанда"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "ва Ҳушай"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Аркӣ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "дӯст"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:36.640424930Z",
+  "model": "glm-5.3"
+}

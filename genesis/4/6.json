@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яҳве ба Қоин гуфт: «Чаро ғазабнок шудӣ ва чаро рӯят афтод?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қоин"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Чаро"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ғазабнок шудӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ва чаро"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "афтод"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯят"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:07.326841503Z",
+  "model": "glm-5.3"
+}

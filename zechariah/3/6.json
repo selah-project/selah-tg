@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва фариштаи Яҳве ба Йеҳошуа гувоҳӣ дод, гуфтан ӯро ки:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "гувоҳӣ дод"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фаришта"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ба Йеҳошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан ӯро ки"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:41.802094089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ҳам ҷарима кардани тседекро некӯ нест, задан мардонро бар ростӣ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "ҷарима кардан"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "тседекро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "задан"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "мардон"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ростӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:57.324613545Z",
+  "model": "glm-5.3"
+}

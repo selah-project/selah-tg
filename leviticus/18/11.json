@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Эрваи духтари занни падари ту, ки падари ту зода аст — хоҳари ту аст — эрваи ӯро ошкор накун.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "эрваи"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "занни"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падари ту"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "зода"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падари ту"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "хоҳари ту"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ошкор"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "эрваи ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:39.759566446Z",
+  "model": "glm-5.3"
+}

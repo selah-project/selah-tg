@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Балки танҳо ба сӯи ман бармегардад, дасти Худро меғелонад тамоми рӯз.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Балки танҳо"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ба сӯи ман"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "бармегардад"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "меғелонад"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "дасти Худро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:05.220670482Z",
+  "model": "glm-5.3"
+}

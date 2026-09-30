@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва сухари Яҳве ба Йирмеяҳу омад, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмеяҳу"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:35.527823054Z",
+  "model": "glm-5.3"
+}

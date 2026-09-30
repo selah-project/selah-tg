@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Нозукӣ фиреб аст ва зебоӣ ҳеҷ аст; зане ки аз Яҳве метарсад, ӯ ситуда мешавад.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "фиреб"
+    },
+    {
+      "surface": "החן",
+      "gloss": "Нозукӣ"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ва ҳеҷ"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "зебоӣ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зане ки"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "метарсад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ситуда мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:56.968913717Z",
+  "model": "glm-5.3"
+}

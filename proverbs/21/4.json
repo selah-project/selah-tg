@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Баландии чашмони худмананд ва фарохии дил — шудгори бадкорон гуноҳ аст.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "баландии"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "чашмони"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ва фарохии"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "נר",
+      "gloss": "шудгори"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:51.554056082Z",
+  "model": "glm-5.3"
+}

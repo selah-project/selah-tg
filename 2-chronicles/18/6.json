@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Йеҳошуа гуфт: «Оё ин ҷо набии Яҳве дигар нест, то ки ⟨את⟩ аз ӯ бипурсем?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "האין",
+      "gloss": "оё нест"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ин ҷо"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "וידרשה",
+      "gloss": "то ки бипурсем"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ аз ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:25.529566298Z",
+  "model": "glm-5.3"
+}

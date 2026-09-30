@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ҳебел, ҳебелҳо, мегӯяд Коҳелет; ҳебел, ҳебелҳо — ⟨ҳама чиз⟩ ҳебел аст.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Ҳебел"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ҳебелҳо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коҳелет"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ҳебелҳо"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨ҳама чиз⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:42.790161574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва ин аст насли Эсов, падари Эдом, дар кӯҳи Сеир.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "насл"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳи"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:07.166622243Z",
+  "model": "glm-5.3"
+}

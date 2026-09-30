@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "ё агар луқмаи худро танҳо хӯрдам ва ятим аз он нахӯрд,",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ё агар хӯрдам"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "луқмаи ман"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хӯрд"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ятим"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "аз он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:10:13.226683814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 92,
+  "translation": "Марди ҳайвонгӯна намедонад ва нодир инро намефаҳмад — ⟨את⟩ инро.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ҳайвонгӯна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ва нодир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "мефаҳмад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "инро (זאת)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "инро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:15.346970911Z",
+  "model": "glm-5.3"
+}

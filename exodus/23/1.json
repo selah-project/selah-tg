@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Шунидани ботилро бардорнаед; дасти худро бо золим нагузоред, то шоҳиди зӯроварӣ бошед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "бардоред"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "шунидан"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ботил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нак"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "нагузоред"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "дасти худ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "золим"
+    },
+    {
+      "surface": "להית",
+      "gloss": "то бошед"
+    },
+    {
+      "surface": "עד",
+      "gloss": "шоҳиди"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зӯроварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:44.329033518Z",
+  "model": "glm-5.3"
+}

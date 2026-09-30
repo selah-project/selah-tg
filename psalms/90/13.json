@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 90,
+  "translation": "Бозгард, эй Яҳве, то кай? Ва нисбат ба бандаҳои Худ пушаймон шав.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Бозгард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "ва пушаймон шав"
+    },
+    {
+      "surface": "על",
+      "gloss": "нисбат ба"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "бандаҳои Худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:49.324033874Z",
+  "model": "glm-5.3"
+}

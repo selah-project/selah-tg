@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "як такаи буз барои каффири шумо;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "така"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "барои каффир"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "шуморо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:56.545328138Z",
+  "model": "glm-5.3"
+}

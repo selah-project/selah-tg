@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва шумо ба Ман халъе хоҳед буд, ва Ман ба шумо Элоҳим хоҳам буд",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ва хоҳед буд"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба Ман"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "халъе"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ва Ман"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "хоҳам буд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:55.757734401Z",
+  "model": "glm-5.3"
+}

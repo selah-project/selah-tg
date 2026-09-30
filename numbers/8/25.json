@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва аз синни панҷоҳсола ӯ аз хидмати саф баргардад ва дигар хизмат накунад.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "аз синни"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сола"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "баргардад"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "аз сафи"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "хидмат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "хизмат кунад"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дигар"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:22.011381272Z",
+  "model": "glm-5.3"
+}

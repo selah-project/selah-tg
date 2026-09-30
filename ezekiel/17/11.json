@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва сухани Яҳве ба ман омада, гӯяд:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва... шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:03:40.659209805Z",
+  "model": "glm-5.3"
+}

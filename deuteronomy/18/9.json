@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Вақте ки ту ба замине меоӣ, ки Яҳве Элоҳими ту ба ту медиҳад, наомӯзӣ, ки чун хабисоти он миллатҳо амал кунӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "вақте ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меоӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замине"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "омӯзӣ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "амал кардан"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "чун хабисоти"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "он миллатҳо"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:42.310530707Z",
+  "model": "glm-5.3"
+}

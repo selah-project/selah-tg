@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вай бар он ки саркаш аст ва паллоҳта шудааст, шаҳри зулмкор!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Вай"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "саркаш аст"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ва паллоҳта шудааст"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "зулмкор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:40.314557361Z",
+  "model": "glm-5.3"
+}

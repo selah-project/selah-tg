@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Бигӯянд акнун хонаи Аҳарон: ки то абад ҳеседи Ӯст.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "бигӯянд"
+    },
+    {
+      "surface": "נא",
+      "gloss": "акнун"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:33.626405641Z",
+  "model": "glm-5.3"
+}

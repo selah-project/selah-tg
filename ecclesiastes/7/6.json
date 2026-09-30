@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Зеро ки мисли садои хорҳо зери дег, ҳамин тавр хандаи нодон аст — ва ин низ ҳебел аст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "мисли садои"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "хорҳо"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "дег"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "хандаи"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел аст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:35.695444744Z",
+  "model": "glm-5.3"
+}

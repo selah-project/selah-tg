@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": " ва фариштаи Яҳве Авраҳомро аз осмон бораи дуюм нидо кард.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "недо кард"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фариштаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "бораи дуюм"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:47.706729762Z",
+  "model": "glm-5.3"
+}

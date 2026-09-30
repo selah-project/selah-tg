@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Элоҳим ⟨את⟩ рӯшаниро дид, ки хуб аст, ва Элоҳим миёни рӯшанӣ ва торикӣ ҷудо кард.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ва дид"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рӯшанӣ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "рӯшаниро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ва ҷудо кард"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "האור",
+      "gloss": "рӯшанӣ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ва"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "торикӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:34.556301019Z",
+  "model": "glm-5.3"
+}

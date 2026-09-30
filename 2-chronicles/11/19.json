@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва вай барои ӯ писарон зоид: ⟨את⟩ Йеуш ва ⟨את⟩ Шмарйа ва ⟨את⟩ Заҳам.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "писарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеуш"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Йеуш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Шмарйа"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шмарйа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Заҳам"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Заҳам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:45.078728756Z",
+  "model": "glm-5.3"
+}

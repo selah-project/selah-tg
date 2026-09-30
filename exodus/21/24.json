@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "чашм барои чашм, дандон барои дандон, даст барои даст, по барои по.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "שן",
+      "gloss": "дандон"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "שן",
+      "gloss": "дандон"
+    },
+    {
+      "surface": "יד",
+      "gloss": "даст"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "יד",
+      "gloss": "даст"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "по"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "по"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:16.182712149Z",
+  "model": "glm-5.3"
+}

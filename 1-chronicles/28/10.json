@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Бинӣ ҳоло, ки Яҳве туро барои сохтани хона барои қудсгоҳ интихоб кард; қавӣ бош ва бикун.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Бинӣ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "интихоб кард"
+    },
+    {
+      "surface": "בך",
+      "gloss": "туро"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "барои сохтани"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "барои қудсгоҳ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "қавӣ бош"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ва бикун"
+    }
+  ],
+  "timestamp": "2026-09-30T19:43:33.876812057Z",
+  "model": "glm-5.3"
+}

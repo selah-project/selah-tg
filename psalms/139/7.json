@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 139,
+  "translation": "Куҷо равам аз руахи Ту? Ва куҷо аз рӯи Ту гурезам?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "куҷо"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "равам"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "аз руахи Ту"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ва куҷо"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "аз рӯи Ту"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "гурезам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:16.474389630Z",
+  "model": "glm-5.3"
+}

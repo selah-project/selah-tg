@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Баландии як керув даҳ амаҳ буд, ва ҳамин тавр ⟨буд⟩ керуви дуюм.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "баландии"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керув"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "амаҳ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуви"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    }
+  ],
+  "timestamp": "2026-09-30T20:02:48.409056649Z",
+  "model": "glm-5.3"
+}

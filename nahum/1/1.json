@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Бори Нинве; китоби рӯъё Наҳуми Элкошӣ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бори"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Нинве"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китоби"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "рӯъё"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Наҳуми"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "Элкошӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:25:39.781984684Z",
+  "model": "glm-5.3"
+}

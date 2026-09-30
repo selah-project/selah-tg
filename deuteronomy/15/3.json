@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "⟨את⟩ бегонаро талаб кунӣ, вале он чи туро ⟨את⟩ бо бародарат бошад, дасти ту мегузорад.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бегонаро"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "талаб кунӣ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "вале он чи"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "туро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ бо"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бародарат"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "мегузорад"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "дасти ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:45.463538542Z",
+  "model": "glm-5.3"
+}

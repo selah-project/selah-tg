@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Шаш рӯз хоҳӣ кор кард ва ҳамаи кори худро анҷом медиҳӣ,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "хоҳӣ кор кард"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ва анҷом медиҳӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "кори худро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:42.758994467Z",
+  "model": "glm-5.3"
+}

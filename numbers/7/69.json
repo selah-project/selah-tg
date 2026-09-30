@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": " як гӯсола аз говотула, як қӯчқор, як барраи яксола барои қурбонии сӯхта;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "гӯсола"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "аз говотула"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говотула"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "барра"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "яксол"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "барои қурбонии сӯхта"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:30.983676647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ҳама рӯ гардонданд, якҷо фосид шуданд; нест кореи нек, нест ҳатто як.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Ҳама"
+    },
+    {
+      "surface": "סר",
+      "gloss": "рӯ гардонданд"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "якҷо"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "фосид шуданд"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "коре"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:36.222193665Z",
+  "model": "glm-5.3"
+}

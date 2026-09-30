@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Дар рӯзи якум маҷлиси муқаддас; ҳар гуна кори хидмат накунед.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Дар рӯзи"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "якум"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "маҷлис"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар гуна"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "кори"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хидмат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накунед (не)"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "накунед"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:19.303413524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яҳве ба Моше ва ба Аҳарон сухан ронду мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд:"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:20.489891575Z",
+  "model": "glm-5.3"
+}

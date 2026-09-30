@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Шигайони Довуд, ки ӯ ба Яҳве суруд, дар бораи суханони Куши Бинъяминӣ.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Шигайон"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сурудааст"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "суханони"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Ямини"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:46.797741082Z",
+  "model": "glm-5.3"
+}

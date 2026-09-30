@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Лабҳои дурӯғ макруҳи Яҳве-анд, вале кардагони аминӣ хушнуди Ӯ-янд.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "макруҳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "лабҳои"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "дурӯғ"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "вале кардагони"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "аминӣ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "хушнуди Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:13.877684185Z",
+  "model": "glm-5.3"
+}

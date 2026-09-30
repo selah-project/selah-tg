@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 113,
+  "translation": "Барои нишондани ӯ бо ашрофон, бо ашрофони халқи Ӯ.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "барои нишондани"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ашрофон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ашрофони"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "халқи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:48.216001400Z",
+  "model": "glm-5.3"
+}

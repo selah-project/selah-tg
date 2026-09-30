@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "ва ба мо хабар диҳад Яҳве Элоҳими ту ⟨את⟩ роҳе ки дар он биравем ва ⟨את⟩ амале ки бикунем.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "хабар диҳад"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "роҳ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "биравем"
+    },
+    {
+      "surface": "בה",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "амал"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "амал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "бикунем"
+    }
+  ],
+  "timestamp": "2026-09-30T17:54:49.736609556Z",
+  "model": "glm-5.3"
+}

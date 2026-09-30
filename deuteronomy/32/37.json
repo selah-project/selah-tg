@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва гӯяд: «Кайст элоҳои онҳо — санге ки ба он паноҳ бурданд?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ва гӯяд"
+    },
+    {
+      "surface": "אי",
+      "gloss": "кайст"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "элоҳои онҳо"
+    },
+    {
+      "surface": "צור",
+      "gloss": "санг"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "паноҳ бурданд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:12.139811137Z",
+  "model": "glm-5.3"
+}

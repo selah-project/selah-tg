@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Бародари Михо — Ишия; аз фарзандони Ишия — Захарйаҳу.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "бародари"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михо"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишия"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишия"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Захарйаҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:28.092770471Z",
+  "model": "glm-5.3"
+}

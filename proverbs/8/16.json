@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Бо ман сарон ҳукмронӣ мекунанд ва ашрофон — ҳамаи додгарони тседек.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "бо ман"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "сарон"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ҳукмронӣ мекунанд"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "ва ашрофон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "додгарони"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:37.060603851Z",
+  "model": "glm-5.3"
+}

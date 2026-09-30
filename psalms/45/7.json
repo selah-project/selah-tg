@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Тахти ту, эй Элоҳим, абадӣ ва ҳамеша; асои ростӣ — асои подшоҳии туст.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "тахти ту"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "эй Элоҳим"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абадӣ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва ҳамеша"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "асо"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ростӣ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "асо"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "подшоҳии ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:41.633724935Z",
+  "model": "glm-5.3"
+}

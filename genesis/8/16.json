@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Аз киштӣ берун бар, ту ва занат ва писаронат ва занҳои писаронат бо ⟨את⟩ ту.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "берун бар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "киштӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ва занат"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ва писаронат"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ва занҳои"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "писаронат"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "бо ⟨את⟩ ту"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:49.428728447Z",
+  "model": "glm-5.3"
+}

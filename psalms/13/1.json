@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ба роҳбари овозахон. Мазмур барои Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари овозахон"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "барои Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:37.084970064Z",
+  "model": "glm-5.3"
+}

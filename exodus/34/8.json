@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "ва Моше шитоб кард ва ба замин саҷда кард ва сҷодад",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "шитоб кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "саҷда кард"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ба замин"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "сҷодад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:42:11.308694194Z",
+  "model": "glm-5.3"
+}

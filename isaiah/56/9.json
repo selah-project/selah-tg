@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 56,
+  "translation": "Ҳамаи ҳайвоноти саҳро, биёед то хӯред, ҳамаи ҳайвоноти ⟨в⟩ҷангал.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ҳайвоноти"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "саҳро"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "биёед"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "то хӯред"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ҳайвонот"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ҷангал"
+    }
+  ],
+  "timestamp": "2026-09-30T17:36:51.265793425Z",
+  "model": "glm-5.3"
+}

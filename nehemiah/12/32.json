@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "ва баъди онҳо Ҳошаъя ва ниме аз сарони Йеҳуда рафт.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ва рафт"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "баъди онҳо"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "Ҳошаъя"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ва ниме аз"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "сарони"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:17.230221439Z",
+  "model": "glm-5.3"
+}

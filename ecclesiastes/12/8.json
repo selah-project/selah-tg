@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Бекорӣ аз бекориҳо, гуфт Коҳелет, ҳама бекорист.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "бекорӣ"
+    },
+    {
+      "surface": "הбלים",
+      "gloss": "аз бекориҳо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Коҳелет"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бекорист"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:11.200609001Z",
+  "model": "glm-5.3"
+}

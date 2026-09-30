@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ин корҳоро Бнаяҳу писари Йеҳоядо кард, ва ба ӯ ном дар миёни се ҷасур буд.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "корҳоро кард"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бнаяҳу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йеҳоядо"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ва ба ӯ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "дар миёни се"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ҷасур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:01.721223335Z",
+  "model": "glm-5.3"
+}

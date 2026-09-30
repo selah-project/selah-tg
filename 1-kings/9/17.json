@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Шломо ⟨את⟩ Гезер ва ⟨את⟩ Бет-Ҳорони поёниро бино кард.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ва бино кард"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гезер"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Бет-Ҳорони поёнӣ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Ҳорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "поёнӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:05:07.408829372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва бар ӯ ⟨את⟩ синаҳаро гузошт ва ба синаҳар ⟨את⟩ Урим ва ⟨את⟩ Тумимро гузошт.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синаҳа"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "синаҳа"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "синаҳа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урим"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Урим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Тумим"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Тумим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:21.762763327Z",
+  "model": "glm-5.3"
+}

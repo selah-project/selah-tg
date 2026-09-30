@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва халқ дур истод, ва Моше ба тумани ғафс наздик шуд, ки дар он ҷо Элоҳим буд.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ва истод"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "дур"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ва Моше"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "наздик шуд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "тумани ғафс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "дар он ҷо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:40.264933584Z",
+  "model": "glm-5.3"
+}

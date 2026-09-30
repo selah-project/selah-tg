@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Зани ҷасурро кӣ ёбад? Нархи вay дуртар аз марворид аст.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ҷасур"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ёбад"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "дуртар"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "аз марворид"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "нархи вай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:53.426145104Z",
+  "model": "glm-5.3"
+}

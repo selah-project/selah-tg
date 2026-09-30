@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 84,
+  "translation": "О хушбахтии одаме ки қувваташ дар Туст; роҳҳо дар дилашон аст.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "о хушбахтӣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одаме"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар Туст"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "роҳҳо"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "дар дилашон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:01.663283507Z",
+  "model": "glm-5.3"
+}

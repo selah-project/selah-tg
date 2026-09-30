@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Зеро Элоҳим ⟨את⟩ ҳар амалро ба доварӣ меорад, бар ҳар чизи пинҳонӣ — хоҳ нек ё бад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳар амал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "амал"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "меорад"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ба доварӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "чизи пинҳонӣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хоҳ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ё"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:53.223104194Z",
+  "model": "glm-5.3"
+}

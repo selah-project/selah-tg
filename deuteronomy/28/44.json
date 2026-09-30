@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ӯ ба ту қарз медиҳад, вале ту ба ӯ қарз намедиҳӣ; ӯ сар мешавад ва ту дум мешавӣ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "ба ту қарз медиҳад"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ва ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ба ӯ қарз намедиҳӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "мешавад"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ва ту"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "мешавӣ"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "дум"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:41.839221771Z",
+  "model": "glm-5.3"
+}

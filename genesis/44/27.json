@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ва бандаи ту, падарам, ба мо гуфт: Шумо медонед, ки занан ду фарзанд ба ман зоидааст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "бандаи ту"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падарам"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "медонед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "зоидааст"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "занам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:38.262631921Z",
+  "model": "glm-5.3"
+}

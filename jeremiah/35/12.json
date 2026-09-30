@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва сухари Яҳве ба Йирмёяҳу омад, ба ин гуна:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмёяҳу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба ин гуна"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:40.445229008Z",
+  "model": "glm-5.3"
+}

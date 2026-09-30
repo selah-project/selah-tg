@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Бишнавед ин суханро, ки ман бар шумо марсияе мебарам — эй хонаи Йисроэл.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин суханро"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "мебарам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "бар шумо"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "марсия"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:22:40.057628592Z",
+  "model": "glm-5.3"
+}

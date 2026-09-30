@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Дили ҳаким ба тарафи рости ӯст, ва дили нодон ба тарафи чапи ӯ.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "ба тарафи рости ӯст"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ва дили"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "ба тарафи чапи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:16.743972413Z",
+  "model": "glm-5.3"
+}

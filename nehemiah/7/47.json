@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Кейрос, фарзандони Сиъо, фарзандони Подон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Кейрос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сиъо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Подон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:34.200843547Z",
+  "model": "glm-5.3"
+}

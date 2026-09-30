@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ман ⟨את⟩ ҳамаи корҳое ки зери офтоб карда шудаанд дидам, ва инак, ҳама ҳебел аст ва рафъи руах.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ман дидам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи корҳоро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "корҳоро"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ки карда шудаанд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва инак"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ва рафъи"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:44.022405196Z",
+  "model": "glm-5.3"
+}

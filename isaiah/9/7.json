@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Калимаро Адонай ба Яъқов фиристод, ва он ба Йисроэл афтод.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "калимаро"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ба Яъқов"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ва афтод"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ба Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:48.986629832Z",
+  "model": "glm-5.3"
+}

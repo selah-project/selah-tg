@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ин аст насли Нӯҳ: Нӯҳ марди одил ва беайб дар наслҳои худ буд; Нӯҳ бо ⟨את⟩ Элоҳим мегаҳт.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ин"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "насл"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "дар наслҳои худ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бо Элоҳим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "мегаҳт"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:31.260876290Z",
+  "model": "glm-5.3"
+}

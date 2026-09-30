@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Мероси мо ба бегонагон гашт, хонаҳои мо — ба xorбигонан.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "Мероси мо"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "гашт"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ба begonagon"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "хонаҳои мо"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ба nошинофтagon"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:27.505198924Z",
+  "model": "glm-5.3"
+}

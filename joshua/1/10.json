@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Йеҳошуа ⟨את⟩ ба сардорони халқ фармуд, бигӯяд:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ва фармуд"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сардорон"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ба сардорони"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бигӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:24:11.966938678Z",
+  "model": "glm-5.3"
+}

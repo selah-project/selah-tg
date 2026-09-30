@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "ва ӯ моро ба ин макон овард ва ба мо ⟨את⟩ ин заминро дод — замини ҷоришудаи шир ва асал.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ва ӯ моро овард"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ин макон"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин заминро"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ин замин"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ҷоришуда"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "шир"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ва асал"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:39.498526805Z",
+  "model": "glm-5.3"
+}

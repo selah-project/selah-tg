@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва ҷавони набӣ — ҷавоне ки набӣ буд — ба Рамоти Гилъод рафт.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ҷавон"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ҷавоне ки"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ буд"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилъод"
+    }
+  ],
+  "timestamp": "2026-09-30T20:04:43.254082995Z",
+  "model": "glm-5.3"
+}

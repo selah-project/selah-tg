@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва ӯ капорети тиллои пок сохт — ду аммау ним дарозиаш ва як аммау ним бараш.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "капорет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллои"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ду амма"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ва ним"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "дарозиаш"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ва як амма"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ва ним"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "бараш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:30.453893880Z",
+  "model": "glm-5.3"
+}

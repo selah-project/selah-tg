@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва назди ҳар ҷони мурда наояд; барои падари худ ва модари худ нопок нашавад.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва назди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "ҷони"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мурда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "барои падари худ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ва модари худ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нопок шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:43.638421421Z",
+  "model": "glm-5.3"
+}

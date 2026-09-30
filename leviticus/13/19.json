@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва дар ҷои шаҳин варами сафед ё доги сареди сурхча бошад, ва ба коҳин нишон дода шавад;",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ва бошад"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "дар ҷои"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "шаҳин"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "варами"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "сафед"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "доги"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "сафед"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "сурхча"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "ва нишон дода шавад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:37.300438577Z",
+  "model": "glm-5.3"
+}

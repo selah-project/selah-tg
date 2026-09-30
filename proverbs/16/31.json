@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Тоҷи шукуфта пирӣ аст; дар роҳи тседака ёфт мешавад.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "тоҷи"
+    },
+    {
+      "surface": "תפארет",
+      "gloss": "шукуфта"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "пирӣ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "тседака"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ёфт мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:52.287193782Z",
+  "model": "glm-5.3"
+}

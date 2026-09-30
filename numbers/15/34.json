@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва ӯро дар ҳабс нигоҳ доштанд, зеро ки равшан нашуда буд, ки бо ӯ чӣ карда шавад.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "нигоҳ доштанд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "дар ҳабс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нашуда буд"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "равшан"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "карда шавад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:27.961655240Z",
+  "model": "glm-5.3"
+}

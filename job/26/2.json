@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Чӣ ёрӣ додӣ ба беқувват? Чӣ наҷот додӣ ба зиреи беқувват?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ёдӣ додӣ"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "бе-"
+    },
+    {
+      "surface": "כח",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "наҷот додӣ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "зиреъ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қувват"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:42.685248404Z",
+  "model": "glm-5.3"
+}

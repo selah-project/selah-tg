@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва суханди Яҳве ба ман омад, гуфтанӣ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "суханди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтанӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:05:39.455954637Z",
+  "model": "glm-5.3"
+}

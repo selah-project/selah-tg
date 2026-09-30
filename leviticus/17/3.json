@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ҳар марде аз хонаи Йисроэл, ки гов ё гӯсфанд ё бузро дар маҳалла куштад, ё ки берун аз маҳалла куштад, —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "аз хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "кушт"
+    },
+    {
+      "surface": "שור",
+      "gloss": "гов"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "עז",
+      "gloss": "буз"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "дар маҳалла"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "кушт"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "берун аз"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "маҳалла"
+    }
+  ],
+  "timestamp": "2026-09-30T15:52:25.598652902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Овози фарёд аз Бобул, ва шикасти бузург аз замини Кашдиён.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "овози"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "фарёд"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "аз Бобул"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ва шикасти"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "аз замини"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдиён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:59:13.119847843Z",
+  "model": "glm-5.3"
+}

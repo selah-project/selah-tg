@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Элоҳим назди Билъом омад ва гуфт: ин мардоне ки бо ту ҳастанд, кистон?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кистон?"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ин мардон"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:48.777055506Z",
+  "model": "glm-5.3"
+}

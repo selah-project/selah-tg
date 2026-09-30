@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Вале акнун ин суханро бишнав, ки ман ба гӯшҳои ту ва ба гӯшҳои тамоми мардум мегӯям:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "вале"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "נא",
+      "gloss": "акнун"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "суханро"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "дабар...",
+      "gloss": "мегӯям"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ба гӯшҳои ту"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "ва ба гӯшҳои"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "мардум"
+    }
+  ],
+  "timestamp": "2026-09-30T17:50:44.791571546Z",
+  "model": "glm-5.3"
+}

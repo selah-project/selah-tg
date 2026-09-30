@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва нафаси одамон шонздаҳ ҳазор, ва маҷбурии онҳо барои Яҳве дуву сӣ нафар.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "нафас"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "маҷбурии онҳо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафар"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:54.753617499Z",
+  "model": "glm-5.3"
+}

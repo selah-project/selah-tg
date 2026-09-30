@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва сухани Яҳве ба ман расид, ки мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ки мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:03:05.445355412Z",
+  "model": "glm-5.3"
+}

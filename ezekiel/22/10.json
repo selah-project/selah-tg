@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Орояҳои падарро дар ту ошкор карданд; нопокии ҳайзро дар ту хор карданд.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "орояҳои"
+    },
+    {
+      "surface": "אב",
+      "gloss": "падар"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ошкор карданд"
+    },
+    {
+      "surface": "бך",
+      "gloss": "дар ту"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "нопокии"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "ҳайз"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "хор карданд"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:07:18.490329593Z",
+  "model": "glm-5.3"
+}

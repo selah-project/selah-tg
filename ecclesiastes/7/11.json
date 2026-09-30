@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳикмат бо мерос хуб аст ва бартарӣ ба онҳое, ки офтобро мебинанд.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "хуб аст"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "мерос"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ва бартарӣ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ба онҳое, ки мебинанд"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтобро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:30.825893547Z",
+  "model": "glm-5.3"
+}

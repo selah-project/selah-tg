@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Аҳӣ, писари Авдиэл, писари Гӯнӣ, сари хонаи падарони онҳо ⟨буд⟩.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Аҳӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Авдиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гӯнӣ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "падарони онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:50.650390213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 148,
+  "translation": "Аз замин Яҳверо мақсуд кунед ⟨את⟩ — танинҳо ва ҳама умқҳо.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мақсуд кунед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "танинҳо"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "умқҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:27.244998176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "placeholder",
+  "tokens": [],
+  "timestamp": "2026-09-30T15:34:03.311411002Z",
+  "model": "glm-5.3"
+}

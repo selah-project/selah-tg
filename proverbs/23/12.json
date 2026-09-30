@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Дилатро ба тарбия биёвар ва гӯши туро ба каломҳои дониш.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "биёвар"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "ба тарбия"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилатро"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "ва гӯши туро"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ба каломҳои"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:24.714235751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва гуфт Яҳве ба Моше, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:25.836394641Z",
+  "model": "glm-5.3"
+}

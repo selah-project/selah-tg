@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ӯ ба ман гуфт: «То шабону рӯзҳо — ду ҳазору се сад; ва он гоҳ қудс рост хоҳад шуд».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ду ҳазор"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ва се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "рост хоҳад шуд"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "қудс"
+    }
+  ],
+  "timestamp": "2026-09-30T19:25:26.763335157Z",
+  "model": "glm-5.3"
+}

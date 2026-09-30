@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Йеҳошуа ба подшоҳи Йисроэл гуфт: «Имрӯз, лутфан, сухани Яҳверо биҷӯй».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "биҷӯй"
+    },
+    {
+      "surface": "נא",
+      "gloss": "лутфан"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сухани Яҳве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:41.150428414Z",
+  "model": "glm-5.3"
+}

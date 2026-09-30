@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва акнун мегӯяд Яҳве Тсевоот: дилҳои худро ба роҳҳои худ гузоред.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "כה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "гузоред"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "дилҳои худро"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "роҳҳои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:41.549134436Z",
+  "model": "glm-5.3"
+}

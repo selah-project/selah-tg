@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Мерайот писараш, Амарјаҳ писараш, Аҳитув писараш.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарјаҳ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Аҳитув"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:19.204995843Z",
+  "model": "glm-5.3"
+}

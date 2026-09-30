@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва гӯфт: «Ин шаш ченаки ҷавро ба ман дод, зеро гуфт: Назди хушаи модарат холӣ магард».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гӯфт"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ченакҳои ҷав"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "гард"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "холӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "хушаи модарат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:26.048288866Z",
+  "model": "glm-5.3"
+}

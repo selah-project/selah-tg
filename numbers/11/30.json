@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Моше ӯ ва пирони Йисроэл ба ⟨nazdi⟩ маҳкама баргаштанд.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ва баргашт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "маҳкама"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ва пирони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:46.812940883Z",
+  "model": "glm-5.3"
+}

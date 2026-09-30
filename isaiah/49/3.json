@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Ва ба ман гуфт: «Ғулами ман Туӣ, Йисроэл, ки дар ту Ман آرмехоҳам шавам.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ғулами ман"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "туӣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар ту"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "Армехоҳам шавам"
+    }
+  ],
+  "timestamp": "2026-09-30T17:36:02.930202040Z",
+  "model": "glm-5.3"
+}

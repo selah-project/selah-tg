@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Парт ва рехта моро дар миёни халқҳо қарор додӣ.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "парт"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "ва рехта"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "моро қарор додӣ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халқҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.966214070Z",
+  "model": "glm-5.3"
+}

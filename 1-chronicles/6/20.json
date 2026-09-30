@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "писари Тсиф, писари Элқона, писари Маҳат, писари Амосай.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Тсиф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элқона"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Маҳат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амосай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:06.326160462Z",
+  "model": "glm-5.3"
+}

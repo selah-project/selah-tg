@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Оё ту марди доноро дар назари худ дидаӣ? Барои аҳмақ аз ӯ бештар умед аст.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "дидаӣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "доной"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "дар назари худ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "умед"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "барои аҳмақ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:07.464585565Z",
+  "model": "glm-5.3"
+}

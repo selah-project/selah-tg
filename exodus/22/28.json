@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Меҳнат ва ашкро дер накун; аввалзодаи писаронатро ба Ман деҳ.",
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "меҳнат"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "ва ашк"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "дер"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "аввалзода"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "писаронат"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "деҳ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба Ман"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:25.083985875Z",
+  "model": "glm-5.3"
+}

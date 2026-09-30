@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 27:3",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва арзиши ту барои нар мард аз бистсола то шаш在这种сола — арзиши ти шумор; ин ҷо аз нав: ба номи аслӣ: [ислоҳ] арзиши ту панҷоҳ шекели нуқта бошад.",
+  "tokens": [
+    {
+      "surface": "ויהיה",
+      "gloss": ""
+    },
+    {
+      "surface": "ערכך",
+      "gloss": ""
+    },
+    {
+      "surface": "הזכר",
+      "gloss": ""
+    },
+    {
+      "surface": "מבן",
+      "gloss": ""
+    },
+    {
+      "surface": "עשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ועד",
+      "gloss": ""
+    },
+    {
+      "surface": "בן",
+      "gloss": ""
+    },
+    {
+      "surface": "ששים",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "והיה",
+      "gloss": ""
+    },
+    {
+      "surface": "ערכך",
+      "gloss": ""
+    },
+    {
+      "surface": "חמשים",
+      "gloss": ""
+    },
+    {
+      "surface": "שקל",
+      "gloss": ""
+    },
+    {
+      "surface": "כסףp",
+      "gloss": ""
+    },
+    {
+      "surface": "בשקל",
+      "gloss": ""
+    },
+    {
+      "surface": "הקדש",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:17.006347006Z",
+  "model": "glm-5.3"
+}

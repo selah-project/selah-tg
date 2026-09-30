@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Барқос, фарзандони Сисро, фарзандони Тамаҳ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Барқос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисро"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тамаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:43.132655667Z",
+  "model": "glm-5.3"
+}

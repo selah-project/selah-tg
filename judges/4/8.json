@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Бароқ ба ӯ гуфт: Агар ту бо ман равӣ, ман меравам; ва агар ту бо ман наравӣ, ман намеравам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Бароқ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "равӣ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "бо ман"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ман меравам"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "равӣ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "бо ман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "намеравам"
+    }
+  ],
+  "timestamp": "2026-09-30T16:34:25.269444895Z",
+  "model": "glm-5.3"
+}

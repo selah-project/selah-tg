@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ин насл аст — ҷустуҷӯкунандагони рӯи Тӯ, Яъқов. Селаҳ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ҷустуҷӯкунандагони"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "талабкунандагони"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯи Тӯ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:48.133778780Z",
+  "model": "glm-5.3"
+}

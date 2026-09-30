@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Зуд шуд, ки асир кушода шавад; ӯ ба чоҳ намемирад ва нони ӯ намеқусур.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "зуд"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "асир"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "кушода шавад"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "намемирад"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ба чоҳ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "намеқусур"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "нони ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:37:17.153066565Z",
+  "model": "glm-5.3"
+}

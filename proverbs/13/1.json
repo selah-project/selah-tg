@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Писари ҳаким — тарбияи падар, вале масхара мегӯяд на мешунавад гӯшмоҳииро.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбия"
+    },
+    {
+      "surface": "אב",
+      "gloss": "падар"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "вале масхара"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "мешунавад"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "гӯшмоҳӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:39.714189885Z",
+  "model": "glm-5.3"
+}

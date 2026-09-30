@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Нӯҳ се писар зойд: ⟨את⟩ Шем, ⟨את⟩ Ҳом ва ⟨את⟩ Ёфт.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нӯҳ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "писар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ҳом"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ҳом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Ёфт"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Ёфт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:31.261129137Z",
+  "model": "glm-5.3"
+}

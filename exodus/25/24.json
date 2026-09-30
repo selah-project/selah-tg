@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва ту онро ⟨את⟩ бо тиллои пок мепӯшонӣ, ва барои он тоҷи тиллоӣ дар гирди он месозӣ.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "мепӯшонӣ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "онро"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллои"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "месозӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои он"
+    },
+    {
+      "surface": "זר",
+      "gloss": "тоҷ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллои"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "дар гирд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:39:10.322368305Z",
+  "model": "glm-5.3"
+}

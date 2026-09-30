@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Чӣ ҳама тораатро дӯст медорам! Тамоми рӯз он мулоҳизаи ман аст.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ ҳама"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "дӯст медорам"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "тораат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "היא",
+      "gloss": "он"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "мулоҳизаи ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:44.298162460Z",
+  "model": "glm-5.3"
+}

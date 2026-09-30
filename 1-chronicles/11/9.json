@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Довуд рафта, бузург шуда рафт, ва Яҳве Тсевоот бо ӯ буд.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафта"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "рафтан"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ва бузург шуда"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ва Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:26.176825020Z",
+  "model": "glm-5.3"
+}

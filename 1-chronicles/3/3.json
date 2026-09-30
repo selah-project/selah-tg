@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Панҷум Шефатяҳу аз Авитал; шашум Йитреам аз Эгла, занаш.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "панҷум"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатяҳу"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "аз Авитал"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Йитреам"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "аз Эгла"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "занаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:17.514851030Z",
+  "model": "glm-5.3"
+}

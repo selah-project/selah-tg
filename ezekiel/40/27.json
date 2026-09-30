@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 40:27",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва дари саҳни дохилӣ роҳи ҷанубӣ буд; ва ӯ чен кард аз дари то дар роҳи ҷанубӣ — сад гоз.",
+  "tokens": [
+    {
+      "surface": "ושער",
+      "gloss": "ва дари"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "саҳни"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "дохилӣ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ҷанубӣ"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ва ӯ чен кард"
+    },
+    {
+      "surface": "משער",
+      "gloss": "аз дари"
+    },
+    {
+      "surface": "אל",
+      "gloss": "то"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дари"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ҷанубӣ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "гоз"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:45.650875858Z",
+  "model": "glm-5.3"
+}

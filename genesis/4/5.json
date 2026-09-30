@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва ба Қоин ва ба минҳаи ӯ нигоҳ накард; ва ба Қоин хеле ғазабнок шуд, ва рӯяш афтод.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қоин"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "минҳаи ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накард"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "нигоҳ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ғазабнок шуд"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "ба Қоин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "хеле"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "афтод"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯяш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:07.326609610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Беҳтар ⟨аст⟩ рафтан ба хонаи мотам аз рафтан ба хонаи зиёфат, зеро он охири ҳамаи одамон аст, ва зинда ба дили худ меандозад.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "рафтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "мотам"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "аз рафтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "зиёфат"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "охири"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "ва зинда"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "меандозад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дили худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:56.180699562Z",
+  "model": "glm-5.3"
+}

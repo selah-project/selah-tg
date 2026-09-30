@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва аз ливиён: Шемаъя, писари Ҳашув, писари Азриқом, писари Ҳашавъя, писари Бунни.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ливиён"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаъя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Ҳашув"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азриқом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Ҳашавъя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Бунни"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:21.484956614Z",
+  "model": "glm-5.3"
+}

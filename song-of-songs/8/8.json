@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Хоҳаре хурде дорем, ки синааш ҳанӯз бедор нашудааст; барои хоҳарамон чӣ кунем дар рӯзе ки аз ӯ сухан равад?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "хоҳар"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "дорем"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "хурд"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אין",
+      "gloss": "надорад"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "кунем"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "барои хоҳарамон"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзе"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "сухан равад"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аз ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:21.131861367Z",
+  "model": "glm-5.3"
+}

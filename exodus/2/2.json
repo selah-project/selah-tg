@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва зан ҳомила шуд ва писар зойид, ва ӯро дид, ки некӯ аст, ва ӯро се моҳ пинҳон кард.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомила шуд"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зойид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ӯро",
+      "marks": "ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "пинҳон кард"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "моҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:08.453873698Z",
+  "model": "glm-5.3"
+}

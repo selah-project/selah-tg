@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Барои тамоеи Йосеф — барои тамоеи Менашше — Гаддӣ, писари Сусӣ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "барои тамое"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "барои тамое"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гаддӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Сусӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:42.927989932Z",
+  "model": "glm-5.3"
+}

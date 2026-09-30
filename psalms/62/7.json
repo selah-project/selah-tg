@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 62,
+  "translation": "Танҳо Ӯст сангам ва наҷоти ман, қалъаи ман — намепошам.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Танҳо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "צורи",
+      "gloss": "санги ман"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ва наҷоти ман"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "қалъаи ман"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "мепошам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:26.283853721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Зеро ҳасадӣ ғазаби мард аст, ва ӯ дар рӯзи интиқом раҳм намекунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ҳасадӣ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ғазаби"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва не"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "раҳм намекунад"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "интиқом"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:14.208729353Z",
+  "model": "glm-5.3"
+}

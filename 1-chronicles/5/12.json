@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Йоэл сарвар, ва Шафам дуюм, ва Йаънай ва Шафат дар Бошон.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "Шафам"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "Йаънай"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "Шафат"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "дар Бошон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:24.346619854Z",
+  "model": "glm-5.3"
+}

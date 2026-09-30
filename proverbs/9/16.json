@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "«Кӣ нодон аст? Биёёд ин ҷо», — ва ба ҷони камақл ба ӯ мегӯяд.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кӣ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "биёяд ин ҷо (рогардонад)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ин ҷо"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ва камақл"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ақл"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:39.123822951Z",
+  "model": "glm-5.3"
+}

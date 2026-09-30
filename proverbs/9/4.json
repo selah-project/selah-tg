@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "«Кӣ содда аст? биёед ин ҷо»; камдилро мегӯяд ба ӯ:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кӣ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "содда"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "биёед"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ин ҷо"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "камдил"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:53.517366128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва дар Кадеш рӯзҳои бисёр мондед, мувофиқи рӯзҳое ки он ҷо мондед.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "мондед"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "дар Кадеш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "мувофиқи рӯзҳое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "мондед"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:03.639952135Z",
+  "model": "glm-5.3"
+}

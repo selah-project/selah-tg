@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "Оё тахти бадӣ бо Ту ҳамнишин аст — он ки бо фармон зиён месозад?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "ҳамнишин аст бо Ту"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тахт"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "созад"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "зиён"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חק",
+      "gloss": "фармон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:38.737601177Z",
+  "model": "glm-5.3"
+}

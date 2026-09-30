@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ва коҳин аз хона ба даромадгоҳи хона берун ояд ва ⟨את⟩ хонаро ҳафт рӯз мебандад.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ва берун ояд"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "даромадгоҳи"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ва мебандад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хонаро"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хонаро"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:28.524453004Z",
+  "model": "glm-5.3"
+}

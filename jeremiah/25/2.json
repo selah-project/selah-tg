@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "ки онро Ўрмиё набӣ ба тамоми халқи Йеҳуда ва ба ҳамаи сокинони Ерушалайм гуфт:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ўрмиё"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан:"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:05.006980024Z",
+  "model": "glm-5.3"
+}

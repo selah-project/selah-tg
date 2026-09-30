@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 124,
+  "translation": "Он гоҳ обҳои магру́р бар ҷони мо мегузаштанд,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "мегузаштанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ҷони мо"
+    },
+    {
+      "surface": "המים",
+      "gloss": "обҳои"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "магру́р"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:38.773132874Z",
+  "model": "glm-5.3"
+}

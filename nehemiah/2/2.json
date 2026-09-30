@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва подшоҳ ба ман гуфт: «Чаро рӯи ту бад аст, агарчи ту бемор нестӣ? Ин магар ғами дил аст.» Ва ман хеле бисёр тарсидам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Чаро"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯи ту"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "бад аст"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "агарчи ту"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "нестӣ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "бемор"
+    },
+    {
+      "surface": "אין",
+      "gloss": "магар"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ин"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רע",
+      "gloss": "ғами"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "Ва ман тарсидам"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "хеле"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:30:56.262351818Z",
+  "model": "glm-5.3"
+}

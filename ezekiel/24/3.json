@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва ба хонаи исёнгар масал кун ва ба онҳо бигӯ: «Ин гӯяд Адонай Яҳве: Дегро гузор, гузор онро, ва низ об рез ба он.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "Ва масал кун"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "исёнгар"
+    },
+    {
+      "surface": "משל",
+      "gloss": "масал"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ва бигӯ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "гузор"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "дегро"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "гузор"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "рез"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T18:08:00.377801420Z",
+  "model": "glm-5.3"
+}

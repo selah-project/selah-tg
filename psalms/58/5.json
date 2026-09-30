@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 58,
+  "translation": "Заҳрашон мисли заҳри мор аст, мисли афъии кар, ки гӯшашро мебандад.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "заҳрашон"
+    },
+    {
+      "surface": "למו",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "мисли"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "заҳри"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "мор"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мисли"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "афъӣ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "кар"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "мебандад"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "гӯшашро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:44.761900440Z",
+  "model": "glm-5.3"
+}

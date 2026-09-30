@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 72,
+  "translation": "Кӯҳҳо ба мардум салом бибаранд ва теппаҳо бо тседека.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "бибаранд"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Кӯҳҳо"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "салом"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ба мардум"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ва теппаҳо"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "бо тседека"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:48.423640726Z",
+  "model": "glm-5.3"
+}

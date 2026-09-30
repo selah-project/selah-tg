@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ман деворам ва синаҳоям мисли бурҷҳо; он гоҳ ман дар назди ӯ мисли ёфтаи осоиҷ шудам.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "деворам"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ва синаҳоям"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "мисли бурҷҳо"
+    },
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "шудам"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "дар назди ӯ"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "мисли ёфтаи"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "оsoiҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:37.044785126Z",
+  "model": "glm-5.3"
+}

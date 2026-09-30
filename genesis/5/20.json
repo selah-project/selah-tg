@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ҳамаи рӯзҳои Йаред дувоздаҳу шаст солу нӯҳсад сол буд, ва ⟨ӯ⟩ мурд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Йаред"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ву шаст"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ву нӯҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:16.609266470Z",
+  "model": "glm-5.3"
+}

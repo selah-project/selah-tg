@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Офарандаи Ош, Кесил ва Кимаҳ, ва ҳуҷраҳои жанубро.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "офаранда"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Ош"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Кесил"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "ва Кимаҳ"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "ва ҳуҷраҳои"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "ҷануб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:19.272824304Z",
+  "model": "glm-5.3"
+}

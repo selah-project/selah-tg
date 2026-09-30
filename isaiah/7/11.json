@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 7:11",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Барои худ аз Яҳве, Элоҳими худ, аломат бипурс — талабро амиқ соз ё баланд ба боло.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "бипурс"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "аломат"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими худ"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "амиқ соз"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "талабро"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "הגבה",
+      "gloss": "баланд"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ба боло"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:05.595976678Z",
+  "model": "glm-5.3"
+}

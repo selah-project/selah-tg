@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 124,
+  "translation": "Ёвари мо ба номи Яҳве аст, Офарандагони осмонҳо ва замин.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ёвари мо"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ба номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Офарандагон"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ва замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:38.773727762Z",
+  "model": "glm-5.3"
+}

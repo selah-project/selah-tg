@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва Йеҳуда барои Эр, бекори худ, зан гирифт; ва номи ӯ Тамар буд.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "לער",
+      "gloss": "барои Эр"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "бекори ӯ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:43.081589594Z",
+  "model": "glm-5.3"
+}

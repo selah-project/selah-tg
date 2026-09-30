@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва ман ба онҳо гуфтам: «Сухани Яҳве ба ман расид, то гуфтан».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ва ман гуфтам"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "то гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T18:07:40.388991222Z",
+  "model": "glm-5.3"
+}

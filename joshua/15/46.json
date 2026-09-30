@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 15:46",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "аз Эқрон то баҳр — ҳама он чи назди Ашдод аст ва деҳаҳояшон,",
+  "tokens": [
+    {
+      "surface": "מעקרון",
+      "gloss": "аз Эқрон"
+    },
+    {
+      "surface": "וימה",
+      "gloss": "то баҳр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "על",
+      "gloss": "назди"
+    },
+    {
+      "surface": "יד",
+      "gloss": "канори"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ашдод"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ва деҳаҳояшон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:46.234806733Z",
+  "model": "glm-5.3"
+}

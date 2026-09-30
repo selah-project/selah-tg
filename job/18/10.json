@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Пинҳон аст дар замин тораш, ва домҳояш бар роҳ.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "пинҳон аст"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "тораш"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "ва домҳояш"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "роҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:07:00.830653611Z",
+  "model": "glm-5.3"
+}

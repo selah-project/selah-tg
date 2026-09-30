@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва ба ӯ гӯфт: Ман духтари Бетуил ҳастам, писари Милко, ки ӯро барои Нахор зоидааст.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гӯфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтар"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуил"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "зоидааст"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "барои Нахор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:53.914235104Z",
+  "model": "glm-5.3"
+}

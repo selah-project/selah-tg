@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Нуздаҳум ба Петаҳйа, бистум ба Йеҳезқел.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "ба Петаҳйа"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "нуздаҳум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "ба Йеҳезқел"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "бистум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:33.709124444Z",
+  "model": "glm-5.3"
+}

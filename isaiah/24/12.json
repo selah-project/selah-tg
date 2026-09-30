@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Дар шаҳр вайронӣ боқӣ монд, ва дарвоза бо харобӣ кофта шуд.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "боқӣ монд"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "дар шаҳр"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "вайронӣ"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "ва харобӣ"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "кофта шуд"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дарвоза"
+    }
+  ],
+  "timestamp": "2026-09-30T17:28:50.465417253Z",
+  "model": "glm-5.3"
+}

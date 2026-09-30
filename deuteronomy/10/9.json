@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Аз ин сабаб ба Лейвӣ ҳиссае ва меросе бо бародаронаш набуд; Яҳве Худ ҳамон мероси ӯст, чунон ки Яҳве Элоҳими ту ба ӯ гуфт.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин сабаб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "ба Лейвӣ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ҳиссае"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "ва меросе"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародаронаш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Худ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мероси ӯ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:32.505896331Z",
+  "model": "glm-5.3"
+}

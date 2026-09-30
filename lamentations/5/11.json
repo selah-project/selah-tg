@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Занонро дар Тсиён ва душманонро дар шаҳрҳои Йеҳудă хор карданд.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "занонро"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "дар Тсиён"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "хор карданд"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "душманонро"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "дар шаҳрҳои"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:20.897718746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва агар минҳаи мархешет қурбонии tu бошад — орди соф бо равған сохта шавад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минҳаи"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "мархешет"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "қурбонии tu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "орди соф"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "бо равған"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "сохта шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:40.818825673Z",
+  "model": "glm-5.3"
+}

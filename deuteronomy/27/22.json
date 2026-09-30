@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Малъун бошад ҳар кӣ ки бо хоҳари худ мехобад — духтари падараш ё духтари модараш, ва тамоми халқ мегӯяд: Омин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Малъун бошад"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "мехобад"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "хоҳари худ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падараш"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "модараш"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва мегӯяд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Омин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:28.626769118Z",
+  "model": "glm-5.3"
+}

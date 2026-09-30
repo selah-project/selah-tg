@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва аз он ҷо ба Беэр-Шева баромад.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ва баромад"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аз он ҷо"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:33.778969812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 52,
+  "translation": "Ва анорҳо наваду шаш аз як рӯ ба рӯ буданд — ҳамаи анорҳо сад болои шабака, гирди он.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ва буданд"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "анорҳо"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "навад"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "рӯ ба рӯ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "анорҳо"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "על",
+      "gloss": "болои"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "шабака"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:59:36.861020371Z",
+  "model": "glm-5.3"
+}

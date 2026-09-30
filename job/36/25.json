@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ҳар одам ӯро дидааст, инсон аз дур менигарад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ҳар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "дидааст"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "инсон"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "менигарад"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "аз дур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:10:54.216823256Z",
+  "model": "glm-5.3"
+}

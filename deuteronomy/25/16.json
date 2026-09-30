@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Зеро ки мукrireи Яҳве Элоҳими ту аст ҳар кӣ ин корҳоро мекунад, ҳар кӣ сидқӣ вайрон мекунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мукриреи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар кӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "мекунад"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар кӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кунандаи"
+    },
+    {
+      "surface": "עול",
+      "gloss": "нодурустӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:09.489740813Z",
+  "model": "glm-5.3"
+}

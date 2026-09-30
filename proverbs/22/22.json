@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Бедарак накун мискинро, зеро ки ӯ мискин аст, ва мазлумро дар дарвоза фишор макун.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "бедарак"
+    },
+    {
+      "surface": "דל",
+      "gloss": "мискин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "דל",
+      "gloss": "мискин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва макун"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "фишор"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мазлумро"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "дар дарвоза"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:21.447130552Z",
+  "model": "glm-5.3"
+}

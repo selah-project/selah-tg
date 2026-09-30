@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ки надорад сарвар ва назоратчӣ ва ҳоким бар ⟨худ⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "надорад"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨бар худ⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "назоратчӣ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ва ҳоким"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:05.819093677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "⟨את⟩ ҳамаро зебо кард дар вақташ; ҳамчунин ⟨את⟩ абадиро дар дилашон гузошт, бе он ки одам кореро, ки Элоҳим кардааст, аз сар то охир наёбад.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳама"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебо"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "дар вақташ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳамчунин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "абадӣ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "абадӣ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "дар дилашон"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "бе он ки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "наёбад"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кор"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "аз сар"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "охир"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:40.615908519Z",
+  "model": "glm-5.3"
+}

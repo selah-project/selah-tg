@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва дар рӯзе ки Яҳве дар замини Мисраим бо Моше сухан гуфт, чунин шуд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва шуд"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзе ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:29.850049101Z",
+  "model": "glm-5.3"
+}

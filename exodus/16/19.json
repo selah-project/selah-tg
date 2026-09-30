@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Моше ба онҳо гуфт: ҳар як аз он то субҳ чизе боқӣ нагузорад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар як"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нагузорад"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "чизе боқӣ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "субҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:19.300715228Z",
+  "model": "glm-5.3"
+}

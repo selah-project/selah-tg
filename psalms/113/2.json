@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 113,
+  "translation": "Бод муборак номи Яҳве, аз ҳозир то абад.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "бод"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "муборак"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "аз ҳозир"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:43.376520255Z",
+  "model": "glm-5.3"
+}

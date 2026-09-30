@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ҳадад ва Теймо, Йетур, Нофиш ва Қедмо.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Ҳадад"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ва Теймо"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нофиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ва Қедмо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:00.704973721Z",
+  "model": "glm-5.3"
+}

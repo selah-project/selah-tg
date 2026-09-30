@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Он гоҳ хиҷил намешавам, чун ба ҳамаи фармонҳоят менигаром.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Он гоҳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "хиҷил мешавам"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "чуни менигаром"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "фармонҳоят"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:51.525472448Z",
+  "model": "glm-5.3"
+}

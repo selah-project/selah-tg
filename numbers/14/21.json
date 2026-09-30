@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Аммо Ман зиндаам, ва ҷомеи Яҳве тамоми ⟨את⟩ заминро пур хоҳад кард.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "аммо"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зинда"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ва пур хоҳад кард"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷомеи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тамоми замин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "заминро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:08.124744743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Зебоанд рухсорҳои туст бо тӯрҳо, гардани туст бо мӯҳраҳо.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "зебоанд"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "рухсорҳои туст"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "бо тӯрҳо"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "гардани туст"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "бо мӯҳраҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.743133135Z",
+  "model": "glm-5.3"
+}

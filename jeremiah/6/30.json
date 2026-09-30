@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Нуқраи радшуда номидаанд онҳоро, зеро Яҳве онҳоро рад кард.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "радшуда"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "номидаанд"
+    },
+    {
+      "surface": "להם",
+      "gloss": "онҳоро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "рад кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "онҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T17:41:36.988537435Z",
+  "model": "glm-5.3"
+}

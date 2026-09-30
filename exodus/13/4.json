@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Имрӯз шумо баромада истодаед, дар моҳи Авив.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "шумо"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "баромада истодаед"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "дар моҳи"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Авив"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:43.167714897Z",
+  "model": "glm-5.3"
+}

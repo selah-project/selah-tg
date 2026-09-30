@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Пинҳас писари Элъазар пешвои онҳо буд аз пешист; Яҳве бо ӯст.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "ва Пинҳас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элъазар"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "пешво"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "и онҳо — бар онҳо"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "аз пешист"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:41.057305047Z",
+  "model": "glm-5.3"
+}

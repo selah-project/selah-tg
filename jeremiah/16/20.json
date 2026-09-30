@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Оё одам барои худ худоён месозад? Ва онҳо худоён нестанд!",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Оё ... месозад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "худоён"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ва онҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "худоён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:25.818539464Z",
+  "model": "glm-5.3"
+}

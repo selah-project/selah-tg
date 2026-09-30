@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Тамоми ҷамъомад ⟨якҷоя⟩ чор даҳҳазор ду ҳазор се сад шасту шаш нафар ⟨буд⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ҷамъомад"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "якҷоя"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "даҳҳазор"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ва шасту шаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:47.557013034Z",
+  "model": "glm-5.3"
+}

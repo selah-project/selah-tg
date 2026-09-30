@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Аз кӯҳи Тсийон, ки ваҳшатгор аст — гӯрҳо дар он мегарданд.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Тсийон"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ваҳшатгор аст"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "гӯрҳо"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "мегарданд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:42.651718284Z",
+  "model": "glm-5.3"
+}

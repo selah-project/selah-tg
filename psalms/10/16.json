@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Яҳве подшоҳ аст абад ва ҳамеша; халқҳо аз замини Ӯ нобуд шуданд.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва ҳамеша"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "нобуд шуданд"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "аз замини Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:04.373979525Z",
+  "model": "glm-5.3"
+}

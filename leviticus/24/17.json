@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва агар касе ҳар як нафаси одамро бизанад, ҳатман ба қатл расонида шавад.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ва агар касе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "бизанад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар як"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафасро"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "מות",
+      "gloss": "қатл"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "расонида шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:23.947435265Z",
+  "model": "glm-5.3"
+}

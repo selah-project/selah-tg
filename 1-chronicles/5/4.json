@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Фарзандони Йоэл: Шемайя писари ӯ, Гог писари ӯ, Шимъӣ писари ӯ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайя"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:28.106330607Z",
+  "model": "glm-5.3"
+}

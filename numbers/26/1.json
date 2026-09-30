@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва Яҳве ба Моше ва ба Элъозор, писари Аҳарон, кайин гуфт:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элъозор"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "кайин"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:10.069428769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва на танҳо ⟨את⟩ бо шумо ман ⟨את⟩ ин аҳдро мебурам ва ⟨את⟩ ин қасамро.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "бо шумо ⟨את⟩"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "мебурам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин аҳд"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ин аҳд"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ин қасам"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин қасам"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:10.926623977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва агар ҳазор сол ду бор зинда монад ва некиро надида бошад — оё ҳама ба як ҷо намераванд?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "зинда монад"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ду бор"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ва некӣро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "надида бошад"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "оё"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "нмераванд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:11.322962966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Адонай бар ӯ хоҳад хандид, зеро дидаст, ки рӯзи ӯ меояд.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "хоҳад хандид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "дидаст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "рӯзи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:08.792181598Z",
+  "model": "glm-5.3"
+}

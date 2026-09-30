@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ба роҳе ки омад, ба ҳамон баргардад ва ба ин шаҳр наояд, мегӯяд Яҳве.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "ба роҳе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "баргардад"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:19:42.284731247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Роҳҳои ⟨את⟩-и хешро биҷӯем ва бисанҷем ва ба сӯйи Яҳве баргардем.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "биҷӯем"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "роҳҳои хешро"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "ва бисанҷем"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ва баргардем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ба сӯйи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:40.977276058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ба роҳбари мусиқӣ, ба писарони Қораҳ, масхил.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба писарони"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораҳ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "масхил"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:32.714879894Z",
+  "model": "glm-5.3"
+}

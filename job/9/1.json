@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Иёв ҷавоб дод ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иёв"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:54.856033995Z",
+  "model": "glm-5.3"
+}

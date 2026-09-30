@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Зеро Ту Эл ҳастӣ, ки ба бадкӯҳӣ розӣ намешавӣ; бадӣ назди Ту иқомат намекунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "розӣ мешавад"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ба бадкӯҳӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "наме"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": " назди Ту иқомат мекунад"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:56.990292393Z",
+  "model": "glm-5.3"
+}

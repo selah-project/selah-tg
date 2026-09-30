@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Авиэзери Анатотӣ, Мевуннайи Ҳушатӣ,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиэзер"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "Анатотӣ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Мевуннай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "Ҳушатӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:13.494393965Z",
+  "model": "glm-5.3"
+}

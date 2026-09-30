@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 2:33",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ливиён дар миёни банӣ-Йисроэл шуморida нашуданд, чунон ки Яҳве ба Моше фармуд ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "ва ливиён"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "шуморида нашуданд"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:39.501152Z",
+  "model": "glm-5.3"
+}

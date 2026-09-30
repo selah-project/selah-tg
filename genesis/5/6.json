@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва Шет зист панҷ солу сад сол, ва ⟨את⟩ Эношро таваллуд кард.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ва зист"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шет"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ву сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ва таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Энош"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Эношро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:46.276780028Z",
+  "model": "glm-5.3"
+}

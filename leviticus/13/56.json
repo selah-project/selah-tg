@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва агар коҳен бинад ва іншо, ки зарар баъди шустани он хира шудааст, онро аз либос ё аз пӯст ё аз арғамҷӣ ё аз тароҳ мебурад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бинад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "והнה",
+      "gloss": "ва іншо"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "хира шуда"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "зарар"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъди"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "шустани"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "он"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "мебурад"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "он"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "либос"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "העור",
+      "gloss": "пӯст"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "арғамҷӣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "тароҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:12.724235508Z",
+  "model": "glm-5.3"
+}

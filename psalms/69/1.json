@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 69,
+  "translation": "Ба роҳбари сароён, бар «Шӯшаннот», аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари сароён"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "«Шӯшаннот»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:43.813907123Z",
+  "model": "glm-5.3"
+}

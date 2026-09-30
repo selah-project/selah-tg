@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Яъқоб пойҳояшро бардошт ва ба сӯи замини банӣ Кедем рафт.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "бардошт"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "пойҳояшро"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ба сӯи замини"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Кедем"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:53.364506870Z",
+  "model": "glm-5.3"
+}

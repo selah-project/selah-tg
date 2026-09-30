@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Рӯҳи шимолро чен кард — панҷсад қадҳӣ, бо қадҳии ченак, атрофро.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "чен кард"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руҳи"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "шимол"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "қадҳӣ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "бо қадҳии"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ченак"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "атрофро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:13.004885308Z",
+  "model": "glm-5.3"
+}

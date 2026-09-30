@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Тсафанияи коҳин ин номаро дар гӯшҳои Ярмияҳуи набӣ хонд.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ва хонд"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Тсафания"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин нома"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ин нома"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "дар гӯшҳои"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияҳу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:14.534522196Z",
+  "model": "glm-5.3"
+}

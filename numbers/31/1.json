@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва гуфт Яҳве ба Моше, ба гӯйidan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гӯйidan"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:17.192459912Z",
+  "model": "glm-5.3"
+}

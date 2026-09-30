@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Тседек мехӯрад, то ки нафсаш сер шавад; вале шиками худоён камӣ дорад.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "то серӣ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "нафсаш"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "вале шиками"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "худоён"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "камӣ дорад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:57.903098896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зеро Адонай абадан дур намекунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "дур намекунад"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "абадан"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:09.127933745Z",
+  "model": "glm-5.3"
+}

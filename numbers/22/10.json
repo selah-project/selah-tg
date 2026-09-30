@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва Билъом ба Элоҳим гуфт: Балак писари Тсипор, подшоҳи Моов, назди ман фиристод",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Тсипор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "назди ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:48.777275245Z",
+  "model": "glm-5.3"
+}

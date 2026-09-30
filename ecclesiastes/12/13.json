@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Охири сухан — ҳама шунида шуд: ⟨את⟩ Элоҳимро битарс ва ⟨את⟩ фармонҳои Ӯро нигоҳ дор, зеро ин тамоми ⟨одам аст⟩.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Охири"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "шунида шуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элоҳим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "битарс"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "фармонҳои Ӯ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "фармонҳои Ӯ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "нигоҳ дор"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:53.222765296Z",
+  "model": "glm-5.3"
+}

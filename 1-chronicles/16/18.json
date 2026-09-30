@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Гуфта: «Ба ту замини Кенаънро мебахшам, ҳалқаи мероси шумо».",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "гуфта"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "мебахшам"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаън"
+    },
+    {
+      "surface": "חבел",
+      "gloss": "ҳалқа"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "мероси шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:43.110536302Z",
+  "model": "glm-5.3"
+}

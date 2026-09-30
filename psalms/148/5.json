@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 148,
+  "translation": "Номи Яҳверо мақсуд кунед ⟨את⟩, зеро ӯ фармуд ва офарида шуданд.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "мақсуд кунанд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Номи Яҳве"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ном"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ва офарида шуданд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:27.244474393Z",
+  "model": "glm-5.3"
+}

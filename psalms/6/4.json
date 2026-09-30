@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва нафсами бисёр ба ҳарос афтод; ва Ту, эй Яҳве, то кай?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ва нафсами"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ба ҳарос афтод"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:26.366429160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "писари Амарёҳ, писари Азарёҳ, писари Меройот.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарёҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарёҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Меройот"
+    }
+  ],
+  "timestamp": "2026-09-30T19:29:18.965020426Z",
+  "model": "glm-5.3"
+}

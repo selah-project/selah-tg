@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ширин аст хоби коргар — хӯрад кам ё бисёр; вале серии сарватманд ба ӯ иҷозат намедиҳад, ки хоб кунад.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "ширин"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "коргар"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "кам"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрад"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "вале серӣ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "сарватманд"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "намедиҳад"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "иҷозат медиҳад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "хоб кунад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:59.585253997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Қоц ⟨את⟩ Ануб ва ⟨את⟩ Ҳатсовебаро зоид, ва хонаводаҳои Аҳарҳел, писари Ҳарум.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Ва Қоц"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ануб"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Ануб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ҳатсовеба"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Ҳатсовеба"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ва хонаводаҳои"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Аҳарҳел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Ҳарум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:09.504690333Z",
+  "model": "glm-5.3"
+}

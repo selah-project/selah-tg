@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "Вақте гуфтам: «пои ман лағжид», ҳеседа Ту, эй Яҳве, маро ниҳод.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "вақте"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "лағжид"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "пои ман"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ҳеседа Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יסעдני",
+      "gloss": "маро ниҳод"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:38.737253897Z",
+  "model": "glm-5.3"
+}

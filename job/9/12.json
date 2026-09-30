@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Мана, агар ӯ рабурад, кӣ ӯро баргардонад? Кӣ ба ӯ гӯяд: «Чӣ mekunӣ?»",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Мана"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "рабурад"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ӯро баргардонад"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mekunӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:19.273398727Z",
+  "model": "glm-5.3"
+}

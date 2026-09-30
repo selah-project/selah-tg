@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва писарони Йетер: Йефунне, ва Писпо ва Аро.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "ва Писпо"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ва Аро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:27.674207071Z",
+  "model": "glm-5.3"
+}

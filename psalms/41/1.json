@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ба роҳбари овозхо. Мазмур аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари овозхо"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:13.490371504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 148,
+  "translation": "Подшоҳони замин ва ҳама халқҳо, саророн ва ҳама доварони замин,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "подшоҳони"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "саророн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "доварони"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:13.168160567Z",
+  "model": "glm-5.3"
+}

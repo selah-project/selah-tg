@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва Яъқоб дар замини муҷонибии падараш зист — дар замини Кенаан.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "зист"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "муҷонибии"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падараш"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:26.194108897Z",
+  "model": "glm-5.3"
+}

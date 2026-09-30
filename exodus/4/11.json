@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яҳве ба ӯ гуфт: Ки даҳонро барои одам гузошт? Ё ки гунг ё кар ё бино ё кӯр месозад? Магар ман Яҳве нестам?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "פה",
+      "gloss": "даҳонро"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "барои одам"
+    },
+    {
+      "surface": "או",
+      "gloss": "Ё"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "месозад"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "гунг"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "кар"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "бино"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кӯр"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Магар… нестам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:31:20.622033441Z",
+  "model": "glm-5.3"
+}

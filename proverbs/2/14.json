@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ки аз кардани бадӣ шоданд, аз тибқи бадӣ рақс ва шодӣ мекунанд;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "шоданд"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "аз кардани"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "рақс ва шодӣ мекунанд"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "аз тибқи"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:12.736209661Z",
+  "model": "glm-5.3"
+}

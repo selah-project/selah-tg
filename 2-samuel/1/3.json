@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Довуд ба ӯ гуфт: «Аз куҷо меоӣ?» Ва ӯ ба ӯ гуфт: «Аз лагери Йисроэл гурехтаам».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אי",
+      "gloss": "аз куҷо"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "куҷо"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "меоӣ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "аз лагери"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "гурехтаам"
+    }
+  ],
+  "timestamp": "2026-09-30T16:52:42.032260970Z",
+  "model": "glm-5.3"
+}

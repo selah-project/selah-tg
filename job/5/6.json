@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Зеро аз ғубор бадӣ барнамеояд ва аз замин меҳнат намеаст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "барнамеояд"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "аз ғубор"
+    },
+    {
+      "surface": "און",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "ва аз замин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "намеаст"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "меҳнат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:48.116074535Z",
+  "model": "glm-5.3"
+}

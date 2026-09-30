@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Мусофирро дӯст доред, зеро шумо худ мусофирон будед дар замини Мисраим.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "дӯст доред"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мусофир"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "мусофирро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "герим",
+      "gloss": "мусофирон"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "будед"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:15.228521022Z",
+  "model": "glm-5.3"
+}

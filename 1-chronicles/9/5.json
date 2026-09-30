@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "ва аз шилониён: Асайяи аввалзода ва писаронаш.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "шилониён"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асайя"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "аввалзода"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ва писаронаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:18.746384113Z",
+  "model": "glm-5.3"
+}

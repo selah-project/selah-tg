@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 28:35",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Яҳве ⟨את⟩ туро бо бемории бад бар зонуҳо ва бар соқҳо мезанад, ки аз он шифо ёфтан нахоҳӣ тавонист, аз кафи пои ту то қадқади tu сар.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "мезанад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "бо бемории"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הברכים",
+      "gloss": "зонуҳо"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "השקים",
+      "gloss": "соқҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "тавонӣ"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "шифо ёфтан"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "аз каф"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "пои ту"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "קדקדך",
+      "gloss": "қадқади tu сар"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:17.413075400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Наванд — ҳар саҳаргон; бузург аст имониети Ту.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "наванд"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ҳар саҳаргон"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "имонон"
+    },
+    {
+      "surface": "א",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:12.246394885Z",
+  "model": "glm-5.3"
+}

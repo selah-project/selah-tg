@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва ⟨את⟩ хук — зеро ки ӯ сум мебарад ва хандаи сум дорад, аммо гера намебарорад, — ӯ барои шумо нопок аст.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хук"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "хук"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "мфрив",
+      "gloss": "мебарад"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "сум"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ва ханда"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ханда"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "сум"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "аммо ӯ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гера"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "намебарорад"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нопок"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:48:46.422149754Z",
+  "model": "glm-5.3"
+}

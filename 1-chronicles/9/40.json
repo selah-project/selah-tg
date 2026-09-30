@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": " ва писари Йеҳонатон Мерив-Баал буд; ва Мерив-Баал падари ⟨את⟩ Микҳо шуд.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ва писари"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йеҳонатон"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ва Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "падари ... шуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Микҳо"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:15.758662170Z",
+  "model": "glm-5.3"
+}

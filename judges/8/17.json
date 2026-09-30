@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ⟨את⟩ бурҷи Пенуэлро вайрон кард ва мардони шаҳрро кушт.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бурҷи Пенуэл"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "бурҷ"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пенуэл"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "вайрон кард"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ва кушт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мардони шаҳр"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардон"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T16:35:53.739967049Z",
+  "model": "glm-5.3"
+}

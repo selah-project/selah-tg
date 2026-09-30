@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 81,
+  "translation": "Худои бегона дар ту набошад, ва ба худои бегона саҷда накунӣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בך",
+      "gloss": "дар ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "худо"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "саҷда накунӣ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ба худо"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бегона"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:30.784247031Z",
+  "model": "glm-5.3"
+}

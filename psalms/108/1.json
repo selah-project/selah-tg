@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 108,
+  "translation": "Суруд, мазмур аз Довуд",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Суруд"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:47.913762185Z",
+  "model": "glm-5.3"
+}

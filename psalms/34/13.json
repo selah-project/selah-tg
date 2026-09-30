@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Кист он марде, ки ҳаётро мехоҳад ва рӯзҳоро дӯст медорад, то некӣ бинад?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кист"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "он мард"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "мехоҳад"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "дӯст медорад"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "то бинад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:36.702586663Z",
+  "model": "glm-5.3"
+}

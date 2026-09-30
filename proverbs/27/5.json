@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Танбеҳи ошкор аз ишқи пинҳонӣ беҳтар аст.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "танбеҳ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ошкор"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "аз ишқ"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "пинҳонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:39.975324230Z",
+  "model": "glm-5.3"
+}

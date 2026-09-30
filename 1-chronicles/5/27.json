@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Писарони Лейвӣ: Гершон, Кеҳот ва Мерарӣ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Лейвӣ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеҳот"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ва Мерарӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:31.917899195Z",
+  "model": "glm-5.3"
+}

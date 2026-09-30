@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Аз Рехавјаҳу: аз фарзандони Рехавјаҳу — сардор Йишия.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "Аз Рехавјаҳу"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "аз фарзандони"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехавјаҳу"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Йишия"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:26.755297144Z",
+  "model": "glm-5.3"
+}

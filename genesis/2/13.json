@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва номи наҳри дуюм Гиҳон аст; ӯст, ки ⟨את⟩ тамоми замини Кӯшро иҳота мекунад.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ва номи"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "наҳри"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гиҳон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯст"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "иҳота мекунад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тамоми замини Кӯш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кӯш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:18.778247292Z",
+  "model": "glm-5.3"
+}

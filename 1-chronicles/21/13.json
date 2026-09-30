@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 21:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Довуд ба Гад гуфт: «Хеле ба тангӣ омадаам; хоҳам, ки ба дасти Яҳве афтам, зеро раҳмҳои Ӯ хеле бисёранд, ва ба дасти одам наафтам».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тангӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маро"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "хеле"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "афтам"
+    },
+    {
+      "surface": "נא",
+      "gloss": "хоҳам"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёранд"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "раҳмҳои Ӯ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "хеле"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ва ба дасти"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "афтам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:29.059331265Z",
+  "model": "glm-5.3"
+}

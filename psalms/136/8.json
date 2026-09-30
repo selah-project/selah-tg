@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "⟨את⟩ офтобро бар ҳукмронӣ дар рӯзона, ки ҳесед-и Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "офтоб"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "бар ҳукмронӣ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзона"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳесед-и Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:03.993338904Z",
+  "model": "glm-5.3"
+}

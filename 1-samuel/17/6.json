@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва сиқоҳи мисӣ бар поҳои ӯ ва низаи мисӣ байни китфҳои ӯ.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "ва сиқоҳи"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мисӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "поҳои ӯ"
+    },
+    {
+      "surface": "вכידון",
+      "gloss": "ва низаи"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мисӣ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "китфҳои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:46:05.151440842Z",
+  "model": "glm-5.3"
+}

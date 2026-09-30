@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва бар ҳудуди Нафталӣ, аз канори шарқӣ то канори баҳрӣ — Менашше як ⟨қисм⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталӣ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "баҳрӣ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:16:46.339344140Z",
+  "model": "glm-5.3"
+}

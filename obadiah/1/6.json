@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Чӣ тавр ҷустуҷӯ шуд Эсов, рехта шуданд пинҳонииҳои ӯ!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "чӣ тавр"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "ҷустуҷӯ шуд"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "рехта шуданд"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "пинҳонииҳои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:22:01.124641341Z",
+  "model": "glm-5.3"
+}

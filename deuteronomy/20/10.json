@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Чун ба шаҳре наздик шавӣ, то бо он ҷанг кунӣ, ба он салом эълон кун.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чун"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "наздик шавӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳре"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "то ҷанг кунӣ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бо он"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "эълон кун"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "салом"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:31.279101524Z",
+  "model": "glm-5.3"
+}

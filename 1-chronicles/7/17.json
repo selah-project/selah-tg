@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва писарони Улом ⟨яҳ⟩ Бедан. Инҳо писарони Гилъод, писари Мохир, писари Менашше буданд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Улом"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Бедан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилъод"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Мохир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:29.091522177Z",
+  "model": "glm-5.3"
+}

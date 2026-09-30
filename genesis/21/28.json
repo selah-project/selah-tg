@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Авраҳом ⟨את⟩ ҳафт мешаи гӯсфандро алоҳида гузошт.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳафт мешаи гӯсфандро"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "мешаи"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "алоҳида"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:52.341103456Z",
+  "model": "glm-5.3"
+}

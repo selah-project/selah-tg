@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва Болоқ Билъомро ⟨את⟩ ба сари Пеор бурд, ки бар рӯйи биёбон нигаронист.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ва бурд"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Болоқ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билъомро"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билъом"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Пеор"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "нигаронист"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "биёбон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:20.745053785Z",
+  "model": "glm-5.3"
+}

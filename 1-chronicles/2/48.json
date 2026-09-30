@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Пилегеши Калеб Мааха Шебер ва ⟨את⟩ Тирҳанаро зоид.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "пилегеши"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Шебер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Тирҳана"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Тирҳана"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:38.593063650Z",
+  "model": "glm-5.3"
+}

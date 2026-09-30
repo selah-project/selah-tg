@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва писари тахтаинаш Авдон, ва Тсур, ва Киш, ва Баал, ва Нер, ва Надов.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ва писари"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "тахтаинаш"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ва Тсур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ва Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ва Баал"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ва Нер"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ва Надов"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:30.925383815Z",
+  "model": "glm-5.3"
+}

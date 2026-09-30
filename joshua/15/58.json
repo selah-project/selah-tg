@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ҳалҳул, Байт-Тсур ва Гдор.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "Ҳалҳул"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Тсур"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ва Гдор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:46.747375620Z",
+  "model": "glm-5.3"
+}

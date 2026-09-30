@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "ва Ҳашува ва Оҳел ва Берекйаҳ ва Ҳасадйаҳ ва Йушаб-Ҳесед — панҷ.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ва Ҳашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ва Оҳел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ва Берекйаҳ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ва Ҳасадйаҳ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Йушаб"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-Ҳесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:16.907393517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Элкана — писараш Элкана, Тсофай писараш ва Наҳат писараш.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Тсофай"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ва Наҳат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:49.188919008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Бесай, фарзандони Меуним, фарзандони Нефушесим.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "Меуним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "Нефушесим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:33.664720334Z",
+  "model": "glm-5.3"
+}

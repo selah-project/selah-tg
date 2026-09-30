@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Йирмеёҳу гуфт: Калимаи Яҳве ба ман расид, чи тавре ки мегӯяд:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмеёҳу"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Калимаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чи тавре ки мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:52:13.120785224Z",
+  "model": "glm-5.3"
+}

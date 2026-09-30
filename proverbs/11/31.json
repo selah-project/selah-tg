@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Манзур, одил дар замин ҷазо мегирад — на он ки бадкор ва гунаҳкор?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Манзур"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ҷазо мегирад"
+    },
+    {
+      "surface": "אף",
+      "gloss": "на он ки"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ва гунаҳкор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:35.024784514Z",
+  "model": "glm-5.3"
+}

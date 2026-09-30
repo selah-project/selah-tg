@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "⟨את⟩ нуқраи худро ба ӯ бо фоиз надиҳӣ ва ғизои худро бо зиёдатӣ надиҳӣ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нуқраи худро"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "нуқраи худро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "диҳӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "бо фоиз"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ва бо зиёдатӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "диҳӣ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ғизои худро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:45.925226073Z",
+  "model": "glm-5.3"
+}

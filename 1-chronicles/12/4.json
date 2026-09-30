@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "ва Йишмоиаҳаҳ ғибъонӣ, ҷанговаре дар миёни сиҳо, ва бар сиҳо.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ва Йишмоиаҳа"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "ғибъонӣ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ҷанговар"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "дар миёни сӣ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "сӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:54.887279607Z",
+  "model": "glm-5.3"
+}

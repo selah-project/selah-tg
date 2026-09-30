@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Ва ӯ бар гардани Бинёмин бародари худ афтид ва гиря кард, ва Бинёмин бар гардани ӯ гиря кард.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ва афтид"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "gardani"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинёмин"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародари худ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ва гиря кард"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ва Бинёмин"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "гиря кард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "gardani ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:28:10.476365689Z",
+  "model": "glm-5.3"
+}

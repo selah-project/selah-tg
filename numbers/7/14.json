@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як кафаки тиллоии даҳ шекел, пур аз хушбӯй.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кафак"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пур"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "хушбӯй"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:11.237653768Z",
+  "model": "glm-5.3"
+}

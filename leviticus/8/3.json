@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва ⟨את⟩ тамоми ҷамъиятро пеши дарвозаи Хаймаи Воқеъ ҷамъ кун».",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "тамоми ҷамъият"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ҷамъият"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ҷамъ кун"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "дарвозаи"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Хаймаи"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Воқеъ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:39.550824785Z",
+  "model": "glm-5.3"
+}

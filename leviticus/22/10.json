@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва ҳар бегона чизи муқаддас нахӯрад; музофире ки дар хонаи kohен аст, ва муздиёр нахӯрад чизи муқаддасро.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "нахӯрад"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "чизи муқаддас"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "музофир"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ва муздиёр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "нахӯрад"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "чизи муқаддас"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:38.913930026Z",
+  "model": "glm-5.3"
+}

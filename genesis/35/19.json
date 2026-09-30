@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва Раҳел мурд ва дар роҳи Эфрат — он аст Бейт-Леҳем — дафн карда шуд.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раҳел"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "дафн карда шуд"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Эфрат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он аст"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Леҳем"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:41.082226688Z",
+  "model": "glm-5.3"
+}

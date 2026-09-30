@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва обҳо бар замин ғолиб омаданд панҷоҳу сад рӯз.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "ва ғолиб омаданд"
+    },
+    {
+      "surface": "המים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ву сад"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:01.982164493Z",
+  "model": "glm-5.3"
+}

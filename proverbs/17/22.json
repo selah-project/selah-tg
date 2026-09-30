@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Дили шоддаво некӯҳ медиҳад, вале руахи маҷрӯҳ устухонро мехушконад.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "дили"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "шод"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "некӯҳ медиҳад"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "даво"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "вале руахи"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "маҷрӯҳ"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "хушк мекунад"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "устухонро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:34.850327374Z",
+  "model": "glm-5.3"
+}

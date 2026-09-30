@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 109,
+  "translation": "Ва бидонанд, ки ин дасти Туст; Ту, эй Яҳве, онро кардаӣ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ва бидонанд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "дасти Туст"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "эй Яҳве"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "кардаӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:51.392343779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як гови ҷавон аз гала, як қӯчқор, як гӯсфанди яксола барои қурбонии сӯхт.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…и"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "гала"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…и"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "барои қурбонии сӯхт"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:11.237804009Z",
+  "model": "glm-5.3"
+}

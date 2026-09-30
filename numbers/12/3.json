@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва он мард Моше аз ҳамаи одамоне ки бар рӯйи замин ҳастанд, бениҳоят хоксортар буд.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Ва он мард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "хоксор"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бениҳоят"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "bar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:45.389028367Z",
+  "model": "glm-5.3"
+}

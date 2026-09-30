@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 69,
+  "translation": "Зеро онеро ки Ту задӣ, ронданд, ва ба дарди борхӯрдагони Ту афзуданд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "задӣ"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ронданд"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "дарди"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "борхӯрдагони Ту"
+    },
+    {
+      "surface": "יסספרו",
+      "gloss": "афзуданд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:53.866428823Z",
+  "model": "glm-5.3"
+}

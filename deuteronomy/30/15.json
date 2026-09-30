@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Бин, ман имрӯз пеши ту гузоштам ⟨את⟩ зиндагиро ва ⟨את⟩ некиро, ва ⟨את⟩ маргро ва ⟨את⟩ бадиро.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "бин"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ман гузоштам"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пеши ту"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зиндагӣ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "зиндагӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "некӣ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "марг"
+    },
+    {
+      "surface": "המות",
+      "gloss": "марг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "бадӣ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:41.834589814Z",
+  "model": "glm-5.3"
+}

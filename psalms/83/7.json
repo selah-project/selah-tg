@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 83,
+  "translation": "Чодрҳои Адум ва Ишмоилӣҳо, Моов ва Ҳагарӣҳо,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "чодрҳои"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Адум"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ва Ишмоилӣҳо"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "вהגרים",
+      "gloss": "ва Ҳагарӣҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:50.199914706Z",
+  "model": "glm-5.3"
+}

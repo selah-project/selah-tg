@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Отсем шашум, Довуд ҳафтум буд.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "Отсем"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ҳафтум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:38.137987019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Мардони Нетофа — панҷоҳу шаш.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофа"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "панҷоҳу"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "шаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:13.300037614Z",
+  "model": "glm-5.3"
+}

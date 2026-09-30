@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва Шаул ⟨את⟩ Амалекро зад, аз Ҳавило то омаданат ба Шур, ки рӯ ба рӯи Мисраим аст.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "зад"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалекро"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "аз Ҳавило"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "то омаданат"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ба Шур"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "рӯ ба"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мисраим"
+    }
+  ],
+  "timestamp": "2026-09-30T16:45:30.031379733Z",
+  "model": "glm-5.3"
+}

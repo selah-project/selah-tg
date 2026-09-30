@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Сарватати сарватманд қалъаи қуввати ӯст, вайронии мiskинон камбэалии онон аст.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Сарватати"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "сарватманд"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "қуввати ӯ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "вайронии"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "мiskинон"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "камбэалии"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:54.294795965Z",
+  "model": "glm-5.3"
+}

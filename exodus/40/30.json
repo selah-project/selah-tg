@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва ⟨את⟩ ҳавзро миёни хаймаи воқеъ ва қурбонгоҳ гузошт, ва он ҷо барои шустан об дод.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳавз"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ҳавз"
+    },
+    {
+      "surface": "בין",
+      "gloss": "миёни"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "хайма"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "воқеъ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ва миёни"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "қурбонгоҳ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "барои шустан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:04.068379761Z",
+  "model": "glm-5.3"
+}

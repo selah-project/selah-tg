@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Агар хобӣ, натарсӣ; ва хобӣ ва хобат ширин хоҳад буд.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "хобӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "тарсӣ"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ва хобӣ"
+    },
+    {
+      "surface": "וערбה",
+      "gloss": "ва ... ширин хоҳад буд"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "хобат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:03.394114770Z",
+  "model": "glm-5.3"
+}

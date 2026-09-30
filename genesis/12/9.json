@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Авраҳом сафар кашид, равона равона ба самти ҷануб.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "сафар кашид"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "равона равона"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "равона"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ба самти ҷануб"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:13.405975801Z",
+  "model": "glm-5.3"
+}

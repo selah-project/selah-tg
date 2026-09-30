@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Лаби баланднагӯиро нодон раво нест — чӣ гуна лаби дурӯғ ба сарварро.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "раво"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ба нодон"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "лаби"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "баланднагӯӣ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чи гуна"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ба сарвар"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "лаби"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "дурӯғ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:49.699980796Z",
+  "model": "glm-5.3"
+}

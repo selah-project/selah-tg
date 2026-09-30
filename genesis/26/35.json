@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва онҳо талхи руах барои Йитсҳоқ ва барои Ривқо буданд.",
+  "tokens": [
+    {
+      "surface": "ויהי→ותהיין",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "талхӣ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йитсҳоқ"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "Ривқо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:08.774260109Z",
+  "model": "glm-5.3"
+}

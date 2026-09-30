@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Хеброн: Қораҳ, ва Таппуаҳ, ва Рекем ва Шемаъ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеброн"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Қораҳ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "ва Таппуаҳ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ва Рекем"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ва Шемаъ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:16.277779027Z",
+  "model": "glm-5.3"
+}

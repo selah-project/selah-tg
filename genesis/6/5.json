@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Яҳве дид, ки бадии одам дар замин бисёр аст, ва ҳар сурати фикрҳои дили ӯ тамоми рӯз танҳо шар аст.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ва дид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "бадии"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "сурати"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "фикрҳои"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дили ӯ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "шар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:44.783824925Z",
+  "model": "glm-5.3"
+}

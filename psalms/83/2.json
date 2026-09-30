@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 83,
+  "translation": "Эй Элоҳим, хомӯш мабош, оҳиста магир, эй Эл, беҳаракат намон.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "магир"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "хомӯш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "мабош"
+    },
+    {
+      "surface": "אל",
+      "gloss": "оҳиста"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "магир"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "намон"
+    },
+    {
+      "surface": "תשкט",
+      "gloss": "беҳаракат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:51.969189729Z",
+  "model": "glm-5.3"
+}

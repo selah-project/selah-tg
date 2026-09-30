@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Ҳӯр Урӣро ба дунё овард, ва Урӣ Бетсалелро ба дунё овард.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ва Ҳӯр"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урӣ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Урӣ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ва Урӣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бетсалел"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бетсалел"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:59.986061984Z",
+  "model": "glm-5.3"
+}

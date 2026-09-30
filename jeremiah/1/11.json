@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 1:11",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва сухани Яҳве ба ман расид, гуфтан: Эй Ирмиё, ту чӣ мебинӣ? Ва гуфтам: Чӯби бодом мебинам.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуҷуд омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "мебинӣ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмиё"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфтам"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "бодом"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "мебинам"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:06.805951932Z",
+  "model": "glm-5.3"
+}

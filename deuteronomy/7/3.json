@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "ва бо онҳо издивоҷӣ набанд: духтаратро ба писари ӯ надиҳ ва духтари ӯро барои писарат нагир.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "издивоҷӣ кун"
+    },
+    {
+      "surface": "בם",
+      "gloss": "бо онҳо"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "духтарат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "надиҳ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ба писари ӯ"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ва духтари ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "нагир"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "барои писарат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:07.439016564Z",
+  "model": "glm-5.3"
+}

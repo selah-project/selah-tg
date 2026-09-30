@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ҳамаи зиндагонро, ки зери офтоб мегарданд, дар паҳлӯи кӯдаки дуюм дидам, ки ба ҷои ӯ меистад.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "дидам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи зиндагонро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "зиндагон"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "мегарданд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "עם",
+      "gloss": "дар паҳлӯи"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "кӯдак"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "меистад"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:07.292341149Z",
+  "model": "glm-5.3"
+}

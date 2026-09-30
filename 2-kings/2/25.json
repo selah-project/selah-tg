@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ӯ аз он ҷо ба кӯҳи Кармел рафт ва аз он ҷо ба Шомрон баргашт.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аз он ҷо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Кармел"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ва аз он ҷо"
+    },
+    {
+      "surface": "שב",
+      "gloss": "баргашт"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:11:04.670213189Z",
+  "model": "glm-5.3"
+}

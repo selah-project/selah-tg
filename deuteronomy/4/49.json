@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва ҳамaiи ⟨⟩ Араба, он тарафи Урдун, ба сӯйи шарқ, то баҳри Араба, дар зери нишебиҳои Писғо.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Араба"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "он тарафи"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Урдун"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ба сӯйи шарқ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "ים",
+      "gloss": "баҳри"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Араба"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дар зери"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "нишебиҳои"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Писғо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:31.467851144Z",
+  "model": "glm-5.3"
+}

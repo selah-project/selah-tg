@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва бар ҳудуди Реубен, аз канори шарқӣ то канори ғарбӣ — Йеҳуда, як ҳисса.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реубен"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарбӣ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як ҳисса"
+    }
+  ],
+  "timestamp": "2026-09-30T18:16:36.852610201Z",
+  "model": "glm-5.3"
+}

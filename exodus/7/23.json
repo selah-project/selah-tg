@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Паръо рӯй гардонд ва ба хонаи худ омад, ва дилы худро ба ҳамин ҳам нагузошт.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "рӯй гардонд"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ва омад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи худ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "שת",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дилы худро"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ба ҳамин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:30:27.820658008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Йисроэл дар замини эмориён маскан гирифт.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ва маскан гирифт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эмориён"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:27.617861878Z",
+  "model": "glm-5.3"
+}

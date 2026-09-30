@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва ӯ бадӣ кард, зеро дилро барои ҷустани ⟨את⟩ Яҳве тайёр нанкард.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва кард"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "тайёр нанкард"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дил"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "барои ҷустани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:47:40.659586335Z",
+  "model": "glm-5.3"
+}

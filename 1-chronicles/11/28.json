@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ираъ писари Иққеши Такўӣ, Авиэзери Анатотӣ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ираъ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Иққеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "Такўӣ"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиэзер"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "Анатотӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:16.317011680Z",
+  "model": "glm-5.3"
+}

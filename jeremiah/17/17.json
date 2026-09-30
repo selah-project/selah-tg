@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Бигзор ту барои ман ваҳшат набошӣ; паноҳи ман ту ҳастӣ дар рӯзи бадӣ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "набоши"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бошӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ваҳшат"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "паноҳи ман"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:46:36.603473594Z",
+  "model": "glm-5.3"
+}

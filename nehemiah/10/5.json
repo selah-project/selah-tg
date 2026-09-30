@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ҳаттӯш, Шеванйаҳ, Маллӯк.",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "Ҳаттӯш"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шеванйаҳ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллӯк"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:39.423986116Z",
+  "model": "glm-5.3"
+}

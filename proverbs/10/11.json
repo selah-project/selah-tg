@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Чашмаи ҳаёт даҳони тсидоқ ⟨аст⟩, ва даҳони бадкорон зӯрориро мепӯшонад.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "чашма"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "тсидоқ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ва даҳони"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "мепӯшонад"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зӯрорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:46.341719531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Мабодад ки ҳод ва шукуҳатро ба дигарон диҳӣ ва солҳоятро ба без mercy — ба сахтдилон",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "мабодад"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "диҳӣ"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ба дигарон"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ҳоду шукуҳат"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "ва солҳоят"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "ба сахтдилон"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:51.687696388Z",
+  "model": "glm-5.3"
+}

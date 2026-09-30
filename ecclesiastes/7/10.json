@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Нагӯ: «Чаро рӯзҳои пешин аз инҳо беҳтар буданд?» — зеро на аз ҳикмат аст, ки ту дар бораи ин пурсиш мекунӣ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "нагӯ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ки рӯзҳои"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "пешин"
+    },
+    {
+      "surface": "היו",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "аз инҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "аз ҳикмат"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "пурсиш мекунӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:30.825765238Z",
+  "model": "glm-5.3"
+}

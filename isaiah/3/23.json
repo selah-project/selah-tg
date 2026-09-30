@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 3:23",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "ва оинаҳо ва матои undefeatedи нозук ва сарбандҳо ва парчамҳо,",
+  "tokens": [
+    {
+      "surface": "והגלינים",
+      "gloss": "ва оинаҳо"
+    },
+    {
+      "surface": "והסדינים",
+      "gloss": "ва матоҳои нозук"
+    },
+    {
+      "surface": "והצניפות",
+      "gloss": "ва сарбандҳо"
+    },
+    {
+      "surface": "והרדידים",
+      "gloss": "ва пардҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:02.007402536Z",
+  "model": "glm-5.3"
+}

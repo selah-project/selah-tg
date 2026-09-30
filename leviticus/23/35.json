@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Дар рӯзи аввал маҷлиси муқаддас ⟨аст⟩; ҳар гуна кори хизматиро накунед.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "аввал"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "маҷлиси даъват"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар гуна"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "кор"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хизмат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "накунед"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:08.739020877Z",
+  "model": "glm-5.3"
+}

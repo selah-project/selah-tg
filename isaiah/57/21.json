@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 57,
+  "translation": "«Сулҳ нест», мегӯяд Элоҳими ман, барои бадкорон.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "сулҳ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими ман"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "барои бадкорон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:38:01.920278447Z",
+  "model": "glm-5.3"
+}

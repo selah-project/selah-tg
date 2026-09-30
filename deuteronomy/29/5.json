@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Нон нахӯред ва шароб ва мастикунанда нашӯбед, то ки бидонед, ки Ман Яҳве Элоҳими шумо ⟨ҳастам⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "хӯрдед"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ва шароб"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ва мастикунанда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "шӯбед"
+    },
+    {
+      "surface": "למען",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "бидонед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳими шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:58.635706745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "ҳар паррандаи покро бихӯред",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "паррандаи"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "бихӯред"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:48.339978994Z",
+  "model": "glm-5.3"
+}

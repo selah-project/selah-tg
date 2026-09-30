@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ҳам фарзандони Ноф ва Тахпанес хотираи саратро мепараванд.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ҳам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Ноф"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "ва Тахпанес"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "мепараванд"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "хотираи сар"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:01.735539512Z",
+  "model": "glm-5.3"
+}

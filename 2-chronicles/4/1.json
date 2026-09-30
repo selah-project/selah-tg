@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ӯ қурбонгоҳи мисин сохт: бист ама дарозӣ, ва бист ама паҳнӣ, ва даҳ ама баландӣ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "қурбонгоҳ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мисин"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "дарозии он"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ама"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "паҳнии он"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ва даҳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ама"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "баландии он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:14.108681139Z",
+  "model": "glm-5.3"
+}

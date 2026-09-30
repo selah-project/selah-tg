@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 85,
+  "translation": "Эмэт аз замин месабзад ва тседек аз осмон нигоҳ мекунад.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Эмэт"
+    },
+    {
+      "surface": "מאркץ",
+      "gloss": "аз замин"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "месабзад"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ва тседек"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "аз осмон"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "нигоҳ мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:26.308259219Z",
+  "model": "glm-5.3"
+}

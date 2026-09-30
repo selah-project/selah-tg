@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Зеро бо Ту манбаи ҳаёт ⟨аст⟩ ва дар нури Ту нурро мебинем",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо Ту"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "манбаи"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "дар нури Ту"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "мебинем"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:43.825161929Z",
+  "model": "glm-5.3"
+}

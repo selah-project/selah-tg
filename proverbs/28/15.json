@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Шери гурзан ва хирси тохта — ҳукмрони бад бар болои халқи мискин.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "шер"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "гурзан"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ва хирс"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "тохта"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ҳукмрон"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар болои"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқи"
+    },
+    {
+      "surface": "דל",
+      "gloss": "мискин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:49.229649580Z",
+  "model": "glm-5.3"
+}

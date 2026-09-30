@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 63,
+  "translation": "Зеро рӯзи интиқом дар дилам аст ва соли фидоёни ман расидааст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "интиқом"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "дар дилам"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "ва соли"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "фидоёни ман"
+    },
+    {
+      "surface": "באה",
+      "gloss": "расидааст"
+    }
+  ],
+  "timestamp": "2026-09-30T17:38:32.249686974Z",
+  "model": "glm-5.3"
+}

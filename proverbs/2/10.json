@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро ҳикмат ба дилат ворид мешавад ва дониш ба нафасат хуш меояд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ворид мешавад"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ба дилат"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ва дониш"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ба нафасат"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "хуш меояд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:56.876049318Z",
+  "model": "glm-5.3"
+}

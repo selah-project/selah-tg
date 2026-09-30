@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва занӣ дигар дошт Яраҳмеэл, ва номи ӯ Атарот буд; ӯ модари Оном буд.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "занӣ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Яраҳмеэл"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ва номи ӯ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "модари"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Оном"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:39.945183431Z",
+  "model": "glm-5.3"
+}

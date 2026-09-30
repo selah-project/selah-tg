@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Моше ба Яҳве фарёд зад, гуфтан: Эл, лутфан, лутфан шифо бидиҳ ба ӯ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "фарёд зад"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נא",
+      "gloss": "лутфан"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "шифо бидиҳ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "лутфан"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:54.954107903Z",
+  "model": "glm-5.3"
+}

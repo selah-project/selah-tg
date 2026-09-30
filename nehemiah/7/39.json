@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Коҳинон: фарзандони Йедъаё аз хонаи Йешуа, нӯҳсаду ҳафтоду се.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳинон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедъаё"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "аз хонаи"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Йешуа"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "нӯҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ҳафтод"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ву се"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:41.049826585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 95,
+  "translation": "Биёед, ба Яҳве суруд гӯем, ба Тсӯри наҷоти мо нидо барем.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Биёед"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "суруд гӯем"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "нидо барем"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ба Тсӯр"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "наҷоти мо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:01.165219510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва Яҳве, Элоҳими Тсевоот — Яҳве Номи Ӯст.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ва Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "Номи Ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:18:33.835671771Z",
+  "model": "glm-5.3"
+}

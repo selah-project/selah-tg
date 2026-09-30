@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро Яҳве ҳикмат медиҳад; аз даҳони ӯ дониш ва фаҳмиш ⟨меояд⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "аз даҳони ӯ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ва фаҳмиш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:59.184330076Z",
+  "model": "glm-5.3"
+}

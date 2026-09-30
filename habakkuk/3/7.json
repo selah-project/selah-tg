@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зери бадӣ ман чодраҳои Кӯшонро дидам; пардаҳои замини Мидён меҷаҳиданд.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "און",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "раишӣ",
+      "gloss": ""
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "чодраҳои"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Кӯшон"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "меҷаҳиданд"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "пардаҳои"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:27:07.653722029Z",
+  "model": "glm-5.3"
+}

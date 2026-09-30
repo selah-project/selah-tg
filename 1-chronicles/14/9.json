@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва плиштиён омаданд ва дар водии Рефоим паҳн шуданд.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ва плиштиён"
+    },
+    {
+      "surface": "באו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "паҳн шуданд"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "дар водии"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефоим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:16.675433546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ба саҳро набаро ва дар роҳ нагард, зеро тири душман аст — ваҳима гирду атроф.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "набаро"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ба саҳро"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ва дар роҳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "нагард"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "тир"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "душман"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ваҳима"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "гирду атроф"
+    }
+  ],
+  "timestamp": "2026-09-30T17:41:58.340225946Z",
+  "model": "glm-5.3"
+}

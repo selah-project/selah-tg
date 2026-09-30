@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Яҳве аз осмонҳо медарёд ва Элйон овози Худро мебарорад.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "медарёд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ва Элйон"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "мебарорад"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "мовази Худро"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:06.997372935Z",
+  "model": "glm-5.3"
+}

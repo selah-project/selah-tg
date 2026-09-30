@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як кафаки тиллоӣ ба даҳ шекел, пур аз бӯйҳои хушбӯй.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кафак"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пур"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "аз бӯйҳои хушбӯй"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:07.507325066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 43,
+  "translation": "Ин гуна мегӯяд Яҳве, Он ки дар баҳр роҳ ва дар обҳои пурзӯр стypsyо медиҳад:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ин гуна"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "Он ки ... медиҳад"
+    },
+    {
+      "surface": "בים",
+      "gloss": "дар баҳр"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ва дар обҳои"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "пурзӯр"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "стypsyо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:34:01.605137762Z",
+  "model": "glm-5.3"
+}

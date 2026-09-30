@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Боаз ⟨את⟩ Оведро ба дунё овард, ва Овед ⟨את⟩ Йишайро ба дунё овард.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ва Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овед"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ва Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йишай"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.942384297Z",
+  "model": "glm-5.3"
+}

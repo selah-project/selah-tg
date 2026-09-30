@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Харидори дил дӯсти ҷони худ аст, ва нигаҳбони тавоноӣ хайр меёбад.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "харидори"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "аהב",
+      "gloss": "дӯсти"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ҷони худ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "нигаҳбони"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "тавоноӣ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "меёбад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хайр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:29.666362720Z",
+  "model": "glm-5.3"
+}

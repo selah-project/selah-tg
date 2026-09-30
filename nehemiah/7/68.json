@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Шутурҳои онҳо чор сад сию панҷ, харҳои онҳо шаш ҳазор ҳафт саду бист ⟨буданд⟩.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "шутурҳои"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сию"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "харҳои"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "саду"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "бист"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:47.557348155Z",
+  "model": "glm-5.3"
+}

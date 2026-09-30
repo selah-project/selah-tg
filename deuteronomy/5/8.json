@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Барои худат маҳтобае ва ҳеҷ тимсолае, ки дар осмони болост ё дар замини зерин аст ё дар обҳои зери замин аст, насоз.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "насоз"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худат"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "маҳтобае"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "тимсолае"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "дар осмони"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "болост"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ё ки"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "зерин"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ё ки"
+    },
+    {
+      "surface": "במים",
+      "gloss": "дар обҳои"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:44.543830518Z",
+  "model": "glm-5.3"
+}

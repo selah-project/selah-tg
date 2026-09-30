@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Офтоб бар рӯи замин баромад ва Лот ба Тсоар ворид шуд.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар рӯи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ва Лот"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ворид шуд"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ба Тсоар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:01.761386019Z",
+  "model": "glm-5.3"
+}

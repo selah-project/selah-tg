@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва инҳо рӯзҳои солҳои умри Авраҳоманд, ки зистааст: сад сол ва ҳафтоду панҷ сол.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "שני",
+      "gloss": "солҳои"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "умри"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зистааст"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ва ҳафтод"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:46.374680671Z",
+  "model": "glm-5.3"
+}

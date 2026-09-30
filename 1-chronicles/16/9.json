@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Барояш суруд хонед, барояш наво созед, аз ҳамаи моъҷизаҳояш сухан гӯед.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "суруд хонед"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барояш"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "наво созед"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барояш"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "сухан гӯед"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "моъҷизаҳояш"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:34.245015860Z",
+  "model": "glm-5.3"
+}

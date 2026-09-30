@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 91,
+  "translation": "Бар кафҳо туро мебаранд, то ки пои туро ба санг нашканӣ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "кафҳо"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "туро мебаранд"
+    },
+    {
+      "surface": "פן",
+      "gloss": "то ки... на"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "нашканӣ"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ба санг"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "пои туро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:32.411106008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва Одам ба занаш ном Хавворо ниҳод, зеро ки ӯ модари ҳамаи зиндаҳост.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ниҳод"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Одам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "занаш"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хавво"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "модар аст \/ модар буд"
+    },
+    {
+      "surface": "אם",
+      "gloss": "модари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зиндаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:47.461817305Z",
+  "model": "glm-5.3"
+}

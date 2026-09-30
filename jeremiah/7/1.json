@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Сухане ки аз ⟨את⟩ Яҳве ба Йирмайаҳу расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сухане"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмайаҳу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:42:54.225887433Z",
+  "model": "glm-5.3"
+}

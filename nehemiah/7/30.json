@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мардони ⟨⟩Рама ва Гава — шашсаду бисту як нафар.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ва Гава"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ву як"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:39.368612691Z",
+  "model": "glm-5.3"
+}

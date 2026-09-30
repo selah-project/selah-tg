@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва осмонҳо ва замин ва ҳамаи лашкари онҳо тамом шуданд.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "тамом шуданд"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ва замин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "лашкари онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:52.232301124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Рам, навбари Яраҳмеэл, инҳо буданд: Маатс, ва Ямин ва Эқер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "навбари"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Яраҳмеэл"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "Маатс"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ва Ямин"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "ва Эқер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:39.945338839Z",
+  "model": "glm-5.3"
+}

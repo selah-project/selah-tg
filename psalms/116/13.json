@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Косаи нажотро бардошта, ба номи Яҳве нido метавонам.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "косаи"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "нажот"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "бардошта"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ба номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "нido метавонам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:34.506725172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Яҳве бо Моше сухан гуфт, ба гуфтани:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтани"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:00.797427099Z",
+  "model": "glm-5.3"
+}

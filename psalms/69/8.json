@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 69,
+  "translation": "Зеро ба хати Ту таъни бардоштам, рӯсвоятӣ рӯйи маро пӯшонид.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ба хати Ту"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "бардоштам"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "таъни"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "пӯшонид"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "рӯсвоятӣ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи маро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:11.043372732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "ва аз ними фарзандони Йисроэл, ки Моше аз мардони ҷанговар ҷудо кард",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ва аз ними"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ҷудо кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "мін",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "ҷанговар"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:47.747356523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Барои тамоеи Зевулун — Гаддиэл, писари Содӣ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "барои тамое"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "Гаддиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "Содӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:42.927846187Z",
+  "model": "glm-5.3"
+}

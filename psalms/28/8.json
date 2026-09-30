@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Яҳве қувваи онҳост ва Ӯ қалъаи наҷотҳои масиҳи Ӯст.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עז",
+      "gloss": "қувваи"
+    },
+    {
+      "surface": "למו",
+      "gloss": "онҳост"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ва қалъаи"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "наҷотҳои"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "масиҳи Ӯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:46.205642323Z",
+  "model": "glm-5.3"
+}

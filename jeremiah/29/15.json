@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Зеро гуфтед: «Яҳве ба мо дар Бавел набиён бархост».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "гуфтед"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "бархост"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "набиён"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "дар Бавел"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:05.991605464Z",
+  "model": "glm-5.3"
+}

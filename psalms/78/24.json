@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 78,
+  "translation": "Ва бар онҳо мано борид, то бихӯранд, ва ғаллаи осмонро ба онҳо дод.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "боронд"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "бар онҳо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "мано"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "то бихӯранд"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ва ғаллаи"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмонро"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дад"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:50.198273734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "lamentations 3:48",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ҷӯйборҳои об чашмони маро мераванд бар шикасти духтари қавми ман.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ҷӯйборҳои"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "мераванд"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "чашмони ман"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикасти"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "қавми ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.966749658Z",
+  "model": "glm-5.3"
+}

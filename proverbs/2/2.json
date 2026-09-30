@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "то гӯши худро ба ҳикмат моил кунӣ ва дилро ба таҳқиқ ⟨моил кунӣ⟩.",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "то гӯш кардан"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ба ҳикмат"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "гӯши худро"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "моил кунӣ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дил"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ба таҳқиқ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:31.646804779Z",
+  "model": "glm-5.3"
+}

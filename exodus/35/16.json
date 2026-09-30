@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "⟨את⟩ қурбонгоҳи қурбонии сӯхта ва ⟨את⟩ тӯри мисин, ки бар он аст, ⟨את⟩ getDefaultҳояш ва ⟨את⟩ ҳамаи асбобҳояш, ⟨את⟩ ҳавз ва ⟨את⟩ пояи он",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "қурбонгоҳи қурбонии сӯхта"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "қурбонгоҳи"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "қурбонии сӯхта"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "тӯри мисин"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "тӯри"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "мисин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לו",
+      "gloss": "бар он аст"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getDefaultҳояш"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "getDefaultҳояш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳамаи асбобҳояш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "асбобҳояш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳавз"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ҳавз"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "пояи он"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "пояи он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:42:04.115362595Z",
+  "model": "glm-5.3"
+}

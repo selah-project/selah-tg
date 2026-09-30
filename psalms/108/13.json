@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 108,
+  "translation": "Ба мо кумак аз мушкилӣ бидеҳ, зеро бекор аст наҷоти одам.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "бидеҳ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "кумак"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "аз мушкилӣ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "зеро бекор"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "наҷот"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:29.601297481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Хуб бидон — медонӣ рӯи гӯсфандонат, қалбатро ба рамаҳо гузор.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "бидон"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "медонӣ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "гӯсфандонат"
+    },
+    {
+      "surface": "שית",
+      "gloss": "гузор"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "қалбатро"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ба рамаҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:27.134999747Z",
+  "model": "glm-5.3"
+}

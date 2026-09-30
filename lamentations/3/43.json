@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бо ғазаб пӯшидӣ ва моро раҳдонӣ кардӣ; куштӣ — раҳм накардӣ.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "пӯшидӣ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "бо ғазаб"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "ва моро раҳдонӣ кардӣ"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "куштӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "раҳм накардӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:52.627108856Z",
+  "model": "glm-5.3"
+}

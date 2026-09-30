@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ҳатто вақте ки фарёд мекашам ва ёрӣ мехоҳам, дуои маро мебандад.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "כי",
+      "gloss": "вақте ки"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "фарёд мекашам"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ва ёрӣ мехоҳам"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "мебандад"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дуои маро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.808673790Z",
+  "model": "glm-5.3"
+}

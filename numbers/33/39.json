@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва Аҳарон сию сею садсола буд дар марги худ дар кӯҳи Ҳор.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сола"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ву сию"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ву сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "дар марги худ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳи"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Ҳор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:23.036354002Z",
+  "model": "glm-5.3"
+}

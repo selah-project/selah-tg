@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 55,
+  "translation": "Ман ба Элоҳим нидо мекунам, ва Яҳве маро халос месозад.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "нидо мекунам"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ва Яҳве"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "маро халос месозад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:29.076732984Z",
+  "model": "glm-5.3"
+}

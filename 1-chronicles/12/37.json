@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва аз Ашер — баромадагони ⟨саф⟩ барои оростани ҷанг, чиҳил ҳазор.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "ва аз Ашер"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "баромадагони"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨саф⟩"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "барои оростани"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чиҳил"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:35.578910995Z",
+  "model": "glm-5.3"
+}

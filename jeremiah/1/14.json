@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Яҳве ба ман гуфт: Аз шимол бади баромада, бар тамоми аҳолии замин кушода мешавад.",
+  "tokens": [
+    {
+      "surface": "ויאмר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "аз шимол"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "кушода мешавад"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "аҳолии"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:52.523459444Z",
+  "model": "glm-5.3"
+}

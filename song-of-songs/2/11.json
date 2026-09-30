@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро бинед, зимистон гузашт, борон тай шуд, рафт.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "зимистон"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "гузашт"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "борон"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "тай шуд"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:38.290520152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Масалҳои Шломо, писари Довуд, подшоҳи Йисроэл:",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Масалҳои"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:51.366522708Z",
+  "model": "glm-5.3"
+}

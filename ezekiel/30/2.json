@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "«Эй писари одам, набӣ бош ва бигӯ: Инак мегӯяд Адонай Яҳве: Нолидан — оҳ, барои он рӯз!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "набӣ бош"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ва бигӯ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "нолидан"
+    },
+    {
+      "surface": "הה",
+      "gloss": "оҳ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "барои он рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T18:09:52.481812850Z",
+  "model": "glm-5.3"
+}

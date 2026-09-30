@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Дар мерхонаи аввал аспҳои сурх ва дар мерхонаи дуюм аспҳои сиёҳ.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "дар мерхонаи"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "аввал"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "аспҳои"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "сурх"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ва дар мерхонаи"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "аспҳои"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "сиёҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:29:16.410877321Z",
+  "model": "glm-5.3"
+}

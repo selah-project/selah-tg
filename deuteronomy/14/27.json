@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Лавие, ки дар дарвазаҳои туст, тарк накунӣ, зеро ки ӯ ҳиссае ва меросе бо ту надорад.",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "Ва Лавие"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "дар дарвозаҳои ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "тарк накунӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ҳисса"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "ва мерос"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:49.597235391Z",
+  "model": "glm-5.3"
+}

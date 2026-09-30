@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва ӯ пардаи даромадгоҳи Мишканро гузошт.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пардаи даромадгоҳ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "парда"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "даромадгоҳ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Мишкан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:49.905471174Z",
+  "model": "glm-5.3"
+}

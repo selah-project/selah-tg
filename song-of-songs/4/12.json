@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Бӯстони баста хоҳарам, арӯси ман; чашмаи баста, маъини муҳршуда.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "бӯстон"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "баста"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "хоҳарам"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "арӯси ман"
+    },
+    {
+      "surface": "גל",
+      "gloss": "чашма"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "баста"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "маъин"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "муҳршуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:25.372819998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 129,
+  "translation": "Ки на дасти дравандаро пур мекунад ва на синӯи ғалабанд.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ки на"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур мекунад"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "дравандаро"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ва на синӯи"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ғалабанд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:37.275409131Z",
+  "model": "glm-5.3"
+}

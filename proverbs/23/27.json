@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Зеро зани фоҳиша чоҳи амиқ аст, ва зани бегона чоҳи танг.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "чоҳи"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "амиқ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зани фоҳиша"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ва чоҳи"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "танг"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "зани бегона"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:11.320306265Z",
+  "model": "glm-5.3"
+}

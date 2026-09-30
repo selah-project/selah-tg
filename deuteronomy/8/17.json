@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва ту гӯӣ дар дили худ: «Қувваи ман ва қудрати дасти ман барои ман ⟨את⟩ ин ҳайлро сохт».",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ва ту гӯӣ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "дар дили худ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "қувваи ман"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ва қудрати"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "дасти ман"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин ҳайлро"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ин ҳайл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:11.299643571Z",
+  "model": "glm-5.3"
+}

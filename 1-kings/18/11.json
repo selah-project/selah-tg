@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "ва ҳоло ту мегӯӣ: «Рав, ба хоҷаи худ бигӯ: Ин аст Элйаҳу»?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва ҳоло"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "бигӯ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ба хоҷаи худ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ин аст"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элйаҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T17:09:19.768398014Z",
+  "model": "glm-5.3"
+}

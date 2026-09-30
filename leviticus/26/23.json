@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва агар бо инҳо ба Ман тарбия наёбед ва бо Ман ба қерӣ равед —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "бо инҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "тарбия наёбед"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба Ман"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ва равед"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "бо Ман"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ба қерӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:33.380585579Z",
+  "model": "glm-5.3"
+}

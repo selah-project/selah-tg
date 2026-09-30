@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва ӯро дар водӣ, дар замини Моов, рӯ ба рӯйи Байт-Пъор дафн кард; ва то ин рӯз ҳеҷ одам ҷои дафни ӯро надонист.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "ва дафн кард"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯ"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "дар водӣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "מול",
+      "gloss": "рӯ ба рӯйи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байту"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-Пъор"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "донист"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳеҷ одам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҷои дафни ӯ"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "ҷои дафни ӯ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ин рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ҳамин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:04.099845287Z",
+  "model": "glm-5.3"
+}

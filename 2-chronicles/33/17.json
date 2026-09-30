@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Бароҳам, ҳанӯз халқ дар бамот қурбонӣ мекард — танҳо ба Яҳве Элоҳими худ.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Бароҳам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ҳанӯз"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "қурбонӣ мекард"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "дар бамот"
+    },
+    {
+      "surface": "רק",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элоҳими худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:52:35.029439870Z",
+  "model": "glm-5.3"
+}

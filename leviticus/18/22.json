@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва ⟨את⟩ нардастро ба хобгоҳи зан хоб намекунед — нафорам аст ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "нардастро"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "нард"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "хоб мекунед"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ба хобгоҳи"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "нафорам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:54.332022826Z",
+  "model": "glm-5.3"
+}

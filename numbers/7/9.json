@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва ба банӣ-Қеҳат надод, зеро хидмати муқаддас бар онҳост — бар дӯш мебаранд.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ва ба банӣ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Қеҳат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "хидмати"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "бар онҳост"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "бар дӯш"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "мебаранд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:21.823343400Z",
+  "model": "glm-5.3"
+}

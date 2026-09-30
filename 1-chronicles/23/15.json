@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Фарзандони Моше: Гершом ва Элиэзер.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ва Элиэзер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:39.346962742Z",
+  "model": "glm-5.3"
+}

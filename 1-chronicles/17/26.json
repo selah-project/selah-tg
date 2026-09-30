@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва акнун, эй Яҳве, ту Худоӣ, ва дар бораи бандаи худ ин некиро гуфтӣ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Худоӣ⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Худо"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ва гуфтӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар бораи"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "бандаи худ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ин некӣ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:37.739172858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ҳодия, Бани, Бнин.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Ҳодия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "Бнин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:38.378408610Z",
+  "model": "glm-5.3"
+}

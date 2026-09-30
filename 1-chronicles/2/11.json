@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Наҳшон ⟨את⟩ Салмаро ба дунё овард, ва Салма ⟨את⟩ Боазро ба дунё овард.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Ва Наҳшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салма"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ва Салма"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Боаз"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.942236363Z",
+  "model": "glm-5.3"
+}

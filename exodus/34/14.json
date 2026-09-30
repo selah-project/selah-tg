@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Зеро ки ба Эли дигар саҷда накун; зеро ки Яҳве — Қаннӯ Номи Ӯст, Эл қаннӯ аст Ӯ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "саҷда накун"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ба Эли"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Қаннӯ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Номи Ӯст"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "қаннӯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:42:09.686917597Z",
+  "model": "glm-5.3"
+}

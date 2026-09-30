@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Барои худ ҳавзҳои об сохтам, то аз онҳо жангали дарахтонсабзро об диҳам.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "сохтам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ҳавзҳо"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "то об диҳам"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "аз онҳо"
+    },
+    {
+      "surface": "יער",
+      "gloss": "жангал"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "сабзанда"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дарахтон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:09.394444259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ӯст Яҳве, Элоҳимони мо; дар тамоми замин довариҳои Ӯ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ӯст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳимони мо"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "довариҳои Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:47.864726548Z",
+  "model": "glm-5.3"
+}

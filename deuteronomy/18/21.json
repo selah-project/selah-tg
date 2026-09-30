@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва агар дар дилат гӯӣ: «Чӣ тавр ⟨את⟩ он суханро, ки Яҳве нагуфтааст, хоҳем донист?»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "гӯӣ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "дар дилат"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "чӣ тавр"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "хоҳем донист"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он суханро"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "он суханро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "гуфтааст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:30.460893375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва чизҳои муқаддас: говҳо — шашсад, ва гӯсфандон — се ҳазор.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "Ва чизҳои муқаддас"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говҳо"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ва гӯсфандон"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:52:23.810569212Z",
+  "model": "glm-5.3"
+}

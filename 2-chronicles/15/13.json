@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва ҳар кӣ Яҳве, Элоҳими Йисроэлро ҷустуҷӯ накунад, кушта шавад — аз хурд то калон, аз мард то зан.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар кӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накунад"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ҷустуҷӯ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "кушта шавад"
+    },
+    {
+      "surface": "למן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "хурд"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "калон"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "аз мард"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:00.618599950Z",
+  "model": "glm-5.3"
+}

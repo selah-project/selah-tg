@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Канорҳои сари худроionato накунед ва ⟨את⟩ канори ришҳои худро вайрон накунед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "тқпв",
+      "gloss": ""
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канорҳои"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "сари худ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "вайрон накунед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канори риш"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "риши ту"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:13.270669211Z",
+  "model": "glm-5.3"
+}

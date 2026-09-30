@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Маазйаҳ, Билғай, Шемаайа — инҳо коҳинон буданд.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазйаҳ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билғай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаайа"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коҳинон"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:30.329765512Z",
+  "model": "glm-5.3"
+}

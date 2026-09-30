@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Зебадяҳу, ва Мешуллам, ва Ҳизқӣ ва Ҳовэр.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ва Зебадяҳу"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ва Мешуллам"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ва Ҳизқӣ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ва Ҳовэр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.491198615Z",
+  "model": "glm-5.3"
+}

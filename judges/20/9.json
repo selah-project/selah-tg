@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва акнун ин корест, ки ба Гивъа хоҳем кард — ба зидди он бо қуръа.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "корест"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "хоҳем кард"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "ба Гивъа"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ба зидди он"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "бо қуръа"
+    }
+  ],
+  "timestamp": "2026-09-30T16:39:04.075356808Z",
+  "model": "glm-5.3"
+}

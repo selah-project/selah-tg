@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Бигӯянд акнун парҳезгорони Яҳве: ки то абад ҳеседи Ӯст.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "бигӯянд"
+    },
+    {
+      "surface": "נא",
+      "gloss": "акнун"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "парҳезгорони"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:33.626559654Z",
+  "model": "glm-5.3"
+}

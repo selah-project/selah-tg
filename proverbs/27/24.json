@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Зеро сарват то абад намемонад ва тоҷ — насл ба насл ⟨намемонад⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "сарват"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "тоҷ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ба насл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:27.135150198Z",
+  "model": "glm-5.3"
+}

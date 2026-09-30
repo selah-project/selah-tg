@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Нигонаи тсараат ки дар одам пайдо шавад, ӯ ба назди коҳен оварда шавад.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "нигона"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "тсараат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "пайдо шавад"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "дар одам"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "оварда шавад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба назди"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:14.150011918Z",
+  "model": "glm-5.3"
+}

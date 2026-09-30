@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Беҳтар аст камбағали ки ба беайбӣ меравад, аз кибораи лабҳояш, ки ӯ нодон аст.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Беҳтар"
+    },
+    {
+      "surface": "רש",
+      "gloss": "камбағал"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "меравад"
+    },
+    {
+      "surface": "бתумо",
+      "gloss": "ба беайбӣ"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "кибораи"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "лабҳояш"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ки ӯ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:56.895356189Z",
+  "model": "glm-5.3"
+}

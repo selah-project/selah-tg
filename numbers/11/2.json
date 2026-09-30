@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва халқ ба сӯйи Моше нола кард, ва Моше ба сӯйи Яҳве дуо кард, ва оташ хомӯш шуд.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ва нола кард"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯйи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ва дуо кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯйи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ва хомӯш шуд"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оташ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:38.795400870Z",
+  "model": "glm-5.3"
+}

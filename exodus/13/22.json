@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Сутуни абр рӯзона ва сутуни оташ шабона аз пеши халқ дур намешуд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "дур намешуд"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "сутуни"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "абр"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "рӯзона"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ва сутуни"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шабона"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "аз пеши"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:33:30.099633656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва дар Довир ду керув аз чӯби зайтун сохт; даҳ газ баландиши ⟨онҳо⟩ аст.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "дар Довир"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "керув"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "чӯби"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "зайтун"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "газ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "баландиши"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:58.486282642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Аз ҳар ҳайвони пок ҳафтҷуфт — ҳафт нар ва ҳафт мода барои худ гиред; ва аз ҳайвоне ки пок нест, дуҷуфт — нар ва мода.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳар"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ҳайвон"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "пок"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "гиред"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ва модаи ӯ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ҳайвон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "пок аст"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ва модаи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:15.990240025Z",
+  "model": "glm-5.3"
+}

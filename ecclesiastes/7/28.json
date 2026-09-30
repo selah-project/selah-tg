@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "ки ҳанӯз ҷонам меҷуст, вале наёфтам: як одамро аз ҳазор ёфтам, вале занеро дар ҳамаи инҳо наёфтам.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ҳанӯз"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "меҷуст"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони ман"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "вале не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "наёфтам"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "аз ҳазор"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ёфтам"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "вале зан"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "наёфтам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:59.176300147Z",
+  "model": "glm-5.3"
+}

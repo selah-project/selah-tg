@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "ва Нога, ва Нефег, ва Йофия",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ва Нога"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ва Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ва Йофия"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:06.680564207Z",
+  "model": "glm-5.3"
+}

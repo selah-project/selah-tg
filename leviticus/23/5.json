@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Дар моҳи аввал, дар чордаҳуми моҳ, байни шамғоҳон Писах барои Яҳве аст.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Дар моҳи"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "аввал"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "дар чордаҳуми"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-даҳ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "байни"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "шамғоҳон"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Писах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:18.516954027Z",
+  "model": "glm-5.3"
+}

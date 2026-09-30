@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва аз кабилаи фарзандони Дан — сарвар Буккӣ, писари Йоглӣ.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ва аз кабилаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буккӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йоглӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:10.935208445Z",
+  "model": "glm-5.3"
+}

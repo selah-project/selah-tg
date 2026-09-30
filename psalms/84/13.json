@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 84,
+  "translation": "Эй Яҳве Тсевоот, оҳ, бахтӣст он одаме ки ба Ту паноҳ мебарад.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "оҳ, бахтӣст"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "паноҳ мебарад"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ба Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:08.240398134Z",
+  "model": "glm-5.3"
+}

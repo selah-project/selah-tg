@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва чор ҳалқа барои чор кунҷи тӯри мисин риҳт — ҷойҳо барои додҳо.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "рихт"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ҳалқа"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "барои чор"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "кунҷҳои"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "тӯри"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "мисин"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ҷойҳо"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "барои додҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:38.515811631Z",
+  "model": "glm-5.3"
+}

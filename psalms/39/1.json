@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ба роҳбари мусиқӣ, ба Йедутун; мазмури Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ба Йедутун"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:15.111883295Z",
+  "model": "glm-5.3"
+}

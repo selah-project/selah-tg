@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва ⟨את⟩ ҳивиён ва ⟨את⟩ арқиён ва ⟨את⟩ синӣён,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳивиён"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ҳивиён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "арқиён"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "арқиён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "синӣён"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "синӣён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:44.897003393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Зеро ки дар бисёрии ҳикмат бисёри ғам; ва он ки донишро афзояд, дард афзояд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "дар бисёрии"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бисёри"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ғам"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ва он ки афзояд"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "донишро"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "афзояд"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "дард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:18.147845054Z",
+  "model": "glm-5.3"
+}

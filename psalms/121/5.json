@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 121,
+  "translation": "Яҳве нигоҳубини туст, Яҳве сояи туст бар дасти ростат.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "нигоҳубини туст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "сояи туст"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "יד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ростат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:10.065366392Z",
+  "model": "glm-5.3"
+}

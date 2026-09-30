@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ман аз они дӯстам ва дӯстам аз они ман — ӯ дар савсанҳо ғалабон меронад.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "аз они дӯстам"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ва дӯстам"
+    },
+    {
+      "surface": "ли",
+      "gloss": "аз они ман"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ғалабон меронад"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "дар савсанҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:22.926902240Z",
+  "model": "glm-5.3"
+}

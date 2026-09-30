@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 132,
+  "translation": "Агар ба чашмони худ хоб диҳам, ба пилконам хоби сабук.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "диҳам"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ба чашмони худ"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ба пилконам"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "хоби сабук"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:30.290079506Z",
+  "model": "glm-5.3"
+}

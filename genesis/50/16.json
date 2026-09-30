@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Ва ба Ёсиф фиристоданд, гӯён: «Падарат пеш аз маргаш супориш дод, гӯён:»",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "супориш доданд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Ёсиф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "падарат"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "супориш дод"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "маргаш"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:48.693021261Z",
+  "model": "glm-5.3"
+}

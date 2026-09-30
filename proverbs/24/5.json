@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Марди ҳаким дар қувват аст, ва одами дониш қувватро мустаҳкам месозад.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "дар қувват"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ва одами"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "мустаҳкам месозад"
+    },
+    {
+      "surface": "כח",
+      "gloss": "қувватро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:18.717927651Z",
+  "model": "glm-5.3"
+}

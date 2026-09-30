@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ба хаста об нономедодӣ ва аз гурусна нонро манъ мекардӣ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ба хаста"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "номедодӣ"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "ва аз гурусна"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "манъ мекардӣ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:07:36.452922573Z",
+  "model": "glm-5.3"
+}

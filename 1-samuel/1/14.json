@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Эли ба ӯ гуфт: «То кай маст мешавӣ? Шаробатро аз пеши худ дур кун!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "То"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кай"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "маст мешавӣ"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "дур кун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шаробатро"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "шаробатро"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "аз пеши худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:40:49.935104868Z",
+  "model": "glm-5.3"
+}

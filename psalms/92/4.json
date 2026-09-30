@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 92,
+  "translation": "Бар асоре даҳтор ва бар невел, бар ҳигайон бо киннор.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "асоре даҳтор"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невел"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ҳигайон"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "бо киннор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:58.938130278Z",
+  "model": "glm-5.3"
+}

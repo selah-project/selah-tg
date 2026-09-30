@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва малқоҳҳояш ва ҳамҷомҳояш зарри тоза бошанд.",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "малқоҳҳояш"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "ҳамҷомҳояш"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "зарри"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "тоза"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:48.601011652Z",
+  "model": "glm-5.3"
+}

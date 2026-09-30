@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва дар Эдом подшоҳе набуд — ҷонишин подшоҳ буд.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ва подшоҳ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "дар Эдом"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ҷонишин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ буд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:11:49.341649824Z",
+  "model": "glm-5.3"
+}

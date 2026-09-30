@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Пеш аз шикастӣ такаббур меояд, ва пеш аз лағжиш руахи баланд.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикастӣ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "такаббур"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ва пеш аз"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "лағжиш"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "баланд"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:44.068696987Z",
+  "model": "glm-5.3"
+}

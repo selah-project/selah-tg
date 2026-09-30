@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Сухани Яҳве, ки ба Йоэл, писари Петуэл расид.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Петуэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:19:36.073801454Z",
+  "model": "glm-5.3"
+}

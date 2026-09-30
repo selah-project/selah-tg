@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Малъун ҳастӣ дар омадани ту, ва малъун ҳастӣ дар рафтани ту.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "малъун"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ҳастӣ (ту)"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "дар омадани ту"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ва малъун"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ҳастӣ (ту)"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "дар рафтани ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:36.718769301Z",
+  "model": "glm-5.3"
+}

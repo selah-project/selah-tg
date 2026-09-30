@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Беҳтаранд ду нафар аз як танҳо, зеро барои онҳо подоши некӯ ҳаст дар меҳнати онҳо.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "беҳтаранд"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ду нафар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "як танҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "להם",
+      "gloss": "барои онҳо"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "подош"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "дар меҳнати онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:34.726936587Z",
+  "model": "glm-5.3"
+}

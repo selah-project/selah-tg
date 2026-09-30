@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва пеш аз хона ӯ ду сутун сохт — дарозии сӣ ва панҷ амма, ва сарпӯше ки бар сари он аст — панҷ амма.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "сутун"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амма"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозӣ"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "ва сарпӯш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "сари он"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амма"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:22.200549907Z",
+  "model": "glm-5.3"
+}

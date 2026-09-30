@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 31:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Элоҳим шабона дар хоб ба Ловони Арамӣ омад ва ба ӯ гуфт: «Эҳтиёт шав, ки бо Яъқоб аз хушӣ то бад сухан нагӯйӣ».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ловон"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Арамӣ"
+    },
+    {
+      "surface": "בחלם",
+      "gloss": "дар хоб"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "шабона"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "эҳтиёт шав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "худро"
+    },
+    {
+      "surface": "פן",
+      "gloss": "кӣ на"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "сухан гӯйӣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "аз хушӣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:24.892126891Z",
+  "model": "glm-5.3"
+}

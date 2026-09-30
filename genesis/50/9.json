@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Ва ӯро ҳам аробаҳо, ҳам саворон баромаданд, ва он пойгоҳ бағоят вазнин буд.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ва баромаданд"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "аробаҳо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "саворон"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "он пойгоҳ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "вазнин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бағоят"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:43.055774059Z",
+  "model": "glm-5.3"
+}

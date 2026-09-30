@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 103,
+  "translation": "Зеро Ӯ сохтаи моро медонад, ба ёд меорад, ки мо чангем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "сохтаи моро"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ба ёд меорад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "чанг"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:47.431122086Z",
+  "model": "glm-5.3"
+}

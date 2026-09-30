@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ӯ чашид, ки тиҷораташ хуб аст; чароғаш шабона хомӯш намешавад.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "чашид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "тиҷораташ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "хомӯш мешавад"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "шабона"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "чароғаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:56.215732634Z",
+  "model": "glm-5.3"
+}

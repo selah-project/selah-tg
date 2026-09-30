@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Фарзандони Мӯшӣ: Маҳлӣ ва Эдер ва Йирмоот — се нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Мӯшӣ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Маҳлӣ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ва Эдер"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ва Йирмоот"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се нафар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:57.037167202Z",
+  "model": "glm-5.3"
+}

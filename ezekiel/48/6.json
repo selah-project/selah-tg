@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Ва бар ҳудуди Эфрайим, аз канори шарқӣ то канори ғарбӣ — Реубен, як ҳисса.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ҳудуди"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "шарқӣ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "канори"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ғарбӣ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реубен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як ҳисса"
+    }
+  ],
+  "timestamp": "2026-09-30T18:16:36.852457096Z",
+  "model": "glm-5.3"
+}

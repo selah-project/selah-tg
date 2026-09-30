@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 42,
+  "translation": "Ва ба поёни даҳ рӯз калимаи Яҳве ба Йирмийаҳу расид.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба шуд"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ба поёни"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калимаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהу",
+      "gloss": "Йирмийаҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T17:55:44.127265196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Аз Ҳоронаим овози фариё; вайронӣ ва шикасти бузург.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "овуози"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "фариё"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "аз Ҳоронаим"
+    },
+    {
+      "surface": "שד",
+      "gloss": "вайронӣ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ва шикасти"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    }
+  ],
+  "timestamp": "2026-09-30T17:56:44.713013856Z",
+  "model": "glm-5.3"
+}

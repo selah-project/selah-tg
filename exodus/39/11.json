@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва сатри дуюм: нофех, саппир ва яҳалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ва сатри"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ва яҳалом"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:02.244846902Z",
+  "model": "glm-5.3"
+}

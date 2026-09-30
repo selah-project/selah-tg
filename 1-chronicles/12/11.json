@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Мишмана чорум, Ирмия панҷум.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Мишмана"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Ирмия"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "панҷум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:12.219974748Z",
+  "model": "glm-5.3"
+}

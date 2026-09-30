@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва ба Шемаъяҳуи Неҳламӣ гӯй, бо гӯён:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ва ба"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаъяҳу"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "Неҳламӣ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "гӯй"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:50:55.398676411Z",
+  "model": "glm-5.3"
+}

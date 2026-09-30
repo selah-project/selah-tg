@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Тселеҳ аммонӣ, Наҳрай беротӣ, бардорандаи асбоби Йоъв писари Тсеруйя.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Тселеҳ"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "аммонӣ"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Наҳрай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "беротӣ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "бардорандаи"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоби"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоъв"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Тсеруйя"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:59.339958343Z",
+  "model": "glm-5.3"
+}

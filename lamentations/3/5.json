@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бар зидди ман бино кард ва маро иҳота кард — бо заҳр ва машаққат.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар зидди ман"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ва иҳота кард"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "заҳр"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "ва машаққат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:15:51.808067866Z",
+  "model": "glm-5.3"
+}

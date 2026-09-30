@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "I have sprinkled my bed with mor, ahalim and tsinamon.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "I have sprinkled"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "מר",
+      "gloss": "with mor"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ahalim"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "and tsinamon"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:36.768257046Z",
+  "model": "glm-5.3"
+}

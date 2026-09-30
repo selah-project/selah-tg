@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва дар охири ду соли рӯзҳо Паръо хоб дид, ва ногоҳ ӯ истодааст бар канори Яъор.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва рӯй дод"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "дар охири"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ду сол"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "ва Паръо"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "хоб дид"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ногоҳ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "истодааст"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Яъор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:45.133348370Z",
+  "model": "glm-5.3"
+}

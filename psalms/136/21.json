@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "ва замини онҳоро ба мерос дод, зеро ҳеседаш то абад ⟨аст⟩;",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "замини онҳоро"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ба мерос"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:06.011836149Z",
+  "model": "glm-5.3"
+}

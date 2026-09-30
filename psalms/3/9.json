@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Аз Яҳве аст халосӣ; бар халқи Ту баракати Ту. Селаҳ.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Аз Яҳве"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ҳалосӣ аст"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "халқи Ту"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "баракати Ту"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:13.529503675Z",
+  "model": "glm-5.3"
+}

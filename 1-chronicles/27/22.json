@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Барои Дон — Азарэл писари Йероҳам. Инҳо сарварони қабилаҳои Йисроэл буданд.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "барои Дон"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азарэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероҳам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "сарварони"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "қабилаҳои"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:43:03.242443911Z",
+  "model": "glm-5.3"
+}

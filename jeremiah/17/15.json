@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Инак, онҳо ба ман мегӯянд: «Кай сухани Яҳве меояд? Биёёд!»",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Инак"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "мегӯянд"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "נא",
+      "gloss": "биёёд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:46:38.341837165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва У гуфт: «Ра ва ба ин халқ бигӯ: бишнаведу бишнавед, вале нафаҳмед; бинеду бинед, вале надонед.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва У гуфт"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ра"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "бигӯ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ба халқ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "фаҳмед"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "донед"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:54.148505999Z",
+  "model": "glm-5.3"
+}

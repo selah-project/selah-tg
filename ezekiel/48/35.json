@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 48,
+  "translation": "Дар гирдон ⟨ҳаждаҳ ҳазор⟩ ченак; ва номи шаҳр аз он рӯз — Яҳве Шамма ⟨Яҳве он ҷост⟩.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "дар гирдон"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ҳаждаҳ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ҳаждаҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ва ном"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "аз он рӯз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    }
+  ],
+  "timestamp": "2026-09-30T20:08:19.464116719Z",
+  "model": "glm-5.3"
+}

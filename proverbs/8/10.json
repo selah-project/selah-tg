@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Таълими маро гиред, на нуқра, ва донишро аз тиллои интихобшуда.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "гиред"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "таълими маро"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ва донишро"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "аз тиллои"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "интихобшуда"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:04.759006535Z",
+  "model": "glm-5.3"
+}

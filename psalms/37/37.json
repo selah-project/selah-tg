@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Беайбро нигоҳ дор ва ростро бин, ки ояндаи одами осоишта аст.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "нигоҳ дор"
+    },
+    {
+      "surface": "תם",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ва бин"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "рост"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "оянда"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "одами"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "осоишта"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:31.219616568Z",
+  "model": "glm-5.3"
+}

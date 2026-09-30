@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Говро дар ғалтакаи худ маҳкам накун.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "маҳкам"
+    },
+    {
+      "surface": "שור",
+      "gloss": "говро"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "дар ғалтакаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:52.607958795Z",
+  "model": "glm-5.3"
+}

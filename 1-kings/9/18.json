@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "ва ⟨את⟩ Баалат ва ⟨את⟩ Таморро дар биёбон, дар замин.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Баалат"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Баалат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Тамор"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамор"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:05:07.409042406Z",
+  "model": "glm-5.3"
+}

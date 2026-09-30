@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро ёди ҳаким бо ёди нодон абадӣ нест; зеро дар рӯзҳои оянда ҳама фаромӯш мешавад, ва чӣ тавр ҳаким бо нодон мемирад!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ёд"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "абадӣ"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "зеро аллакай"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "оянда"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "фаромӯш мешавад"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ва чӣ тавр"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "мемирад"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "нодон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:23.279780701Z",
+  "model": "glm-5.3"
+}

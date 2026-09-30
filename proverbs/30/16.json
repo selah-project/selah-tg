@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Шеол ва тани бекӯдаки зан, замине ки аз об сер намешавад, ва оташе ки «Бас» намегӯяд.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ва маҳбӯд"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "тани зан"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сер намешавад"
+    },
+    {
+      "surface": "מים",
+      "gloss": "аз об"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ва оташ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "הון",
+      "gloss": "«Бас»"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:04.407578946Z",
+  "model": "glm-5.3"
+}

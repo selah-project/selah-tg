@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 135,
+  "translation": "Бутҳои халқҳо нуқра ва тиллоанд, кори дасти одам.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Бутҳои"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "халқҳо"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ва тилло"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:29.123993483Z",
+  "model": "glm-5.3"
+}

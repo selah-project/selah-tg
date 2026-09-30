@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва понздаҳуми рӯзи ин моҳ иди мацот барои Яҳве аст; ҳафт рӯз мацот хӯред.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Ва понздаҳуми"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-даҳ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "חג",
+      "gloss": "иди"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "хӯред"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:18.517212112Z",
+  "model": "glm-5.3"
+}

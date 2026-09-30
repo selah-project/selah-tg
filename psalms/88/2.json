@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 88,
+  "translation": "Яҳве, Элоҳими наҷоти ман — рӯз нола кардам, шаб ⟨пеш⟩ аз ту.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "наҷоти ман"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "нола кардам"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "⟨пеш⟩ аз ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:06.545140399Z",
+  "model": "glm-5.3"
+}

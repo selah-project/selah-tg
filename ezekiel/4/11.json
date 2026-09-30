@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва обро ба чен — шашяки ҳин — мебинӯшӣ; аз вақт то вақт мебинӯшӣ.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "Ва обро"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "ба чен"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "мебинӯшӣ"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "шашяк"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ҳин"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "аз вақт"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақт"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "мебинӯшӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:27.248322773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Яҳве ⟨את⟩ кӯшиёнро пеш аз Аса ва пеш аз Йеҳуда зад, ва кӯшиён гурехтанд.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "зад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кӯшиёнро"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "кӯшиён"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ва пеш аз"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ва гурехтанд"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "кӯшиён"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:16.507174862Z",
+  "model": "glm-5.3"
+}

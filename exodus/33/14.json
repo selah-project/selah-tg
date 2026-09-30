@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва гуфт: Рухсари Ман мебарояд ва туро оромӣ медиҳам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Рухсари Ман"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "мебарояд"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "ва оромӣ медиҳам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "туро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:00.397287296Z",
+  "model": "glm-5.3"
+}

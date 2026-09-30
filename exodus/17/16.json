@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва гуфт: «Зеро даст бар тахти Яҳ аст — ҷанги Яҳве бо Амалек, аз насл ба насл».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יד",
+      "gloss": "даст"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כס",
+      "gloss": "тахти"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "млчмה",
+      "gloss": "ҷанги"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "бо Амалек"
+    },
+    {
+      "surface": "мдр",
+      "gloss": "аз насл"
+    },
+    {
+      "surface": "דר",
+      "gloss": "ба насл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:26.354018327Z",
+  "model": "glm-5.3"
+}

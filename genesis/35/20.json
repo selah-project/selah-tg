@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва Яъқоб бар гӯри ӯ санги меҳроб гузошт; он аст санги меҳроби гӯри Раҳел то имрӯз.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ва гузошт"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "санги меҳроб"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "гӯри ӯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он аст"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "санги меҳроби"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "гӯри"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раҳел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:41.082362750Z",
+  "model": "glm-5.3"
+}

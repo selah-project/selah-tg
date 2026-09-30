@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Эҳтиром, Адонай, чӣ гӯям баъд аз он ки Йисроэл пуштро ба душманонаш кард?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Эҳтиром"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯям"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "кард"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "пуштро"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ба"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "душманонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:04.040747217Z",
+  "model": "glm-5.3"
+}

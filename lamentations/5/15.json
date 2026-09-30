@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Шодии дилі мо Шаббат кард — тамом шуд, рақси мо ба мотам табдил ёфт.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Шаббат кард — тамом шуд"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "шодӣ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "дилі мо"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "табдил ёфт"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ба мотам"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "рақси мо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:22.428633392Z",
+  "model": "glm-5.3"
+}

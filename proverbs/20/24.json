@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Аз Яҳве қадамҳои мард, ва одам чӣ мефаҳмад роҳи худро?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Аз Яҳве"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "қадамҳои"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ואдם",
+      "gloss": "ва одам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "мефаҳмад"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "роҳи худро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:17.510937659Z",
+  "model": "glm-5.3"
+}

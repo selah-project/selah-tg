@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Яҳве гӯшои Шемуэлро кушод, як рӯз пеш аз омадани Шаул, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ва Яҳве"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "кушод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гӯшои Шемуэл"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "гӯш"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "омадани"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T20:01:58.795773875Z",
+  "model": "glm-5.3"
+}

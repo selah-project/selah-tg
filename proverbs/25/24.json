@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Беҳтар аст дар гӯшаи бом нишастан, аз зани жанҷолӣ ва хонаи муҳаббат.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Беҳтар аст"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "нишастан"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "гӯшаи"
+    },
+    {
+      "surface": "גג",
+      "gloss": "бом"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "аз зан"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ҷанҷолӣ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ва хонаи"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "муҳаббат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:27.115887919Z",
+  "model": "glm-5.3"
+}

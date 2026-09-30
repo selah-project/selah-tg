@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Рашва аз синаашро бадмард мегирад, то ки роҳҳои довариро каҷ кунад.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "рáшва"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "аз сина"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадмард"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "мегирад"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "то ки каҷ кунад"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "роҳҳои"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:34.850473564Z",
+  "model": "glm-5.3"
+}

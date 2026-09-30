@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 4:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Яъбетс аз бародаронаш нодири Friedman бошад — ва модараш номи ӯро Яъбетс гузошт, гӯён: ки ман ӯро бо дард зодаам.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Яъбетс"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "мӯътабар"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "аз бародаронаш"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ва модараш"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "номид"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯро"
+    },
+    {
+      "surface": "יעבץ",
+      "gloss": "Яъбетс"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "зодаам"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "бо дард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:42.099049167Z",
+  "model": "glm-5.3"
+}

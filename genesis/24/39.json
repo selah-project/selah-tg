@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва ба хоҷаам гуфтам: мабодо он зан аз ақиби ман наояд.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфтам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хоҷаам"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мабодо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ояд"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "он зан"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "аз ақиби ман"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:06.729689415Z",
+  "model": "glm-5.3"
+}

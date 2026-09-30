@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Сахтӣ ғазаб ва тӯфони хашм, вале кӣ метавонад пеш аз ҳасад истодан?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "сахтӣ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ғазаб"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "ва тӯфони"
+    },
+    {
+      "surface": "אף",
+      "gloss": "хашм"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "вале кӣ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "метавонад истодан"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ҳасад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:16.203211928Z",
+  "model": "glm-5.3"
+}

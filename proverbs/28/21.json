@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Шинохтани рӯй на хуб аст, ва барои пораи нон мард гунаҳкор мешавад.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "шинохтани"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва барои"
+    },
+    {
+      "surface": "פת",
+      "gloss": "пораи"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "гунаҳкор мешавад"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:39.416250988Z",
+  "model": "glm-5.3"
+}

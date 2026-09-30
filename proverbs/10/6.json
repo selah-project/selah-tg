@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Барориш бар сари тседек аст, даҳони бадкоронро зӯроварӣ мепӯшонад.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "Барориш"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "бар сари"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "мепӯшонад"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зӯроварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:49.405876621Z",
+  "model": "glm-5.3"
+}

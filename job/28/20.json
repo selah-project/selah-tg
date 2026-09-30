@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва ҳикмат аз куҷо меояд, ва маҳалли фаросат куҷост?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "ва ҳикмат"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "аз куҷо"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ва куҷо"
+    },
+    {
+      "surface": "зה",
+      "gloss": "аст"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "маҳалли"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "фаросат"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:03.424954638Z",
+  "model": "glm-5.3"
+}

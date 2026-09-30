@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Левоно, фарзандони Хагаво, фарзандони Салмай.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Левоно"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагаво"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Салмай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:34.200970457Z",
+  "model": "glm-5.3"
+}

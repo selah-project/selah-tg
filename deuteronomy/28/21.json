@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Яҳве ба ту ⟨את⟩ вабо мечаспонад, то он ки ⟨את⟩ туро аз рӯи замине, ки ту ба он меоӣ барои ишғол кардани он, тамом кунад.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "мечаспонад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вабо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "вабо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "тамом кунад"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ туро"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меоӣ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "барои ишғол кардани он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:18.202606645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва онҳоро бар дилафканҳои хонаи худ ва дар дарвозаҳои худ нависед.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ва нависед"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "дилафканҳои"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "хонаи худ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ва дар дарвозаҳои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:59.726544460Z",
+  "model": "glm-5.3"
+}

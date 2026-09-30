@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва шумораи рӯзҳое ки Довуд подшоҳ дар Хеброн бар хонаи Йеҳуда буд, ҳафт солу шаш моҳ буд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "шумораи"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "рӯзҳое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "дар Хеброн"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ву шаш"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "моҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:51:39.795116810Z",
+  "model": "glm-5.3"
+}

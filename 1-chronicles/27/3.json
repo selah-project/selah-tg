@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Аз банӣ-Перетс; ӯ сари ҳамаи сардорони лашкарҳо барои моҳи аввал буд.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сар"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "сардорони"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "лашкарҳо"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "барои моҳи"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "аввал"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:57.566027835Z",
+  "model": "glm-5.3"
+}

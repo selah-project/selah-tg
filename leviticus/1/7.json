@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва писарони Аҳарон коҳин бар мизбеаҳ оташ гузоранд ва бар оташ ҳезумро ба тартиб ниҳоланд.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "гузоранд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мизбеаҳ"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ба тартиб ниҳоланд"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ҳезум"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оташ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:57.871164535Z",
+  "model": "glm-5.3"
+}

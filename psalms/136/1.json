@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба Яҳве шукр гӯед, ки ⟨ҳе⟩ некӯст, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шукр гӯед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ аст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:19.742078755Z",
+  "model": "glm-5.3"
+}

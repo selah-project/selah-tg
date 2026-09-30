@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Эл — ҳисори қуввати ман, ва роҳи беайбро рост мегардонад.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ҳисори ман"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "рост мегардонад"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "роҳи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:10.858602366Z",
+  "model": "glm-5.3"
+}

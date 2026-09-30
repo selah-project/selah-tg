@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва чун лашкари Кашдӣён аз Ерушалайим баромад, аз рӯи лашкари Паръо,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ва чун"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "дар баромадани"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "лашкари"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Кашдӣён"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайим"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "лашкари"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:53:34.832769356Z",
+  "model": "glm-5.3"
+}

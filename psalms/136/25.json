@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Нон ба ҳама гӯшт медиҳад, зеро ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "медиҳад"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ба ҳама"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:02.582261945Z",
+  "model": "glm-5.3"
+}

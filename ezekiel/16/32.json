@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Зани муносибатчӣ — ба ҷои шавҳараш ⟨את⟩ бегонаҳоро мегирад.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "зани"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "муносибатчӣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ба ҷои"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "шавҳараш"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "мегирад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бегонаҳоро"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "бегонаҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:04:25.630113678Z",
+  "model": "glm-5.3"
+}

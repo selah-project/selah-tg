@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 135,
+  "translation": "Даҳон доранд, вале намегӯянд; чашмҳо доранд, вале намебинанд.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Даҳон"
+    },
+    {
+      "surface": "להם",
+      "gloss": "доранд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "вале не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "намегӯянд"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "чашмҳо"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "доранд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "вале не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "намебинанд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:29.124107054Z",
+  "model": "glm-5.3"
+}

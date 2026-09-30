@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зеро ки каҷрав мехтоқи Яҳве аст, ва бо ⟨את⟩ ростон сӯди ӯст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мехтоқ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "каҷрав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ бо ростон"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ростон"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "сӯдаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:33.769222564Z",
+  "model": "glm-5.3"
+}

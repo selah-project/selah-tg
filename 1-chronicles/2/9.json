@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Хетсрон, ки ба ӯ ба дунё омаданд: ⟨את⟩ Йерахмеэл ва ⟨את⟩ Рам ва ⟨את⟩ Келубай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хетсрон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ба дунё омаданд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерахмеэл"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмеэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Келубай"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келубай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.941730467Z",
+  "model": "glm-5.3"
+}

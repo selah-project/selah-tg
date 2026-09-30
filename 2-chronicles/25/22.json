@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Йеҳуда пеш аз Йисроэл мағлуб шуд, ва ҳар мард ба хаймаи худ гурехт.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "мағлуб шуд"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеш аз"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "гурехт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар мард"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ба хаймаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:51:31.054620915Z",
+  "model": "glm-5.3"
+}

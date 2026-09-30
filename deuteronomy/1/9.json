@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ман ба шумо дар он вақт гуфтам, мегӯям: наметавонам танҳо ба худам бардоштани шуморо ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ва ман гуфтам"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "дар он вақт"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯям"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "метавонам"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "танҳо ба худам"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "бардоштан"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:10.391989636Z",
+  "model": "glm-5.3"
+}

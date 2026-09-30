@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва ӯ саҷда кард ва гуфт: «ЧӣBanдаи ту, ки ту ба саги мурдае, ки монанди ман аст, рӯй овардаӣ?»",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "саҷда кард"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "мах",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "бандаи ту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "рӯй овардаӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "саги"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мурда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "монанди ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:54:06.000066768Z",
+  "model": "glm-5.3"
+}

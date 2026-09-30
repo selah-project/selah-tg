@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Оё ин ҳамон нест, ки оғоям аз он менӯшад ва ӯ дар он фол мебинад? Бадӣ кардед, ки ин корро кардед.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Оё"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "менӯшад"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "оғоям"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "фол"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "мебинад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "Бадӣ кардед"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ин корро кардед"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:00.651002675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Мукратаҳи Яҳве ⟨are⟩ афкори бадӣ, вале суханони пок аз нокамӣ поканд.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мукрата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "афкори"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "поканд"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "суханони"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "нокамӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:45.202777160Z",
+  "model": "glm-5.3"
+}

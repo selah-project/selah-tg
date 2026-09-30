@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва байни ҳуҷраҳо бари бист ампо аст, гирди хонаро гирд — гирду гирд.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "ва байни"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ҳуҷраҳо"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "бари"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ампо"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирд"
+    },
+    {
+      "surface": "لבית",
+      "gloss": "хонаро"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирд"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирду гирд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:00.579032377Z",
+  "model": "glm-5.3"
+}

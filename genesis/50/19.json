@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Ва Йӯсуф ба онҳо гуфт: «Натарсед, зеро ки оё ман дар ҷои Элоҳим ҳастам?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йӯсуф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "тарсед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "оё дар ҷои"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман ҳастам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:55.471541930Z",
+  "model": "glm-5.3"
+}

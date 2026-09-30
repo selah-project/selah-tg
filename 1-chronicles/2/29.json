@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва номи занӣ Абишур Абиҳайл буд, ва ба ӯ ⟨את⟩ Аҳбан ва ⟨את⟩ Молидро зоид.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ва ном"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "занӣ"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Абишур"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Абиҳайл"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ва зоид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аҳбан"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Аҳбан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Молид"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Молид"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:46.714505393Z",
+  "model": "glm-5.3"
+}

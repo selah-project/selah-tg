@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "«Суханеро ки ба мо ба Номи Яҳве гуфтӣ — Мо онро гӯш намекунем ва ба ту иттоат намекунем.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "суханеро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "гуфтӣ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ба Номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "гӯш намекунем"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба ту"
+    }
+  ],
+  "timestamp": "2026-09-30T17:56:17.899407861Z",
+  "model": "glm-5.3"
+}

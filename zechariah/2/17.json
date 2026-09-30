@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Хомӯш бош, ҳар гӯшт, аз рӯи Яҳве, зеро ӯ аз макони муқаддаси Худ бедор шудааст.",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "Хомӯш бош"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "נעור",
+      "gloss": "бедор шудааст"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "аз макони"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "муқаддаси Худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:05.716796028Z",
+  "model": "glm-5.3"
+}

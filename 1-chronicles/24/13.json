@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Сенздаҳум ба Хуппа, чордаҳум ба Йешебеав.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "ба Хуппа"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "сенздаҳум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "ба Йешебеав"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чордаҳум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:33.708468655Z",
+  "model": "glm-5.3"
+}

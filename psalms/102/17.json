@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 102,
+  "translation": "Зеро Яҳве Тсиёнро бино кард, дар ҷалоли худ пайдо шуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Тсиён"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "пайдо шуд"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "дар ҷалоли худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:51.692511915Z",
+  "model": "glm-5.3"
+}

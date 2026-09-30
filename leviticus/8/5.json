@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Моше ба маҷлис гуфт: ин суханест ки Яҳве фармуд, ки ⟨ӣ⟩ иҷро карда шавад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "маҷлис"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "иҷро кардан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:21.761977897Z",
+  "model": "glm-5.3"
+}

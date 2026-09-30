@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Зеро Яҳве ҳама бачадонҳои хонаи Абимелехро баста буд, аз сабаби Сарра, зани Авраҳом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "баста"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "буда буд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בעד",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "бачадонҳои"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абимелех"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз сабаби"
+    },
+    {
+      "surface": "דבר",
+      "gloss": ""
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарра"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:52.352834685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Агар руахи ҳоким бар ту барояд, ҷои худро тарк накун, зеро мулойимӣ ⟨гӯё⟩ гуноҳони бузургро шифо медиҳад.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ҳоким"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "барояд"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ҷои туро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "тарк кун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "мулоимӣ"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "шifo медиҳад"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "гуноҳонро"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "бузург"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:21.032330674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва бигуфт Яҳве ба Моше, ба гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва бигуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:40.314886866Z",
+  "model": "glm-5.3"
+}

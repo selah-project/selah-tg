@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Дар рӯзи саввум — сардори фарзандони Зевулун: Элиав, писари Хелон.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "саввум"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:31.597686651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва Довуд рафта бузург шуд, ва Яҳве Элоҳим-и Тсевоот бо ӯ буд.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "рафта"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "пеш рафтан"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "бузург шуд"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳим-и"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ буд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:53:09.791286069Z",
+  "model": "glm-5.3"
+}

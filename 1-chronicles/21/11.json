@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва Гад назди Довуд омад ва ба ӯ гуфт: «Ин гӯяд Яҳве: барои худ қабул кун».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "қабул кун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:02.737289818Z",
+  "model": "glm-5.3"
+}

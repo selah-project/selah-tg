@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "Оё Он ки гӯшро шинондааст, намешунавад? Оё Он ки чашмро бофтааст, намебинад?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "шинондааст"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "гӯш"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "оё… на"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "мешунавад"
+    },
+    {
+      "surface": "אם",
+      "gloss": "оё"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "бофтааст"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "оё… на"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "мебинад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:30.906978203Z",
+  "model": "glm-5.3"
+}

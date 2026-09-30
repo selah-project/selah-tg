@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва акнун, эй коҳинон, ин фарман барои шумост.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва акнун"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ин фарман"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "эй коҳинон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:30:45.786519645Z",
+  "model": "glm-5.3"
+}

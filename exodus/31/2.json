@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Бин, ман Бетсалъелро бо ном хондаам, писари Урӣ, писари Ҳур, аз силилаи Йеҳуда:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Бин"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "хондаам"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "бо ном"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бетсалъел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Урӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Ҳур"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "аз силилаи"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:02.589900711Z",
+  "model": "glm-5.3"
+}

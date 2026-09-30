@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Канизони худро фиристод, аз баландтарин ҷойҳои шаҳр овоз занад:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "канизони худро"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "овоз занад"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "баландтарин ҷойҳои"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "баландӣ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:53.517198075Z",
+  "model": "glm-5.3"
+}

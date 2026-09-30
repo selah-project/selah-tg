@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва ту, эй писари Одам, бар Тсор марсия бардор",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ва ту"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Одам"
+    },
+    {
+      "surface": "שא",
+      "gloss": "бардор"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Тсор"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "марсия"
+    }
+  ],
+  "timestamp": "2026-09-30T18:09:01.300178186Z",
+  "model": "glm-5.3"
+}

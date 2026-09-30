@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Дар соли марги подшоҳ Аҳаз ин бор пайдо шуд.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "дар соли"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аҳаз"
+    },
+    {
+      "surface": "היה",
+      "gloss": "пайдо шуд"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ин бор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:44.091782799Z",
+  "model": "glm-5.3"
+}

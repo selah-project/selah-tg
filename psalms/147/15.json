@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 147,
+  "translation": "Кӣ амри Худро ба замин мефиристад, то зуд суханаш медавад.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "мефиристад"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "амри Худро"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ба замин"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "зуд"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "медавад"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "суханаш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:20.405825469Z",
+  "model": "glm-5.3"
+}

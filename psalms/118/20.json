@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Ин дарвозаи Яҳве аст — одилон ба он ворид мешаванд.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарвозаи"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "одилон"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ворид мешаванд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:40.114733317Z",
+  "model": "glm-5.3"
+}

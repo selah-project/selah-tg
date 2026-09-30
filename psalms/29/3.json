@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Овози Яҳве болои обҳост; Эли ҷалол тундиро мегудорад; Яҳве болои обҳои бисёр.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Овоз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "болои"
+    },
+    {
+      "surface": "המים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ҷалол"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "мегудорад тундиро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "болои"
+    },
+    {
+      "surface": "мים",
+      "gloss": "обҳои"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:46.241840353Z",
+  "model": "glm-5.3"
+}

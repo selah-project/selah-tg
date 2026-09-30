@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва Элоҳим дар он шаб чунин кард; ва хушкӣ танҳо бар пашм буд ва бар тамоми замин шабнам буд.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "кард"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "дар шаб"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "хушкӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "пашм"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "טל",
+      "gloss": "шабнам"
+    }
+  ],
+  "timestamp": "2026-09-30T16:33:33.340120495Z",
+  "model": "glm-5.3"
+}

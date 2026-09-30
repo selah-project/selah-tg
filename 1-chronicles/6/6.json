@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Йоах писари ӯ, Иддо писари ӯ, Зерах писари ӯ, Йеатарай писари ӯ.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "Йоах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Иддо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "Йеатарай"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:44.365467724Z",
+  "model": "glm-5.3"
+}

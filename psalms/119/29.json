@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Роҳи дурӯғро аз ман дур кун ва маро бо торои худ бахшиш намо.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "дурӯғ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "дур кун"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "бо торои худ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "бахшиш намо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:57.009873443Z",
+  "model": "glm-5.3"
+}

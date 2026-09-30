@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва подшоҳ ба Йоъов гуфт: «Инак, лутфан, ин корро кардам; рафта ҷавон Авшаломро баргардон».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоъов"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "נא",
+      "gloss": "лутфан"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кардам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кор"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "рафта"
+    },
+    {
+      "surface": "השב",
+      "gloss": "баргардон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҷавон"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ҷавон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авшалом"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-09-30T16:56:14.583446703Z",
+  "model": "glm-5.3"
+}

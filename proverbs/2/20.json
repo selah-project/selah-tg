@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "то ки дар роҳи некон бигравӣ ва роҳҳои одилонро нигоҳ дорӣ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "бигравӣ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "некон"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "ва роҳҳои"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "одилонро"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "нигоҳ дорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:13.742463037Z",
+  "model": "glm-5.3"
+}

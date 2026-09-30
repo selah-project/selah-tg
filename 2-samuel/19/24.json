@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва подшоҳ ба Шимъӣ гуфт: «Ту намирӣ.» Ва подшоҳ ба ӯ савганд ёд кард.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимъӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "намирӣ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ва савганд ёд кард"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:58:37.836241438Z",
+  "model": "glm-5.3"
+}

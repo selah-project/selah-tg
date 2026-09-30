@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Писарони Эсав: Элифаз, Реуэл ва Йеуш ва Ялам ва Қораҳ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэл"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ва Йеуш"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "ва Ялам"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ва Қораҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:37.592990606Z",
+  "model": "glm-5.3"
+}

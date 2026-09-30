@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Некӯст барои мард, ки дар ҷавонии худ зери юғро бардорад.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Некӯст"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "барои мард"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "бардорад"
+    },
+    {
+      "surface": "על",
+      "gloss": "зери юғро"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "дар ҷавонии худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.301146464Z",
+  "model": "glm-5.3"
+}

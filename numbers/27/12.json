@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва Яҳве ба Моше гуфт: ба ин кӯҳи Ҳааварим баромада, заминеро ки Ман ба банӣ-Йисроэл додаам, бин.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "баромада"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ҳааварим"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ва бин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заминеро"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замине"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ман додаам"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба банӣ-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:01.793117431Z",
+  "model": "glm-5.3"
+}

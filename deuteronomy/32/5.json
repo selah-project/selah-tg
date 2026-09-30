@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ба ӯ харобӣ карданд — на фарзандони ӯ, айбашон ин аст; насли каҷ ва печон.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "харобӣ карданд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "фарзандони ӯ"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "айбашон"
+    },
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "каҷ"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "ва печон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:21.434218940Z",
+  "model": "glm-5.3"
+}

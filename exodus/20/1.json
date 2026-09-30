@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Элоҳим ⟨את⟩ ҳамаи ин суханонро гуфт, барои гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва...гуфт"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи ин суханон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "суханон"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "барои гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:34.263428509Z",
+  "model": "glm-5.3"
+}

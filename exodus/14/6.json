@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Паръо аробаи худро ҳамроҳ кард ва халқи худро бо худ гирифт.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "ҳамроҳ кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аробаи ӯ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "аробаи ӯ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "халқи ӯ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "халқи ӯ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:06.966385039Z",
+  "model": "glm-5.3"
+}

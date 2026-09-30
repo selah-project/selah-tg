@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Рӯзи карнай ва ҳуҷум бар шаҳрҳои мустаҳкам ва бар бурҷҳои баланд.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "карнай"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ва ҳуҷум"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "шаҳрҳои"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "мустаҳкам"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "бурҷҳои"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "баланд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:26:59.241890508Z",
+  "model": "glm-5.3"
+}

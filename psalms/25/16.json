@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Рӯ ба ман гардон ва ба маро лутф кун, зеро танҳо ва мискин манам.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "рӯ гардон"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ва лутф кун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ва мискин"
+    },
+    {
+      "surface": "אני",
+      "gloss": "манам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:28.571199734Z",
+  "model": "glm-5.3"
+}

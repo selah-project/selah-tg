@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва занаш аз паси ӯ нигарист, ва ғафси намак шуд.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "ва нигарист"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "занаш"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "аз паси ӯ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ва шуд"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ғафс"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "намак"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:26.124555764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва аз Бинёмин ҳаждаҳ ҳазор мард афтод; ⟨את⟩ ҳамаи инҳо мардони ҷасур буданд.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "ва афтод"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "аз Бинёмин"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ҳашт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи инҳо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ҷасур"
+    }
+  ],
+  "timestamp": "2026-09-30T16:40:07.995279133Z",
+  "model": "glm-5.3"
+}

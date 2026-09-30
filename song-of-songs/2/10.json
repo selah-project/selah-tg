@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Маҳбубам ҷавоб дод ва ба ман гуфт: «Бархез, ҳамроҳам, зебои ман, ва биёл бо ман».",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ҷавоб дод"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "Маҳбубам"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Бархоз"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ҳамроҳи ман"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ҳамроҳам"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "зебои ман"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ва биёл"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бо ман"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:16.238804800Z",
+  "model": "glm-5.3"
+}

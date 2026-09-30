@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва дар кӯҳистон: Шамир ва Яттир ва Сокҳо,",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "ва дар кӯҳистон"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "Шамир"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "Яттир"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "Сокҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:46.235071314Z",
+  "model": "glm-5.3"
+}

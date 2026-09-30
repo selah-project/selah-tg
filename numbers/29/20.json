@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 29:20",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва дар рӯзи саввум ёздаҳ пар, ду қӯчқор, чордаҳ барра, писарони яксола, беайб.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ва дар рӯзи"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "саввум"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "парҳо"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ёз"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-даҳ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "қӯчқорон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "баррагон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "яксола"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-даҳ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "беайб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:25.035363273Z",
+  "model": "glm-5.3"
+}

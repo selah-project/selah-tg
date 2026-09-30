@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Букки писараш, Уззӣ писараш, Зерахйа писараш.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззӣ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахйа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:12.026821680Z",
+  "model": "glm-5.3"
+}

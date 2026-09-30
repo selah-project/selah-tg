@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ба Шешан писарон набуд, балки духтарон; ва ба Шешан ғуломе мисрӣ буд ва номи ӯ Ярҳа.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ва не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "ба Шешан"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "писарон"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "балки"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтарон"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "ва ба Шешан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ғулом"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "мисрӣ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ва номи ӯ"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "Ярҳа"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:41.900830330Z",
+  "model": "glm-5.3"
+}

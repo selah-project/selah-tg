@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ғарибон қувваи ӯро хӯрданд ва ӯ намедонад; ҳатто пирӣ бар ӯ пошида шуд ва ӯ намедонад.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "хӯрданд"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ғарибон"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "қувваи ӯро"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "пирӣ"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "пошида шуд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ва ӯ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:18:52.106863603Z",
+  "model": "glm-5.3"
+}

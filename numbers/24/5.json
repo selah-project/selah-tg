@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Чӣ хуб аст хаймаҳои туро, эй Яъқов, Мишканҳои туро, эй Йисроэл!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "хуб аст"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "хаймаҳои туро"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "Мишканҳои туро"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:16.305364898Z",
+  "model": "glm-5.3"
+}

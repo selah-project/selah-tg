@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Писарони Кеҳат: Аминадав писари ӯ, Корах писари ӯ, Асир писари ӯ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеҳат"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Асир"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:44.365638777Z",
+  "model": "glm-5.3"
+}

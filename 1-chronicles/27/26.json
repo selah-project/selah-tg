@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва бар коркардарони заамин бар хизмати замин Эзрӣ писари Келув.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "коркардарони"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "кори"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "заамин"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "бар хизмати"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замин"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Эзрӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "Келув"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:42.889378329Z",
+  "model": "glm-5.3"
+}

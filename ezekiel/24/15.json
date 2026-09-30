@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва сукани Яҳве ба ман омад, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сукани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:08:11.075512594Z",
+  "model": "glm-5.3"
+}

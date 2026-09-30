@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Фарзандони Йеҳуда: Перетс, Хетсрон, ва Кармӣ, ва Ҳур, ва Шовол.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандон"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хетсрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ва Кармӣ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ва Ҳур"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ва Шовол"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:42.888079259Z",
+  "model": "glm-5.3"
+}

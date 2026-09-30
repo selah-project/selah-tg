@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Яҳве барои ин пушаймон шуд; ин низ нахоҳад буд, мегӯяд Адонай Яҳве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "пушаймон шуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "גם",
+      "gloss": "низ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нахоҳад буд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:22:45.633847698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Писарони Кеҳат: Амрам, Йитсҳор, Хеврон ва Узиил — чор тан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеҳат"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йитсҳор"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ва Узиил"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор тан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:34.330541412Z",
+  "model": "glm-5.3"
+}

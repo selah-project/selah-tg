@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Зеро мо дирӯзӣ ⟨ҳастем⟩ ва намедонем, зеро рӯзҳои мо рӯи замин сояанд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "дирӯзӣ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "намедонем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "צל",
+      "gloss": "соя"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "рӯзҳои мо"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:04:12.070743539Z",
+  "model": "glm-5.3"
+}

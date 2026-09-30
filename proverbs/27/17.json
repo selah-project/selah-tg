@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Оҳан бо оҳан тез мешавад, ва одам рӯи дӯсти худро тез мекунад.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "оҳан"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "бо оҳан"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "тез мешавад"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ва одам"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "тез мекунад"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "дӯсти худро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:43.583953893Z",
+  "model": "glm-5.3"
+}

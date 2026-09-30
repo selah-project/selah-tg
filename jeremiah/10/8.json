@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва дар як чиз онҳо нодон ва аблаҳанд; таълими ботилҳо — чӯб аст он.",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "ва дар як чиз"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "ва аблаҳанд"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "таълими"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ботилҳо"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "чӯб"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он аст"
+    }
+  ],
+  "timestamp": "2026-09-30T17:43:35.758758875Z",
+  "model": "glm-5.3"
+}

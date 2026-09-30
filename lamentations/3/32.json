@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зеро гар ғам расонад, ҳам раҳм мекунад мувофиқи бисёрии ҳеседи Ӯ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אם",
+      "gloss": "гар"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ғам расонад"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "раҳм мекунад"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "мувофиқи бисёрии"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:09.128083567Z",
+  "model": "glm-5.3"
+}

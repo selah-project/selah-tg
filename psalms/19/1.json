@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ба роҳбари мусиқӣ. Мазмур барои Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари мусиқӣ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "барои Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:08.903368186Z",
+  "model": "glm-5.3"
+}

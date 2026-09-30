@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 73,
+  "translation": "Ҳоло, инҳо бадкорон, ва ороми ҷовидон сарват афзудаанд.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ва оромони"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ҷовидон"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "афзудаанд"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сарват"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:11.640049385Z",
+  "model": "glm-5.3"
+}

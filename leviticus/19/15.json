@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Дар dovarӣ бадӣ накунед; рӯи камбагалро бардоранд ва рӯи бузургро ба эҳтиром нагиред; дар тседек бо ҳамон худатон dovarӣ кунед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "накунед"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "кунед"
+    },
+    {
+      "surface": "עול",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "дар dovarӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "бардоранд"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "דל",
+      "gloss": "камбагал"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ба эҳтиром нагиред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "дар тседек"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "dovarӣ кунед"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "бо ҳамон худатон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:26.866597884Z",
+  "model": "glm-5.3"
+}

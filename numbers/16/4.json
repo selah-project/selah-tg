@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Моше шунид ва бар рӯи худ афтод.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ва шунид"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ва афтод"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:04:16.015215712Z",
+  "model": "glm-5.3"
+}

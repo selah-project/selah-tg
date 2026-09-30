@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва онро пур карданд чор сатр санги гарон; сатри одем, питда ва барeket — сатри якум.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "ва пур карданд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "онро"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "сатр"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "санги"
+    },
+    {
+      "surface": "טור",
+      "gloss": "сатри"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одем"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "питда"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "ва барeket"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "сатри"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "якум"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:02.244706300Z",
+  "model": "glm-5.3"
+}

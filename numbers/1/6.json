@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Шимъон — Шелумиэл, писари Тсуришаддай.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Барои Шимъон"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Тсуришаддай"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:23.449048931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "ва агар нетек дар пӯст бигунҷад-парҳояд баъди пок шудани ӯ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "парҳояд"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "бигунҷад"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "нетек"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "дар пӯст"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъди"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "пок шудани ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:03.836798416Z",
+  "model": "glm-5.3"
+}

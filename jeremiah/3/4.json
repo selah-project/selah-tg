@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Оё аз ин вақт ба ман хондаӣ: «Падари ман, ту дӯсти ҷавонии ман ҳастӣ»?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "оё на"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "аз ин вақт"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "хондаӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Падари ман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "дӯсти"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ҷавонии ман"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    }
+  ],
+  "timestamp": "2026-09-30T20:06:56.952957057Z",
+  "model": "glm-5.3"
+}

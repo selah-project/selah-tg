@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 43,
+  "translation": "Ва гаҳноӣ дар замин вазнин шуд.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ва гаҳноӣ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "вазнин (шуд)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:11.121528609Z",
+  "model": "glm-5.3"
+}

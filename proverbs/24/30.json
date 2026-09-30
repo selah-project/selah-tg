@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Аз канори майдони танаффулгарде гузаштам ва аз канори токистони одами камақл.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз канори"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "майдони"
+    },
+    {
+      "surface": "איש",
+      "gloss": "одами"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "танаффулгард"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "гузаштам"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва аз канори"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "токистони"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одами"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "кам"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ақл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:57.928311878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 90,
+  "translation": "Зеро ҳазор сол дар назди Тават — мисли дирӯз, ки гузашт, ва мисли пӯсаи шаб.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "сол"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "дар назди Тават"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "мисли рӯзе"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "дирӯз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "гузашт"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "пӯсаи"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шаб"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:46.931976625Z",
+  "model": "glm-5.3"
+}

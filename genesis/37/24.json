@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва гирифтанд ӯро ва ӯро ба чоҳ афканиданд; ва чоҳ холӣ буд — обе дар он набуд.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ва гирифтанд ӯро"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ва афканиданд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ӯро"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ба чоҳ"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ва чоҳ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "холӣ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:17.636087572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 107,
+  "translation": "Зеро Ӯ нефешро ташна сер кард ва нефешро гурусна аз некӣ пур намуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "сердод"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "ташна"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ва нефеш"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "гурусна"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пур намуд"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "аз некӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:03.198332085Z",
+  "model": "glm-5.3"
+}

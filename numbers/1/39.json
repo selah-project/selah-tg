@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Шуморишавандагонашон барои сипоҳи Дон — шасту ду ҳазор ва ҳафт сад.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "шуморишавандагонашон"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "барои сипоҳи"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ва шаст"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:03.919669854Z",
+  "model": "glm-5.3"
+}

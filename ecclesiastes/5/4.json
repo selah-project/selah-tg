@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Беҳтар аст, ки назр накунӣ, чунки меназрӣ ва адо намекунӣ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар аст"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "назр"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "чунки меназрӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "адо намекунӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:19.827833449Z",
+  "model": "glm-5.3"
+}

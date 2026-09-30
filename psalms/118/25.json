@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Эй Яҳве, наҷот деҳ, илтимос! Эй Яҳве, муваффақият деҳ, илтимос!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "эй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "наҷот деҳ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "илтимос"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "эй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "муваффақият деҳ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "илтимос"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:05.519249520Z",
+  "model": "glm-5.3"
+}

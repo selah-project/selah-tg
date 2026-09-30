@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 130,
+  "translation": "Агар гуноҳҳоро нигоҳ дорӣ, э Яҳ, э Адонай, кӣ истодда метавонад?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "гуноҳҳоро"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "нигоҳ дорӣ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "истодда метавонад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:26.702914405Z",
+  "model": "glm-5.3"
+}

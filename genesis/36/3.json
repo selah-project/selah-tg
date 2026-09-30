@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "ва ⟨את⟩ Босмат, духтари Йишмоэл, хоҳари Небайот.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Босмат"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Йишмоэл"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "хоҳари"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Небайот"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:19.712869530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 109,
+  "translation": "Бошад, ки фарзандонаш ятим шаванд ва занаш бева.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "бошанд"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "фарзандонаш"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ятимон"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ва занаш"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "бева"
+    }
+  ],
+  "timestamp": "2026-09-30T18:49:41.061060979Z",
+  "model": "glm-5.3"
+}

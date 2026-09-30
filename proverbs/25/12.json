@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ҳалқаи тиллоӣ ва ороиши тиллои пок —_isoNOT мурозимаИ_ корраму ҳаким бар гӯши шунаванда.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "ҳалқаи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ва ороиши"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "тиллои пок"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ислоҳкунандаи"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "על",
+      "gloss": " бар"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "гӯши"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "шунаванда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:20.783454793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва духтари kohен, агар ба марди бегона шавад, ӯ аз ҳадяи чизҳои муқаддас нахӯрад.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ва духтари"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "шавад"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ба марди"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бегона"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "аз ҳадяи"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "чизҳои муқаддас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "нахӯрад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:38.914269553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва мирот дар миёни бародаронаш набошад; Яҳве Худ ӯро мерос аст, чунон ки ба ӯ гуфт.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "ва мирот"
+    },
+    {
+      "surface": "לא",
+      "gloss": "набошад"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародаронаш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Худ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мepоси ӯ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:18:40.904841848Z",
+  "model": "glm-5.3"
+}

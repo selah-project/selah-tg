@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Гуфтӣ: «Оҳ бар ман, холӣ! Зеро Яҳве ғам бар ғами ман афзуд; аз нолаҳоям хаста шудам ва оромӣ наёфтам».",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "гуфтӣ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "оҳ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "холӣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "бар ман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "афзуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ғам"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "ғами ман"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "хаста шудам"
+    },
+    {
+      "surface": "б אנחתי",
+      "gloss": "аз нолаҳоям"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "ва оромӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ёфтам"
+    }
+  ],
+  "timestamp": "2026-09-30T17:55:40.443280764Z",
+  "model": "glm-5.3"
+}

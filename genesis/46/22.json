@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Инҳо писарони Раҳеланд, ки ба Яъқов ба дунё омаданд; ҳамаи ҷонҳо чордаҳ ⟨буданд⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Раҳел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ба дунё омаданд"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ҷонҳо"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:27.990022852Z",
+  "model": "glm-5.3"
+}

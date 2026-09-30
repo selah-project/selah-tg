@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ҳамаро одамон, ки мехӯрад ва менӯшад ва некиро дар ҳамаи меҳнаташ мебинад — ин тӯҳфаи Элоҳим аст.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ва ҳамаро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "кихӯрад"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ва менӯшад"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ва мебинад"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳамаи"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "меҳнаташ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "тӯҳфа"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ин аст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:54.320374627Z",
+  "model": "glm-5.3"
+}

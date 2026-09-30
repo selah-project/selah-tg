@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Яъқуб Раҳелро бӯсид ва овозашро баланд кард ва гирён шуд.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "ва бӯсид"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқуб"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Раҳелро"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ва баланд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "овозаш"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "овозаш"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ва гирён шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:11.102316369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 11:31",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Итай писари Рибай аз Гибъаи фарзандони Бинъямин, Бнаяҳ Пиръатонӣ.",
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "Итай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "Рибай"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "аз Гибъаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинъямин"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Бнаяҳ"
+    },
+    {
+      "surface": "הפרעתני",
+      "gloss": "Пиръатонӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:25.750796903Z",
+  "model": "glm-5.3"
+}

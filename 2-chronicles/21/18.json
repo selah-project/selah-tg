@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва баъд аз ҳамаи ин Яҳве ӯро дар шикамаш ба беморие ки шифо надорад зарба зад.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "баъд аз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "зарба зад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "дар шикамаш"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ба беморӣ"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "кое ки надорад"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "шифо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:49:42.456450216Z",
+  "model": "glm-5.3"
+}

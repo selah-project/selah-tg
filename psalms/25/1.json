@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ба Довуд. Ба сӯи Ту, эй Яҳве, ҷони худро бардошта мебарам.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ба Довуд"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ба сӯи Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони худро"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "бардошта мебарам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:42.652033777Z",
+  "model": "glm-5.3"
+}

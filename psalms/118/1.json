@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Ба Яҳве шукр гӯед, ки некӯст, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шукр гӯед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:33.626050608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Кӣ ба рӯи ӯ роҳашро хоҳад гуфт? Ва кӣ барои он ки кард, ба ӯ пас мадиҳад?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кӣ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хоҳад гуфт"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯи ӯ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "роҳашро"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Ва"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кардааст"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "пас мадиҳад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:19.137358152Z",
+  "model": "glm-5.3"
+}

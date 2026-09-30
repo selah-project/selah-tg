@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ҷамъ кун аз замин бастаи худро, эй сокини ⟨дар⟩ ҳисор!",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "ҷамъ кун"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "аз замин"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "бастаи худро"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "эй сокини"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "дар ҳисор"
+    }
+  ],
+  "timestamp": "2026-09-30T17:43:36.939953269Z",
+  "model": "glm-5.3"
+}

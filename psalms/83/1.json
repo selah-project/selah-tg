@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 83,
+  "translation": "Суруд, мазмор барои Асоҳф.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "барои Асоҳф"
+    }
+  ],
+  "timestamp": "2026-09-30T18:44:51.968965030Z",
+  "model": "glm-5.3"
+}

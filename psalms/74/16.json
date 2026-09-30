@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 74,
+  "translation": "Рӯз аз они Туст, шаб низ аз они Туст; Ту чароғро ва офтобиро омода сохтӣ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "аз они Туст"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אף",
+      "gloss": "низ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "аз они Туст"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "омода сохтӣ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "чароғ"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ва офтобиро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:41.698754975Z",
+  "model": "glm-5.3"
+}

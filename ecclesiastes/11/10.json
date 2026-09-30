@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва ғазабро аз дилат дур кун ва бадиро аз танат берун бар, ки бачагӣ ва ҷавонӣ ҳебел аст.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ва дур кун"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ғазабро"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "аз дилат"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ва берун бар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадиро"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "аз танат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "бачагӣ"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ва ҷавонӣ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:01.564157248Z",
+  "model": "glm-5.3"
+}

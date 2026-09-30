@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Заккай — ҳаҳтсад шашод.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккай"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳаҳт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ва шашод"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:49.835516753Z",
+  "model": "glm-5.3"
+}

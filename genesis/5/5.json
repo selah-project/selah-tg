@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ҳамаи рӯзҳои Одам, ки зиста буд, нуҳсад солу сӣ сол буд; ва ӯ вафот кард.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Одам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зиста буд"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "нуҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ву сӣ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ва вафот кард"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:46.276501688Z",
+  "model": "glm-5.3"
+}

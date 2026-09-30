@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Барои Гершом: Ливни писари ӯ, Яҳат писари ӯ, Зиммо писари ӯ.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Барои Гершом"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яҳат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зиммо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:44.365153346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Мебинам будам, ва он шох бо қадишин ҷанг мекард ва бар онҳо ғолиб меомад.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "менамудам"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "будам"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "ва шох"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "он"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "мекард"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "қадишин"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "ва ғолиб меомад"
+    },
+    {
+      "surface": "להון",
+      "gloss": "бар онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:26:01.077146658Z",
+  "model": "glm-5.3"
+}

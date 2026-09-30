@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва ба ӯ гуфтанд: «Кайҳост Сара, зани ту?» Ва ӯ гуфт: «Инак, дар хайма».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ва гуфтанд"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кайҳост"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "зани ту"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "дар хайма"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:30.816743043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 94,
+  "translation": "Эли қасос, Яҳве! Эли қасос, дураҳшон зоҳир шав!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "қасос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "қасос"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "дураҳшон зоҳир шав"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:59.062953840Z",
+  "model": "glm-5.3"
+}

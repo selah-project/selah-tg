@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва онро барои Яъқоб ба ҳукми пойdor ва барои Йисроэл ба аҳди абадӣ барпо кард.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ва онро барпо кард"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "барои Яъқоб"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ба ҳукми пойdor"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "барои Йисроэл"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ба аҳд"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абадӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:43.110281921Z",
+  "model": "glm-5.3"
+}

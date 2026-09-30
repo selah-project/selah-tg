@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва тамоми ҷамъияти банӣ Йисроэл аз пеши Моше баромаданд,",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "баромаданд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ҷамъияти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "бании"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "аз пеши"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T15:42:15.062181533Z",
+  "model": "glm-5.3"
+}

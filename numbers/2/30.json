@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "ва лашкари ӯ ва шуморшудаҳояшон се ва панҷоҳ ҳазор ва чор сад.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ва лашкари ӯ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ва шуморшудаҳояшон"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ва панҷоҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ва чор"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:52.254213101Z",
+  "model": "glm-5.3"
+}

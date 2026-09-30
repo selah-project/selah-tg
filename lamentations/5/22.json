@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Магар ту моро тамоман рад кардӣ, ба мо хашм гирифтӣ то ҳадди ниҳоят?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "магар"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מאס",
+      "gloss": "тамоман"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "рад кардӣ моро"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "хашм гирифтӣ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ба мо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то ҳадди"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ниҳоят"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:14.878558740Z",
+  "model": "glm-5.3"
+}

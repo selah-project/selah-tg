@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва инҳо номҳои онҳо: барои қабилаи Реувен — Шаммуа писари Заккур.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ва инҳо"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "номҳои онҳо"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "барои қабилаи"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    }
+  ],
+  "timestamp": "2026-09-30T16:02:32.425655345Z",
+  "model": "glm-5.3"
+}

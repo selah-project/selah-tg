@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Ашер — Пагиъел, писари Оқрон.",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "Барои Ашер"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиъел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Оқрон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:44.430440131Z",
+  "model": "glm-5.3"
+}

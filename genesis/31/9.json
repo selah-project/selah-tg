@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Элоҳим моли падари шуморо рабуд ва ба ман дод.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "рабуд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "моли падари шумо"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "мол"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "падари шумо"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:13.498198665Z",
+  "model": "glm-5.3"
+}

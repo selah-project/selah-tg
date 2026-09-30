@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 122,
+  "translation": "Бод саломӣ дар деворҳои ту, оромиш дар қасрҳои ту.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "бод"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "саломӣ"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "дар деворҳои ту"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "оромиш"
+    },
+    {
+      "surface": "בארмנותיך",
+      "gloss": "дар қасрҳои ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:13.967031538Z",
+  "model": "glm-5.3"
+}

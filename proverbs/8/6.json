@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Гӯш доред, ки ман суханҳои бузург мегӯям ва кушодани лабҳоям ростӣ аст.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Гӯш доред"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "мегӯям"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "ва кушодани"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "лабҳоям"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ростӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:21.370825841Z",
+  "model": "glm-5.3"
+}

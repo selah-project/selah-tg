@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Тилло, нуқра, мис ва оҳан ба ҳисоб намерасад; бархез ва кун, ва Яҳве бо ту бошад.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "ва мис"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "ва оҳан"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ҳисоб"
+    },
+    {
+      "surface": "קום",
+      "gloss": "бархез"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ва кун"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва бошад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:13.351028320Z",
+  "model": "glm-5.3"
+}

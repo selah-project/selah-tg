@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 15:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва Кенаняҳу, сари лавиён, дар масъ — ӯ дар масъ роҳбарӣ мекард, зеро ӯ фаҳмо буд.",
+  "tokens": [
+    {
+      "surface": "וכנניהו",
+      "gloss": "ва Кенаняҳу"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сар"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "лавиён"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "дар масъ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "роҳбарӣ мекард"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "дар масъ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "фаҳмо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:30.640905033Z",
+  "model": "glm-5.3"
+}

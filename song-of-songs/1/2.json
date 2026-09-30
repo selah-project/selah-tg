@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Бибӯсад маро бо бӯсаҳои даҳонаш, зеро дӯстиҳои ту аз шароб беҳтаранд.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "бибӯсад маро"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "бо бӯсаҳои"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "даҳонаш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "беҳтаранд"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "дӯстиҳои ту"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "аз шароб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:30.307961518Z",
+  "model": "glm-5.3"
+}

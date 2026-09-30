@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ва онҳо дар миёни алаф месабзанд, мисли бидҳо дар соҳилҳои об.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Ва онҳо месабзанд"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "алаф"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "мисли бидҳо"
+    },
+    {
+      "surface": "על",
+      "gloss": "дар"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "соҳилҳои"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    }
+  ],
+  "timestamp": "2026-09-30T17:34:40.282273487Z",
+  "model": "glm-5.3"
+}

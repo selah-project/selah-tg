@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Подшоҳи Шимрон-Мерон, яке; подшоҳи Акшшаф, яке;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрон-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Мерон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Акшшаф"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:24.448779312Z",
+  "model": "glm-5.3"
+}

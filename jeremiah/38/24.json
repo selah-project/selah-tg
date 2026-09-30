@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва Тсидқиҳау ба Йирмийау гуфт: ҳеҷ кас набояд ин суханонро донад, ва ту намирӣ.",
+  "tokens": [
+    {
+      "surface": "ויאмер",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Тсидқиҳау"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмийау"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳеҷ кас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "набояд"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "донад"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ин суханонро"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "намирӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:54:27.506951005Z",
+  "model": "glm-5.3"
+}

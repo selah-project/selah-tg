@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва киштӣ дар моҳи ҳафтум, дар ҳафтдаҳ рӯзи моҳ, бар кӯҳҳои Арарот нишаст.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "нишаст"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "киштӣ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "дар моҳи"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "дар ҳафт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "аз моҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "кӯҳҳои"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Арарот"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:36.146967780Z",
+  "model": "glm-5.3"
+}

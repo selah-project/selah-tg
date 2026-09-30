@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва ⟨את⟩ Негевро ва ⟨את⟩ водиро — водии Йериҳо, шаҳри хурмоҳо — то Тсоар.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Негев"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Негев"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "водӣ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "водӣ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "водии"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Йериҳо"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "хурмоҳо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Тсоар"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:16.545993748Z",
+  "model": "glm-5.3"
+}

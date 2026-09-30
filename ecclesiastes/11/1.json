@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Нони худро ба рӯйи обҳо мефирист, зеро пас аз рӯзҳои бисёр онро меёбӣ.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "мефирист"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "нони худро"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "пני",
+      "gloss": ""
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи"
+    },
+    {
+      "surface": "המים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "пас аз бисёрии"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "онро меёбӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:14.879627833Z",
+  "model": "glm-5.3"
+}

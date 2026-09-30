@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Сарват ва иззат ⟨את⟩ бо ман аст, моли ҷовидонӣ ва тседека.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "сарват"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ва иззат"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ бо ман",
+      "marks": "сарват ва иззат"
+    },
+    {
+      "surface": "הון",
+      "gloss": "мол"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "ҷовидонӣ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ва тседека"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:48.455065754Z",
+  "model": "glm-5.3"
+}

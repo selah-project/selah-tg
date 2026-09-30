@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Дар рӯзе ки Туро даъват кардам, наздик шудӣ; гӯфтӣ: «Натарс».",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "наздик шудӣ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзе ки"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "Туро даъват кардам"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "гӯфтӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "тарс"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:06.435283571Z",
+  "model": "glm-5.3"
+}

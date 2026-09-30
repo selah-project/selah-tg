@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "сӯзонӣ барои сӯзонӣ, захм барои захм, залолӣ барои залолӣ.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "сӯзонӣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "сӯзонӣ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "захм"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "захм"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "залолӣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "барои"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "залолӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:31.749198298Z",
+  "model": "glm-5.3"
+}

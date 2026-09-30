@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Саронро бо дасти худон дар дарахт овехтанд; рӯйҳои пиронро эҳтиром накарданд.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "саронро"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "бо дасти худон"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "овехтанд"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйҳои"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "пиронро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "эҳтиром накарданд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:20.897844261Z",
+  "model": "glm-5.3"
+}

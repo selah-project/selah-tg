@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва Аҳоз гуфт: Напурсам ва Яҳверо ⟨את⟩ озмоиш намекунам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Аҳоз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "пурсам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва намекунам"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "озмоиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:05.596128735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "чорум ба Йисрӣ, писаронаш ва бародаронаш — дувоздаҳ нафар;",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "ба Йисрӣ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ва бародаронаш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дувоздаҳ… ду"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…даҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:24.118882706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва як сардор — як сардор аз ҳар қабила — гиред, то ки ⟨את⟩ заминро мерос диҳед.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ва сардор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "аз қабила"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "гиред"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "то ки мерос диҳед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "замин"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "заминро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:23.966364248Z",
+  "model": "glm-5.3"
+}

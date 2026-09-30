@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "«Бинобар ин, чунин мегӯяд Яҳве Тсевоот: азбаски ба суханони ман гӯш накардед ⟨את⟩,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "бинобар ин"
+    },
+    {
+      "surface": "כה",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "יען",
+      "gloss": "азбаски"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "гӯш накардед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "суханони ман"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "суханони ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:14.226397876Z",
+  "model": "glm-5.3"
+}

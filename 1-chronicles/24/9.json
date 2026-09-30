@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Панҷум ба Малкия, шашум ба Миямин.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "ба Малкия"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "панҷум"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "ба Миямин"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шашум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:20.551821930Z",
+  "model": "glm-5.3"
+}

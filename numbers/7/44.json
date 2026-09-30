@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як кафдасти тиллоӣ — даҳ шекел, пур аз бӯи хушбӯй.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кафдаст"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пур"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "хушбӯй"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:37.142338362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Муборак аст марде ки ба Яҳве бовар мекунад ва Яҳве паноҳгоҳи ӯст.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "муборак"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "марде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "бовар мекунад"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ва хоҳад буд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "паноҳгоҳи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:46:05.104111235Z",
+  "model": "glm-5.3"
+}

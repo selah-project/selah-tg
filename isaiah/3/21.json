@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "ангуштаринҳо ва ҳалқаҳои бинӣ,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ангуштаринҳо"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "ва ҳалқаҳои"
+    },
+    {
+      "surface": "האף",
+      "gloss": "бинӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:23:02.007083335Z",
+  "model": "glm-5.3"
+}

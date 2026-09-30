@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Фарзандони Йехиэлӣ — Зетам ва бародараш Йоэл — бар анборҳои хонаи Яҳве.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "Йехиэлӣ"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ва Йоэл"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародараш"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "анборҳои"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:38.952795138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 100,
+  "translation": "Мазмур барои тода. Ба Яҳве нодҳо занед, тамоми замин!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "барои тода"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "нодҳо занед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:04.612053649Z",
+  "model": "glm-5.3"
+}

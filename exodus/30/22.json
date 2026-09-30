@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Яҳве ба Моше сухан ронд, ва гӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ва сухан рон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ва гӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:40:05.584041744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Моше Аҳарон ва писаронашро наздик овард ва ⟨את⟩ онҳоро бо об шуст.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "наздик овард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аҳарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "писаронаш"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "шуст"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ онҳоро"
+    },
+    {
+      "surface": "במים",
+      "gloss": "бо об"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:21.762314979Z",
+  "model": "glm-5.3"
+}

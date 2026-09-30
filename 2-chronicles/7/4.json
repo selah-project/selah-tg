@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва подшоҳ ва ҳамаи халқ пеши Яҳве қурбоние мекашиданд.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ва подшоҳ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "қурбон мекарданд"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "қурбоние"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:48.102154441Z",
+  "model": "glm-5.3"
+}

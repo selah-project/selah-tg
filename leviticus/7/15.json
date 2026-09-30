@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва гӯшти забҳи тодаи шаломимаш рӯзи қурбонии худ хӯрида мешавад; аз он то subҳ боқӣ гузошта намешавад.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ва гӯшти"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "забҳи"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "тодаи"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "шаломимаш"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "қурбонии худ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрида мешавад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "мегузорад"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "subҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:47:15.877025144Z",
+  "model": "glm-5.3"
+}

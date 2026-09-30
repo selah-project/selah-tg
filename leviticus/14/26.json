@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва коҳен аз равған бар кафи дасти чапи хеш мерехт.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ва аз"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "мерехт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כף",
+      "gloss": "каф"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "чаӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:07.450809783Z",
+  "model": "glm-5.3"
+}

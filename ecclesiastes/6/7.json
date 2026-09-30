@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ҳар меҳнати одам бар даҳонаш аст, вале ⟨нафс⟩ пур намешавад.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "меҳнат"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "бар даҳонаш"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "вале ҳам"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нафс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "пур намешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:11.323143521Z",
+  "model": "glm-5.3"
+}

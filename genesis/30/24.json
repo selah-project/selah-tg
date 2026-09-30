@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва номи ӯро Йосеф гузошт, гӯён: Яҳве ба ман писари дигаре бидиҳад.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ва гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "бидиҳад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:39.283181225Z",
+  "model": "glm-5.3"
+}

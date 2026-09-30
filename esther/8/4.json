@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва шоҳ ба Эстер ⟨את⟩ асои тиллоӣ дароз кард, ва Эстер хест ва пеши шоҳ истод.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "daroz кард"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ба Эстер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "асои тиллоӣ"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "асои"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "истод"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "шоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:44.062213389Z",
+  "model": "glm-5.3"
+}

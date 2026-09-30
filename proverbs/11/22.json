@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳалқаи тиллоӣ ба бинии хук — занеро ки зебост, вале аз тамиз баромадааст.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "ҳалқаи бинӣ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ба бинии"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "хук"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебо"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "вале баромадааст"
+    },
+    {
+      "surface": "טעм",
+      "gloss": "аз тамиз"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:05.746403730Z",
+  "model": "glm-5.3"
+}

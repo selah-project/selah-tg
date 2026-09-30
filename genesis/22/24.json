@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ва суррияи ӯ, ки номаш Реума буд, ҳам ӯ ⟨את⟩ Тебаҳ ва ⟨את⟩ Гаҳам ва ⟨את⟩ Таҳаш ва ⟨את⟩ Маахаро зоид.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Ва суррияи ӯ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "номаш"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Реума"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тебаҳ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Тебаҳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Гаҳам"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Гаҳам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Таҳаш"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Таҳаш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Мааха"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:29.616074923Z",
+  "model": "glm-5.3"
+}

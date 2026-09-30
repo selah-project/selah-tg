@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Дилатро ба роҳҳои ӯ макаш, дар пайраҳаҳои ӯ гум макун ⟨роҳатро⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ма-"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "каш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "роҳҳои ӯ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилатро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма-"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "гум макун"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "дар пайраҳаҳои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:24.734182940Z",
+  "model": "glm-5.3"
+}

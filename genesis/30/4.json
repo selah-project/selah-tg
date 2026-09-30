@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва ӯ ба ӯ ⟨את⟩ Билҳа канизи худро ба занӣ дод, ва Яъқов назди ӯ даромад.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ва дод"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билҳа"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билҳа"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "канизи худ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ва даромад"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "назди ӯ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    }
+  ],
+  "timestamp": "2026-09-30T15:21:17.455269972Z",
+  "model": "glm-5.3"
+}

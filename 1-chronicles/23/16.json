@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Фарзандони Гершом: Шевуэл, ⟨сарвар⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Шевуэл"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сарвар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:39.347069887Z",
+  "model": "glm-5.3"
+}

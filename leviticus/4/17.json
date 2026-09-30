@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва коҳен ангушташро дар хун молад ва ҳафт бор пеши Яҳве, бар ⟨את⟩ рӯи парохет, мепошад.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "молад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳен"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "ангушташро"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дар"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "мепошад"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "бор"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пеши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рӯи парохет"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "парохет"
+    }
+  ],
+  "timestamp": "2026-09-30T15:46:28.050169663Z",
+  "model": "glm-5.3"
+}

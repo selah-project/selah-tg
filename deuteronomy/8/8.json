@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Замини гандум ва ҷав, ток ва анҷир ва анор — замини зайтунi равған ва асал.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "гандум"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ва ҷав"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ва ток"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ва анҷир"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ва анор"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замини"
+    },
+    {
+      "surface": "זית",
+      "gloss": "зайтун"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ва асал"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:28.242130297Z",
+  "model": "glm-5.3"
+}

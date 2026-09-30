@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Оё ин назди Ман маҳфуз нест, дар хазинаҳои Ман муҳр шуда?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "оё... нест"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כמוס",
+      "gloss": "маҳфуз"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "назди Ман"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "муҳр шуда"
+    },
+    {
+      "surface": "באוצרותי",
+      "gloss": "дар хазинаҳои Ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:53.829254009Z",
+  "model": "glm-5.3"
+}

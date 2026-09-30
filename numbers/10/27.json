@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва бар сипоҳи шохаи банӣ Нафтали Аҳира бин Эйнан буд.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "сипоҳи"
+    },
+    {
+      "surface": "мטה",
+      "gloss": "шохаи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Аҳира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бин"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Эйнан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:39.254434320Z",
+  "model": "glm-5.3"
+}

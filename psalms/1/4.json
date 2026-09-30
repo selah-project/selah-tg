@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Не ҳамин тавр бадкорон, балки чун ҷурғот, ки бод онро мепартонад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "балки"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "чун ҷурғот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "онро мепартонад"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "бод"
+    }
+  ],
+  "timestamp": "2026-09-30T20:10:12.269670874Z",
+  "model": "glm-5.3"
+}

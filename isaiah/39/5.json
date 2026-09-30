@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва Яшайаҳу ба Ҳизқиё гуфт: Бишнав сухани Яҳве Тсевоот:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Яшайаҳу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ҳизқиё"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    }
+  ],
+  "timestamp": "2026-09-30T17:32:58.892161197Z",
+  "model": "glm-5.3"
+}

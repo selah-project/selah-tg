@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Гӯш кунед, э осмонҳо, ва ман гӯям; ва бишнавад замин суханони даҳони ман.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Гӯш кунед"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ва ман гӯям"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ва бишнавад"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "суханони"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони ман"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:48.752248184Z",
+  "model": "glm-5.3"
+}

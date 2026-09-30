@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва баъди ӯ Элъазар писари Додо Аҳоҳӣ буд — ӯ дар байни се ҷанговар буд.",
+  "tokens": [
+    {
+      "surface": "ו אחריו",
+      "gloss": "ва баъди ӯ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элъазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Аҳоҳӣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "дар байни се"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ҷанговар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:26.177657240Z",
+  "model": "glm-5.3"
+}

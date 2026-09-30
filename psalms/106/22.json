@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 106,
+  "translation": "муъҷизаҳо дар замини Хам, корҳои даҳшатнок бар рӯи Ям-Суф.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "муъҷизаҳо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "корҳои даҳшатнок"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар рӯи"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ям"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:58.665444703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 73,
+  "translation": "Ва ман ҳамеша бо Ту ҳастам; дасти рости маро гирифтаӣ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ҳамеша"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "бо Ту"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "гирифтаӣ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "роти ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:10.532366470Z",
+  "model": "glm-5.3"
+}

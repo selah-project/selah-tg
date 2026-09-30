@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ва Ӯғ, подшоҳи Ҳа-Бошон, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Ва Ӯғ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Ҳа-Бошон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:12.082302130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва писарони Элпаъл: Эвер ва Мишъам ва Шамед — ӯ ⟨את⟩ Оно ва ⟨את⟩ Лод ва деҳаҳои онҳоро бино кард.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаъл"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ва Мишъам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ва Шамед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оно"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Лод"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ва деҳаҳои онҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:28.297129542Z",
+  "model": "glm-5.3"
+}

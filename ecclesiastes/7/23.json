@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ин ҳамаро дар ҳикмат озмудам; гуфтам: «ҳаким мешавам» — вай дур аст аз ман.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳамаро"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "озмудам"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "дар ҳикмат"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "ҳаким мешавам"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "вай"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "дур"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:43.444078235Z",
+  "model": "glm-5.3"
+}

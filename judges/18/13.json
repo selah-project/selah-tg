@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва онҳо аз он ҷо ба кӯҳистони Эфройим гузаштанд ва ба хонаи Мика омаданд.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "гузаштанд"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аз он ҷо"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳистон"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфройим"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    }
+  ],
+  "timestamp": "2026-09-30T16:39:14.700605219Z",
+  "model": "glm-5.3"
+}

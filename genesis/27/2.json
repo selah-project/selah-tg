@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва гуфт: «Бин, ман пир шудам, рӯзи марги худро намедонам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бин"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ман пир шудам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "намедонам"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "марги маро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:50.806563339Z",
+  "model": "glm-5.3"
+}

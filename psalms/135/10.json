@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 135,
+  "translation": "Ки миллатҳои бисёрро зад ва подшоҳони қавиро кушт.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ки зад"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "миллатҳо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ва кушт"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "подшоҳон"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "қавӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:17.958873392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва агар дар он нуқсон бошад — шол ё кӯр, ҳар гуна нуқсони бад — онро ба Яҳве Элоҳими худ Qurбон накун.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "מום",
+      "gloss": "нуқсон"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "шол"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кӯр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар гуна"
+    },
+    {
+      "surface": "מום",
+      "gloss": "нуқсон"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "накун"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "онро забҳ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:45.968275458Z",
+  "model": "glm-5.3"
+}

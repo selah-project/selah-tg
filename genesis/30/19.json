@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Лия боз ҳомила шуд ва писари шашумро ба Яъқов зоид.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ҳомила шуд"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лия"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "шашум"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқов"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:59.224085949Z",
+  "model": "glm-5.3"
+}

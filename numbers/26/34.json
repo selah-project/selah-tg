@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Инҳо хонаводаҳои Менашеанд, ва шумораи онҳо панҷоҳу ду ҳазор ва ҳафтсад.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Инҳо"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "хонаводаҳои"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ו",
+      "gloss": "ва"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "шумораи онҳо"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ва панҷоҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ва ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:26.719800516Z",
+  "model": "glm-5.3"
+}

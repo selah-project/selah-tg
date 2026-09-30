@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Маслиҳати мискинро хор кардед, зеро Яҳве паноҳгоҳи ⟨ӯст⟩.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "маслиҳати"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мискин"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "хор кардед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "паноҳгоҳи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:26.124701946Z",
+  "model": "glm-5.3"
+}

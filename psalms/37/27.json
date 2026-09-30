@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Аз бадӣ рӯй гардон ва некӣ кун, ва то абад сокин бош.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "рӯй гардон"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "аз бадӣ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ва кун"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ва сокин бош"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:41.816183346Z",
+  "model": "glm-5.3"
+}

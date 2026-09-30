@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Аз пеши одами нодон рав, ки ⟨ту⟩ лабҳои донишро намешиносӣ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "аз пеши"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "одами"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ки ... на"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "намешиносӣ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "лабҳои"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "донишро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:59.095571006Z",
+  "model": "glm-5.3"
+}

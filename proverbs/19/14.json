@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Хона ва молу мулк мероси падарон аст, вале зани ақлнок аз Яҳве аст.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ва молу мулк"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мероси"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "падарон"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "вале аз Яҳве"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "ақлнок"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:44.733744942Z",
+  "model": "glm-5.3"
+}

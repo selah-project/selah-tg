@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва хест Моше ва Йеҳошуа хизматгораш, ва Моше ба кӯҳи Элоҳим баромад.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ва хест"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ва Йеҳошуа"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "хизматгораш"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ва баромад"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:03.368828299Z",
+  "model": "glm-5.3"
+}

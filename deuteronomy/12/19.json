@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Эҳтиёт шав, ки мардуми Лавиро тарк накунӣ ⟨את⟩ ҳамаи рӯзҳои худ бар замини худ.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "эҳтиёт шав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "худро"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "тарк накунӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мардуми Лавӣ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "мардуми Лавӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "рӯзҳои худ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "замини худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:20.798909964Z",
+  "model": "glm-5.3"
+}

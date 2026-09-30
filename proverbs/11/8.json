@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Содиқ аз мусибат раҳоӣ меёбад, ва рашӣ ба ҷои ӯ меояд.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "содиқ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "аз мусибат"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "раҳоӣ меёбад"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ва меояд"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "рашӣ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:19.175491140Z",
+  "model": "glm-5.3"
+}

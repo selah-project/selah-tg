@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва амаки Шаул гуфт: «Хабар деҳ, илтимос, ба ман, ки Шемуэл ба шумо чӣ гуфт?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "амаки"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "хабар деҳ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "илтимос"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба шумо"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:43:41.567714250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва дар Шушан-и қаср яҳудиён панҷсад мардро кушта нобуд кардан.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ва дар Шушан"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "қаср"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "куштан"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "яҳудиён"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ва нобуд кардан"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:13.767972005Z",
+  "model": "glm-5.3"
+}

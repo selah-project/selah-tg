@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва бигзор дар назди Элоҳим ва одамон эътибор ва ақли некӣ биёбӣ.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ва биёбӣ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "эътибор"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ва ақли"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ва одамон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:35.682940728Z",
+  "model": "glm-5.3"
+}

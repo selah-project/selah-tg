@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва ман ба онҳо ⟨את⟩ шамшер, ⟨את⟩ га",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ва ман мефиристам"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шамшер"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "шамшер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "га"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "га"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "вабо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "вабо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "тамом шудани онҳо"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "замини"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "додам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "ва ба падарони онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:09.983732926Z",
+  "model": "glm-5.3"
+}

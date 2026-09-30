@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ба сароянда. Мазмуре аз Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ба сароянда"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:49.871389961Z",
+  "model": "glm-5.3"
+}

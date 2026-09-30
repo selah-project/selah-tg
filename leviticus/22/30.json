@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Дар он рӯз худаш хӯрда шавад; аз он чизе боқӣ нагузоред то субҳ — Ман Яҳве.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дар он рӯз"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрда шавад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "боқӣ нагузоред"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аз он"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "субҳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:53.299458109Z",
+  "model": "glm-5.3"
+}

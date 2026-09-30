@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Хӯшаи кофар маҳбуби ман барои ман, дар боғҳои ангури Эйн-Гедӣ.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "хӯшаи"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "кофар"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "маҳбуби ман"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "дар боғҳои ангури"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эйн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гедӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.125741884Z",
+  "model": "glm-5.3"
+}

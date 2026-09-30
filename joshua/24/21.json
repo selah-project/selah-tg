@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва халқ ба Йеҳошуа гуфт: «Не; балки ⟨את⟩ Яҳве хизмат мекунем».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כי",
+      "gloss": "балки"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "хизмат мекунем"
+    }
+  ],
+  "timestamp": "2026-09-30T16:32:04.774329211Z",
+  "model": "glm-5.3"
+}

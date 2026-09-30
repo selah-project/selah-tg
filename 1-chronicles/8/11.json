@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва аз Ҳушим ⟨את⟩ Авитув ва ⟨את⟩ Элпаълро ба дунё овард.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ва аз Ҳушим"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ба дунё овард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авитув"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Авитув"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Элпаъл"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаъл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:28.296943471Z",
+  "model": "glm-5.3"
+}

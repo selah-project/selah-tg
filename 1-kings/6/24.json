@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 6:24",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва панҷ газ бол yakustom —correction follows in final —",
+  "tokens": [],
+  "timestamp": "2026-09-30T17:02:58.486474931Z",
+  "model": "glm-5.3"
+}

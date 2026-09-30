@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Бе шубҳа, инҳо Мишканҳои бадкор аст, ва ин ҷои он кие, ки Эл-ро намедонад.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бе шубҳа"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишканҳои"
+    },
+    {
+      "surface": "עול",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:20.430825124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 102,
+  "translation": "Ӯ қувватамро дар роҳ фишурд; рӯзҳоямро кӯтоҳ кард.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ӯ... фишурд"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "қувватамро"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "кӯтоҳ кард"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳоямро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:31.013193808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 51,
+  "translation": "Ба роҳбари сарояндагон. Мизмори Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба роҳбари сарояндагон"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:36.701402726Z",
+  "model": "glm-5.3"
+}

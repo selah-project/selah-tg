@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Фарзандони Мерарӣ: Маҳлӣ ва Мӯшӣ; фарзандони Маҳлӣ: Элъозар ва Қиш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарӣ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Маҳлӣ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ва Мӯшӣ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Маҳлӣ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элъозар"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ва Қиш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:57.036774734Z",
+  "model": "glm-5.3"
+}

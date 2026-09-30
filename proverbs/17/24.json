@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Дар ⟨את⟩ рӯи фаҳмо ҳикмат аст, вале чашмони нодон дар канори замин.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рӯи фаҳмо"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "фаҳмо"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "вале чашмони"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "дар канори"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:34.850642245Z",
+  "model": "glm-5.3"
+}

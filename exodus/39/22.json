@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва ӯ ⟨את⟩ ҷомаеи эфодро сохт — кори бофандагӣ, тамоман аз ткелет.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҷомаеи эфодро"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ҷома"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфод"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "бофандагӣ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "тамоман"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "аз ткелет"
+    }
+  ],
+  "timestamp": "2026-09-30T15:44:53.986618495Z",
+  "model": "glm-5.3"
+}

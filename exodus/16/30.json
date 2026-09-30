@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва халқ дар рӯзи ҳафтум истироҳат кард.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "истироҳат кард"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "бיום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ҳафтум"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:01.219559314Z",
+  "model": "glm-5.3"
+}

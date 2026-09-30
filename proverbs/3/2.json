@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Зеро дарозии рӯзҳо ва солҳои ҳаёт ва осоиштагӣ бароят меафзоянд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозии"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "ва солҳои"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ва осоиштагӣ"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "меафзоянд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бароят"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:35.682610002Z",
+  "model": "glm-5.3"
+}

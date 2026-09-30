@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ҳоло, ҳамаи ин корҳоро Эл мекунад, ду ва се бор бо ⟨the⟩ мард.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ҳоло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ин корҳоро"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "мекунад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ду ва се бор"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "се"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    }
+  ],
+  "timestamp": "2026-09-30T19:10:40.874006707Z",
+  "model": "glm-5.3"
+}

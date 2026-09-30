@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Бар ҳамин ногаҳон мусибаташ меояд, якбора мешиканад ва табобате нест",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ногаҳон"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "мусибаташ"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "якбора"
+    },
+    {
+      "surface": "ישбר",
+      "gloss": "мешиканад"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва ... нест"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "табобате"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:15.101922683Z",
+  "model": "glm-5.3"
+}

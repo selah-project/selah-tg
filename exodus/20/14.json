@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "«Зино накун».",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "зино накун"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:13.658954965Z",
+  "model": "glm-5.3"
+}

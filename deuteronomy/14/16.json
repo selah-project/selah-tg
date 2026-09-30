@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "⟨את⟩ кос, ва ⟨את⟩ яношуп ва ⟨את⟩ тиншемет;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кос"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кос (бӯҳум буҳумак)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "яношуп"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "яношуп (бӯҳум)"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ва тиншемет"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:51.583874025Z",
+  "model": "glm-5.3"
+}

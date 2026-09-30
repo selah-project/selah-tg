@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва Мешовав, ва Ямлех, ва Йошаҳоҳ писари Аматсйоҳо,",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "ва Мешовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ва Ямлех"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ва Йошаҳоҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Аматсйоҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:30.383534440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 99,
+  "translation": "Яҳве дар Тсийон бузург аст ва Ӯ бар ҳамаи халқҳо баланд.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "дар Тсийон"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "баланд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "халқҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:58.443810714Z",
+  "model": "glm-5.3"
+}

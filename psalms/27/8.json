@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ба Ту дилам гуфт: «Рӯйи маро биҷӯед»; ⟨את⟩ рӯйи Тувро, эй Яҳве, меҷӯям.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ба Ту"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дилам"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "биҷӯед"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯйи маро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рӯйи Тувро"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯйи Тувро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "эй Яҳве"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "меҷӯям"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:14.507818413Z",
+  "model": "glm-5.3"
+}

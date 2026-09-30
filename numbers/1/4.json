@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва ⟨את⟩ шумо марде аз ҳар қабила бо шумо бошад — ҳар мард сари хонаи падарони худ, ӯ.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "ва ⟨את⟩ шумо"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "аз ҳар"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "қабила"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ҳар мард"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "падарони худ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:37.398425593Z",
+  "model": "glm-5.3"
+}

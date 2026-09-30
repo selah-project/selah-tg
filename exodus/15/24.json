@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва қавм аз Моше шикоят карданд, гуфтанд: «Чӣ нӯшем?»",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "шикоят карданд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "қавм"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфтанд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "нӯшем"
+    }
+  ],
+  "timestamp": "2026-09-30T15:33:43.680610791Z",
+  "model": "glm-5.3"
+}

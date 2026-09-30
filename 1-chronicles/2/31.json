@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Аппайим: Йишиӣ; ва писарони Йишиӣ: Шешан; ва писарони Шешан: Аҳлай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Аппайим"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йишиӣ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йишиӣ"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Аҳлай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:46.715508106Z",
+  "model": "glm-5.3"
+}

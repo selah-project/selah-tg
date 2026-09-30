@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва ду дарвоза барои ⟨ҳейхал⟩ ва барои ⟨қодеш⟩ ⟨буд⟩.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "ва ду"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "дарвоза"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "барои ҳейхал"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "ва барои қодеш"
+    }
+  ],
+  "timestamp": "2026-09-30T20:08:28.044597835Z",
+  "model": "glm-5.3"
+}

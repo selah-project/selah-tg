@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ман дидам, ки барои ҳикмат аз нодонӣ бартарӣст, чунон ки бартарии рӯшноӣ аз торикӣ.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ва ман дидам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "ки ҳаст"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "бартарӣ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "барои ҳикмат"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "нодонӣ"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "чунон ки бартарӣ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "рӯшноӣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "торикӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:23.278850338Z",
+  "model": "glm-5.3"
+}

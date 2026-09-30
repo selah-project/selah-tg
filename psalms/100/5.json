@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 100,
+  "translation": "Зеро ки некӯст Яҳве; то абад ҳеседи Ӯ ва то насл аз байни наслҳо имони Ӯ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва то"
+    },
+    {
+      "surface": "דר",
+      "gloss": "насл"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "аз байни наслҳо"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "имони Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:22.382031685Z",
+  "model": "glm-5.3"
+}

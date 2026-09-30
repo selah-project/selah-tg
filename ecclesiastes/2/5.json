@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Барои худ боғҳо ва пардесҳо сохтам, ва дар онҳо дарахтони ҳар навъи мева шинондам.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "сохтам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "боғҳо"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ва пардесҳо"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ва шинондам"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "дар онҳо"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарахтони"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар навъи"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "мева"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:09.394203985Z",
+  "model": "glm-5.3"
+}

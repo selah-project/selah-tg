@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Меваи одил дарахти ҳаёт аст, ва гирифтани нафсҳо амри донишманд аст.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "Меваи"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарахти"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ва гирифтани"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "нафсҳо"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "донишманд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:35.024618697Z",
+  "model": "glm-5.3"
+}

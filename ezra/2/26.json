@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Ҳа-Рама ва Гава — шашсад ва бисту як тан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ҳа-Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ва Гава"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "у як"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:50.518420418Z",
+  "model": "glm-5.3"
+}

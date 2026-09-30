@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше ва Элъозар коҳин тиллоро аз ⟨את⟩ онҳо гирифтанд — ҳар асбоби корӣ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ва гирифтанд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ва Элъозар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тилло"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "аз ⟨את⟩ онҳо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "асбоби"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "корӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:55.290199673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва мурд Шаул ва се писаронаш, ва тамоми хонаи ӯ якҷо мурданд.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ва мурд"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ва се"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "писаронаш"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва тамоми"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи ӯ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "якҷо"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мурданд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:50.610946353Z",
+  "model": "glm-5.3"
+}

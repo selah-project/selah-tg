@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Биёз, ки мард ба хирси бачаандохта дучор ояд, на ба нодон дар нодонии ӯ.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "дучор ояд"
+    },
+    {
+      "surface": "דב",
+      "gloss": "хирс"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "бачаандохта"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "дар нодонии ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:18.437193104Z",
+  "model": "glm-5.3"
+}

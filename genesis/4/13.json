@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Қайин ба Яҳве гуфт: аз бардоштан гуноҳи ман бузург аст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қайин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "гуноҳи ман"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "аз бардоштан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:11:35.807038466Z",
+  "model": "glm-5.3"
+}

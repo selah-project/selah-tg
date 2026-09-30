@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Зеро ҳамаи рӯзҳои ӯ дардҳоянд ва ошуфтагии машғулияташ; ҳам дар шаб дилаш ором нагирифт — ҳам ин ҳебел аст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "рӯзҳои ӯ"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "дардҳоянд"
+    },
+    {
+      "surface": "וכעс",
+      "gloss": "ва ошуфтагии"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "машғулияташ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "дар шаб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ором нагирифт"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "дилаш"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аst"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:58.600190899Z",
+  "model": "glm-5.3"
+}

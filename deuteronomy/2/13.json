@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Акнун хезед ва гузаред барои худ ⟨את⟩ дарёчаи Зеред, ва мо гузаштем ⟨את⟩ дарёчаи Зеред.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "акнун"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "хезед"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ва гузаред"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дарёчаи Зеред"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "дарёча"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ва мо гузаштем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дарёчаи Зеред"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "дарёча"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:16.268087356Z",
+  "model": "glm-5.3"
+}

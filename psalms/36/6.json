@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Яҳве, дар осмонҳо ⟨аст⟩ ҳеседи Ту, имоният То то абрҳо мерасад.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "дар осмонҳо"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ҳеседи Ту"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "имоният"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "абрҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:59.703397448Z",
+  "model": "glm-5.3"
+}

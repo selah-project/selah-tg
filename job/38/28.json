@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Оё борон падар дорад? Ё кӣ қатраҳои шабнамро зоиш кардааст?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Оё ҳаст"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "барои борон"
+    },
+    {
+      "surface": "אב",
+      "gloss": "падар"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоиш кардааст"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "қатраҳои"
+    },
+    {
+      "surface": "טל",
+      "gloss": "шабнам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:12:11.893727030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Чӣ тавр ночорон партофта шудааст шаҳри таърифӣ, шаҳри шодии ман!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "чӣ тавр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нечорон"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "партофта шудааст"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "таърифӣ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "шаҳри"
+    },
+    {
+      "surface": "мשושי",
+      "gloss": "шодии ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:57:52.736217469Z",
+  "model": "glm-5.3"
+}

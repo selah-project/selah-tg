@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Он гоҳ роҳи худро бо осудагӣ мепойӣ ва пои ту налағжад.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Он гоҳ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "мепойӣ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "бо осудагӣ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "роҳи худро"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ва пои ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "лағжад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:03.393905647Z",
+  "model": "glm-5.3"
+}

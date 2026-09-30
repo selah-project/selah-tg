@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "ва Элишама, ва Элйада, ва Элифелет — нуҳ тан.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ва Элишама"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ва Элйада"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ва Элифелет"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "нуҳ тан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:06.680707322Z",
+  "model": "glm-5.3"
+}

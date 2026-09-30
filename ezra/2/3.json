@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Парош — ду ҳазор сад ва ҳафтоду ду нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ду ҳазор"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ҳафтод"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ва ду нафар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:28:05.370111870Z",
+  "model": "glm-5.3"
+}

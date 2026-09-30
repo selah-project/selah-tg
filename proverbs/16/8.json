@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Кам бо тседек беҳтар аст, нисбат ба фаровонии ҳосилҳо бе доварӣ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "кам"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "бо тседек"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "нисбат ба фаровонии"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ҳосилҳо"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "бе"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:33.410619805Z",
+  "model": "glm-5.3"
+}

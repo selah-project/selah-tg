@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "ва Элиъенай, ва Тсиллетай, ва Элиэл.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "ва Элиъенай"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "ва Тсиллетай"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ва Элиэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.491644305Z",
+  "model": "glm-5.3"
+}

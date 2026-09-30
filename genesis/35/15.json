@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва Яъқоб номи ҷое ки Элоҳим ⟨את⟩ ӯ бо ӯ он ҷо сухан гуфта буд, Байт-Эл номид.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ҷо"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ҷои"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан гуфта буд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ бо ӯ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:28.918016738Z",
+  "model": "glm-5.3"
+}

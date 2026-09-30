@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Эй фарзи одам, рӯй ба кӯҳи Сеир гардон ва бар зидди он набӣ кун.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "фарзи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "שים",
+      "gloss": "гардон"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "рӯйи туро"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ва набӣ кун"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар зидди он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:08.439673320Z",
+  "model": "glm-5.3"
+}

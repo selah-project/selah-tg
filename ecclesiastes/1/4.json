@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Насле меравад ва насле меояд, ва замин то абад меистад.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Насле"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "меравад"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ва насле"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ва замин"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "меистад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:42.790429927Z",
+  "model": "glm-5.3"
+}

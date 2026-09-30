@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва мо дар водии ҳамвори Байт-Пеъор нишаста будем.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "Ва мо нишаста будем"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "дар водӣ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ҳамвори"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеъор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:28.179764769Z",
+  "model": "glm-5.3"
+}

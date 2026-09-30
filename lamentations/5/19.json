@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ту, эй Яҳве, барои абад меншинӣ, тахти Таво то насле-наслост.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": " барои абад"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "меншинӣ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "тахти Таво"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "то насле"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "-наслост"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:48.397659894Z",
+  "model": "glm-5.3"
+}

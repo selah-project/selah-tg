@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 56,
+  "translation": "Рӯзе ки битарсам, ман ба Ту такя мекунам.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Рӯзе ки"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "битарсам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба Ту"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "такя мекунам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:40:27.865747206Z",
+  "model": "glm-5.3"
+}

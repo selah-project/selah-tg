@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Чун девонае ки оташфишонҳо, тирҳо ва маргоро мепартояд.",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "чун девонае"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "мепартояд"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "оташфишонҳо"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "тирҳо"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "ва марго"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:08.441805293Z",
+  "model": "glm-5.3"
+}

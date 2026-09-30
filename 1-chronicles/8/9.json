@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва аз Ҳудеш, занаш, волод кард ⟨את⟩ Йовав ва ⟨את⟩ Тсивъо ва ⟨את⟩ Мейшо ва ⟨את⟩ Малкомро.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "волод кард"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Ҳудеш"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "занаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йовав"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Тсивъо"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Тсивъо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Мейшо"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Мейшо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Малком"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Малком"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:28.296522368Z",
+  "model": "glm-5.3"
+}

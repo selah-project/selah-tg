@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Дар ҳама вақт либосҳоят сафед бошанд ва равғане сари туро набояд кам шавад.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳама"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақт"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "бошанд"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "либосҳоят"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "сафед"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ва равғане"
+    },
+    {
+      "surface": "על",
+      "gloss": "сар"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "сари туро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "набояд"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "кам шавад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:19.097918486Z",
+  "model": "glm-5.3"
+}

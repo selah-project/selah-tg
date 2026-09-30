@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Дар рӯзи некӣ нек бош ва дар рӯзи бадӣ бин; ҳам ⟨את⟩ инро ба рӯбарӯи ин Элоҳим кардааст, то ки одам баъди ӯ ҳеҷ чиз наёбад.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Дар рӯзи"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "некӣ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бош"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бин"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "инро"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ба рӯбарӯи"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кардааст"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "על",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "барои он ки"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "наёбад"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "баъди ӯ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ҳеҷ чиз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:48.287046939Z",
+  "model": "glm-5.3"
+}

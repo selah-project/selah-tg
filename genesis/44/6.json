@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Ва онҳоро расид ва ба онҳо ⟨את⟩ ин суханҳоро гуфт.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Ва онҳоро расид"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ба онҳо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин суханҳоро"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ин суханҳоро"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:00.651264182Z",
+  "model": "glm-5.3"
+}

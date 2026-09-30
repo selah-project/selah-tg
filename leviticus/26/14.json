@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва агар ба Ман гӯш нанакунед ва ⟨את⟩ ҳамаи ин фарзҳоро иҷро накунед:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ва агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "гӯш накунед"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба Ман"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва накунед"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "иҷро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи ин фарзҳо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ин фарзҳо"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:05.928039593Z",
+  "model": "glm-5.3"
+}

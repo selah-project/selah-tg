@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Як кафаки тиллоии даҳ шекел, пури қторат.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кафаки"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тиллоӣ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пури"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "қторат"
+    }
+  ],
+  "timestamp": "2026-09-30T16:00:27.727708199Z",
+  "model": "glm-5.3"
+}

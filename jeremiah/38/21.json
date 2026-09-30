@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва агар ту аз берун баромадан даст кашӣ, ин сухаме аст, ки Яҳве ба ман нишон дод:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "даст кашӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "аз берун баромадан"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ба ман нишон дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:54:27.506118917Z",
+  "model": "glm-5.3"
+}

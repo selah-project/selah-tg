@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Яҳве гуфт: оё пӯшам аз Авраҳам ⟨את⟩ он чи ман мекунам?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ва Яҳве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "оё пӯшам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "аз Авраҳам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "мекунам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:13.411191443Z",
+  "model": "glm-5.3"
+}

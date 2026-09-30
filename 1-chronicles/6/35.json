@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва инҳо банёни Аҳаронанд: Элъазар писараш, Пинҳас писараш, Авишуа писараш.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ва инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банёни"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элъазар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинҳас"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:12.025988414Z",
+  "model": "glm-5.3"
+}

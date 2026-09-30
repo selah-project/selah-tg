@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Номи нек аз равғани хуб беҳтар ⟨аст⟩, ва рӯзи марг аз рӯзи таваллуди ӯ беҳтар ⟨аст⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "аз равған"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ва рӯзи"
+    },
+    {
+      "surface": "המות",
+      "gloss": "марг"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "аз рӯзи"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "таваллуди ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:56.180405715Z",
+  "model": "glm-5.3"
+}

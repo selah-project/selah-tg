@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва шумо ба ман ҷавоб додед ва гуфтед: хуб аст он кор, ки ту барои кардан гуфтӣ.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ва шумо ҷавоб додед"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ба ман"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ва гуфтед"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "он кор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ту гуфтӣ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "барои кардан"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:57.873653873Z",
+  "model": "glm-5.3"
+}

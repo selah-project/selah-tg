@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 50,
+  "translation": "Агар гурусна шавам, ба ту намегӯям, зеро аз они Ман аст замин ва пуркунии он.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "гурусна шавам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯям"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לי",
+      "gloss": "аз они Ман аст"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ва пуркунии он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:56.396126694Z",
+  "model": "glm-5.3"
+}

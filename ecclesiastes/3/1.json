@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бар ҳама — замон, ва вақте бар ҳама хоҳиш таҳти ⟨осмонҳо⟩.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "бар ҳама"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "замон"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақте"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бар ҳама"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хоҳиш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "таҳти"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.994733658Z",
+  "model": "glm-5.3"
+}

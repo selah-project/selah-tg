@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва замин дар ҳафт соли серӣ ба дастпур мева овард.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "ва овард"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": " дар ҳафт"
+    },
+    {
+      "surface": "שני",
+      "gloss": "сол"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "серии"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "ба дастпур"
+    }
+  ],
+  "timestamp": "2026-09-30T15:26:30.103960685Z",
+  "model": "glm-5.3"
+}

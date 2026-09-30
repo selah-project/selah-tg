@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Писарони Тсофах: Суах ва Ҳарнефер ва Шуал ва Берӣ ва Имро.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Тсофах"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "Суах"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "ва Ҳарнефер"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "ва Шуал"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "ва Берӣ"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "ва Имро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:16.053719276Z",
+  "model": "glm-5.3"
+}

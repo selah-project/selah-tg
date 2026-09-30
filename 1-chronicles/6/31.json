@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Писари Амитсӣ, писари Бонӣ, писари Шомер.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "Амитсӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бонӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шомер"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.006846878Z",
+  "model": "glm-5.3"
+}

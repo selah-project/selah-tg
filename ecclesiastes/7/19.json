@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ҳикмат ба донишманд қувват медиҳад, бештар аз даҳ ҳокиме ки дар шаҳр буданд.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "қувват медиҳад"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ба донишманд"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "бештар аз даҳ"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ҳокимон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היו",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "дар шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:56.716600927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 145,
+  "translation": "Неъмати Яҳве бар ҳамаест, ва раҳматҳои Ӯ бар ҳамаи корҳояст.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "неъмат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бар ҳама"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ва раҳматҳои Ӯ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "корҳояш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:17.443188324Z",
+  "model": "glm-5.3"
+}

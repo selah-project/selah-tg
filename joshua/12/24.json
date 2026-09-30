@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "подшоҳи Тиртса, як; ҳамаи подшоҳон — си ёку як.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тиртса"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "подшоҳон"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "си"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ёку як"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:25.894856405Z",
+  "model": "glm-5.3"
+}

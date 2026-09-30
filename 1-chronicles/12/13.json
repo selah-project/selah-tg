@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Йӯҳонон ҳаштум, Элзобод нӯҳум.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Йӯҳонон"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Элзобод"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "нӯҳум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:34.388981378Z",
+  "model": "glm-5.3"
+}

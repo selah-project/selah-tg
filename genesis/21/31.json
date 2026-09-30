@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Аз ин рӯ он ҷоро Беэр-Шева номиданд, зеро он ҷо ҳар ду савганд ёд карданд.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин рӯ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "номиданд"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "он ҷоро"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "савганд ёд карданд"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ҳар ду"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:24.585097570Z",
+  "model": "glm-5.3"
+}

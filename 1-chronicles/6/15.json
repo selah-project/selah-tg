@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Шимъа писари ӯ, Ҳаггия писари ӯ, Асая писари ӯ.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шимъа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Ҳаггия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асая"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.582341691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва ба Микал, духтари Шаул, то рӯзи марги ӯ фарзанде набуд.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ва ба Микал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "לה",
+      "gloss": "барояш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "фарзанде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "марги ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:53:05.190118106Z",
+  "model": "glm-5.3"
+}

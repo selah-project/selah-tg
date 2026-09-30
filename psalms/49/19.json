@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 49,
+  "translation": "Дар ҳаёташ нафсашро баракат медиҳад, ва туро мепарастанд, ки ба худат некӣ мекунӣ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "дар"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "нафсаш"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "дар ҳаёташ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "бarakat медиҳад"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ва turо мепарастанд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "некӣ мекунӣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба худат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:12.467344990Z",
+  "model": "glm-5.3"
+}

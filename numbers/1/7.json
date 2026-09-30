@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Барои Йеҳуда — Наҳшон, писари Амминадав.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Барои Йеҳуда"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Наҳшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадав"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:23.449155588Z",
+  "model": "glm-5.3"
+}

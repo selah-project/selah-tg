@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Зеро аз садои Яҳве Ашшур хоҳад шикаст — бо асо мезанад ⟨Ӯ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "аз садои"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "хоҳад шикаст"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "бо асо"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "мезанад"
+    }
+  ],
+  "timestamp": "2026-09-30T17:31:01.811778237Z",
+  "model": "glm-5.3"
+}

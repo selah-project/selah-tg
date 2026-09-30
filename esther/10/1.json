@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва подшоҳ Аҳашверош андоз бар замин ва бар ҷазираҳои баҳр гузошт.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Аҳашверош"
+    },
+    {
+      "surface": "מס",
+      "gloss": "андоз"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "וְאיי",
+      "gloss": "ва ҷазираҳои"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:21:21.448228912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Оё Элоҳими наздик Ман ҳастам, мегӯяд Яҳве, ва на Элоҳими дур?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "наздик"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "дур"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:13.894797778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 60,
+  "translation": "Ту ба мардумат чизи сахт нишон додӣ, моро шароби mast-shareдагӣ нӯшонидӣ.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Ту нишон додӣ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ба мардумат"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "чизи сахт"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "моро нӯшонидӣ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шароби"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "mast-shareдагӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:24.248888609Z",
+  "model": "glm-5.3"
+}

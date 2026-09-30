@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва Авраҳом ба ӯ гуфт: эҳтиёт шав, магар ки писарамро ба он ҷо баргардонӣ!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "эҳтиёт шав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "худро"
+    },
+    {
+      "surface": "פן",
+      "gloss": "магар ки"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "баргардонӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "писарамро"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарам"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ба он ҷо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:14.209833452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва ҳанӯз каме, ва ростӣ — бадкор нест; ва ба ҷойи ӯ нигарӣ, ва ӯ нест.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ва ҳанӯз"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "каме"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва … нест"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ва нигарӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ҷойи ӯ"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ва ӯ нест"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:44.890126776Z",
+  "model": "glm-5.3"
+}

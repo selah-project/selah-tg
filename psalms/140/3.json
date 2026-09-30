@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 140,
+  "translation": "Ки онҳо дар дил бадиҳоро меандешанд, ҳар рӯз ҷангҳоро меангезанд.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ки"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "меандешанд"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "бадиҳоро"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "дар дил"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "меангезанд"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ҷангҳоро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:30.608541736Z",
+  "model": "glm-5.3"
+}

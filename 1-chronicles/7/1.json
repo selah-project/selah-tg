@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва писарони Йиссошхар: Толъо ва Пуо, Йошув ва Шимрон — чаҳорто",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йиссошхар"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Толъо"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "ва Пуо"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "Йошув"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ва Шимрон"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чаҳорто"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:45.376847460Z",
+  "model": "glm-5.3"
+}

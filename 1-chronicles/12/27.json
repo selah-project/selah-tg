@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз фарзандони Лейвӣ — чор ҳазор ва шашсад нафар.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Лейвӣ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "чор"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ва шаш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:17.598072404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Рӯзҳои бисёр Яҳушуа бо ҳамаи ин подшоҳон ҷанг кард ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кард"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яҳушуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи ин подшоҳон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "подшоҳон"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:21.669358363Z",
+  "model": "glm-5.3"
+}

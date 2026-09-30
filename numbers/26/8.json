@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва писарони Фаллу: Элиав.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Фаллу"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:36.678406695Z",
+  "model": "glm-5.3"
+}

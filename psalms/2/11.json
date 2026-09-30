@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ба Яҳве ⟨את⟩ бо тарс хизмат кунед ва бо ларзиш шодӣ кунед.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "хизмат кунед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "бо тарс"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ва шодӣ кунед"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "бо ларзиш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:24.611842164Z",
+  "model": "glm-5.3"
+}

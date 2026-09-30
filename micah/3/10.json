@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Сиёнро бо хунҳо месозед ва Ерушалаймро бо зулм.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "месозед"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сиён"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "бо хунҳо"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ва Ерушалайм"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "бо зулм"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:34.587249362Z",
+  "model": "glm-5.3"
+}

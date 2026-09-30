@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Бадро аз пеши подшоҳ дур кун, ва тахти ӯ дар тседек устувор хоҳад шуд.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "дур кун"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бадро"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "аз пешй"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "устувор хоҳад шуд"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "дар тседек"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "тахти ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:04.387393276Z",
+  "model": "glm-5.3"
+}

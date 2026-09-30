@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Бигвай — ду ҳазор шасту ҳафт нафар.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвай"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ду ҳазор"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шаст"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ва ҳафт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:33.832946644Z",
+  "model": "glm-5.3"
+}

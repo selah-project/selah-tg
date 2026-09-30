@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва тамоми маҷмаи мардум гуфт, ки он тавр кунанд, зеро ин кор дар назари тамоми халқ рост буд.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ва гуфтанд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "маҷмаи"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кунанд"
+    },
+    {
+      "surface": "כן",
+      "gloss": "он тавр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "рост"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ин кор"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:51.738735544Z",
+  "model": "glm-5.3"
+}

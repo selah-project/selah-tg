@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Бо ҳасид ҳесед меkунӣ, бо қавии беайб беайб мебошӣ.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ҳасид"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ҳесед мекунӣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "қавӣ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "беайб мебошӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:19.266350497Z",
+  "model": "glm-5.3"
+}

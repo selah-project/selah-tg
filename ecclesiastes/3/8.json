@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вақти дӯст доштан ва вақти нафрат доштан; вақти ҷанг ва вақти осоиштагӣ.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "дӯст доштан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "нафрат доштан"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "осоиштагӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:35.698454689Z",
+  "model": "glm-5.3"
+}

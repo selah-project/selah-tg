@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Рӯзи дуюм Нетанел, писари Тсуар, сардори Йиссоxор, қурбон овард.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "қурбон овард"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Тсуар"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йиссоxор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:30.570862349Z",
+  "model": "glm-5.3"
+}

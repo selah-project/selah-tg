@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Qasam khurdaast Yaҳve Tsevoot, farmud: hatmon, hamon tarze ki man tasavvur kardam, hamin shud; va hamon tarze ki man maslahat kardam, on khohad istod.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "qasam khurdaast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yaҳve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevoot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "farmud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hatmon (im)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hatmon (lo)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hamon tarze ki"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "tasavvur kardam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hamin tarh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "shud"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "va hamon tarze ki"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "maslahat kardam"
+    },
+    {
+      "surface": "היא",
+      "gloss": "on"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "khohad istod"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:12.541511116Z",
+  "model": "glm-5.3"
+}

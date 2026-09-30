@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Оё марҳам дар Гилъод нест? Оё табиб он ҷо нест? Чаро шифои духтари халқи ман баромада нест?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "марҳам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "дар Гилъод"
+    },
+    {
+      "surface": "אם",
+      "gloss": "оё"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "табиб"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "баромада"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "шифои"
+    },
+    {
+      "surface": "בת",
+      "gloss": "духтари"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халқи ман"
+    }
+  ],
+  "timestamp": "2026-09-30T17:43:32.900740945Z",
+  "model": "glm-5.3"
+}

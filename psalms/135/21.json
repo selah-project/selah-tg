@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 135,
+  "translation": "Муборак бод Яҳве аз Тсиён, сокини Ерушалайм. Ҳаллелу Яҳ!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Муборак бод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "аз Тсиён"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "сокини"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Ҳаллелу"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:59.055536721Z",
+  "model": "glm-5.3"
+}

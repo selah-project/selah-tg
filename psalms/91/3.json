@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 91,
+  "translation": "Зеро ки Ҳай нангзорад туро аз тӯри шикорчӣ, аз вабоиҳолат.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро ки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ (Ҳай)"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "нангзорад туро"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "аз тӯри"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "шикорчӣ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "аз вабои"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ҳолат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:05.148353259Z",
+  "model": "glm-5.3"
+}

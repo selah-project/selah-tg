@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Фарзандони Лод, Ҳадид ва Оно, ҳафтсад бисту панҷ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Ҳадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ва Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ву панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:27:49.804200442Z",
+  "model": "glm-5.3"
+}

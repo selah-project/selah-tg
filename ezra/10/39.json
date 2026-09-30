@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва Шелемяҳ, ва Нотон, ва Адаяҳ,",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ва Шелемяҳ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ва Нотон"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "ва Адаяҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:29:48.139259754Z",
+  "model": "glm-5.3"
+}

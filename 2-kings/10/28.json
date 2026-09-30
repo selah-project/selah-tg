@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Йеҳу ⟨את⟩ Баълро аз Йисроэл нобуд кард.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "нобуд кард"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йеҳу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баълро"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баъл"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "аз Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:14:50.503939241Z",
+  "model": "glm-5.3"
+}

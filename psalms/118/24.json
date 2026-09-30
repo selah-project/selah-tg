@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Ин рӯзеро Яҳве сохт; биёед хурсанд шавем ва дар он шодмон бошем.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯзеро"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "хурсанд шавем"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ва шодмон бошем"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:53.127724880Z",
+  "model": "glm-5.3"
+}

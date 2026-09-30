@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Газзам, фарзандони Узза, фарзандони Пасеах.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газзам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеах"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:33.664599012Z",
+  "model": "glm-5.3"
+}

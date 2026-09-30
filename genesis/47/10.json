@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Ва Яъқов Паръоро баракат дод ва аз назди ⟨את⟩ Паръо берун омад.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ва баракат дод"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паръоро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ва берун омад"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "аз назди"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:28:01.793457173Z",
+  "model": "glm-5.3"
+}

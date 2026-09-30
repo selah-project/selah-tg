@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва Йеҳошуъа ⟨את⟩ Айро сӯзонид ва онро теппаи абадӣ, виронзори то имрӯз, гардонид.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "Ва…сӯзонид"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуъа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Айро"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ай"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "гардонид"
+    },
+    {
+      "surface": "תל",
+      "gloss": "теппа"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абадӣ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "виронзор"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:26:01.641184500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Ва Яъқоб чун онҳоро дид, гуфт: ин лагери Элоҳим аст; ва номи он ҷойро Маха́наим гузошт.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чун"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "онҳоро дид"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагер"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ном"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "он ҷой"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Маҳанаим"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:47.781291948Z",
+  "model": "glm-5.3"
+}

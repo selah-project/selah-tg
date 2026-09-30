@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва ҳар ҷоне, ки дар айни ҳамин рӯз ягон кор кунад, он ҷонро Ман аз миёни қавми худ нобуд хоҳам кард.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ҷоне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кунад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ягон"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "кор"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "дар айни"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "нобуд хоҳам кард Ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он ҷонро"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ҷон"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "аз миёни"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "қавми худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:36.194069672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Беҳтар аст охири сухан аз аввали он; беҳтар аст дарозии руах аз баландии руах.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар аст"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "охири"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "аз аввали он"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "беҳтар аст"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозии"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "аз баландии"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:35.695817518Z",
+  "model": "glm-5.3"
+}

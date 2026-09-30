@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва дар рӯзи ҳафтум ҳафт гов, ду қӯчқор, чордаҳ гӯсфанди яксола, беайб:",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ва дар рӯзи"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "гов"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "בני",
+      "gloss": " фарзандони"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "як сол"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "чор"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "беайб"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:02.689701851Z",
+  "model": "glm-5.3"
+}

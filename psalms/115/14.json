@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 115,
+  "translation": "Яҳве бар шумо, бар шумо ва бар фарзандонатон афзояд.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "афзояд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "бар шумо"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "бар шумо"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "фарзандонатон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:29.940814830Z",
+  "model": "glm-5.3"
+}

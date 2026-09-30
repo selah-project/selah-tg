@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Бнаяҳуи Пиръатонӣ; Ҳиддай аз наҳалҳои Гаъаш,",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "Бнаяҳу"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "Пиръатонӣ"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "Ҳиддай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "аз наҳалҳои"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гаъаш"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:16.670685396Z",
+  "model": "glm-5.3"
+}

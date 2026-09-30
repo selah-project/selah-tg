@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва бар он равған рез ва бар он ливона гузор — минҳа аст ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ва рез"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ва гузор"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ливона"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минҳа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:45:36.269135816Z",
+  "model": "glm-5.3"
+}

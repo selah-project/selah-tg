@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 45,
+  "translation": "Воқеан Ту Эли пинҳонӣ ҳастӣ, Элоҳими Йисроэл, Наҷотдиҳанда!",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Воқеан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "пинҳонӣ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Наҷотдиҳанда"
+    }
+  ],
+  "timestamp": "2026-09-30T17:35:20.468548323Z",
+  "model": "glm-5.3"
+}

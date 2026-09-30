@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Беайб бо Яҳве Элоҳими худ мебошӣ.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "мешавӣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:59.992252774Z",
+  "model": "glm-5.3"
+}

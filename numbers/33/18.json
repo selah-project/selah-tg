@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Ҳатсерот кӯчиданд ва дар Ритма лагер заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "кӯчиданд"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "аз Ҳатсерот"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер заданд"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "дар Ритма"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:07.256528263Z",
+  "model": "glm-5.3"
+}

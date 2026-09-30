@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ҳам ӯ дар роҳҳои хонаи Аҳаб гардид, зеро модараш машваратдиҳандаи ӯ барои бадкорӣ буд.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "гардид"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "дар роҳҳои"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Аҳаб"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "модараш"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "машваратдиҳандаи ӯ"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "барои бадкорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:50:17.442404663Z",
+  "model": "glm-5.3"
+}

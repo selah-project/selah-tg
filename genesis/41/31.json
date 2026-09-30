@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "ва фаровонӣ дар замин маълум нахоҳад буд, аз рӯи он гарази баъдӣ, зеро он бисёр вазнин аст.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "маълум нахоҳад буд"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "фаровонӣ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "гараз"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "баъдӣ"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "вазнин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:45.962746265Z",
+  "model": "glm-5.3"
+}

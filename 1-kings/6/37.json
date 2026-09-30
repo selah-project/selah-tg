@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Дар соли чорум бунёди хонаи Яҳве гузошта шуд, дар моҳи Зив.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "дар соли"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "чорум"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "гузошта шуд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "дар моҳи"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Зив"
+    }
+  ],
+  "timestamp": "2026-09-30T17:02:51.944276317Z",
+  "model": "glm-5.3"
+}

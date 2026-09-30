@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "ва Довуд субҳ бархост, ва калимаи Яҳве ба Гад набӣ, биниши Довуд расид, бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "бархост"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "субҳ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ва калимаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "биниш"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:37.257127034Z",
+  "model": "glm-5.3"
+}

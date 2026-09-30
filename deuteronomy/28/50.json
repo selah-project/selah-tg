@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Миллате сахтчашм, ки рӯйи пирро намепардозад ва ба ҷавон раҳм намекунад.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "миллате"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сахт"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "мебардорад"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "пирро"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ва ҷавонро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "раҳм мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:21:37.205886376Z",
+  "model": "glm-5.3"
+}

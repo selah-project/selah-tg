@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва Барехя ва Элқана дарбонҳои сандуқ буданд.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "ва Барехя"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "ва Элқана"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "дарбонҳо"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "сандуқ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:30.641104235Z",
+  "model": "glm-5.3"
+}

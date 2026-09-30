@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Паҳлавон ва марди ҷанг, довар ва набӣ, ва кушшодгар ва пирро —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "паҳлавон"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ва марди"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "довар"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ва набӣ"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ва кушшодгар"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ва пир"
+    }
+  ],
+  "timestamp": "2026-09-30T17:22:28.980972815Z",
+  "model": "glm-5.3"
+}

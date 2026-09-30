@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 23:19",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Бани Хеброн: Йерияҳу сарвар, Амаряҳ дуюм, Яҳазиэл сеюм ва Йикамъам чорум.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеброн"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "Йерияҳу"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амаряҳ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Яҳазиэл"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "сеюм"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "ва Йикамъам"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "чорум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:43.457594129Z",
+  "model": "glm-5.3"
+}

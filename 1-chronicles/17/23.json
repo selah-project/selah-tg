@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 17:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва ҳоло, эй Яҳве, сухане ки ба бандаат ва ба хонаи ӯ гуфтӣ, то абад собит бод, ва кун чунон ки гуфтӣ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва ҳоло"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "гуфтӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "бандаат"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи ӯ"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "собит бод"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ва кун"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "чунон ки"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "гуфтӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:43.205892406Z",
+  "model": "glm-5.3"
+}

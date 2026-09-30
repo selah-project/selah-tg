@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва Ада барои Эсав ⟨את⟩ Элифоз зойд, ва Босмат ⟨את⟩ Реуэл зойд.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ва зойд"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "барои Эсав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элифоз"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифоз"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ва Босмат"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "зойд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реуэл"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэл"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:19.713032553Z",
+  "model": "glm-5.3"
+}

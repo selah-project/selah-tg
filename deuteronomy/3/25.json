@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бигузар, лутфан, ва бинам ⟨את⟩ замини некӯеро, ки дар он тарафи Ярдун аст, ин кӯҳи некӯ ва Лубнон.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "бигузар"
+    },
+    {
+      "surface": "נא",
+      "gloss": "лутфан"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ва бинам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "замини некӯ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "дар он тарафи"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдун"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ин кӯҳ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ва Лубнон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:18.550524669Z",
+  "model": "glm-5.3"
+}

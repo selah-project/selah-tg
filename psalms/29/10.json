@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Яҳве бар тӯфони об нишаст, ва Яҳве ба подшоҳӣ нишаст то абад.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "бар тӯфони об"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "нишаст"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ва нишаст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ба подшоҳӣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:15.469746915Z",
+  "model": "glm-5.3"
+}

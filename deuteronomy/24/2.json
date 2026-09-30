@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "ва аз хонааш берун ояд, ва равад ва зани марди дигар гардад.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ва берун ояд"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "аз хонааш"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ва равад"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ва гардад"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "зани марди"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дигар"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:15.039299417Z",
+  "model": "glm-5.3"
+}

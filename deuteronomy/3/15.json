@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ба Махир ⟨את⟩ Гилъодро додам.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Ва ба Махир"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "додам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилъод"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилъод"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:04.960573035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 52,
+  "translation": "Ва шаҳр дар муҳосира монад то соли ёздаҳуми подшоҳ Тсидкияҳу.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ва шаҳр монад"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "дар муҳосира"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ёздаҳум"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Тсидкияҳу"
+    }
+  ],
+  "timestamp": "2026-09-30T17:59:29.257904330Z",
+  "model": "glm-5.3"
+}

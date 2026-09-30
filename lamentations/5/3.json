@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Гӯсфандётақмон шудем, бе падар; модарони мо мисли бевагон.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Гӯсфандётақмон"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "шудем"
+    },
+    {
+      "surface": "אין",
+      "gloss": "бе"
+    },
+    {
+      "surface": "אב",
+      "gloss": "падар"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "модарони мо"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "мисли бевагон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:27.505330725Z",
+  "model": "glm-5.3"
+}

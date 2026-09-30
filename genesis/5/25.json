@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва Метушелах ҳафтоду ҳафт сол ва сад сол зист ва Лемехро таваллуд кард.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "зист"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Метушелах"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ҳафтод"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ва сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лемех"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемех"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:16.894501481Z",
+  "model": "glm-5.3"
+}

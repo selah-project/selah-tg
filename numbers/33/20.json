@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва аз Риммон-Перетс кӯчиданд ва дар Ливна лагер заданд.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "кӯчиданд"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "аз Риммон"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер заданд"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "дар Ливна"
+    }
+  ],
+  "timestamp": "2026-09-30T16:10:07.256767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "ва ⟨את⟩ майдони шаҳр ва ⟨את⟩ ҳавлиҳои онро ба Калеб писари Йефунне доданд.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "майдони шаҳр"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "майдон"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳавлиҳои он"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ҳавлиҳои он"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "доданд"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ба Калеб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.995385447Z",
+  "model": "glm-5.3"
+}

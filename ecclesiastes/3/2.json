@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вақти таваллуд шудан ва вақти мурдан; вақти шинондан ва вақти канда кардани шинондашуда.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "таваллуд шудан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "למות",
+      "gloss": "мурдан"
+    },
+    {
+      "surface": "עת",
+      "gloss": "вақти"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "шинондан"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ва вақти"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "канда кардан"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "шинондашуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.995244380Z",
+  "model": "glm-5.3"
+}

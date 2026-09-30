@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ва Яъқов ба Луз омад, ки дар замини Кенаан аст — он Бет-Эл аст — ӯ ва тамоми қавме ки бо ӯ буд.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ба Луз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замини"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "қавм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:55.140455349Z",
+  "model": "glm-5.3"
+}

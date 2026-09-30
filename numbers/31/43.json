@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "ва ними ҷамъият аз гӯсфандон се сад ҳазор ва сӣ ҳазор ҳафт ҳазор ва панҷсад буд",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "ними"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ҷамъият"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "гӯсфандон"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ва сӣ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:47.747673838Z",
+  "model": "glm-5.3"
+}

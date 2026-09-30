@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Элиша ба хона омад, ва ногоҳ кӯдак мурда, бар тахташ хобида буд.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ва омад"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ба хона"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ногоҳ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "кӯдак"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мурда"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "хобида"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "тахташ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:13:38.325044475Z",
+  "model": "glm-5.3"
+}

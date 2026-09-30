@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва ҳама арзиши ту бо шекели муқаддас бошад; бист гераҳ бошад ⟨арзиши⟩ шекел.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳама"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "арзиши ту"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "бо шекели"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "муқаддас"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гераҳ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:57.037342442Z",
+  "model": "glm-5.3"
+}

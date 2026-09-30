@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Бинед, аз они Яҳве Элоҳими ту аст осмонҳо ва осмони осмонҳо, замин ва ҳар он чи дар он аст",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Бинед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "аз они Яҳве аст"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ва осмони"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар он чи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он ки"
+    },
+    {
+      "surface": "בה",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:06.490376215Z",
+  "model": "glm-5.3"
+}

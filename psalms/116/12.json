@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 116,
+  "translation": "Чӣ баргардонам ба Яҳве барои ҳама неъматҳои Ӯ бар ман?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Чӣ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "баргардонам"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "неъматҳои Ӯ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "бар ман"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:57.518213305Z",
+  "model": "glm-5.3"
+}

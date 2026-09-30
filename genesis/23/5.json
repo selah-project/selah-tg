@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Ва писарони Ҳет ба Авраҳам ⟨את⟩ ҷавоб доданд, ба ӯ гуфта:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ҷавоб доданд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ҳет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраҳам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфта"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:45.110671784Z",
+  "model": "glm-5.3"
+}

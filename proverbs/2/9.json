@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Он гоҳ туро фаҳмиш мерасад — тседек ва доварӣ, ва ростӣ, ҳар роҳи нек.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "фаҳмиш мерасад"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "тседек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ва доварӣ"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ва ростӣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "роҳ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:56.875810930Z",
+  "model": "glm-5.3"
+}

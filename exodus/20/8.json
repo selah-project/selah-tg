@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "⟨את⟩ Рӯзи Шаббатро барои муқаддас кардани он ёд кун.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ёд кун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рӯзи Шаббатро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Рӯзи"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "барои муқаддас кардани он"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:40.560736341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Моше ин ⟨את⟩ сурудро дар он рӯз навишт ва онро ба ⟨את⟩ фарзандони Йисроэл омӯхт.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "навишт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин сурудро"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "сурудро"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "омӯхт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "фарзандони Йисроэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:33.337665184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва ба халқ гуфт: «Барои се рӯз тайёр бошед; ба зан наздик нашавед».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бошед"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "тайёр"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "барои се"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "наздик нашавед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:00.803219116Z",
+  "model": "glm-5.3"
+}

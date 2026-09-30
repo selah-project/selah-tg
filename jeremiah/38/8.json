@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва Эвед-Мелек аз хонаи подшоҳ берун омада, бо подшоҳ сухан гуфт.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ва… берун омад"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Эвед-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "аз хонаи"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ва… сухан гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфта"
+    }
+  ],
+  "timestamp": "2026-09-30T17:53:59.708303907Z",
+  "model": "glm-5.3"
+}

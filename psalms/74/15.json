@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 74,
+  "translation": "Ту чашма ва ҷӯйро шикофтӣ, Ту дарёҳои ҷовидониро хушк кардӣ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "шикофтӣ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "чашма"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ва ҷӯй"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "хушк кардӣ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "дарёҳои"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ҷовидониро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:41.698596562Z",
+  "model": "glm-5.3"
+}

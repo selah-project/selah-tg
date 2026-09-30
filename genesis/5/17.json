@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ҳамаи рӯзҳои Маҳалалэл панҷу нӯҳ солу ҳаштсад сол буд, ва ⟨ӯ⟩ мурд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "буд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Маҳалалэл"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ву нӯҳ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ву ҳашт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сол"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:16.608708183Z",
+  "model": "glm-5.3"
+}

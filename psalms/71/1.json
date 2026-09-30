@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 71,
+  "translation": "Дар Тувуе, Яҳве, паноҳ ҷустам; мабод то абад шармзор шавам.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Дар Тувуе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "паноҳ ҷустам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "мабод"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "шармзор шавам"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:42:32.665959106Z",
+  "model": "glm-5.3"
+}

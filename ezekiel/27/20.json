@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Дедон тоҷири туро бо ҷомаҳои мукофотӣ барои саворӣ бошад.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "Дедон"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "тоҷири туро"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "бо ҷомаҳои"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "мукофотӣ"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "барои саворӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:09:09.661643613Z",
+  "model": "glm-5.3"
+}

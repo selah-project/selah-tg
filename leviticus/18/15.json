@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Эрваи келинатро намакушой — зани писарат аст ⟨он⟩; эрваи ӯро намакушой.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Эрваи"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "келинатро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "кушой"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "писарат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "кушой"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "эрваи ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T15:51:31.607107328Z",
+  "model": "glm-5.3"
+}

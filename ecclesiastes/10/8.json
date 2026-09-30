@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Кандаи хандақ ба он афтад ва шикастанди деворро мор сузонад.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "кандаи"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "хандақ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "афтад"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "шикастанди"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "деворро"
+    },
+    {
+      "surface": "ישכנу",
+      "gloss": "сузонад"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "мор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:38.392084300Z",
+  "model": "glm-5.3"
+}

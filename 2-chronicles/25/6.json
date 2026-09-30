@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва аз Йисроэл сад ҳазор паҳлавони ҷангиро ба сад талант нуқра ба кироя гирифт.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "ба кироя гирифт"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "аз Йисроэл"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "паҳлавон"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ҷангӣ"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ба сад"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "нуқра"
+    }
+  ],
+  "timestamp": "2026-09-30T19:51:04.680126331Z",
+  "model": "glm-5.3"
+}

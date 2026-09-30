@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Малъун бошад он кӣ ришват мегирад, то ҷони хуни беайбро бизанад; ва тамоми халқ мегӯяд: Омин.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Малъун бошад"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "мегирад"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ришват"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "то бизанад"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ҷон"
+    },
+    {
+      "surface": "דם",
+      "gloss": "хун"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ва мегӯяд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Омин"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:29.086768069Z",
+  "model": "glm-5.3"
+}

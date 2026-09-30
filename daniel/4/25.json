@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ҳамаи ин ба Невуқаднетсар, подшоҳ, расид.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ҳамаи ин"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "расид"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Невуқаднетсар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "подшоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:23:56.152949847Z",
+  "model": "glm-5.3"
+}

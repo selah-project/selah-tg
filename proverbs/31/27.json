@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Роҳҳои хонаи худро назорат мекунад, ва нони танбалӣ намехӯрад.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "назорат мекунад"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "роҳҳо"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "хонаи худро"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ва нони"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "танбалӣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "мехӯрад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:58.962154005Z",
+  "model": "glm-5.3"
+}

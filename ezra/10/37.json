@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Матаняҳ, Матанай ва Йаасов,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "Матаняҳ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Матанай"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ва Йаасов"
+    }
+  ],
+  "timestamp": "2026-09-30T19:29:48.138607467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Гарчанде ки Қайн барои нобудкунӣ ҳаст — то кай? Ашшур турро асир мебарад».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "гарчанде ки"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "барои нобудкунӣ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Қайн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кай"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "турро асир мебарад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:06:13.901437188Z",
+  "model": "glm-5.3"
+}

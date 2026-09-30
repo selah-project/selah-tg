@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ин ҳайвонотест ки шумо мехӯред: гов, гӯсфанди қӯтосҳо ва гӯсфанди бузҳо.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ҳайвонот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "шумо мехӯред"
+    },
+    {
+      "surface": "שור",
+      "gloss": "гов"
+    },
+    {
+      "surface": "שה",
+      "gloss": "гӯсфанди"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "қӯтосҳо"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ва гӯсфанди"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "бузҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:49.232564842Z",
+  "model": "glm-5.3"
+}

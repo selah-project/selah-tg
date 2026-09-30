@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "ва Дилъон ва Ҳа-Митспе ва Йоктэъл,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "ва Дилъон"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ва Ҳа-Митспе"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "ва Йоктэъл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:44.438854151Z",
+  "model": "glm-5.3"
+}

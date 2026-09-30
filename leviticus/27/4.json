@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ва агар зани ӯ бошад, арзиши ти сӣ шекел бошад.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "арзиши ти"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-09-30T15:57:17.006529516Z",
+  "model": "glm-5.3"
+}

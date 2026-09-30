@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Ҳадад мурд; ва сардорони Одум буданд: сардори Тимна, сардори Алва, сардори Йитет.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ҳадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ва буданд"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "сардорони"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Одум"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Алва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Йитет"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:25.280226795Z",
+  "model": "glm-5.3"
+}

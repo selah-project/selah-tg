@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Сенаа, се ҳазору нӯҳсаду сӣ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "нӯҳ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ву сӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:41.049439848Z",
+  "model": "glm-5.3"
+}

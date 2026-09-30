@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 92,
+  "translation": "Ва Ту дар мардом, то абад, эй Яҳве.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ва Ту"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "дар мардом"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T18:46:43.288869737Z",
+  "model": "glm-5.3"
+}

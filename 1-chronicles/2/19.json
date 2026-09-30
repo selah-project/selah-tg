@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Азуваҳо мурд, ва Калеб ба худ Эфротро гирифт, ва вай ба ӯ Ҳӯрро зоид.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ва мурд"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Азуваҳо"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ва гирифт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба худ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфрот"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Эфрот"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ва зоид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ҳӯр"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Ҳӯр"
+    }
+  ],
+  "timestamp": "2026-09-30T20:15:59.985514104Z",
+  "model": "glm-5.3"
+}

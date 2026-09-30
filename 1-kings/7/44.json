@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "ва ⟨את⟩ Баҳри якто ва ⟨את⟩ говҳои дувоздаҳто зери Баҳрро;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Баҳри якто"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Баҳр"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "якто"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "говҳои дувоздаҳто"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "говҳо"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "воздаҳ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Баҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T17:03:12.440414038Z",
+  "model": "glm-5.3"
+}

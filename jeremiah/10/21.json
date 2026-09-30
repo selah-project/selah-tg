@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Зеро чӯпанон ҳайвонӣ карданд ва Яҳверо наҷустуфтанд, бинобар ин кам кор карданд ва тамоми рамаҳои онҳо пароканда шуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "ҳайвонӣ карданд"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "чӯпанон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ҷустуфтанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "kam kor kardand"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва тамоми"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "рамаҳои онҳо"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "пароканда шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:43:42.033146612Z",
+  "model": "glm-5.3"
+}

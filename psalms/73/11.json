@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 73,
+  "translation": "Ва мегӯянд: «Оё Эл медонад? ва оё дониш ҳаст дар Элйон?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ва мегӯянд"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "оё"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ва оё ҳаст"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "дониш"
+    },
+    {
+      "surface": "בעליон",
+      "gloss": "дар Элйон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:11.639816654Z",
+  "model": "glm-5.3"
+}

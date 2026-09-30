@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Тасаллоии ман ба ғам аст; дили ман дар ман дилҳол аст.",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "тасаллоии ман"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ғам"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "дар"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дили ман"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "дилҳол"
+    }
+  ],
+  "timestamp": "2026-09-30T17:44:13.660115054Z",
+  "model": "glm-5.3"
+}

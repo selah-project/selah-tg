@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Суханони маро бишнав, эъ Яҳве, нолаи маро бифаҳм.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "суханони маро"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "бишнав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "бифаҳм"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "нолаи маро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:28.770075162Z",
+  "model": "glm-5.3"
+}

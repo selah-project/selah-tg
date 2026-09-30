@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Атери Хизқиё, наваду ҳашт.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атер"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "и Хизқиё"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "наваду"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ҳашт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:30.219677882Z",
+  "model": "glm-5.3"
+}

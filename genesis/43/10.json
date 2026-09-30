@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 43,
+  "translation": "Зеро агар дер намекардем, албатта акнун ду бор баргашта будем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "агар... на"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "дер намекардем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "албатта"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "акнун"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "баргашта будем"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ду бор"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:06.711281312Z",
+  "model": "glm-5.3"
+}

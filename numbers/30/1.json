@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Моше ба банӣ-Йисроэл гуфт: мувофиқи ҳамаи он чи Яҳве ба Моше ⟨את⟩ фармуда буд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "баниён"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "мувофиқи ҳамаи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуда буд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T16:09:29.827837726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 95,
+  "translation": "Зеро Яҳве Эли бузург аст ва подшоҳи бузург бар ⟨ҳама⟩ худоён.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ва подшоҳ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ҳама⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "худоён"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:01.165808182Z",
+  "model": "glm-5.3"
+}

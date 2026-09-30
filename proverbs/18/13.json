@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ҳар кӣ ба сухан пеш аз он ки бишнавад ҷавоб медиҳад — нодонӣ барои ӯст ва шарmandӣ.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ҷавоб медиҳад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ба сухан"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пеш аз он ки"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "бишнавад"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "нодонӣ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨аст⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "וכלмה",
+      "gloss": "ва шарmandӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:06.920376367Z",
+  "model": "glm-5.3"
+}

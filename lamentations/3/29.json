@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бигузор даҳонашро дар чанг гузорад — шояд умеде ⟨бошад⟩.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "гузорад"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "дар чанг"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "даҳонашро"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "шояд"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ҳаст⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "умед"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:09.127496502Z",
+  "model": "glm-5.3"
+}

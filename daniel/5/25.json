@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва ин навиштаест ки навишта шудааст: Мене, Мене, Текел, у-Парсин.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ва ин"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "нависhta"
+    },
+    {
+      "surface": "די",
+      "gloss": "ки"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "навишта шудааст"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "у-Парсин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:23:03.518403541Z",
+  "model": "glm-5.3"
+}

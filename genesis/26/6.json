@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва Йитсҳоқ дар Герар зиндагӣ кард.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ва зиндагӣ кард"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йитсҳоқ"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "дар Герар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:26.437954568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва малаки Яҳве ба ӯ гуфт: Барои чӯ ин — номи Маро мепурсӣ? Ва ⟨он⟩ аҷиб аст.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва … гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "малак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "למה",
+      "gloss": "барои чӣ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "мепурсӣ"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "номи Маро"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Ва он"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "аҷиб"
+    }
+  ],
+  "timestamp": "2026-09-30T20:01:43.495316749Z",
+  "model": "glm-5.3"
+}

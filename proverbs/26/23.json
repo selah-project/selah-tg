@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Чун нуқраи ношуда бар сафоли коса рӯйкашӣ шуда — лабҳои оташин ва дили бад.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "нуқраи"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ношуда"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "рӯйкашӣ шуда"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "сафоли коса"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "лабҳои"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "оташин"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ва дили"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:02:19.456857552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ман гули Ҳаворон ва савсани водиҳо ҳастам.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "гул"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Ҳаворон"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "савсан"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "водиҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:27.290767887Z",
+  "model": "glm-5.3"
+}

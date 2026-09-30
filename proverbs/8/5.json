@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Эй содаҳо, зиркиро биёмӯзед ва эй нодонҳо, дилбиёр бошед.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "биёмӯзед"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "эй содаҳо"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "зирки"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ва эй нодонҳо"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "дилбиёр бошед"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:21.370598698Z",
+  "model": "glm-5.3"
+}

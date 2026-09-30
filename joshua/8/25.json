@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва дар он рӯз ҳамаи афтодагон аз мард то зан — дувоздаҳ ҳазор, ҳамаи мардони Ай.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва дар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "афтодагон"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "аз мард"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "воздаҳ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мардони"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ай"
+    }
+  ],
+  "timestamp": "2026-09-30T16:26:01.640645770Z",
+  "model": "glm-5.3"
+}

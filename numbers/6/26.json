@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Яҳве рӯяшро бар ту бардорад ва ба ту сулҳ ато кунад;",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "бардорад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "рӯяшро"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ба бар ту"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ва ато кунад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "сулҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:50.337704465Z",
+  "model": "glm-5.3"
+}

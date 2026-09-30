@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва аз он ҷо ба сӯи сокинони Довир боло баромад; ва номи Довир пештар Кирyat-Сефер буд.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "боло баромад"
+    },
+    {
+      "surface": "משם",
+      "gloss": "аз он ҷо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "сокинони"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Довир"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ва номи"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Довир"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "пештар"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирят"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Сефер"
+    }
+  ],
+  "timestamp": "2026-09-30T16:29:03.549615511Z",
+  "model": "glm-5.3"
+}

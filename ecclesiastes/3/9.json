@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Чӣ манфиъат дорад коркунанда дар он ки ӯ меҳнат мекунад?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "манфиъат"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "коркунанда"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "дар он ки"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "меҳнат мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:40.615350650Z",
+  "model": "glm-5.3"
+}

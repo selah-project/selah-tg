@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Вале Ту, эй Яҳве, сипар барои ман ҳастӣ, ҷалоли ман ва сарбalandаги сари ман.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Вале Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "сипар"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ҷалоли ман"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ва сарбаландаги"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "сари ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:26.158180319Z",
+  "model": "glm-5.3"
+}

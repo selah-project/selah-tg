@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Бинед, ман Яҳве, Элоҳими ҳар гӯштам; оё коре барои ман аҷиб мешавад?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "гӯшт"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "аҷиб мешавад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "коре"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "кор"
+    }
+  ],
+  "timestamp": "2026-09-30T20:06:49.172724015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ба ханда гуфтам: девона аст; ва ба шодмонӣ: ин чист, кор мекунад?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Ба ханда"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "девона аст"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ва ба шодмонӣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чист"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кор мекунад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.556104275Z",
+  "model": "glm-5.3"
+}

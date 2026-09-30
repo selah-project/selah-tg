@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ⟨ӯ⟩ хест ва рафт, ва Йеҳонатан ба шаҳр даромад.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ва Йеҳонатан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "даромад"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ба шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T16:48:12.486572862Z",
+  "model": "glm-5.3"
+}

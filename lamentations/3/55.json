@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Номи Туро Яҳве аз чоҳи поён даъват кардам.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "даъват кардам"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Номи Туро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "аз чоҳи"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "поён"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.824606798Z",
+  "model": "glm-5.3"
+}

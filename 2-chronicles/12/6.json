@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва сарони Йисроэл ва подшоҳ хоксор шуданд ва гуфтанд: «Одил аст Яҳве».",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "хоксор шуданд"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "сарони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ва подшоҳ"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ва гуфтанд"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Одил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:46:33.645554296Z",
+  "model": "glm-5.3"
+}

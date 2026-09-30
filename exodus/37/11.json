@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва ӯ онро бо тиллои пок мебўшонд ва барои он тоҷи тиллоие гирдонаш сохт.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ва мебўшонд"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "он (миз)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ва сохт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои он"
+    },
+    {
+      "surface": "זר",
+      "gloss": "тоҷ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирдонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:38.414815474Z",
+  "model": "glm-5.3"
+}

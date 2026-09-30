@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ба сароянда. Ба хизматгори Яҳве, ба Довуд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ба сароянда"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "Ба хизматгори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ба Довуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:07.008643599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва каторҳое ки бар сари сутунҳо дар эвонанд — кори сусан, чор зироъ.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "ва каторҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "сутунҳо"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "кори"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "сусан"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "дар эвон"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "зироъ"
+    }
+  ],
+  "timestamp": "2026-09-30T17:04:02.581226621Z",
+  "model": "glm-5.3"
+}

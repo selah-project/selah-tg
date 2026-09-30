@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Мактам аз Довуд: маро нигоҳ дор, эй Эл, зеро ман ба Ту паноҳ бурдаам.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Мактам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "маро нигоҳ дор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "паноҳ бурдаам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ба Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:26.707411425Z",
+  "model": "glm-5.3"
+}

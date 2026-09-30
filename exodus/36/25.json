@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва барои паҳлӯи дуюми Мишкан, тарафи шимолӣ, бист кашӣ сохт.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ва барои паҳлӯи"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "дуюми"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "тарафи"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "шимолӣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "бист"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "кашӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:25.672176643Z",
+  "model": "glm-5.3"
+}

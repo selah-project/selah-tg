@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Бинед, рӯз — бинед, омадааст; баромад саҳар; гул кард асо, нашв кард такаббур.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Бинед"
+    },
+    {
+      "surface": "היום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "באה",
+      "gloss": "омадааст"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "саҳар"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "гул кард"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "асо"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "нашв кард"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "такаббур"
+    }
+  ],
+  "timestamp": "2026-09-30T18:00:27.880650773Z",
+  "model": "glm-5.3"
+}

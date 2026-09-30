@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "ва Довуд орзу кард ва гуфт: кӣ ба ман об мешишонад аз чоҳи Бейт-Лаҳми, ки дар дарвоза аст?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "орзу кард"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ба ман мешишонад"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "аз чоҳи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лаҳми"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "дар дарвоза"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:54.891612180Z",
+  "model": "glm-5.3"
+}

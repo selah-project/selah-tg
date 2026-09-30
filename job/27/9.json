@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Оё Эл фарёди ӯ-ро мешунавад, чуне ки тангӣ бар ӯ меояд?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "фарёди ӯ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "мешунавад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чуне ки"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "тангӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:57.553768582Z",
+  "model": "glm-5.3"
+}

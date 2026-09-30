@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва Яҳве ба ман гуфт: «Он чи гуфтанд, хуб гуфтанд».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "хуб [гуфтанд]"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "гуфтанд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:32.654134756Z",
+  "model": "glm-5.3"
+}

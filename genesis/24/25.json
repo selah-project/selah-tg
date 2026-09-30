@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва ӯ ба ӯ гуфт: «Ҳам коҳу, ҳам xorакdorи зиёд назди мо ҳаст, ҳам ҷой барои шабонихобӣ».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "םם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "коҳу"
+    },
+    {
+      "surface": "םם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "xorакdorӣ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зиёд"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "назди мо"
+    },
+    {
+      "surface": "םם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷой"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "барои шабонихобӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:36.675871463Z",
+  "model": "glm-5.3"
+}

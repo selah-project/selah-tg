@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Дӯстдори пул аз пул сер намешавад, ва кӣ молро дӯст медорад — ⟨את⟩ фоидае намерасад; ҳам ин ҳебел аст.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "дӯстдор"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "пул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "сер мешавад"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "пул"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ва кӣ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "дӯст медорад"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "мол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "фоида"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:59.584433293Z",
+  "model": "glm-5.3"
+}

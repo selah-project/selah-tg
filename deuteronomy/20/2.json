@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва вақте ки ба ҷанг наздик шавед, коҳин наздик омада бо халқ сухан ронад.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ва вақте ки"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "наздик шавед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ва наздик омада"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ва сухан ронад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бо"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:18:13.252610162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Фарзандони Ҳом: Куш ва Мисраим ва Пут ва Кнаъон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ҳом"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ва Мисраим"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ва Кнаъон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:11.596387456Z",
+  "model": "glm-5.3"
+}

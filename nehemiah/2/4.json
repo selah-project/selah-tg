@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва подшоҳ ба ман гуфт: «Ту чиро талаб мекунӣ?» Ва ман ба Элоҳими осмонҳо дуо кардам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "чиро"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "талаб мекунӣ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "Ва ман дуо кардам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:30:56.262696507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Аз он замин Ашшур баромад ва Нинве ва ⟨את⟩ Реховот-Ир ва ⟨את⟩ Калҳаро бино кард — ва ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "он замин"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "бино кард ва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нинве"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Нинве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Реховот-Ир"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Реховот"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Калҳа"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Калҳа"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:52.133415189Z",
+  "model": "glm-5.3"
+}

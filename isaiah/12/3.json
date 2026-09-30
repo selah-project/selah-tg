@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ва обро бо шодӣ аз чашмаҳои наҷот мебароред.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "мебароред"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обро"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "бо шодӣ"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "аз чашмаҳои"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "наҷот"
+    }
+  ],
+  "timestamp": "2026-09-30T20:04:45.157573681Z",
+  "model": "glm-5.3"
+}

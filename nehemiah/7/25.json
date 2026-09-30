@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Фарзандони Гивъон — наваду панҷ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивъон"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "навад"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ва панҷ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:32:38.167742216Z",
+  "model": "glm-5.3"
+}

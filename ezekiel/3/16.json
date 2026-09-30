@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ба охири ҳафт рӯз расид, ва сухани Яҳве ба ман омада гуфт:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ба охири"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба вуқӯъ пайваст"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:05.592067612Z",
+  "model": "glm-5.3"
+}

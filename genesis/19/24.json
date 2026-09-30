@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва Яҳве бар Седӯм ва бар Амора гафрит ва оташ борид — аз ⟨את⟩ назди Яҳве, аз осмонҳо.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ва Яҳве"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "борон кард"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Седӯм"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ва бар"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Амора"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "гафрит"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ва оташ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "аз ⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:01.761591579Z",
+  "model": "glm-5.3"
+}

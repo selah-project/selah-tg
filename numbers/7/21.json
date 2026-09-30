@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як гов — ⟨писари⟩ гов — як қӯчқор, як гӯсфанд — ⟨писари⟩ яксолаи ӯ — барои ола.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "איל",
+      "gloss": "қӯчқор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "яксолаи ӯ"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "барои ола"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:31.596975817Z",
+  "model": "glm-5.3"
+}

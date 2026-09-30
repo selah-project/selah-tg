@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "ва Аҳия, Ҳонан, Онан",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "ва Аҳия"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ҳонан"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:26.723526889Z",
+  "model": "glm-5.3"
+}

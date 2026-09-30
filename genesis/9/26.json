@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва гуфт: «Муборак бод Яҳве, Элоҳими Шем, ва бошад Кенаан ғуломи онҳо».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "муборак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва бошад"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ғулом"
+    },
+    {
+      "surface": "למו",
+      "gloss": "барои онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:43.909195301Z",
+  "model": "glm-5.3"
+}

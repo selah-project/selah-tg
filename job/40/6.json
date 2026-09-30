@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва Яҳве ⟨את⟩ Аюбро аз тӯфон ҷавоб дод ва гуфт:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ва ҷавоб дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аюбро"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Аюб"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "аз"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "тӯфон"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    }
+  ],
+  "timestamp": "2026-09-30T19:11:52.309543613Z",
+  "model": "glm-5.3"
+}

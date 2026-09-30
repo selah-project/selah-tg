@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ба ӯ ҳафт писар ва се духтар ба дунё омаданд.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ба дунё омаданд"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ва се"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтар"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:48.595699699Z",
+  "model": "glm-5.3"
+}

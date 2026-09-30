@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Дар Ҳамворӣ: Эштаол, ва Тсора, ва Ашнаҳ,",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "Дар Ҳамворӣ"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Эштаол"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "ва Тсора"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ва Ашнаҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:54.053739799Z",
+  "model": "glm-5.3"
+}

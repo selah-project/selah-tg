@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Бинед, инро ёфтам, гуфт Қоҳелет: якто ба якто, барои ёфтани ҳисоб.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "зה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ёфтам"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Қоҳелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "якто"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ба якто"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "барои ёфтан"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ҳисоб"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:59.176151372Z",
+  "model": "glm-5.3"
+}

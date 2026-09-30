@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 89,
+  "translation": "Ӯ Манро «Падари ман, Эли ман ва санги наҷоти ман» хоҳад номид.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "Манро хоҳад номид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Падари ман"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Эли ман"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ва санг"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "наҷоти ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:25.992847285Z",
+  "model": "glm-5.3"
+}

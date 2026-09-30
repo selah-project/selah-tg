@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва Йосеф ба ӯ гуфт: Ин таъбири он аст: се навд се рӯзанд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "таъбири он"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "навдҳо"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "се"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ҳастанд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:01.323125359Z",
+  "model": "glm-5.3"
+}

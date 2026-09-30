@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Ва Моше қурбонгоҳе бино кард ва номи онро Яҳве Нисси гузошт.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "бино кард"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "қурбонгоҳ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи онро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Нисси"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:26.353880309Z",
+  "model": "glm-5.3"
+}

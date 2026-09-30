@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Зеро фарман чароғ аст ва тора нур, ва роҳи ҳаёт — ислоҳҳои тарбият.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "נר",
+      "gloss": "чароғ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "фарман"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ва тора"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нур"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ва роҳи"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ислоҳҳои"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбият"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:11.658925870Z",
+  "model": "glm-5.3"
+}

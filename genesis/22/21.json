@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "⟨את⟩ Утс нахустзодаи ӯ ва ⟨את⟩ Буз бародараш ва ⟨את⟩ Кемуэл падари Арамро.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Утс"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Утс"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "нахустзодаи ӯ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Буз"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бародараш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Кемуэл"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэл"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:57.371572871Z",
+  "model": "glm-5.3"
+}

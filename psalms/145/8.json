@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 145,
+  "translation": "Меҳрубон ва раҳмдил аст Яҳве, дарозӣаш ғазаб ва бузург ҳесед.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "меҳрубон"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ва раҳмдил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозӣаш"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ғазаб"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ва бузург"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ҳесед"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:18.818750434Z",
+  "model": "glm-5.3"
+}

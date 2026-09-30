@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 41,
+  "translation": "Ва ӯ девори хонаро чен кард — шаш ама; ва паҳнои ⟨ҳуҷраи⟩ канорӣ — чор ама, гирди хона, атроф.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "чен кард"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "девор"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шаш"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ама"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "паҳнои"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "канорӣ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ама"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "гирд"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "атроф"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "атроф"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:34.034425429Z",
+  "model": "glm-5.3"
+}

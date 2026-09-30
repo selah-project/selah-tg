@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Дар доварӣ, дар чен, дар вазн ва дар паймоиш беадолатӣ накунед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "накунед"
+    },
+    {
+      "surface": "עול",
+      "gloss": "беадолатӣ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "дар доварӣ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "дар чен"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "дар вазн"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ва дар паймоиш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:25.731674717Z",
+  "model": "glm-5.3"
+}

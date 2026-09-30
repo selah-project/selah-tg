@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Марди камб gal-ва золими мазлумон мисли борони шадиде, ки ноне намемонад.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "марди"
+    },
+    {
+      "surface": "רש",
+      "gloss": "камб gal"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "ва золими"
+    },
+    {
+      "surface": "дלים",
+      "gloss": "мазлумон"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "борони"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "шадиде, ки мебарад"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ки нест"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:59.122992960Z",
+  "model": "glm-5.3"
+}

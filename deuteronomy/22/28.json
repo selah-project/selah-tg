@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Агар мард духтаре бокираро, ки номзад нашудааст, ёбад ва ӯро бигирад ва бо ӯ хобад ва ёфт шаванд,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ёбад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "נער",
+      "gloss": "духтаре"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "бокираро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нашуда"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "номзад"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "бигирад"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ва хобад"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "ёфт шаванд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:19:29.363140105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ба кӣ ⟨את⟩ суханон гуфтӣ? Ва нафаси кӣ аз ту баромад?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ки"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "гуфтӣ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "суханон"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ва нафаси"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "баромад"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "аз ту"
+    }
+  ],
+  "timestamp": "2026-09-30T19:08:42.685621597Z",
+  "model": "glm-5.3"
+}

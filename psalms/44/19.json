@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 44,
+  "translation": "Дилҳои мо ақиб нагашт ва қадамҳои мо аз роҳи Ту дур нашастанд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ақиб гашт"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ба ақиб"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "дилҳои мо"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "ва дур шуд"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "қадамҳои мо"
+    },
+    {
+      "surface": "מני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "роҳи Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:38:44.196061353Z",
+  "model": "glm-5.3"
+}

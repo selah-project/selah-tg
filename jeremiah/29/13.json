@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва Манро ҷӯед ва Манро ёбед, зеро Манро бо тамоми дилҳоятон меҷӯед.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ҷӯед"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Манро",
+      "marks": "Ман"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ёбед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "меҷўед Манро"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бо тамоми"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "дилҳоятон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:51:05.991067921Z",
+  "model": "glm-5.3"
+}

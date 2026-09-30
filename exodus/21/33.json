@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва агар касе чоҳро кушояд ё агар касе чоҳро кофад ва онро напӯшонад, ва гӯсфанд ё хар ба он афтад —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "кушояд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "касе"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чоҳро"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "кофад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "касе"
+    },
+    {
+      "surface": "בר",
+      "gloss": "чоҳро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "вана"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "пӯшонад онро"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ва афтад"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ба он"
+    },
+    {
+      "surface": "שור",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "хар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:37:24.638353509Z",
+  "model": "glm-5.3"
+}

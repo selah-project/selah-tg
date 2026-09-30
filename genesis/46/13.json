@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 46,
+  "translation": "Ва писарони Йиссоқор: Тола ва Пуваҳ ва Йов ва Шимрон.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йиссоқор"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Тола"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "ва Пуваҳ"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "ва Йов"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ва Шимрон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:27:41.595319153Z",
+  "model": "glm-5.3"
+}

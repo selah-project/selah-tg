@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Фарзандони Шимъон: Немӯэл ва Ямин, Ярив, Зерах ва Шаул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимъон"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Немӯэл"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ва Ямин"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ярив"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:24.495369964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Бо ҳасид ҳасед мекунӣ, бо марди беайб беайб мешавӣ.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ҳасид"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ҳасед мекунӣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мард"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "беайб мешавӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:10:41.168339265Z",
+  "model": "glm-5.3"
+}

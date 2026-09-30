@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ҳар паррандаи покро бихӯред.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "парранда"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "пок"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "бихӯред"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:53.729088208Z",
+  "model": "glm-5.3"
+}

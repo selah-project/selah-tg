@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Адонай, Ту баҳси ҷони маро барӣ кардӣ, ҳаёти маро озод кардӣ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "барӣ кардӣ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "баҳси"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ҷони маро"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "озод кардӣ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ҳаёти маро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:06.435556045Z",
+  "model": "glm-5.3"
+}

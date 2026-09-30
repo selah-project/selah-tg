@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Понздаҳум ба Билга, шонздаҳум ба Иммер.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "ба Билга"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "понздаҳум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ба Иммер"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шонздаҳум"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:33.708800566Z",
+  "model": "glm-5.3"
+}

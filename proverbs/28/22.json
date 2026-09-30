@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Марди бади чашм ба сарват мешитобад ва намедонад, ки камбигалӣ бар ӯ меояд.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "мешитобад"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ба сарват"
+    },
+    {
+      "surface": "איש",
+      "gloss": "марди"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бади"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва намедонад"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "камбигалӣ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "бар ӯ меояд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:39.416515778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "ва офтоб ғуруб кунад ва пок шавад, ва баъд аз муқаддасот мехӯрад, зеро нони ӯст;",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ва ғуруб кунад"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтоб"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ва пок шавад"
+    },
+    {
+      "surface": "ו אחר",
+      "gloss": "ва баъд"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "мехӯрад"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "муқаддасот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "нони ӯ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:23.445662067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва Хананйаҳ набӣ ҳамон сол, дар моҳи ҳафтум, мурд.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананйаҳ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "набӣ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ҳамон сол"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ҳамон"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "дар моҳи"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ҳафтум"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:37.164194918Z",
+  "model": "glm-5.3"
+}

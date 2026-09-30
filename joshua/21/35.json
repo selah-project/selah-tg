@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "⟨את⟩ Димна бо майдонаш, ⟨את⟩ Наҳалал бо майдонаш — чор шаҳр.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Димна"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Димна"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "майдонаш"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "майдонаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Наҳалал"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Наҳалал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "майдонаш"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "майдонаш"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "чор"
+    }
+  ],
+  "timestamp": "2026-09-30T16:30:03.336737250Z",
+  "model": "glm-5.3"
+}

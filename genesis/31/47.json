@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Ловон онро Йегар Саҳадута номид, вале Яъқоб онро Галъэд номид.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "онро"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ловон"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "Йегар"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "Саҳадута"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "номид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "онро"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Галъэд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:28.290592505Z",
+  "model": "glm-5.3"
+}

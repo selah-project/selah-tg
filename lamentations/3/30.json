@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Бигузор рухсорашро ба зарбазанандаи ⟨своего⟩ диҳад, аз таҳқир сер шавад.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "диҳад"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ба зарбазанандаи ӯ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "рухсор"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "сер шавад"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "аз таҳқир"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:09.127788532Z",
+  "model": "glm-5.3"
+}

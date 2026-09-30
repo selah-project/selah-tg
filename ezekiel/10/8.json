@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва дар керубҳо шакли дасти одам зери болҳои онҳо намоён шуд.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "намоён шуд"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "дар керубҳо"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "шакли"
+    },
+    {
+      "surface": "יד",
+      "gloss": "дасти"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "болҳои онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:02:24.035221268Z",
+  "model": "glm-5.3"
+}

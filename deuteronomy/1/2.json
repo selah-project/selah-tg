@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ёздаҳ рӯз (масофа) аз Хорев, роҳи кӯҳи Сеир, то Қадеш-Барнеа.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "аз Хорев"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "роҳи"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Қадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнеа"
+    }
+  ],
+  "timestamp": "2026-09-30T16:12:14.572585130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Аз они Ман аст нуқра ва аз они Ман аст тилло — мегӯяд Яҳве Тсевоот.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "аз они Ман"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "нуқра"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ва аз они Ман"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    }
+  ],
+  "timestamp": "2026-09-30T18:26:51.138803106Z",
+  "model": "glm-5.3"
+}

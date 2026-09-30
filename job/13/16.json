@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ин ҳам барои ман наҷот аст, зеро бедин пеши рӯи ӯ наояд.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "наҷот аст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пеши рӯи ӯ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "бедин"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ояд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:05:55.444324926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ҳар чизи ҳарам дар Йисроэл аз они туро хоҳад буд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар чизи"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ҳарам"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "дар Йисроэл"
+    },
+    {
+      "surface": "לך",
+      "gloss": "аз они туро"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "хоҳад буд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:04:35.760720066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Ту дидӣ, э Яҳве — хомӯш маш; Адонайи ман, аз ман дур нашав!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ту дидӣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "хомӯш маш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонайи ман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "дур нашав"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "аз ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:29.379922442Z",
+  "model": "glm-5.3"
+}

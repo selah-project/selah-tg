@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Он гоҳ Шломоҳ гуфт: Яҳве гуфт, ки дар зулмати зич сукунат гирад.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоҳ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "сукунат гирад"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "дар зулмати зич"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:59.931658932Z",
+  "model": "glm-5.3"
+}

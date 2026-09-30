@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва писарони Шемуэл: таваллудшудаи аввал ва Вашнӣ ва Авия.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ва писарони"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "таваллудшудаи аввал"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Вашнӣ"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "ва Авия"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:07.581942939Z",
+  "model": "glm-5.3"
+}

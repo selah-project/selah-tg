@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва хони Йисроэл онҳоро дафн кунанд, то пок кардани ⟨את⟩ замин — ҳафт моҳ.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "ва дафн кунанд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "למען",
+      "gloss": "то"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "пок кардани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "замин"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ҳафт"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "моҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:12:53.344519277Z",
+  "model": "glm-5.3"
+}

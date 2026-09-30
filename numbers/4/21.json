@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "ва сухан ронда Яҳве ба Моше бо гуфтан:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва сухан ронда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтан"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:41.453638534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 43,
+  "translation": "Ва сухани Яҳве ба Ярмияҳу дар Таҳпанҳес расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва бошад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияҳу"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "дар Таҳпанҳес"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:55:42.881563836Z",
+  "model": "glm-5.3"
+}

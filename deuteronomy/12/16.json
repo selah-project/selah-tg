@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Танҳо хунро нахӯред — онро бар рӯи замин мисли об резед.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "хунро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "хӯред"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар рӯи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "онро резед"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "мисли об"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:13.439876772Z",
+  "model": "glm-5.3"
+}

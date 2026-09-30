@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Бас ки ба шумо — гардонидани ин ⟨את⟩ кӯҳ; ба сӯи шимол рӯй гардонед.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "бас"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ки ба шумо"
+    },
+    {
+      "surface": "סב",
+      "gloss": "гардонидан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин кӯҳ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "рӯй гардонед"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ба сӯи ... худ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "шимол"
+    }
+  ],
+  "timestamp": "2026-09-30T16:11:33.164259163Z",
+  "model": "glm-5.3"
+}

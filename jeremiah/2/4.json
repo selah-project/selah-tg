@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Гӯш кунед ба сухани Яҳве, хонаи Яъқов, ва ҳамаи хонаводаҳои хонаи Йисроэл!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "гӯш кунед"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "хонаводаҳои"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:39.336132543Z",
+  "model": "glm-5.3"
+}

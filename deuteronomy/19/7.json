@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Аз ин рӯ Ман ба ту амр медиҳам, ки гӯй: се шаҳр барои худ ҷудо кун.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ин рӯ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ба ту амр медиҳам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ки гӯй"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "се"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаҳр"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ҷудо кун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:59:53.447836891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "ва як асарон барои як гӯсфанд, барои чордаҳ гӯсфанд;",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "ва як асарон"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "асарон"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "барои гӯсфанд"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "барои чор"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "гӯсфандон"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:11.274954780Z",
+  "model": "glm-5.3"
+}

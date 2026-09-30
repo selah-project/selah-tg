@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Аз ин дилҳои мо бемор шуд, аз инҳо чашмони мо торик гашт.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "היה",
+      "gloss": "шуд"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "бемор"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "дилҳои мо"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "торик гашт"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "чашмони мо"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:42.651493097Z",
+  "model": "glm-5.3"
+}

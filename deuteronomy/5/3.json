@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "На бо ⟨את⟩ падарони мо Яҳве ⟨את⟩ ин аҳдро бурид, балки ⟨את⟩ бо мо — мо, инҳо, ин ҷо, имрӯз, ҳамаи мо зинда.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ бо"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "падарони мо"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "бурид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин аҳдро"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "аҳд"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ бо мо"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "мо"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ин ҷо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ҳамаи мо"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "зинда"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:07.295519461Z",
+  "model": "glm-5.3"
+}

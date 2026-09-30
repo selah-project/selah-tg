@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ба банӣ-Йисроэл гӯед, бигӯед: ин ҳайвонотест ки шумо аз ҳамаи чорпоёни рӯи замин мехӯред —",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "гӯед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бигӯед"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ҳайвонот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "мехӯред"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз ҳамаи"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "чорпоён"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "על",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:21.762251348Z",
+  "model": "glm-5.3"
+}

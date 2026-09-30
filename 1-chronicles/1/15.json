@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "ва ⟨את⟩ ҳаҳиввӣ ва ⟨את⟩ ҳаарқӣ ва ⟨את⟩ ҳасинӣ,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳаҳиввӣ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ҳаҳиввӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳаарқӣ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ҳаарқӣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "ҳасинӣ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ҳасинӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:33.582370324Z",
+  "model": "glm-5.3"
+}

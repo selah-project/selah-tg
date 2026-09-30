@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва подшоҳ ба ӯ гуфт: То чанд бор туро савгандёд кунам, ки ба ман чизе ҷуз ҳақиқат ба номи Яҳве нагӯӣ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "То"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "чанд"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "бор"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "туро савгандёд кунам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "нагӯӣ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ҷуз"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ҳақиқат"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ба номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T19:48:38.131707845Z",
+  "model": "glm-5.3"
+}

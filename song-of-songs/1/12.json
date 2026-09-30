@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ҳанӯз ки подшоҳ дар маҷлиси гирди худ нишастааст, нардам бӯйи худро дод.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ҳанӯз ки"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "дар маҷлиси гирди худ"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "нардам"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "бӯйи худро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.743493197Z",
+  "model": "glm-5.3"
+}

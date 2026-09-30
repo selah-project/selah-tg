@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 8:31",
+  "book": "judges",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Ва суррияи ӯ, ки дар Шхем буд, ба ӯ низ писаре зойид, ва ӯ ⟨את⟩ номи ӯро Авимелех гузошт.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "суррияи ӯ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "дар Шхем"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "зойид"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "низ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ҳам ӯ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писаре"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯро"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    }
+  ],
+  "timestamp": "2026-09-30T16:35:01.909887458Z",
+  "model": "glm-5.3"
+}

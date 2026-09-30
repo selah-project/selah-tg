@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Бор дар бораи Арабiston: дар бодӣ дар Арабiston шабона хоҳед монд, э карвонҳои деданиён.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "бор"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "дар Арабiston"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "дар бодӣ"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "дар Арабiston"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "шабона хоҳед монд"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "карвонҳо"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "деданиён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:26:33.091025701Z",
+  "model": "glm-5.3"
+}

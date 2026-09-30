@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ба Яҳве гуфтам: Ту Адонай ҳастӣ; некӯии ман бе Ту нест.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Ба Яҳве"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "некӯии ман"
+    },
+    {
+      "surface": "בל",
+      "gloss": "бе"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:26.707686204Z",
+  "model": "glm-5.3"
+}

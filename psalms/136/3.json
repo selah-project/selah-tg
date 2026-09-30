@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба Адонайи хоҷаён шукр гӯед, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шукр гӯед"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ба Адонайи"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "хоҷаён"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ аст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:19.742442868Z",
+  "model": "glm-5.3"
+}

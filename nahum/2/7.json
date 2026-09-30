@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Дарвозаҳои дарёҳо кушода шуданд ва қаср об шуд.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "дарвозаҳои"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "дарёҳо"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "кушода шуданд"
+    },
+    {
+      "surface": "ו ההיכל",
+      "gloss": "ва қаср"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "об шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:25:01.491006796Z",
+  "model": "glm-5.3"
+}

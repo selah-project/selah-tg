@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Зеро кӣ Эл аст, ғайр аз Яҳве? Ва кӣ санг аст, ғайр аз Элоҳими мо?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ғайр аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ва кӣ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "санг"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ғайр аз"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳими мо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:00:01.478238755Z",
+  "model": "glm-5.3"
+}

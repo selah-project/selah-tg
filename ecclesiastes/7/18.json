@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Хуб аст, ки инро нигоҳ дорӣ ва аз ин дасти танҳо нағузорӣ; зеро har кас аз Элоҳим метарсад, аз ҳамаи онҳо берун меояд ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "хуб"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "нигоҳ дорӣ"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "инро"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ва низ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "аз ин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "накардан"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "нағузорӣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дасти туро"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "дасти туро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "метарсад"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "берун меояд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи онҳоро"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ҳамаи онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:56.716428893Z",
+  "model": "glm-5.3"
+}

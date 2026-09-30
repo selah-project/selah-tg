@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Аса он ки некӯ ва росткорӣ буд, дар назди Яҳве Элоҳими худ кард.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "кард"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "некӯ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "росткорӣ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Элоҳими худ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:47:50.984001299Z",
+  "model": "glm-5.3"
+}

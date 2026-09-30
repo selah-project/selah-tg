@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Инак, Эли қавӣ, ва ҳеҷро хор намекунад; қавӣ дар қувват ва дар дил.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Инак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "қавӣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "хор намекунад"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "қавӣ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "қувват"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    }
+  ],
+  "timestamp": "2026-09-30T19:11:10.469928072Z",
+  "model": "glm-5.3"
+}

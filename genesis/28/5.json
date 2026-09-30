@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва Йисҳоқ Яъқобро фиристод, ва ӯ ба Падан-Арам рафт, назди Лавон, писари Бетуэли арамӣ, бародари Ривқо, модари ⟨את⟩ Яъқоб ва Эсав.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йисҳоқ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яъқоб"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nazdi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуэл"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "арамӣ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бародари"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривқо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "modari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқоб"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ва Эсав"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:26.964038089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ин номҳои писарони Эсов: Элифаз, писари Ада, зани Эсов; Реуэл, писари Босмат, зани Эсов.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "номҳои"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зани"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:07.166878442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 76,
+  "translation": "Az qahri tu, Ej Ejlohim-i Ya'qov, ʙeħuş şudand har ƅarҩa va asp.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "az qahri tu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ejlohim-i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Ya'qov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ʙeħuş şudand"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "va ƅarҩa"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "va asp"
+    }
+  ],
+  "timestamp": "2026-09-30T18:43:36.912920522Z",
+  "model": "glm-5.3"
+}

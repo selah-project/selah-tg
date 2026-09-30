@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Асп барои рӯзи ҷанг омода мешавад, вале наҷот аз Яҳве аст.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "асп"
+    },
+    {
+      "surface": "мוכן",
+      "gloss": "омода мешавад"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "барои рӯзи"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ҷанг"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "вале аз Яҳве"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "наҷот"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:51.593323374Z",
+  "model": "glm-5.3"
+}

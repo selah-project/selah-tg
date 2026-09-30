@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ҳамин тавр доим мешуд: абр онро мепӯшонд ва шабона намуди оташ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "мешуд"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "доим"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "абр"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "онро мепӯшонд"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ва намуди"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шабона"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:20.746022664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Элоҳим довари одил аст ва Эл ҳар рӯз ғазаб мекунад.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "довари"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва Эл"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ғазаб мекунад"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:27.559708937Z",
+  "model": "glm-5.3"
+}

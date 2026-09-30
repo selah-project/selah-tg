@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Танҳо ду чиз бо ман макун, он гоҳ аз рӯйи Ту пинҳон намешавам.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Танҳо"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду чиз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "кун"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "бо ман"
+    },
+    {
+      "surface": "אז",
+      "gloss": "он гоҳ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "аз рӯйи Ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "пинҳон намешавам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:05:49.060029545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Гуфтам ман дар дили худ: Биё, ҳоло, санҷам туро бо шодмонӣ ва бинам дар некӣ — ва ин ҳам ҳабал аст.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Гуфтам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "дар дили худ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Биё"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ҳоло"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "санҷам туро"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "бо шодмонӣ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ва бинам"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "дар некӣ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва инак"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳабал аст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:01.555852616Z",
+  "model": "glm-5.3"
+}

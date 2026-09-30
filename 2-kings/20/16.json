@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва Ишайаҳу ба Ҳизқиё гуфт: «Гӯш кин, сухани Яҳве-ро:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишайаҳу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Ҳизқиё"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "гӯш кин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T17:20:09.457833808Z",
+  "model": "glm-5.3"
+}

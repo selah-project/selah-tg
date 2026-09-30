@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Писарам, агар дили ту доно бошад, дили ман шод мешавад — ман ҳам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарам"
+    },
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "доно"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дили ту"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "шод мешавад"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "дили ман"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:31.683283827Z",
+  "model": "glm-5.3"
+}

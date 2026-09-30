@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Боз ба нодир ⟨את⟩ мақоми ҳашрам надиҳанд ва ба хасис бой нагӯянд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "нодиҳанд"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ба нодир"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ҳашрам"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "ва ба хасис"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "нагӯянд"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "бой"
+    }
+  ],
+  "timestamp": "2026-09-30T17:31:08.174145316Z",
+  "model": "glm-5.3"
+}

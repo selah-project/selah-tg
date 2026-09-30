@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Гуломонро бар аспон дидаам ва саркаронро мисли гуломон рӯи замин роҳ мераванд.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "дидаам"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "гуломонро"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "аспон"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ва саркаронро"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "роҳ мераванд"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "мисли гуломон"
+    },
+    {
+      "surface": "על",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:38.391910171Z",
+  "model": "glm-5.3"
+}

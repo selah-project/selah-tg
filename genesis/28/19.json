@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва номи он ҷоро Бейт-Эл номид; вале Лӯз номи он шаҳр аз аввал буд.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ва номид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "вале"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Лӯз"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "он шаҳр"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "аз аввал"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:57.207057497Z",
+  "model": "glm-5.3"
+}

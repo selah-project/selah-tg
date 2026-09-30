@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва ду духтари Лут аз падари худ ҳомила шуданд.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "ҳомила шуданд"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтарон"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лут"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "аз падари худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:59.557502510Z",
+  "model": "glm-5.3"
+}

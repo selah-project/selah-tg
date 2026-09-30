@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 10:38",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Йеҳошуа ва ҳамai Йисроэл бо ӯ ба Дебир баргашт ва бо он ҷанг кард.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "баргашт"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеҳошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "ба Дебир"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ҷанг кард"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бо он"
+    }
+  ],
+  "timestamp": "2026-09-30T20:01:13.194341110Z",
+  "model": "glm-5.3"
+}

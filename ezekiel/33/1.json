@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва сухани Яҳве ба ман омад, гӯфтанро:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва ... омад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯфтанро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:10:45.059708497Z",
+  "model": "glm-5.3"
+}

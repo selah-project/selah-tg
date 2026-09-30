@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "як кофили тиллоии даҳ шекел, пур аз бӯён.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кофил"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "זהб",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пур"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "бӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:14.533978680Z",
+  "model": "glm-5.3"
+}

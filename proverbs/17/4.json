@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Бадкор ба лабҳои бадӣ гӯш медиҳад, дурӯғгар ба забони бало гӯш медиҳад.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "бадкор"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "гӯш медиҳад"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "лабҳои"
+    },
+    {
+      "surface": "און",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "дурӯғгар"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "гӯш медиҳад"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "забони"
+    },
+    {
+      "surface": "הות",
+      "gloss": "бало"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:57.027821185Z",
+  "model": "glm-5.3"
+}

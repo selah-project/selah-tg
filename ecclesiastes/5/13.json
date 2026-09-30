@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "ва он мол дар кори бад нобуд мешавад, ва писаре зоида, дар дасти ӯ ҳеҷ чиз нест.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "нобуд мешавад"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "он мол"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "дар кори"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ва зоида"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва нест"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "дар дасти ӯ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ҳеҷ чиз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:39.973172026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 104,
+  "translation": "Таҳомро чун ҷома пӯшонидӣ — обҳо бар кӯҳҳо меистоданд.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "таҳомро"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "чун ҷома"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "пӯшонидӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "кӯҳҳо"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "меистоданд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:49.871732117Z",
+  "model": "glm-5.3"
+}

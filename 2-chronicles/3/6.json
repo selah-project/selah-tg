@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва ⟨את⟩ хонаро бо санги гаронбаҳо барои зебоӣ ород; ва тилло — тиллои Парваим буд.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ва ород"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хона"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "хона"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "санг"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "гаронбаҳо"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "барои зебоӣ"
+    },
+    {
+      "surface": "והזהб",
+      "gloss": "ва тилло",
+      "surface_raw": "והזהב"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парваим"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:57.071300627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 32,
+  "translation": "Санг — кори Ӯ беайб аст, зеро ки ҳамаи роҳҳои Ӯ доварӣ; Эли амонат ва бе ситам; одил ва росту Ӯст.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Санг"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "кори Ӯ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "роҳҳои Ӯ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "амонат"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ва нест"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ситам"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "одил"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ва рост"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T16:22:48.752859695Z",
+  "model": "glm-5.3"
+}

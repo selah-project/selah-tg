@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва чаҳор ҳайвони бузург аз баҳр боло меомаданд, мутафовит ин аз он.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "Ва чаҳор"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ҳайвони"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "боло меомаданд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "мутафовит"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "דא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:26:55.938889317Z",
+  "model": "glm-5.3"
+}

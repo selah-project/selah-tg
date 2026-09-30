@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 29:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Ва нигарист ваCCC ман — чоҳе дар саҳро, ва ман — он ҷо се рама гӯсфанд хобида бар он, зеро аз он чоҳ рамаҳоро об medӣ, ва санге бузург бар даҳони он чоҳ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "нигарист"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "באר",
+      "gloss": "чоҳе"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "дар саҳро"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ман"
+    },
+    {
+      "surface": "שם",
+      "gloss": "он ҷо"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "се"
+    },
+    {
+      "surface": "עדרי",
+      "gloss": "рама"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "гӯсфанд"
+    },
+    {
+      "surface": "рбצים",
+      "gloss": "хобида"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "бар он"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "он чоҳ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "об medӣ"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "рамаҳоро"
+    },
+    {
+      "surface": "והאבן",
+      "gloss": "ва санг"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳони"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "он чоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:53.364792475Z",
+  "model": "glm-5.3"
+}

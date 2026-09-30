@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Зеро барои ҳар орзу замоне ва доварие ҳаст, зеро бадиӣ инсон бар ӯ бисёр аст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "барои ҳар"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "орзу"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "עת",
+      "gloss": "замоне"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ва доварӣ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "бадиӣ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "инсон"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:19:16.639942046Z",
+  "model": "glm-5.3"
+}

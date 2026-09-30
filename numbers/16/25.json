@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва Моше хест ва ба сӯи Датан ва Авиром рафт, ва пирони Йисроэл баъди ӯ рафтанд.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "хест"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "рафт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Датан"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "ва Авиром"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "рафтанд"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "баъди ӯ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "пирони"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T16:03:52.610947672Z",
+  "model": "glm-5.3"
+}

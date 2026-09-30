@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Инҳо фармонҳое ҳастанд, ки Яҳве ба ⟨את⟩ Моше барои банӣ-Йисроэл дар кӯҳи Сино додааст.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "фармонҳо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармудааст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "банӣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "дар кӯҳи"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Сино"
+    }
+  ],
+  "timestamp": "2026-09-30T15:56:17.231650053Z",
+  "model": "glm-5.3"
+}

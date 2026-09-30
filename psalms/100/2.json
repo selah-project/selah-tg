@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 100,
+  "translation": "Ба Яҳве ⟨את⟩ хизмат кунед бо шодӣ, пеш аз Ӯ биёед бо сарои шодӣ.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "хизмат кунед"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "бо шодӣ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "биёед"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пеш аз Ӯ"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "бо сарои шодӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:04.612656989Z",
+  "model": "glm-5.3"
+}

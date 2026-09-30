@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва суханӣ аз Яҳве ба ман расид, гӯён:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва... шуд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:40:39.335517679Z",
+  "model": "glm-5.3"
+}

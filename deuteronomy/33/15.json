@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "ва аз беҳтаринҳои сари кӯҳҳои қадим, ва аз неъматҳои теппаҳои ҷовидон,",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ва аз сари"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "кӯҳҳои"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "қадим"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ва аз неъматҳои"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "теппаҳои"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ҷовидон"
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:44.761214288Z",
+  "model": "glm-5.3"
+}

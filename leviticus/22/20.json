@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ҳар чизе ки нуқсон дар он бошад, наздик накунед, зеро он барои шумо ба мақбулият нахоҳад буд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар чизе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "מום",
+      "gloss": "нуқсон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "наздик накунед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ба мақбулият"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нахоҳад буд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "барои шумо"
+    }
+  ],
+  "timestamp": "2026-09-30T15:53:17.754846036Z",
+  "model": "glm-5.3"
+}

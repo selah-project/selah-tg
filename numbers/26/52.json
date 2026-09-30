@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ва Яҳве ба Моше сухан ронду мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ва ... сухан ронд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:07:24.251371374Z",
+  "model": "glm-5.3"
+}

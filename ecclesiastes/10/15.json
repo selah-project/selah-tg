@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Меҳнати аҳмақон ӯро хаста мекунад, зеро ӯ роҳи рафтан ба шаҳрро намедонад.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "меҳнати"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "аҳмақон"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "хаста мекунад"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "н"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "медонад"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "рафтанро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:29.460439638Z",
+  "model": "glm-5.3"
+}

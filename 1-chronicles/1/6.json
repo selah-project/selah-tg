@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва фарзандони Гомер: Ашкеназ ва Дипат ва Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ва Дипат"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ва Тогарма"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:11.595743125Z",
+  "model": "glm-5.3"
+}

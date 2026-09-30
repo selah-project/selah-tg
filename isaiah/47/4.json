@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Худоварди мо — Яҳве Тсевоот номи ӯст, Муқаддаси Йисроэл.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "Худоварди мо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Тсевоот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯст"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Муқаддаси"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T17:35:46.464570626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба Элоҳими худоён шукр гӯед, ки ҳеседи Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шукр гӯед"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ба Элоҳими"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "худоён"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ аст"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:19.742315956Z",
+  "model": "glm-5.3"
+}

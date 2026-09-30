@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ва Шехем ба Ҳамор, падари худ, гуфт: «Гир ⟨את⟩ ин ҷавонзанро барои ман ба занӣ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Ҳамор"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "падари худ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "«гуфтанаш"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Гир"
+    },
+    {
+      "surface": "לי",
+      "gloss": "барои ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ин ҷавонзанро"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ин ҷавонзан"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:48.151226189Z",
+  "model": "glm-5.3"
+}

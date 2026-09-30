@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Элиэл, ва Овед, ва Йаасиэл, Ҳамитсобавӣ,",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Элиэл"
+    },
+    {
+      "surface": "ויעובד",
+      "gloss": "ва Овед"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "ва Йаасиэл"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "Ҳамитсобавӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:10.932178580Z",
+  "model": "glm-5.3"
+}

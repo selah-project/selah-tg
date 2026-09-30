@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Ва Иш-Бошет фиристод ва ӯро аз шавҳараш — аз Палтиэл, писари Лаиш гирифт.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "фиристод"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Бошет"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "гирифт"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "шавҳараш"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Лаиш"
+    }
+  ],
+  "timestamp": "2026-09-30T16:52:26.426102476Z",
+  "model": "glm-5.3"
+}

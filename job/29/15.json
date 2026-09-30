@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 29,
+  "translation": "Чашм барои нобино будам, ва по барои шалоҳ — ман.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "Чашм"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "будам"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "барои нобино"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "ва по"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "барои шалоҳ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:11.782240902Z",
+  "model": "glm-5.3"
+}

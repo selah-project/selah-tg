@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Довуд бо саркардаёни ⟨ҳазорҳо⟩ ва ⟨садҳо⟩ — бо ҳар як сардор машварат кард.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "машварат кард"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "саркардаёни"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ҳазорҳо"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ва садҳо"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бо ҳар як"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "сардор"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:51.737686171Z",
+  "model": "glm-5.3"
+}

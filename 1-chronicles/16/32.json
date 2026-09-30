@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Гуррояд баҳр ва пуррагии он; шодӣ кунад саҳро ва ҳар он чи дар он аст.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "гуррояд"
+    },
+    {
+      "surface": "הים",
+      "gloss": "баҳр"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "ва пуррагии он"
+    },
+    {
+      "surface": "יעлҳץ",
+      "gloss": "шодӣ кунад"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "саҳро"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    }
+  ],
+  "timestamp": "2026-09-30T19:40:18.897412618Z",
+  "model": "glm-5.3"
+}

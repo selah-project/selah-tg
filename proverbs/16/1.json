@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ба одам тартиб додани дил, вале аз Яҳве ҷавоби забон.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "ба одам"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "тартиб додан"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ва аз Яҳве"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ҷавоб"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "забон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:52.474051149Z",
+  "model": "glm-5.3"
+}

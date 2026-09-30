@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Насле, ки дар назари худ пок аст, вале аз чирки худ шусташуда нест.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "насл"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "дар назари худ"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "аз чирки худ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "шусташуда"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:36.838908842Z",
+  "model": "glm-5.3"
+}

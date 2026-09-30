@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Ҳама устухонҳои ӯро нигоҳ медорад, яке аз онҳо нашиканад.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "нигоҳ медорад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "устухонҳои ӯ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "яке"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "аз онҳо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "нашиканад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:22.114550223Z",
+  "model": "glm-5.3"
+}

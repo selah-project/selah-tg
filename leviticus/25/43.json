@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Бо ӯ бо сахтӣ ҳукм накун, балки аз Элоҳимат битарс.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "ҳукм накун"
+    },
+    {
+      "surface": "בו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "бо сахтӣ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "балки битарс"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "аз Элоҳимат"
+    }
+  ],
+  "timestamp": "2026-09-30T15:55:35.760053302Z",
+  "model": "glm-5.3"
+}

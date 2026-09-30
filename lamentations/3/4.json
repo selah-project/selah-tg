@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Гӯшту пӯстамро парешон кард, устухонҳоямро шикаст.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "парешон кард"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "Гӯшт"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "пӯстамро"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "шикаст"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "устухонҳоямро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:05.220784962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Онҳоро ба ангуштонат бибанд, онҳоро бар лавҳаи дилат бинавис.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "онҳоро бибанд"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ангуштонат"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "онҳоро бинавис"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "лавҳаи"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "дилат"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:52.389694763Z",
+  "model": "glm-5.3"
+}

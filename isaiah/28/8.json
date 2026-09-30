@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "зеро ки ҳамаи мизҳо аз қай ва нописида пур шудаанд — бе ҷои пок.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "мизҳо"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "пур шудаанд"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "қай"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "нописида"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "бе"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷои пок"
+    }
+  ],
+  "timestamp": "2026-09-30T17:29:52.722678919Z",
+  "model": "glm-5.3"
+}

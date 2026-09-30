@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва харҳо сӣ ҳазору панҷсад, ва маҷбурии онҳо барои Яҳве яку шаст.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "харҳо"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "панҷ"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "маҷбурии онҳо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "шаст"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:54.753476198Z",
+  "model": "glm-5.3"
+}

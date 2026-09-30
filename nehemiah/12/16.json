@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Аз Адё — Зехарья; аз Гиннетон — Мешуллам.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "аз Адё"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарья"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "аз Гиннетон"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:33:59.128942329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 86,
+  "translation": "Зеро ки Ту бузургӣ ва корҳои аҷиб мекунӣ; Ту Элоҳимӣ, танҳо Ту.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузургӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ва мекунӣ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "корҳои аҷиб"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳимӣ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "танҳо Ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:45:20.079335880Z",
+  "model": "glm-5.3"
+}

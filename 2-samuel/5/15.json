@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "ва Йибҳар ва Элишуа ва Нефег ва Йофияъ,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Йибҳар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ва Элишуа"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ва Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ва Йофияъ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:53:05.680461230Z",
+  "model": "glm-5.3"
+}

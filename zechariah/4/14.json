@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ӯ гуфт: «Инҳо ду писари равғани тозаанд, ки назди Адони тамоми замин истодаанд».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "равғани тоза"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "истодагон"
+    },
+    {
+      "surface": "על",
+      "gloss": "назди"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адони"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:28:19.356434136Z",
+  "model": "glm-5.3"
+}

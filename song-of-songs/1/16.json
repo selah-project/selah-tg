@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Бин, ту зебоӣ, маҳбуби ман, ҳамчун ширин; ҳам тахти мо сабзу фароғат аст.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "бар, ту"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебоӣ"
+    },
+    {
+      "surface": "дודי",
+      "gloss": "маҳбуби ман"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ҳамчун"
+    },
+    {
+      "surface": "נעим",
+      "gloss": "ширин"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ҳам"
+    },
+    {
+      "surface": "ערшנу",
+      "gloss": "тахти мо"
+    },
+    {
+      "surface": "раанана",
+      "gloss": "сабзу фароғат аст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.126098594Z",
+  "model": "glm-5.3"
+}

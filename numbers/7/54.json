@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Рӯзи ҳаштум — сардори бани Менаше: Гамлиэл, писари Педаҳтсур.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "рӯзи"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ҳаштум"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "сардори"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "бани"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педаҳ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "тсур"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:34.865281781Z",
+  "model": "glm-5.3"
+}

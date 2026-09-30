@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва ⟨агар⟩ дар либос ногоҳии тсараат бошад — дар либоси пашм ё дар либоси зироатҳои катон —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "Ва либос"
+    },
+    {
+      "surface": "כי",
+      "gloss": "агар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дар он"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ногоҳӣ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "тсараат"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "дар либоси"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "пашм"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "дар либоси"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "катон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:58:10.846070061Z",
+  "model": "glm-5.3"
+}

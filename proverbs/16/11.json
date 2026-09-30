@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Тарозу ва пулакҳои тседек — аз Яҳве; кори Ӯст ҳама сангҳои киса.",
+  "tokens": [
+    {
+      "surface": "פלс",
+      "gloss": "тарозу"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ва пулакҳои"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "аз Яҳве"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "кори Ӯст"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳама"
+    },
+    {
+      "surface": "АВНЕЙ (אבני)",
+      "gloss": "сангҳои"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "киса"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:18.445652780Z",
+  "model": "glm-5.3"
+}

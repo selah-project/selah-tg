@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва бо дили Довуди падарам буд, ки барои Номи Яҳве, Элоҳими Йисроэл, хонае бисозад.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ва буд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "дили"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падарам"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "кӣ бисозад"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонае"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "барои Номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T19:44:21.282698663Z",
+  "model": "glm-5.3"
+}

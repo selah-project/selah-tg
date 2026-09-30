@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "подшоҳи Маккеда — яке; подшоҳи Байт-Эл — яке;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Маккеда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Байт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Эл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "яке"
+    }
+  ],
+  "timestamp": "2026-09-30T16:27:22.861290857Z",
+  "model": "glm-5.3"
+}

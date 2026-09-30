@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Фарзандони Шовал: Алyon ва Манахат ва Эйвал, Шефӣ ва Онам; ва фарзандони Тсивъон: Айя ва Ана.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Фарзандони"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовал"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "Алён"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ва Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ва Эйвал"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "Шефӣ"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ва Онам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ва фарзандони"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Тсивъон"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Айя"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ва Ана"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:05.750381857Z",
+  "model": "glm-5.3"
+}

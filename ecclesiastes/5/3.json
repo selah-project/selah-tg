@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Чун ба Элоҳим назр меназрӣ, дер макун адои онро, зеро дар нодонон хоиш нест; ⟨את⟩ он чиро ки меназрӣ — адо кун.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "чун"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "меназрӣ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "назр"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ба Элоҳим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "макун"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "дер"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "адои онро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хоиш"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "дар нодонон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он чиро ки меназрӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чиро ки"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "меназрӣ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "адо кун"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:19.827708842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Авраҳом боз зан гирифт ва номи ӯ Кетура буд.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "боз афзуд"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ва гирифт"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ва номи ӯ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Кетура"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:38.717215752Z",
+  "model": "glm-5.3"
+}

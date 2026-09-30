@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва дар охири чил рӯз ва чил шаб Яҳве ба ман ⟨את⟩ дудона лавҳаҳои сангинро — лавҳаҳои аҳдро дод.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва ба амал омад"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "дар охири"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ва чил"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шаб"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дудона лавҳаҳои сангин"
+    },
+    {
+      "surface": "שני",
+      "gloss": "дудона"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "лавҳаҳои"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "сангин"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "лавҳаҳои"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "аҳд"
+    }
+  ],
+  "timestamp": "2026-09-30T16:15:31.898818922Z",
+  "model": "glm-5.3"
+}

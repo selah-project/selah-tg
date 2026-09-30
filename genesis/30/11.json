@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Лея гӯфт: «Бақад!» ва номи ӯро Гад гузошт.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "гӯфт"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Бақад"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "гузошт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номи ӯро"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:00.739950563Z",
+  "model": "glm-5.3"
+}

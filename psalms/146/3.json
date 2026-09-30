@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 146,
+  "translation": "Ба сардорон такя накунед ва ба писари одам не, ки ӯро наҷот нест.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "такя накунед"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ба сардорон"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ба писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "ки... нест"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ӯро"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "наҷот"
+    }
+  ],
+  "timestamp": "2026-09-30T20:11:54.349451586Z",
+  "model": "glm-5.3"
+}

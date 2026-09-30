@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Кӯш Нимродро зойид; ӯ дар замин gibbor шуданро оғоз кард.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ва Кӯш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "зойид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимрод"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Нимрод"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "оғоз кард"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "шуданро"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "қаҳрамон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "дар замин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:13:17.153278496Z",
+  "model": "glm-5.3"
+}

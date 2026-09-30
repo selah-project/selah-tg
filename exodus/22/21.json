@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Ҳар бевазан ва ятимеро озор надиҳед.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "бевазан"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ва ятим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "озор медиҳед"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:32.792899479Z",
+  "model": "glm-5.3"
+}

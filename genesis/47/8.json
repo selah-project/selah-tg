@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Ва гуфт Паръо ба Яъқуб: «Чанданд рӯзҳои солҳои ҳаёти ту?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паръо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқуб"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "чанд"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "рӯзҳои"
+    },
+    {
+      "surface": "שני",
+      "gloss": "солҳои"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ҳаёти ту"
+    }
+  ],
+  "timestamp": "2026-09-30T15:28:31.756630124Z",
+  "model": "glm-5.3"
+}

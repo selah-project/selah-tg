@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба дасти қавӣ ва ба зироҳи густурда, ки то абад аст ҳеседи Ӯ.",
+  "tokens": [
+    {
+      "surface": "беру",
+      "gloss": "ба дасти"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "қавӣ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ва ба зироҳи"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "густурда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:04.409301611Z",
+  "model": "glm-5.3"
+}

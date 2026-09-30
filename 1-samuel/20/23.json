@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Ва дар бораи сухане ки ман ва ту гуфтем — инак, Яҳве миёни ман ва ту аст, то абад.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "ва сухан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "гуфтем"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ва ту"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "миёни ман"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ва ту"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "абад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:46:23.086818310Z",
+  "model": "glm-5.3"
+}

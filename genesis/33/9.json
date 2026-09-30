@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Ва Эсов гуфт: Бисёр дорам, бародарам; он чи аз они турост, назди худ бошад.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсов"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "רב",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бародарам"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "назди туро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "аз они турост"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:01.270189798Z",
+  "model": "glm-5.3"
+}

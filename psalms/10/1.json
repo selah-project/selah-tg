@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Чаро, эй Яҳве, дур меистӣ, дар вақтҳои тангӣ худро пинҳон мекунӣ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "меистӣ"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "дур"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "пинҳон мекунӣ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": " дар вақтҳои"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "тангӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:33:02.257145051Z",
+  "model": "glm-5.3"
+}

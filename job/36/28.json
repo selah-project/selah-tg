@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "ки абрҳо чун мерезанд, ба сари одамон фаровон меборанд.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "мерезанд"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "абрҳо"
+    },
+    {
+      "surface": "ירעфו",
+      "gloss": "меборанд"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ба сари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одамон"
+    },
+    {
+      "surface": "רב",
+      "gloss": "фаровон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:10:54.217341103Z",
+  "model": "glm-5.3"
+}

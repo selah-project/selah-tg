@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Бишнавед таълимро ва донӣ шавед ва онро рад накунед.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "бишнавед"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "таълимро"
+    },
+    {
+      "surface": "ווחכמו",
+      "gloss": "ва донӣ шавед"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва накунед"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "онро рад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:27.704960074Z",
+  "model": "glm-5.3"
+}

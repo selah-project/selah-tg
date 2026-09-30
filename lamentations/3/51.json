@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Чашми ман ҷони маро азоб медиҳад, аз сари ҳамаи духтарони шаҳри ман.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "чашми ман"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "азоб медиҳад"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ҷони маро"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аз сари ҳамаи"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "духтарон"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "шаҳри ман"
+    }
+  ],
+  "timestamp": "2026-09-30T20:14:05.496856002Z",
+  "model": "glm-5.3"
+}

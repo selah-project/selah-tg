@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Танҳо инро бинед, ки ёфтам: Элоҳим одамро рост сохтааст, вале онҳо ҳилаҳои бисёр ҷустаанд.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бинед"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ин"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ёфтам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохтааст"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одам"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "рост"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "вале онҳо"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ҷустаанд"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "ҳилаҳо"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "бисёр"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:07.966436025Z",
+  "model": "glm-5.3"
+}

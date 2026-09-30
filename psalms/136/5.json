@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 136,
+  "translation": "Ба_Offаридани осмонҳоро бо дониш, ки ҳесед-и Ӯ то абад аст.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Ба-офаридани"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "бо дониш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳесед-и Ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:03.992875957Z",
+  "model": "glm-5.3"
+}

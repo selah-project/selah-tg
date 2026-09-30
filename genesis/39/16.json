@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Ва ӯ ҷомаашро назди худ нигоҳ дошт, то ки хӯҷааш ба хонаи худ омад.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ва нигоҳ дошт"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ҷомаашро"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "назди худ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то ки"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "омадан"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "хӯҷааш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "хонаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:25:00.728515748Z",
+  "model": "glm-5.3"
+}

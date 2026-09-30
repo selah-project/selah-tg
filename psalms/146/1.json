@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 146,
+  "translation": "Ситоиш кунед Яҳ! Ситоиш кун, э нефши ман, ⟨את⟩ Яҳве!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Ситоиш кунед"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яҳ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ситоиш кун"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефши ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T20:12:09.152043356Z",
+  "model": "glm-5.3"
+}

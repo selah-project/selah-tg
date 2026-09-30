@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва Яҳве ба Моше сухан ронда гӯён:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан ронда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гӯён"
+    }
+  ],
+  "timestamp": "2026-09-30T15:34:43.167046810Z",
+  "model": "glm-5.3"
+}

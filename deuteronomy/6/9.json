@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва онҳоро бар дарвозаҳои хонаи худ ва бар дарвозаҳои худ нависӣ.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "нависӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "дарвозаҳо"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "хонаи худ"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ва бар дарвозаҳои худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:18.457916840Z",
+  "model": "glm-5.3"
+}

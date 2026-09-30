@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Зеро ки Ман нафси хастаро сер кардам ва ҳар нафси ғамгинро пур намудам.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "сердам"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафси"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "хаста"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳар"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нафси"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ғамгин"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "пур намудам"
+    }
+  ],
+  "timestamp": "2026-09-30T17:49:55.203377823Z",
+  "model": "glm-5.3"
+}

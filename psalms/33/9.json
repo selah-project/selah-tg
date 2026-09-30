@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "Зеро У гуфт — ва ҳаст шуд; У фармуд — ва устувор истод.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "У"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва ҳаст шуд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "У"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ва устувор истод"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:23.498033179Z",
+  "model": "glm-5.3"
+}

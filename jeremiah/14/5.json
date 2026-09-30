@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Зеро ҳатто аҳвӣ дар сафро таваллуд кард ва тарк кард, зеро алаф набуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "аҳвӣ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "дар сафро"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "таваллуд кард"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ва тарк кард"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буд"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "алаф"
+    }
+  ],
+  "timestamp": "2026-09-30T17:45:12.967144333Z",
+  "model": "glm-5.3"
+}

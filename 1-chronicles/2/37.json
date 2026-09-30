@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": " ва Забод ⟨את⟩ Эфлолро зо­д, ва Эфлол ⟨את⟩ Оведро зод.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ва Забод"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфлол"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Эфлол"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ва Эфлол"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овед"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.078374323Z",
+  "model": "glm-5.3"
+}

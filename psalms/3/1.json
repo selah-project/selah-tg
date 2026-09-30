@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Мазмур аз Довуд, чун ӯ аз рӯйи Авшалом писараш гурехт.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "аз Довуд"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "чун гурехт"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "аз рӯйи"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:31:26.157601285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "⟨את⟩ ду ароба ва ⟨את⟩ чор гов ба фарзандони Гершон дод, мувофиқи хизматашон.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ду ароба"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ду"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ароба"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "чор гов"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "чор"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "гов"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дод"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ба фарзандони"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "мувофиқи"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "хизматашон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:25.067583280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Бори калами Яҳве ба Йисроэл, бо дасти Малоқӣ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "бор"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "калами"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "бо дасти"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Малоқӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:30:27.806171544Z",
+  "model": "glm-5.3"
+}

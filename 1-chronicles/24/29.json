@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Аз Киш: писарони Киш — Ярахмеел.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "аз Киш"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киш"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Ярахмеел"
+    }
+  ],
+  "timestamp": "2026-09-30T19:41:54.107185848Z",
+  "model": "glm-5.3"
+}

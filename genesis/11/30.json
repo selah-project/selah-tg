@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва Сорай бекор буд; фарзанде надошт.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сорай"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "бекор"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "לה",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "фарзанд"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:48.715525609Z",
+  "model": "glm-5.3"
+}

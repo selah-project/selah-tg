@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва борон чил рӯз ва чил шаб бар замин буд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва... буд"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "борон"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "чил"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ва чил"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шаб"
+    }
+  ],
+  "timestamp": "2026-09-30T15:12:36.427647421Z",
+  "model": "glm-5.3"
+}

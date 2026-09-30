@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва ту марсияе бардор бар сарҳои нӯшириёни Йисроэл",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ва ту"
+    },
+    {
+      "surface": "שא",
+      "gloss": "бардор"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "марсия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "нӯшириёни"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:05:31.200278589Z",
+  "model": "glm-5.3"
+}

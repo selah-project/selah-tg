@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва тамоми замин як лаб (забон) дошт ва суханон якто буданд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "лаб (забон)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "як"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ва суханон"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "якто"
+    }
+  ],
+  "timestamp": "2026-09-30T15:14:18.821444871Z",
+  "model": "glm-5.3"
+}

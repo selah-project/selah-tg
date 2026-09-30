@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 105,
+  "translation": "Ӯст Яҳве, Элоҳими мо; дар тамоми замин довариҳои Ӯанд.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ӯст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элоҳими мо"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "довариҳои Ӯанд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:45.190262279Z",
+  "model": "glm-5.3"
+}

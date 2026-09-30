@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 102,
+  "translation": "Ва Ту, эй Яҳве, то абад меистӣ ва ёди Ту насл ба насл аст.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ва Ту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "меистӣ"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ва ёди Ту"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "насл"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ба насл"
+    }
+  ],
+  "timestamp": "2026-09-30T18:48:05.024847501Z",
+  "model": "glm-5.3"
+}

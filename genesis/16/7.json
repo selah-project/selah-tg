@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва фариштаи Яҳве ӯро назди чашмаи об дар биёбон ёфт, назди он чашма дар роҳи Шӯр.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "ва ёфт ӯро"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "фариштаи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "назди"
+    },
+    {
+      "surface": "עין",
+      "gloss": "чашмаи"
+    },
+    {
+      "surface": "המים",
+      "gloss": "об"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбон"
+    },
+    {
+      "surface": "על",
+      "gloss": "назди"
+    },
+    {
+      "surface": "העין",
+      "gloss": "он чашма"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "дар роҳи"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Шӯр"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:00.400647848Z",
+  "model": "glm-5.3"
+}

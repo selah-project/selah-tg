@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Авраҳом ⟨את⟩ ҳамаи он чи аз они ӯ буд, ба Йитсҳоқ дод.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "вадод"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи он чи аз они ӯ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аз они ӯ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ба Йитсҳоқ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:18:46.374160241Z",
+  "model": "glm-5.3"
+}

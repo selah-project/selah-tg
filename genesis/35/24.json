@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 35,
+  "translation": "Писарони Роҳел: Йосеф ва Бинёмин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Писарони"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Роҳел"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ва Бинёмин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:27.262666506Z",
+  "model": "glm-5.3"
+}

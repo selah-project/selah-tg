@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Элиав писараш, Йероҳам писараш, Элкана писараш.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йероҳам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:49.189045779Z",
+  "model": "glm-5.3"
+}

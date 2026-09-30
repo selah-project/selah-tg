@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва ҳамаи аҳли замин ба ҷангал омаданд, ва ⟨буд⟩ асал бар рӯи саҳро.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ва ҳамаи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "аҳли замин"
+    },
+    {
+      "surface": "באו",
+      "gloss": "омаданд"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ба ҷангал"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ва ⟨буд⟩"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "асал"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "саҳро"
+    }
+  ],
+  "timestamp": "2026-09-30T16:46:02.360588531Z",
+  "model": "glm-5.3"
+}

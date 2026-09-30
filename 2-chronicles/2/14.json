@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва ҳоло ғалламию ҷав, равған ва шароб, ки хоҷаам гуфт, ба ғуломонаш бифиристад.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва ҳоло"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ғалла"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "ва ҷав"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "равған"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "ва шароб"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "хоҷаам"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "бифиристад"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ба ғуломонаш"
+    }
+  ],
+  "timestamp": "2026-09-30T19:45:11.459450440Z",
+  "model": "glm-5.3"
+}

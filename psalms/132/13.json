@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 132,
+  "translation": "Зеро Яҳве Тсийонро интихоб кард, онро ба манзили худ орзу намуд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "интихоб кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Тсийонро"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "орзу намуд"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "ба манзил"
+    },
+    {
+      "surface": "לו",
+      "gloss": "худ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:17.327062475Z",
+  "model": "glm-5.3"
+}

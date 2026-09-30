@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва дар понздаҳумин рӯзи ҳамин моҳ ид аст; ҳафта рӯз мацот хӯрда мешавад.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "Ва дар понздаҳумин"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(порсо)даҳ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "моҳ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ҳамин"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ид"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ҳафта"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯз"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "хӯрда мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T16:08:19.303162773Z",
+  "model": "glm-5.3"
+}

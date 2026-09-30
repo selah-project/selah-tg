@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Ва чун ӯро озод аз назди худ равона кунӣ, ӯро холӣ равона накунӣ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ва чун"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ӯро равона кунӣ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "озод"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "аз назди худ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ӯро равона накунӣ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "холӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:15.228236168Z",
+  "model": "glm-5.3"
+}

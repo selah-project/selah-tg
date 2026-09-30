@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ҳатсро ⟨⟨аз⟩⟩ Кармел, Наъарой писари Эзбой.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Ҳатсро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "кармелӣ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Наъарой"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Эзбой"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:59.339359271Z",
+  "model": "glm-5.3"
+}

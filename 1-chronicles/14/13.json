@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва плиштиён боз илова карданд ва дар ⟨⟩ водӣ паҳн шуданд.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "илова карданд"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "боз"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштиён"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "паҳн шуданд"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "дар водӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:39:40.304744881Z",
+  "model": "glm-5.3"
+}

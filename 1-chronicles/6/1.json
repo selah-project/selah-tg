@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Фарзандони Левӣ: Гершом, Кеҳат ва Мерарӣ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левӣ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеҳат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ва Мерарӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:51.417447825Z",
+  "model": "glm-5.3"
+}

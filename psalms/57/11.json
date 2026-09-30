@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 57,
+  "translation": "Зеро ҳеседи то ба осмонҳо калони туст, ва то абрҳо ростгӯии ту.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "калон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "осмонҳо"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ҳеседи ту"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва то"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "абрҳо"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ростгӯии ту"
+    }
+  ],
+  "timestamp": "2026-09-30T18:39:57.474061595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Баде ҳаст, ки зери офтобин дидаам — мисли хатоие ки аз рӯи ҳоким баромадааст.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ҳаст"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "баде"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "дидаам"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтобин"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "мисли хатоие"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "ки баромадааст"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "аз рӯи"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "ҳоким"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:38.391472020Z",
+  "model": "glm-5.3"
+}

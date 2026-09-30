@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва гурезгоҳ аз чӯпонҳо нобуд шуд, ва наҷот аз бузургони гала.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Ва нобуд шуд"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "гурезгоҳ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "чӯпонҳо"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "ва наҷот"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "аз бузургони"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "гала"
+    }
+  ],
+  "timestamp": "2026-09-30T17:48:32.906173785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Йеҳуда ва Бинёмин ва Шимъё ва Ирмиё",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ва Бинёмин"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ва Шимъё"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "ва Ирмиё"
+    }
+  ],
+  "timestamp": "2026-09-30T19:34:01.895046394Z",
+  "model": "glm-5.3"
+}

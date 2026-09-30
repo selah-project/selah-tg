@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Дон ва Нафтали, Год ва Ошер.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дон"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ва Нафтали"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Год"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ва Ошер"
+    }
+  ],
+  "timestamp": "2026-09-30T15:29:37.778656046Z",
+  "model": "glm-5.3"
+}

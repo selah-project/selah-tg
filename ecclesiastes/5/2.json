@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Зеро хоб аз бисёрии машғулият меояд, ва овози нодон дар бисёрии суханон аст.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "хоб"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "аз бисёрии"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "машғулият"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ва овози"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "дар бисёрии"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "суханон"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:19.827526191Z",
+  "model": "glm-5.3"
+}

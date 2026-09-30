@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Бори Дума. Ба ман аз Сеъир кадоме меномад: Нигаҳбоне, чӣ аз шаб? Нигаҳбоне, чӣ аз шаб?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бори"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Дума"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ба ман"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "меномад"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "аз Сеъир"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Нигаҳбоне"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "аз шаб"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Нигаҳбоне"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "аз шаб"
+    }
+  ],
+  "timestamp": "2026-09-30T17:26:34.871787072Z",
+  "model": "glm-5.3"
+}

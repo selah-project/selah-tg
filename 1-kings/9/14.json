@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Ҳирам ба подшоҳ сад ва бист таланти тилло фиристод.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ва … фиристод"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Ҳирам"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ба подшоҳ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ва бист"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "таланти"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    }
+  ],
+  "timestamp": "2026-09-30T17:06:02.500545568Z",
+  "model": "glm-5.3"
+}

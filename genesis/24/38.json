@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Балки ба хонаи падарам ва ба хешоватони ман рав ва зан барои писарам аз онҷо бигир.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "агар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בית",
+      "gloss": "хонаи"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падарам"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "рав"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "хешоватони ман"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ва гир"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "барои писарам"
+    }
+  ],
+  "timestamp": "2026-09-30T15:19:06.729549721Z",
+  "model": "glm-5.3"
+}

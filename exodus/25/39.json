@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Як кикори зарри тоза онро созонад — ⟨את⟩ ҳамаи ин асбобҳоро.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "як кикори"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "зарри"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "тоза"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "созонад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "онро (менораро)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ҳамаи асбобҳоро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "асбобҳоро"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ин"
+    }
+  ],
+  "timestamp": "2026-09-30T15:38:48.601162731Z",
+  "model": "glm-5.3"
+}

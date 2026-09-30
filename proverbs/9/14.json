@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва бар дарвозаи хонаи худ менишинад, бар тахте дар баландиҳои шаҳр.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "менишинад"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "бар дарвозаи"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "хонаи худ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тахт"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "баландиҳои"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "шаҳр"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:39.123159752Z",
+  "model": "glm-5.3"
+}

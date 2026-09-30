@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Этсер сарвар, Овадя дуюм, Элиав саввум.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Этсер"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "сарвар"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадя"
+    },
+    {
+      "surface": "השני",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "саввум"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:12.219842319Z",
+  "model": "glm-5.3"
+}

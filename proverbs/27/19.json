@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Ҳамчун об, ки рӯй ба рӯй ⟨меравад⟩, ҳамин тавр дилҳои одам ба одам.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ҳамчун об"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "рӯй"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ба рӯй"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ҳамин тавр"
+    },
+    {
+      "surface": "לב",
+      "gloss": "дил"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ба одам"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:43.584373186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва одам хам шуд, ва мард паст шуд — ва ба онҳо бармагардон.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ва хам шуд"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ва паст шуд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ва магар"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "бармагардон"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ба онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T17:21:00.526963374Z",
+  "model": "glm-5.3"
+}

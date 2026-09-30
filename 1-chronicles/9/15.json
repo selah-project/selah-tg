@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва Бакбаккар, Хереш ва Галал, ва Маттанйаҳ писари Мийко, писари Зихрӣ, писари Оcоф.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Ва Бакбаккар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереш"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ва Галал"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ва Маттанйаҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Мийко"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихрӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Оcоф"
+    }
+  ],
+  "timestamp": "2026-09-30T19:38:30.971583782Z",
+  "model": "glm-5.3"
+}

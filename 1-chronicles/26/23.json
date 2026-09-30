@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Амрамиҳо, Йитсҳориҳо, Хеброниҳо ва Узӣэлиҳо.",
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "Амрамиҳо"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "Йитсҳориҳо"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "Хеброниҳо"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "Узӣэлиҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T19:42:38.952961164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ё дар арғомчин ё дар пудмоӣ, аз зироат ё аз пашм, ё дар пӯст, ё дар ҳар гуна кори пӯст —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "дар арғомчин"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "дар пудмоӣ"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "аз зироат"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "ё аз пашм"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "дар пӯст"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳар гуна"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "кори"
+    },
+    {
+      "surface": "עור",
+      "gloss": "пӯст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:57:51.407874767Z",
+  "model": "glm-5.3"
+}

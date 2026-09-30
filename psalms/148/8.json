@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 148,
+  "translation": "Оташ ва жола, барф ва туман, руҳи тӯфоне, ки сухани ӯро иҷро мекунад.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "оташ"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ва жола"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "барф"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ва туман"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руҳи"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "тӯфон"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "иҷро мекунад"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сухани ӯро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:27.245144995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Чаро одами зинда, гебр, барои гуноҳи худ шикоят мекунад?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "чаро"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "шикоят мекунад"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одами"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зинда"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "гебр"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "гуноҳи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T20:13:40.976937998Z",
+  "model": "glm-5.3"
+}

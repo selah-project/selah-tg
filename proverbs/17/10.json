@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 17,
+  "translation": "Маломат дар фаҳмодар сахътар мерасад, аз сад зарба ба нодон.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "мерасад"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "маломат"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "дар фаҳмодар"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "аз зарба"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нодон"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:18.436781286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Навдаҳои ту боғи анорҳост, бо меваҳои беҳтарин; хина бо нарди ширазӣ.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "навдаҳои ту"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "боғ"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "анорҳо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "меваҳои"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "беҳтарин"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "хина"
+    },
+    {
+      "surface": "עם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "нарди ширазӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:31.110210054Z",
+  "model": "glm-5.3"
+}

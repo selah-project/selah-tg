@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва калонӣ писаре зойид ва номи ӯро Моов гузошт — ӯй аст падари Моов то имрӯз.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "зойид"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "калонӣ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писаре"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "гузошт номи"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "номи ӯро"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯй"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моов"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T15:16:50.104657992Z",
+  "model": "glm-5.3"
+}

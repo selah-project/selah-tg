@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ҳаётро аз Ту талаб кард, ба ӯ додӣ — дарозии рӯзҳо, то абад ва ҳамеша.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "талаб кард"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "аз Ту"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "додӣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дарозии"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "рӯзҳо"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ва ҳамеша"
+    }
+  ],
+  "timestamp": "2026-09-30T18:34:25.253471581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Хӯрдани асали бисёр нек нест, ва таҳқиқи ҷалолашон ҷалол нест.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "хӯрдан"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "асал"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ва таҳқиқ"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "ҷалолашон"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ҷалол"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:07.851364223Z",
+  "model": "glm-5.3"
+}

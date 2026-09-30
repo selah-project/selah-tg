@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 139,
+  "translation": "Ва барои ман чӣ гарон аст рәеҳҳои Ту, э Эл! Чӣ беададанд сарҳои онҳо!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ва барои ман"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "гарон аст"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "рәеҳҳои Ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "э Эл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чӣ"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "беададанд"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "сарҳои онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:30.868277061Z",
+  "model": "glm-5.3"
+}

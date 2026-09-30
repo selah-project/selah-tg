@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва Яҳве Элоҳим гуфт: Нек нест будани одам танҳо; барои ӯ ёваре мувофиқи ӯ месозам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ва гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элоҳим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    },
+    {
+      "surface": "היות",
+      "gloss": "будан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "одам"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "месозам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "барои ӯ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ёвар"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "мувофиқи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:55:27.911915802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ва Моше шунид, ва он дар назараш некӯ шуд.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ва шунид"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ва некӯ шуд"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "дар назараш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:49:46.921343982Z",
+  "model": "glm-5.3"
+}

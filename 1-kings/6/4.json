@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Ва барои хона тирезаҳои шақуф отум сохт.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "лבית",
+      "gloss": "барои хона"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "тирезаҳои"
+    },
+    {
+      "surface": "שקфים",
+      "gloss": "шақуф"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "отум"
+    }
+  ],
+  "timestamp": "2026-09-30T20:02:34.000780982Z",
+  "model": "glm-5.3"
+}

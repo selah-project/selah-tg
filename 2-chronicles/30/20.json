@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Яҳве ба Хизқияҳу гӯш кард ва ⟨את⟩ халқро шифо бахшид.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ва гӯш кард"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизқияҳу"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ва шифо бахшид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "халқ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "халқро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:53:09.659874461Z",
+  "model": "glm-5.3"
+}

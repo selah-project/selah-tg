@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Биншинад танҳо ва хомӯш бошад, зеро [он юғро] бар ӯ гузоштаанд.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Биншинад"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "танҳо"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ва хомӯш бошад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "гузоштаанд"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "бар ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:16:13.301297823Z",
+  "model": "glm-5.3"
+}

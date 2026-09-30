@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Аз онҳо натарс, зеро Яҳве Элоҳими ту дар миёни туст — Эли бузург ва нитарсонанда.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "тарс"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "аз онҳо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "дар миёни туст"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "бузург"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ва нитарсонанда"
+    }
+  ],
+  "timestamp": "2026-09-30T16:14:01.846904515Z",
+  "model": "glm-5.3"
+}

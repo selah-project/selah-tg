@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": " ва Овед ⟨את⟩ Йеҳӯро зод, ва Йеҳӯ ⟨את⟩ Азарёро зод.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ва Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеҳӯ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йеҳӯ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ва Йеҳӯ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарё"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарё"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:28.078657200Z",
+  "model": "glm-5.3"
+}

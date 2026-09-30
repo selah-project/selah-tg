@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 132,
+  "translation": "То он ки ҷое барои Яҳве ёбам, Мишканҳое барои Қавии Яъқов.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "То он ки"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ёбам"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ҷое"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "барои Яҳве"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишканҳое"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "барои Қавии"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқов"
+    }
+  ],
+  "timestamp": "2026-09-30T18:52:37.230228577Z",
+  "model": "glm-5.3"
+}

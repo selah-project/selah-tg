@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ӯ бе тарбия мемирад ва дар бисёрии аблаҳии худ гумроҳ мешавад.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ӯ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "мемирад"
+    },
+    {
+      "surface": "באין",
+      "gloss": "бе"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбия"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ва дар бисёрии"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "аблаҳии худ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "гумроҳ мешавад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:02.120914563Z",
+  "model": "glm-5.3"
+}

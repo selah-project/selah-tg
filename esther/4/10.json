@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва Эстер ба Ҳатак гуфт ва ӯро ба сӯи Мордехай фармуд.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "ба Ҳатак"
+    },
+    {
+      "surface": "ויצוהו→ותצוהו",
+      "gloss": "фармуд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехай"
+    }
+  ],
+  "timestamp": "2026-09-30T19:20:05.222866611Z",
+  "model": "glm-5.3"
+}

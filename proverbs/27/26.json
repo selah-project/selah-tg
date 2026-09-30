@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 27,
+  "translation": "Гӯсфандон барои либоси ту, ва бузҳои нар баҳои майдон.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "гӯсфандон"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "барои либоси ту"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "ва баҳо"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "майдон"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "бузҳои нар"
+    }
+  ],
+  "timestamp": "2026-09-30T19:01:25.949360463Z",
+  "model": "glm-5.3"
+}

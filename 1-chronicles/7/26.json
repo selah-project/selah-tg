@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Лаъдон писари ӯ, Аммиҳуд писари ӯ, Элишама писари ӯ —",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Лаъдон"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиҳуд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писари ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T19:37:30.108083294Z",
+  "model": "glm-5.3"
+}

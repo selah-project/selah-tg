@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 34,
+  "translation": "Чашмони Яҳве ба сӯи тседиқон ва гӯшҳои Ӯ ба сӯи фарёди онҳо.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "чашмони"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "тседиқон"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ва гӯшҳои Ӯ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба сӯи"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "фарёди онҳо"
+    }
+  ],
+  "timestamp": "2026-09-30T18:36:36.703065186Z",
+  "model": "glm-5.3"
+}

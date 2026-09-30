@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 12,
+  "translation": "Ба Яҳве, Элоҳими худ, чунин накунед.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "кунед"
+    },
+    {
+      "surface": "כן",
+      "gloss": "чунин"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳими худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:16:35.078334637Z",
+  "model": "glm-5.3"
+}

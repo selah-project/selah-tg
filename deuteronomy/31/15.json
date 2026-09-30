@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Яҳве дар хайма пайдо шуд, дар сутуни абр, ва сутуни абр бар даромадгоҳи хайма истод.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ва пайдо шуд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "дар хайма"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "дар сутуни"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "абр"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ва истод"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "сутуни"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "абр"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "даромадгоҳи"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "хайма"
+    }
+  ],
+  "timestamp": "2026-09-30T16:23:36.736185851Z",
+  "model": "glm-5.3"
+}

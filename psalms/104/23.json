@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 104,
+  "translation": "Одам ба кори худ ва ба хидмати худ то бегоҳ меравад.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "меравад"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Одам"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ба кори худ"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "ва ба хидмати худ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "то"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "бегоҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:35.393611381Z",
+  "model": "glm-5.3"
+}

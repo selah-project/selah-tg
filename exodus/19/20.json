@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва Яҳве бар кӯҳи Синай, ба сари кӯҳ фуруд омад, ва Яҳве Мошеро ба сари кӯҳ баҳо дод, ва Моше боло рафт.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "фуруд омад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "баҳо дод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошеро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "сари"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "боло рафт"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-30T15:35:32.909705702Z",
+  "model": "glm-5.3"
+}

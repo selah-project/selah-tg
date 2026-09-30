@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Ва Зилпа, канизи Лея, ба Яъқов писар зоид.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "канизи"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ба Яъқов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    }
+  ],
+  "timestamp": "2026-09-30T15:20:00.739798018Z",
+  "model": "glm-5.3"
+}

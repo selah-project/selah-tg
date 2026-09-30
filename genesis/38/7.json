@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 38,
+  "translation": "Ва Эр, бекори Йеҳуда, бад буд дар назди Яҳве, ва Яҳве ӯро мурдонид.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "буд"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "бекор"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеҳуда"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бад"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "мурдонид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    }
+  ],
+  "timestamp": "2026-09-30T15:24:43.081753036Z",
+  "model": "glm-5.3"
+}

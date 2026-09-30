@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 47,
+  "translation": "Эй шамшери Яҳве, то кай ором намешавӣ? Ҷамъ шав, ба ғилофат дарояр; ором шав ва хомӯш кун!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Эй"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "шамшери"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "наме"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ором мешавӣ"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "Ҷамъ шав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "ғилофат"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "ором шав"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ва хомӯш кун"
+    }
+  ],
+  "timestamp": "2026-09-30T17:55:31.712712557Z",
+  "model": "glm-5.3"
+}

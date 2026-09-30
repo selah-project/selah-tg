@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва Самла мурд, ва ба ҷои ӯ Шаул аз Реховоти дарё подшоҳӣ кард.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "мурд"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "подшоҳӣ кард"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ба ҷои ӯ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "аз Реховот"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "дарё"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:27.809096182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Оҳ, онҳо зулм кор намекунанд, дар роҳҳои Ӯ мегарданд.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "оҳ, низ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "кор намекунанд"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "зулм"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "дар роҳҳои Ӯ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "мегарданд"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:03.503541053Z",
+  "model": "glm-5.3"
+}

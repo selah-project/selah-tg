@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Ва фарзандони Лотон шуданд: Ҳорӣ ва Ҳеймом; ва хоҳари Лотон — Тимнаъ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "шуданд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотон"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Ҳорӣ"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "ва Ҳеймом"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ва хоҳари"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотон"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимнаъ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:23:23.169069977Z",
+  "model": "glm-5.3"
+}

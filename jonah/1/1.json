@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Ва сухари Яҳве ба Йӯнаҳ, писари Амиттай омад, бо гуфтор:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ва буд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сухан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йӯнаҳ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Амиттай"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "бо гуфтор"
+    }
+  ],
+  "timestamp": "2026-09-30T18:23:55.256505312Z",
+  "model": "glm-5.3"
+}

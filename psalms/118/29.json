@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 118,
+  "translation": "Сипос гузоред ба Яҳве, зеро некӯ аст, зеро ҳеседи ӯ то абад.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "сипос гузоред"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "некӯ аст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "то абад"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ҳеседи ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:50:18.014710841Z",
+  "model": "glm-5.3"
+}

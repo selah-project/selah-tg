@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Ва обҳо аз баҳр кам шаванд, ва наҳр вайрон ва хушк хоҳад шуд.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "кам шаванд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "обҳо"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "аз баҳр"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ва наҳр"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "вайрон хоҳад шуд"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ва хушк"
+    }
+  ],
+  "timestamp": "2026-09-30T17:26:38.599698563Z",
+  "model": "glm-5.3"
+}

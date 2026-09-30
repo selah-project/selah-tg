@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва коҳин фармон медиҳад, ва ⟨את⟩ паррандаи якеро бар замили сафолӣ бар оби зинда мебурад.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "фармон медиҳад"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коҳин"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "мебурад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "паррандаи яке"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "парранда"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "яке"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "замил"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "сафолӣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מים",
+      "gloss": "об"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "зинда"
+    }
+  ],
+  "timestamp": "2026-09-30T15:50:49.272406694Z",
+  "model": "glm-5.3"
+}

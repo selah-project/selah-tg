@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва ин кор дар назари Авраҳам бисёр бад буд, аз баҳри писараш.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "бад буд"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ин кор"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "бисёр"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назари"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраҳам"
+    },
+    {
+      "surface": "על",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "баҳри"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    }
+  ],
+  "timestamp": "2026-09-30T15:17:10.808663320Z",
+  "model": "glm-5.3"
+}

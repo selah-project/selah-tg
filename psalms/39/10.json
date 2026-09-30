@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 39,
+  "translation": "Хомӯш шудам, даҳонамро кушодам, зеро Ту онро кардаӣ.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "хомӯш шудам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "кушодам"
+    },
+    {
+      "surface": "פי",
+      "gloss": "даҳонамро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "онро кардаӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:53.639148586Z",
+  "model": "glm-5.3"
+}

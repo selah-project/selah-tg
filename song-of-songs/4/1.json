@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 4:1",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Инак, ту зебаӣ, ёри ман; инак, ту зебаӣ; чашмони ту монанди kabutarond, пушти рӯймоли туро; мӯйҳои туро чун гурӯҳи бузҳо, ки аз кӯҳи Гилъод мебароянд.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "инак"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебаӣ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ёри ман"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "инак"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебаӣ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "чашмони ту"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "kabutarond"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "пушти"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "рӯймоли туро"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "мӯйҳои туро"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "чун гурӯҳи"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "бузҳо"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "ки мебароянд"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "аз кӯҳи"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилъод"
+    }
+  ],
+  "timestamp": "2026-09-30T19:14:05.285726594Z",
+  "model": "glm-5.3"
+}

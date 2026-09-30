@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ба ёд овар, эй Яҳве, он чи бар мо расид; нигаҳ кун ва бубин ⟨את⟩ хорӣ моро.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ба ёд овар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "он чи"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бар мо"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "нигаҳ кун"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ва бубин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хорӣ моро"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "хорӣ моро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:17:27.504955507Z",
+  "model": "glm-5.3"
+}

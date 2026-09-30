@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 15,
+  "translation": "Тарси Яҳве — тарбияи ҳикмат аст, ва пеш аз шуҳрат — хоксорӣ.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "тарси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбияи"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ҳикмат"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ва пеш аз"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "шуҳрат"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "хоксорӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:59.972586617Z",
+  "model": "glm-5.3"
+}

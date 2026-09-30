@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 119,
+  "translation": "Аз довариҳои Ту нагардидам, зеро Ту маро таълим додӣ.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "аз довариҳои Ту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "гардидам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ту"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "маро таълим додӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:51:21.691930006Z",
+  "model": "glm-5.3"
+}

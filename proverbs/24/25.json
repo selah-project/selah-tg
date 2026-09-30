@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Аммо ба маломatkunandagon хуш меояд, ва бар онҳо баракати нек меояд.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "ба маломаткунондагон"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "хуш меояд"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "ва бар онҳо"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "меояд"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "баракати"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "нек"
+    }
+  ],
+  "timestamp": "2026-09-30T19:00:48.186674539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "ва ҳа-Аввим, ва ҳа-Пара, ва Офра",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ва ҳа-Аввим"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ва ҳа-Пара"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ва Офра"
+    }
+  ],
+  "timestamp": "2026-09-30T16:28:57.304045808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 6,
+  "translation": "Туро барок диҳад Яҳве ва туро нигоҳ дорад.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "туро барок диҳад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "ва туро нигоҳ дорад"
+    }
+  ],
+  "timestamp": "2026-09-30T15:58:52.896198232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Ва ӯ ду керувини тилло сохт — кори микша онҳоро сохт, аз ду канори капорет.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "керувин"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "тилло"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "кори микша"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сохт"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ онҳо",
+      "marks": "керувинҳо"
+    },
+    {
+      "surface": "משני",
+      "gloss": "аз ду"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "канори"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "капорет"
+    }
+  ],
+  "timestamp": "2026-09-30T15:43:30.454074156Z",
+  "model": "glm-5.3"
+}

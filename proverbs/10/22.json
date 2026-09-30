@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Баракати Яҳве — ⟨он⟩ ғанӣ месозад, ва бо он ягон ранҷ афзуда намешавад.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "Баракати"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ғанӣ месозад"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "афзуда намешавад"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ранҷ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "бо он"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:44.668759002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 2,
+  "translation": "Ва писарони Оном Шаммай ва Ёдаъ буданд; ва писарони Шаммай: Надов ва Авишур.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "буданд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Оном"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ва Ёдаъ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ва писарони"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надов"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "ва Авишур"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:39.945493339Z",
+  "model": "glm-5.3"
+}

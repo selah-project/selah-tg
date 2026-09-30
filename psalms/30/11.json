@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Бишнав, эй Яҳве, ва маро раҳмӣ кун; эй Яҳве, ёвари ман бош!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Бишнав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ва маро раҳмӣ кун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бош"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ёвар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "и ман"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:24.392412546Z",
+  "model": "glm-5.3"
+}

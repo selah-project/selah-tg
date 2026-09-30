@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 10,
+  "translation": "Ибтидои суханони даҳони ӯ сархушӣ аст, ва охири даҳони ӯ ҷаҳолати бад аст.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "ибтидои"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "суханони"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "даҳони ӯ"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "сархушӣ"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "ва охири"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "даҳони ӯ"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ҷаҳолат"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "бад"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:29.459928148Z",
+  "model": "glm-5.3"
+}

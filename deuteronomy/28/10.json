@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 28,
+  "translation": "Ва ҳамаи халқҳои замин хоҳанд дид, ки номи Яҳве бар ту номида шудааст, ва аз ту хоҳанд тарсид.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ва хоҳанд дид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳамаи"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "халқҳои"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שם",
+      "gloss": "номи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "номида шудааст"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "бар ту"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ва хоҳанд тарсид"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "аз ту"
+    }
+  ],
+  "timestamp": "2026-09-30T16:20:54.934375437Z",
+  "model": "glm-5.3"
+}

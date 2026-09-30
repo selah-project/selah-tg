@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Элъозар ⟨את⟩ Пинҳасро зоид, Пинҳас ⟨את⟩ Авӣшуъаро зоид.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Элъозар"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пинҳасро"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинҳасро"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинҳас"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "зоид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авӣшуъаро"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авӣшуъаро"
+    }
+  ],
+  "timestamp": "2026-09-30T19:36:32.391355194Z",
+  "model": "glm-5.3"
+}

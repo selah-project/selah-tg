@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Ва ту, эй писари Одам, мегӯяд Адонай Яҳве ба хоки Йисроэл: охир! омад ⟨⟩ охир бар чор болҳои замин.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ва ту"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Одам"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "мегӯяд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "ба хоки"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисроэл"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "охир"
+    },
+    {
+      "surface": "בא",
+      "gloss": "омад"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "охир"
+    },
+    {
+      "surface": "על",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "чор"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "болҳои"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:01:18.643722714Z",
+  "model": "glm-5.3"
+}

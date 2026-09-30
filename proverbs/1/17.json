@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Зеро беҳуда паҳн шуда тор дар назди чашми ҳар соҳиби бол.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "беҳуда"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "паҳн шуда"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "дар назди чашми"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳар"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "соҳиби"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "бол"
+    }
+  ],
+  "timestamp": "2026-09-30T18:54:56.300013809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва шумое ки ба Яҳве, Элоҳии худ, часпидаед — ҳамаи шумо имрӯз ⟨ҳастед⟩ зинда.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ва шумо"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "часпида"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элоҳии худ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "зинда"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ҳамаи шумо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T16:13:41.346912982Z",
+  "model": "glm-5.3"
+}

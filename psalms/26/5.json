@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 26,
+  "translation": "Ман ҷамъомади бадкоронро нафрат доштам ва бо рашқиён намерасам.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "нафрат доштам"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ҷамъомад"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "бадкорон"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "бо"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "рашқиён"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "нерасам"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:21.969362711Z",
+  "model": "glm-5.3"
+}

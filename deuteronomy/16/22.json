@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 16,
+  "translation": "Ва сангини орзишӣ барои худ барпо накун, ки онро Яҳве Элоҳими ту нафрат дорад.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ва накун"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "барпо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "сангини орзишӣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "нафрат дорад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элоҳими ту"
+    }
+  ],
+  "timestamp": "2026-09-30T20:00:26.652636215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Ва ҳоло нафши мо хушк шудааст; ҳеҷ чиз нест, магар мону назди чашмони мо.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ва ҳоло"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "нафси мо"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "хушк шудааст"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нест"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ҳеҷ чиз"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "магар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "назди"
+    },
+    {
+      "surface": "המן",
+      "gloss": "мону"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "чашмони мо"
+    }
+  ],
+  "timestamp": "2026-09-30T16:01:36.447812312Z",
+  "model": "glm-5.3"
+}

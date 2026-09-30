@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 140,
+  "translation": "Медонам, ки Яҳве доварии мазлумро ва ҳукми ҳаҷронро ба ҷо меорад.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "медонам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ба ҷо меорад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "דין",
+      "gloss": "доварӣ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мазлум"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ҳукм"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "ҳаҷрон"
+    }
+  ],
+  "timestamp": "2026-09-30T18:53:03.379115155Z",
+  "model": "glm-5.3"
+}

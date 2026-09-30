@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": " як бузи нар барои қурбонии гуноҳ.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "бузи нар"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "буз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "барои қурбонии гуноҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:59:20.831810577Z",
+  "model": "glm-5.3"
+}

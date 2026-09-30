@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 37,
+  "translation": "Тораи Элоҳимаш дар дил аст; қадамҳояш лоғар намеоянд.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "тораи"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Элоҳимаш"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "дар дил"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "нолағажад"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "қадамҳояш"
+    }
+  ],
+  "timestamp": "2026-09-30T18:37:32.275115928Z",
+  "model": "glm-5.3"
+}

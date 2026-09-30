@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 36,
+  "translation": "Инҳо фарзандони Дишон: Ус ва Арон.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "фарзандони"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Ус"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ва Арон"
+    }
+  ],
+  "timestamp": "2026-09-30T15:22:54.515993145Z",
+  "model": "glm-5.3"
+}

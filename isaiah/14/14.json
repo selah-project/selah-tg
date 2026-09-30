@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ба болои теппаҳои абр мебаромам, ба Элён шабоҳат мекунам.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "мебаромам"
+    },
+    {
+      "surface": "על",
+      "gloss": "ба болои"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "теппаҳои"
+    },
+    {
+      "surface": "עב",
+      "gloss": "абр"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "шабоҳат мекунам"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ба Элён"
+    }
+  ],
+  "timestamp": "2026-09-30T17:25:11.343748447Z",
+  "model": "glm-5.3"
+}

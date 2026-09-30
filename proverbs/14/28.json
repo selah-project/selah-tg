@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Дар бисёрии халқ обрӯи подшоҳ ⟨аст⟩, ва дар нобудии халқ вайронии сарвар.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Дар бисёрии"
+    },
+    {
+      "surface": "עם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "обрӯи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "ва дар нобудии"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "халқ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "вайронии"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "сарвар"
+    }
+  ],
+  "timestamp": "2026-09-30T18:58:12.638277121Z",
+  "model": "glm-5.3"
+}

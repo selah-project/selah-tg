@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "tg",
+  "chapter": 53,
+  "translation": "Кто ба шунидани мо имон овард ва зироҳи Яҳве барои кӣ ошкор шуд?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кто"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "имон овард"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ба шунидани мо"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ва зироҳи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "על",
+      "gloss": "барои"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кӣ"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "ошкор шуд"
+    }
+  ],
+  "timestamp": "2026-09-30T17:37:04.882812992Z",
+  "model": "glm-5.3"
+}

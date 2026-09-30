@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 96,
+  "translation": "Ба Яҳве суруди нав сароед, ба Яҳве сароед, эй тамоми замин.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "сароед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "суруд"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нав"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "сароед"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ба Яҳве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "тамоми"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:47:05.464713352Z",
+  "model": "glm-5.3"
+}

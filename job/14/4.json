@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Кист покро аз нопок барорад? Ҳеч як нест.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кист"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бидиҳад"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "пок"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "аз нопок"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ҳеч як"
+    }
+  ],
+  "timestamp": "2026-09-30T19:06:06.639564125Z",
+  "model": "glm-5.3"
+}

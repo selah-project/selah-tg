@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 18,
+  "translation": "Ва ба Моше гуфт: «Ман хусурат Йитро назди ту меоям, ва занат ва ду писараш бо ӯ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гуфт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "хусурат"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Йитро"
+    },
+    {
+      "surface": "בא",
+      "gloss": "меоям"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "назди ту"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ва занат"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ва ду"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "бо ӯ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:36:29.935234977Z",
+  "model": "glm-5.3"
+}

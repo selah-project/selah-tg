@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 63,
+  "translation": "Зеро Ту ёвари ман будӣ, ва дар сояи болҳоят шодӣ месароям.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "היית",
+      "gloss": "будӣ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ёвар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ва дар сояи"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "болҳоят"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "шодӣ месароям"
+    }
+  ],
+  "timestamp": "2026-09-30T18:41:42.943078364Z",
+  "model": "glm-5.3"
+}

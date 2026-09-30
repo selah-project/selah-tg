@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "қариб буд, ки дар ҳама бадӣ қарор гирам дар миёни ҷамъомад ва маҷлис",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "қариб"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "будам"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "дар ҳама"
+    },
+    {
+      "surface": "רע",
+      "gloss": "бадӣ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дар миёни"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ҷамъомад"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ва маҷлис"
+    }
+  ],
+  "timestamp": "2026-09-30T18:55:16.777512287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Гӯши шунаванда ва чашми бинанда — Яҳве ҳар дуввумашонро офарид.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "гӯш"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "шунаванда"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ва чашм"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "бинанда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "офарид"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ҳатто"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ҳар ду"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:15.062956496Z",
+  "model": "glm-5.3"
+}

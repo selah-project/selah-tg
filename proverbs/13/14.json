@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Тораи ҳаким маъини ⟨ҳаёт⟩ аст, то аз домҳои мард гурехтан.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "тораи"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ҳаким"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "маъин"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ҳаёт"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "то гурехтан"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "аз домҳои"
+    },
+    {
+      "surface": "מות",
+      "gloss": "марг"
+    }
+  ],
+  "timestamp": "2026-09-30T18:57:36.643863666Z",
+  "model": "glm-5.3"
+}

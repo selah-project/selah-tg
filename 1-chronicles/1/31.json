@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Йетур, Нафиш ва Қедема; инҳо писарони Яишмоэланд.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ва Қедема"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "инҳо"
+    },
+    {
+      "surface": "הם",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "писарони"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Яишмоэланд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:35:27.297221217Z",
+  "model": "glm-5.3"
+}

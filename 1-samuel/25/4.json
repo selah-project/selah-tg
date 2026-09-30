@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 25,
+  "translation": "Ва Довуд дар биёбон шунид, ки Новал ⟨את⟩ рамаи худро метарошад.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ва шунид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Довуд"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "дар биёбон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "метарошад"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Новал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рамаи худ"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "рамаи худ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:49:23.702596975Z",
+  "model": "glm-5.3"
+}

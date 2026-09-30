@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "tg",
+  "chapter": 1,
+  "translation": "Бин, ту зебоӣ, ёри ман; бин, ту зебоӣ; чашмони ту мурғҳонанд.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "бин, ту"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебоӣ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ёри ман"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "бин, ту"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "зебоӣ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "чашмони ту"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "мурғҳонанд"
+    }
+  ],
+  "timestamp": "2026-09-30T19:13:07.125915035Z",
+  "model": "glm-5.3"
+}

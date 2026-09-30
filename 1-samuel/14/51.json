@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "tg",
+  "chapter": 14,
+  "translation": "Ва Қиш падари Шаул буд, ва Нер падари Авнер — писари Авӣэл.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "Ва Қиш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ва Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "падари"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авӣэл"
+    }
+  ],
+  "timestamp": "2026-09-30T20:02:20.869837821Z",
+  "model": "glm-5.3"
+}

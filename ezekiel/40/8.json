@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "tg",
+  "chapter": 40,
+  "translation": "Ва чен кард ⟨את⟩ айвони дарвозаро аз ҷониби хона — як қамиш.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ва чен кард"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "айвони дарвоза"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "айвон"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарвоза"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "аз хона"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "қамиш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T18:14:46.045356300Z",
+  "model": "glm-5.3"
+}

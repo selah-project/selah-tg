@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Аз абад ман муқаррар шудам, аз аввал, пеш аз заминҳои қадим.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "Аз абад"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ман муқаррар шудам"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "аз аввал"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "пеш аз қадимӣ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "замин"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:05.067543560Z",
+  "model": "glm-5.3"
+}

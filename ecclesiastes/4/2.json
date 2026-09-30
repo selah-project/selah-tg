@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ман ⟨את⟩ мурдагонро, ки аллакай мурдаанд, аз зиндагонро, ки ҳанӯз зиндаанд, беҳтар шумудам.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "шумудам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мурдагон"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "мурдагонро"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "аллакай"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мурдаанд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "аз"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "зиндагонро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "המה",
+      "gloss": "онҳо"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "зиндаанд"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ҳанӯз"
+    }
+  ],
+  "timestamp": "2026-09-30T19:18:19.477734610Z",
+  "model": "glm-5.3"
+}

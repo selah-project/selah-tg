@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 19,
+  "translation": "Танбалӣ хоби чуқур меорад, ва нафаси сусткӯш гӯшна мемонад.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "танбалӣ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "меорад"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "хоби чуқур"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ва нафаси"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "сусткӯш"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "гӯшна мемонад"
+    }
+  ],
+  "timestamp": "2026-09-30T18:59:44.733876534Z",
+  "model": "glm-5.3"
+}

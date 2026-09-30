@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "tg",
+  "chapter": 20,
+  "translation": "Аҳарон ва писараш Элазарро ги́р ва онҳоро ба кӯҳи Ҳор бароварда бирӯн.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "гир"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аҳарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ва ⟨את⟩",
+      "marks": "Элазар"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "писараш"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "бароварда бирӯн"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "онҳо"
+    },
+    {
+      "surface": "הר",
+      "gloss": "кӯҳи Ҳор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "кӯҳ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:05:25.523510769Z",
+  "model": "glm-5.3"
+}

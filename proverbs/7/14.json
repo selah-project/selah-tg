@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 7,
+  "translation": "Қурбониҳои шаломим назди ман; имрӯз нозирҳоямро адо кардам.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "қурбониҳои"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "шаломим"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "назди ман"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "адо кардам"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "нозирҳоямро"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:25.517224895Z",
+  "model": "glm-5.3"
+}

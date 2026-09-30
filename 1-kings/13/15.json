@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "tg",
+  "chapter": 13,
+  "translation": "Ва ба ӯ гуфт: «Бо ман ⟨את⟩ ба хона биё ва нон хӯр».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "биё"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ бо ман",
+      "marks": "бо ман"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ба хона"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ва хӯр"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    }
+  ],
+  "timestamp": "2026-09-30T17:06:55.127424877Z",
+  "model": "glm-5.3"
+}

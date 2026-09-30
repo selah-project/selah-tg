@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 22,
+  "translation": "Боғро (тоқӣ)-ат худро бо ду навъ тухм нокор; мабодо муқаддас шавад пури худи тухме ки мекорӣ ва ҳосили боғ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "макорӣ"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "боғат"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "бо ду навъ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "мабодо"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "муқаддас шавад"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "пури"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "тухм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "мекорӣ"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "ва ҳосил"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "боғ"
+    }
+  ],
+  "timestamp": "2026-09-30T16:17:34.766813583Z",
+  "model": "glm-5.3"
+}

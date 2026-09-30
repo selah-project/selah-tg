@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 8,
+  "translation": "Маслиҳат ва тӯшӣа азони ман аст; ман фаҳмиш ҳастам; қувват азони ман аст.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "азони ман аст"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "маслиҳат"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ва тӯшӣа"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "фаҳмиш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "азони ман аст"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "қувват"
+    }
+  ],
+  "timestamp": "2026-09-30T18:56:37.059699889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "tg",
+  "chapter": 33,
+  "translation": "«Пок манам, бе фосиқ; беайб манам ва гуноҳе дар ман нест».",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "пок"
+    },
+    {
+      "surface": "אני",
+      "gloss": "манам"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "бе"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "фосиқ"
+    },
+    {
+      "surface": "חף",
+      "gloss": "беайб"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "манам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гуноҳе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "дар ман"
+    }
+  ],
+  "timestamp": "2026-09-30T19:09:43.914536288Z",
+  "model": "glm-5.3"
+}

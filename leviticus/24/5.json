@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "tg",
+  "chapter": 24,
+  "translation": "Ва гирифтан мекунӣ орд ва мепазӣ ⟨את⟩ онро — дувоздаҳ нон; ду ишрон дар ҳар як нон бошад.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "гифтан мекунӣ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "орд"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "мепазӣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "онро (дувоздаҳ нон)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "дувоздаҳ"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "нонҳо"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ду"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ишрон"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бошад"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "нони"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "як"
+    }
+  ],
+  "timestamp": "2026-09-30T15:54:59.388319619Z",
+  "model": "glm-5.3"
+}

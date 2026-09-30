@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Вале ман ба Ту такя кардам, эй Яҳве; гуфтам: Элоҳои ман Туӣ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "вале ман"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ба Ту"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "такя кардам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "гуфтам"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элоҳои ман"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Туӣ"
+    }
+  ],
+  "timestamp": "2026-09-30T18:35:44.012370442Z",
+  "model": "glm-5.3"
+}

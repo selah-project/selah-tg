@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "Ва низ ⟨את⟩ писари канизро ба халқе табдил хоҳам дод, зеро ки тухми туст.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ва низ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "писари каниз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писар"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "каниза"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ба халқ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "табдил хоҳам дод"
+    },
+    {
+      "surface": "כי",
+      "gloss": "зеро ки"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "тухми ту"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "аст"
+    }
+  ],
+  "timestamp": "2026-09-30T19:56:06.974605056Z",
+  "model": "glm-5.3"
+}
