@@ -5,8 +5,42 @@
   "book": "jeremiah",
   "lang": "tg",
   "chapter": 30,
-  "translation": "Сухане ки аз Яҳве ба Yirmияҳу расид, гуфтанӣ:",
-  "tokens": [],
-  "timestamp": "2026-09-30T17:50:27.937909805Z",
+  "translation": "Сухане ки аз ⟨את⟩ Яҳве ба Ирмиё расид, чунин мегӯяд:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "сухане"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "היה",
+      "gloss": "расид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмиё"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "аз Яҳве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "чунин мегӯяд"
+    }
+  ],
+  "timestamp": "2026-10-01T05:29:46.082037945Z",
   "model": "glm-5.3"
 }

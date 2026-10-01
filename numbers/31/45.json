@@ -5,8 +5,29 @@
   "book": "numbers",
   "lang": "tg",
   "chapter": 31,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-30T16:08:52.002198791Z",
+  "translation": "ва харҳо — сӣ ҳазору панҷсад,",
+  "tokens": [
+    {
+      "surface": "וַחֲמֹרִ֕ים",
+      "gloss": "ва харҳо"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "сӣ"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "ҳазор"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "у панҷ"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "сад"
+    }
+  ],
+  "timestamp": "2026-10-01T05:28:52.232071714Z",
   "model": "glm-5.3"
 }

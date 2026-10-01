@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "Агар гови душмани худ ё хари ӯ-ро гумроҳ ёбӣ, ҳатман ба ӯ баргардон.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Агар"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ёбӣ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "гов"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "душмани худ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ё"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "хари ӯ"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "гумроҳ"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ҳатман"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "баргардон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    }
+  ],
+  "timestamp": "2026-10-01T05:28:47.234754791Z",
+  "model": "glm-5.3"
+}

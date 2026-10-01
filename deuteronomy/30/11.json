@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 30,
+  "translation": "Зеро ин фарз, ки ман имрӯз ба ту амр мекунам, ба ту муғоҷиб нест ва дур нест ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Зеро"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ин фарз"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ки"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ман"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ба ту амр мекунам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "имрӯз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нест"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "муғоҷиб"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ба ту"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва дур нест"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "дур"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-10-01T05:29:30.139560030Z",
+  "model": "glm-5.3"
+}

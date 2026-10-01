@@ -5,8 +5,33 @@
   "book": "lamentations",
   "lang": "tg",
   "chapter": 3,
-  "translation": "Чашми ман мех不屈 — but must be Tajik. Let me write properly: Чашми ман мех, no. Retry:",
-  "tokens": [],
-  "timestamp": "2026-09-30T19:15:49.089193865Z",
+  "translation": "Чашми ман мебарояд ва ором намегирад, зеро таваққуф нест",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "чашми ман"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "мебарояд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ва на"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ором мегирад"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "зеро нест"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "таваққуф"
+    }
+  ],
+  "timestamp": "2026-10-01T05:31:49.837082270Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "tg",
+  "chapter": 9,
+  "translation": "Ва подшоҳ ба ӯ гуфт: «Кай ӯст?» Ва Тсиба ба подшоҳ гуфт: «Инак, ӯ дар хонаи Мохир, писари Аммиэл, дар Ло-Дeвар аст.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "кай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯст"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ва гуфт"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Тсиба"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "подшоҳ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "инак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ӯ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дар хонаи"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Мохир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "писари"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэл"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "дар Ло-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Дeвар"
+    }
+  ],
+  "timestamp": "2026-10-01T05:29:03.537594454Z",
+  "model": "glm-5.3"
+}

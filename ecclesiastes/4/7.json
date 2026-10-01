@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "tg",
+  "chapter": 4,
+  "translation": "Ва ман боз гаштам ва ҳебелро зери ⟨the⟩ офтобин дидам.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "боз гаштам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ман"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ва дидам"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ҳебел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "зери"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "офтобин"
+    }
+  ],
+  "timestamp": "2026-10-01T05:32:11.167934874Z",
+  "model": "glm-5.3"
+}

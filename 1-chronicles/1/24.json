@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "tg",
   "chapter": 1,
-  "translation": "Шем, Арпахшад, Шелах",
+  "translation": "Шем, Арпақшад, Шелах,",
   "tokens": [
     {
       "surface": "שם",
@@ -13,17 +13,13 @@
     },
     {
       "surface": "ארפכשד",
-      "gloss": "Арпахшад"
-    },
-    {
-      "surface": "אבימאל_PLACEHOLDER",
-      "gloss": ""
+      "gloss": "Арпақшад"
     },
     {
       "surface": "שלח",
       "gloss": "Шелах"
     }
   ],
-  "timestamp": "2026-09-30T19:35:01.815088750Z",
+  "timestamp": "2026-10-01T05:31:52.358335605Z",
   "model": "glm-5.3"
 }

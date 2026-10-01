@@ -5,8 +5,57 @@
   "book": "proverbs",
   "lang": "tg",
   "chapter": 6,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-30T18:56:22.384670053Z",
+  "translation": "Зеро барои занони зино то ⟨the⟩ як тагора нон ⟨он⟩ мерасад, ва занони мард ҷони гаронбаҳоро шикор мекунад.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "зеро"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "барои"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "зан"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зино"
+    },
+    {
+      "surface": "עד",
+      "gloss": "то"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "тагора"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нон"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ва зан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мард"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ҷон"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "гаронбаҳо"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "шикор мекунад"
+    }
+  ],
+  "timestamp": "2026-10-01T05:56:06.685317047Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "tg",
+  "chapter": 23,
+  "translation": "ва ба фақир дар баҳси ӯ ҷонибдорӣ макун.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ва ба фақир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "макун"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ҷонибдорӣ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "дар баҳси ӯ"
+    }
+  ],
+  "timestamp": "2026-10-01T05:28:47.227442781Z",
+  "model": "glm-5.3"
+}

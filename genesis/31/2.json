@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "tg",
+  "chapter": 31,
+  "translation": "Ва Яъқуб ⟨את⟩ рӯи Ловонро дид, ва ногоҳ ⟨он⟩ бо ӯ мисли дирӯзу пагоҳе набуд.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "дид"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яъқуб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рӯи"
+    },
+    {
+      "surface": "пני",
+      "gloss": "рӯи"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Ловон"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ва ногоҳ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "набуд"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "бо ӯ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "мисли дирӯз"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ва пагоҳе"
+    }
+  ],
+  "timestamp": "2026-10-01T05:28:46.428117508Z",
+  "model": "glm-5.3"
+}

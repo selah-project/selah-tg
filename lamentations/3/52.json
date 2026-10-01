@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "tg",
+  "chapter": 3,
+  "translation": "Шикор кардан — шикор карданд маро душманонам чун парранда, беҳунар.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "шикор кардан"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "шикор карданд маро"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "чун парранда"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душманонам"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "беҳунар"
+    }
+  ],
+  "timestamp": "2026-10-01T05:31:44.096686895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "tg",
+  "chapter": 11,
+  "translation": "Дар рӯзи ғазаб мол ба кор наояд, вале тседек аз мarg марг наҷот медиҳад.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "на"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ба кор наояд"
+    },
+    {
+      "surface": "הון",
+      "gloss": "мол"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дар рӯзи"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ғазаб"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ва тседек"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "наҷот медиҳад"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "аз марг"
+    }
+  ],
+  "timestamp": "2026-10-01T05:31:49.879792759Z",
+  "model": "glm-5.3"
+}

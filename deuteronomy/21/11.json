@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "tg",
+  "chapter": 21,
+  "translation": "ва дар асирон зане зебои пайкарро бинӣ, ва ба ӯ майл кунӣ ва ӯро барои худ ба занӣ гирий;",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "ва бинӣ"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "дар асирон"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "зане"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "зебои"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "пайкар"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "ва майл кунӣ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ба ӯ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ва гирий"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барои худ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ба занӣ"
+    }
+  ],
+  "timestamp": "2026-10-01T05:29:26.135465179Z",
+  "model": "glm-5.3"
+}

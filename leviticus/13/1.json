@@ -5,8 +5,37 @@
   "book": "leviticus",
   "lang": "tg",
   "chapter": 13,
-  "translation": "Ва Яҳве ба Моше ва ба Аҳарон сухан ронда, гуфтанrn:",
-  "tokens": [],
-  "timestamp": "2026-09-30T15:50:47.032376561Z",
+  "translation": "Ва Яҳве ба Моше ва ба Аҳарон сухан гуфт, мегӯяд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сухан гуфт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "ва ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аҳарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мегӯяд:"
+    }
+  ],
+  "timestamp": "2026-10-01T05:28:30.089261256Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "tg",
+  "chapter": 5,
+  "translation": "Ва агар бигӯянд: «Зиндаст Яҳве» — пас ба дурӯғ савганд мехӯранд.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ва агар"
+    },
+    {
+      "surface": "חי",
+      "gloss": "зиндаст"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "бигӯянд"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "пас"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ба дурӯғ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "савганд мехӯранд"
+    }
+  ],
+  "timestamp": "2026-10-01T05:30:22.255622028Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,77 @@
   "book": "1-kings",
   "lang": "tg",
   "chapter": 6,
-  "translation": "Ва панҷ газ бол yakustom —correction follows in final —",
-  "tokens": [],
-  "timestamp": "2026-09-30T17:02:58.486474931Z",
+  "translation": "Ва панҷ ахча болои керуви якум, ва панҷ аҳча болои керуви дуюм — даҳ аҳча аз нӯгҳои болҳои то то нӯгҳои болҳои ӯ.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "аҳча"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "бол"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуви"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "якум"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ва панҷ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "аҳча"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "бол"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуви"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "дуюм"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "даҳ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "аҳча"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "аз нӯгҳои"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "болҳои ӯ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "то"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "нӯгҳои"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "болҳои ӯ"
+    }
+  ],
+  "timestamp": "2026-10-01T05:29:22.838318305Z",
   "model": "glm-5.3"
 }

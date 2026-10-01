@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "tg",
   "chapter": 22,
-  "translation": "Оқибати камтарӣ —Parversicherung...",
-  "tokens": [],
-  "timestamp": "2026-09-30T18:59:57.118154237Z",
+  "translation": "Мукофоти камтарӣ ва тарси Яҳве — сарват ва шараф ва ҳаёт.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "мукофот"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "камтарӣ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "тарси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "сарват"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ва шараф"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ва ҳаёт"
+    }
+  ],
+  "timestamp": "2026-10-01T05:31:37.751527825Z",
   "model": "glm-5.3"
 }

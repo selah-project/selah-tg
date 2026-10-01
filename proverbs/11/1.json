@@ -5,8 +5,37 @@
   "book": "proverbs",
   "lang": "tg",
   "chapter": 11,
-  "translation": "Тарозуҳои фиреб nöhisіб — wiki:",
-  "tokens": [],
-  "timestamp": "2026-09-30T18:57:32.666656984Z",
+  "translation": "Тарозуҳои фиреб товҳат назди Яҳве аст, вале санги комил хоҳиши Ӯст.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "тарозуҳои"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "фиреб"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "товҳат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "вале санг"
+    },
+    {
+      "surface": "шаламה",
+      "gloss": "комил"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "хоҳиши Ӯст"
+    }
+  ],
+  "timestamp": "2026-10-01T05:56:12.502100512Z",
   "model": "glm-5.3"
 }
